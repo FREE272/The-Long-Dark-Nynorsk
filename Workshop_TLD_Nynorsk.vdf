@@ -5,7 +5,7 @@
 	"title"		"Nynorsk (Under utvikling)"
 	"description"		"Er du ein nordmann som ikkje kan fordra bokmål? Då har eg løysinga for deg! No introduserar eg The Long Dark omsett til nynorsk! (Under utvikling)"
 	"previewfile"		"TLD_Nynorsk/TLD_Nynorsk_Bilete.png"
-	"contentfolder"		"TLD_Nynorsk/TLD_Nynorsk.csv"
+	"contentfolder"		"TLD_Nynorsk"
 	"publishedfileid"		"1727010731"
   "changenote"  "Omsette og ordna litt ymse. "
 }
