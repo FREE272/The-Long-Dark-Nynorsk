@@ -39,27 +39,44 @@ jobs:
     - name: Extract changenote from PR body
       id: changenote
       run: |
-        # Use PR title + body as changenote, sanitize quotes
         TITLE="${{ github.event.pull_request.title }}"
         BODY="${{ github.event.pull_request.body }}"
         CHANGELOG="${TITLE}\n\n${BODY}"
-        # Escape double quotes for .vdf
+        CHANGELOG="${CHANGELOG//\\/\\\\}"
         CHANGELOG="${CHANGELOG//\"/\\\"}"
         echo "changenote<<EOF" >> $GITHUB_OUTPUT
         echo "$CHANGELOG" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
-
+    
+    - name: Debug changenote
+      run: |
+        echo "Changenote to be inserted:"
+        echo "${{ steps.changenote.outputs.changenote }}"
+    
     - name: Update changenote in Workshop_TLD_Nynorsk.vdf
       run: |
         VDF_FILE="Workshop_TLD_Nynorsk.vdf"
         CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
-
-        # Use sed to replace changenote line inside the .vdf file
-        # Match line with "changenote" and replace content inside quotes
-        sed -i -E 's/("changenote"[[:space:]]*")[^"]*(")/\1'"$CHANGENOTE"'\2/' "$VDF_FILE"
-        
-        echo "Updated changenote in $VDF_FILE:"
+    
+        cp "$VDF_FILE" "$VDF_FILE.bak"
+    
+        awk -v changenote="$CHANGENOTE" '
+          BEGIN { replaced=0 }
+          /^ *"changenote"/ {
+            print "  \"changenote\"  \"" changenote "\""
+            replaced=1
+            next
+          }
+          { print }
+          END {
+            if (replaced == 0)
+              print "  \"changenote\"  \"" changenote "\""
+          }
+        ' "$VDF_FILE.bak" > "$VDF_FILE"
+    
+        echo "Updated changenote line in $VDF_FILE:"
         grep changenote "$VDF_FILE"
+
 
     - name: Install SteamCMD manually
       run: |
