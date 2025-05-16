@@ -100,18 +100,27 @@ jobs:
             git commit -m "ci: update changenote [skip ci]"
             git push origin main
           fi
-
-      - name: Install SteamCMD
+          
+      - name: Debug content folder before SteamCMD
         run: |
-          sudo dpkg --add-architecture i386
-          sudo apt-get update
-          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
-          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-          mkdir -p ~/steamcmd
-          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
-          echo "$HOME/steamcmd" >> $GITHUB_PATH
+          echo "Listing TLD_Nynorsk contents:"
+          ls -l TLD_Nynorsk
+          echo "Checking file types:"
+          file TLD_Nynorsk/*
 
-      - name: Upload to Steam Workshop
-        run: |
-          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
-                      +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
+
+
+      # - name: Install SteamCMD
+      #   run: |
+      #     sudo dpkg --add-architecture i386
+      #     sudo apt-get update
+      #     sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
+      #     wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+      #     mkdir -p ~/steamcmd
+      #     tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
+      #     echo "$HOME/steamcmd" >> $GITHUB_PATH
+
+      # - name: Upload to Steam Workshop
+      #   run: |
+      #     steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
+      #                 +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
