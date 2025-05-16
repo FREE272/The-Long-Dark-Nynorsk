@@ -1,1 +1,1 @@
-Ei omsetjing til nynorsk av dataspelet The Long Dark.
+Ei omsetjing av dataspelet The Long Dark til nynorsk.
