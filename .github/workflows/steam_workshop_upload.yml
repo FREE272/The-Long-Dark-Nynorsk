@@ -36,17 +36,18 @@ jobs:
         echo "No changes detected in TLD_Nynorsk folder, exiting."
         exit 0
 
-    - name: Extract changenote from PR body
+    - name: Extract changenote from merge commit message
       id: changenote
       run: |
-        TITLE="${{ github.event.pull_request.title }}"
-        BODY="${{ github.event.pull_request.body }}"
-        CHANGELOG="${TITLE}\n\n${BODY}"
+        MERGE_COMMIT_SHA=${{ github.event.pull_request.merge_commit_sha }}
+        echo "Merge commit SHA: $MERGE_COMMIT_SHA"
+        CHANGELOG=$(git log -1 --pretty=%B $MERGE_COMMIT_SHA)
         CHANGELOG="${CHANGELOG//\\/\\\\}"
         CHANGELOG="${CHANGELOG//\"/\\\"}"
         echo "changenote<<EOF" >> $GITHUB_OUTPUT
         echo "$CHANGELOG" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
+
     
     - name: Debug changenote
       run: |
@@ -57,10 +58,12 @@ jobs:
       run: |
         VDF_FILE="Workshop_TLD_Nynorsk.vdf"
         CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
+        CHANGENOTE_SINGLE_LINE=$(echo "$CHANGENOTE" | tr '\n' ' ' | sed 's/"/\\"/g')
     
         cp "$VDF_FILE" "$VDF_FILE.bak"
+        echo "Changenote single line: $CHANGENOTE_SINGLE_LINE"
     
-        awk -v changenote="$CHANGENOTE" '
+        awk -v changenote="$CHANGENOTE_SINGLE_LINE" '
           BEGIN { replaced=0 }
           /^ *"changenote"/ {
             print "  \"changenote\"  \"" changenote "\""
@@ -74,8 +77,9 @@ jobs:
           }
         ' "$VDF_FILE.bak" > "$VDF_FILE"
     
-        echo "Updated changenote line in $VDF_FILE:"
+        echo "Updated changenote line:"
         grep changenote "$VDF_FILE"
+
 
 
     - name: Install SteamCMD manually
