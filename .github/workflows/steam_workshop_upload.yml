@@ -98,17 +98,17 @@ jobs:
           fi
 
 
-      # - name: Install SteamCMD manually
-      #   run: |
-      #     sudo dpkg --add-architecture i386
-      #     sudo apt-get update
-      #     sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
-      #     wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-      #     mkdir -p ~/steamcmd
-      #     tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
-      #     echo "$HOME/steamcmd" >> $GITHUB_PATH
+      - name: Install SteamCMD manually
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
+          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+          mkdir -p ~/steamcmd
+          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
+          echo "$HOME/steamcmd" >> $GITHUB_PATH
 
-      # - name: Upload to Steam Workshop
-      #   run: |
-      #     steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
-      #                 +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
+      - name: Upload to Steam Workshop
+        run: |
+          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
+                      +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
