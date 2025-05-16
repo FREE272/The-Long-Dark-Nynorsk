@@ -3925,7 +3925,7 @@ GAMEPLAY_hangarPhoto,Photo,,
 GAMEPLAY_hangarPlane,Floatplane,,
 GAMEPLAY_hangarPlaneDoor,Plane Door,,
 GAMEPLAY_hangarPoster,Poster,,
-GAMEPLAY_hangarSink,Sink,,
+GAMEPLAY_hangarSink,Sink,,Vask
 GAMEPLAY_HangarStorageBunker,Hangar Basement,,
 GAMEPLAY_HangBait,Hang bait,2n line displayed when hovering an empty Hanging Tree during the Bear Hunt,
 GAMEPLAY_hangerToiletInteract,Don't need to use this.,,
