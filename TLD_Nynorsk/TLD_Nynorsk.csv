@@ -3615,7 +3615,7 @@ GAMEPLAY_ForagingWillCost,Foraging will cost,followed by time and calories that 
 GAMEPLAY_ForceRevealAchievements,Force Reveal,,
 GAMEPLAY_Forcing,Forcing...,,Tvingar...
 GAMEPLAY_ForestCache,Forest Talker Supply Cache,,
-GAMEPLAY_ForestCacheInteractClose,Close Door,,
+GAMEPLAY_ForestCacheInteractClose,Close Door,,Lat att dør
 GAMEPLAY_ForestCacheInteractOpen,Open Door,,Opn dør
 GAMEPLAY_ForestryLookout,Forestry Lookout,,Skogbruket sitt utkikkstårn
 GAMEPLAY_ForestTalkerBloodyItem,Blood Soaked Forest Talker Documents,,Blodstenkte skogpratardokument
