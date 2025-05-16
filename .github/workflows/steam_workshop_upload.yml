@@ -83,25 +83,25 @@ jobs:
       - name: Commit and push updated VDF
         if: always()
         run: |
+          # 1) Configure bot identity
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Make sure we're on main and up‑to‑date:
+      
+          # 2) Sync local main to match remote’s origin/main
           git fetch origin main
           git checkout main
           git reset --hard origin/main
-
-          # Check for changes:
+      
+          # 3) Detect changes to Workshop_TLD_Nynorsk.vdf
           if git diff --quiet HEAD -- Workshop_TLD_Nynorsk.vdf; then
             echo "No changes to Workshop_TLD_Nynorsk.vdf; skipping commit"
           else
             echo "Detected changes; committing"
             git add Workshop_TLD_Nynorsk.vdf
             git commit -m "ci: update changenote [skip ci]"
-
-            # Now push this new commit on top of the true remote HEAD:
             git push origin main
           fi
+
 
 
       - name: Install SteamCMD manually
