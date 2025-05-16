@@ -3430,7 +3430,7 @@ You may reduce risk of photosensitive epileptic seizures by taking the following
 "GAMEPLAY_FileCabinet","File Cabinet","","Arkivsk?p"
 "GAMEPLAY_FileCabinetContainerOpen","Open File Cabinet","","Opn arkivsk?p"
 "GAMEPLAY_FileCabinetContainerSearch","Search File Cabinet","","Gransk arkivsk?p"
-"GAMEPLAY_Filter","Filter","",""
+"GAMEPLAY_Filter","Filter","","Filter"
 "GAMEPLAY_FilterAll","All","","Alle"
 "GAMEPLAY_FilterClothing","Clothing","","Klede"
 "GAMEPLAY_FilterFirestarting","Fire Starting","item category for items that can be used to start fires","Eld"
