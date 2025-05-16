@@ -1,0 +1,72 @@
+name: Upload to Steam Workshop
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  upload_workshop:
+    if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'main' && github.event.pull_request.head.ref == 'dev'
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Check if TLD_Nynorsk folder changed
+      id: changes
+      run: |
+        echo "Checking if TLD_Nynorsk changed..."
+        git fetch origin main
+        CHANGED_FILES=$(git diff --name-only origin/main HEAD)
+        echo "Changed files: $CHANGED_FILES"
+        if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Stop if no changes in TLD_Nynorsk
+      if: steps.changes.outputs.changed != 'true'
+      run: |
+        echo "No changes detected in TLD_Nynorsk folder, exiting."
+        exit 0
+
+    - name: Extract changenote from PR body
+      id: changenote
+      run: |
+        # Use PR title + body as changenote, sanitize quotes
+        TITLE="${{ github.event.pull_request.title }}"
+        BODY="${{ github.event.pull_request.body }}"
+        CHANGELOG="${TITLE}\n\n${BODY}"
+        # Escape double quotes for .vdf
+        CHANGELOG="${CHANGELOG//\"/\\\"}"
+        echo "changenote<<EOF" >> $GITHUB_OUTPUT
+        echo "$CHANGELOG" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: Update changenote in Workshop_TLD_Nynorsk.vdf
+      run: |
+        VDF_FILE="Workshop_TLD_Nynorsk.vdf"
+        CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
+
+        # Use sed to replace changenote line inside the .vdf file
+        # Match line with "changenote" and replace content inside quotes
+        sed -i -E 's/("changenote"[[:space:]]*")[^"]*(")/\1'"$CHANGENOTE"'\2/' "$VDF_FILE"
+        
+        echo "Updated changenote in $VDF_FILE:"
+        grep changenote "$VDF_FILE"
+
+    - name: Install SteamCMD
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y lib32gcc1 steamcmd
+        steamcmd +quit
+
+    - name: Upload to Steam Workshop
+      run: |
+        steamcmd +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
