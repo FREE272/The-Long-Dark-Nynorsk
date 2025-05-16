@@ -4009,7 +4009,7 @@ GAMEPLAY_HatchInteractClose,Close Hatch,,Lat att luke
 GAMEPLAY_HatchInteractOpen,Open Hatch,,Opn luke
 GAMEPLAY_HatGatorBalaclavaA,Technical Balaclava,,
 GAMEPLAY_HatGatorBalaclavaADescription,"Tougher, with better resistance against wind and water than a standard Balaclava.",,
-GAMEPLAY_HDRBrightness,HDR Brightness,,
+GAMEPLAY_HDRBrightness,HDR Brightness,,Ljosstyrke for utvida dynamisk omfang (HDR)
 GAMEPLAY_Head,Head,,Hovud
 GAMEPLAY_Headache,Headache,,Hovudverk
 GAMEPLAY_HeadacheDesc,"You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.",,
