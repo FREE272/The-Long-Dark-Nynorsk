@@ -8,98 +8,95 @@ on:
 
 jobs:
   upload_workshop:
-    if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'main' && github.event.pull_request.head.ref == 'dev'
+    if: |
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.base.ref == 'main' &&
+      github.event.pull_request.head.ref == 'dev'
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-    - name: Check if TLD_Nynorsk folder changed
-      id: changes
-      run: |
-        echo "Checking if TLD_Nynorsk changed..."
-        git fetch origin main
-        CHANGED_FILES=$(git diff --name-only origin/main HEAD)
-        echo "Changed files: $CHANGED_FILES"
-        if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
-          echo "changed=true" >> $GITHUB_OUTPUT
-        else
-          echo "changed=false" >> $GITHUB_OUTPUT
-        fi
+      - name: Check if TLD_Nynorsk folder changed
+        id: changes
+        run: |
+          git fetch origin main
+          CHANGED_FILES=$(git diff --name-only origin/main HEAD)
+          echo "Changed files: $CHANGED_FILES"
+          if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
 
-    - name: Stop if no changes in TLD_Nynorsk
-      if: steps.changes.outputs.changed != 'true'
-      run: |
-        echo "No changes detected in TLD_Nynorsk folder, exiting."
-        exit 0
+      - name: Stop if no changes in TLD_Nynorsk
+        if: steps.changes.outputs.changed != 'true'
+        run: exit 0
 
-    - name: Extract changenote from merge commit message body
-      id: changenote
-      run: |
-        MERGE_COMMIT_SHA=${{ github.event.pull_request.merge_commit_sha }}
-        echo "Merge commit SHA: $MERGE_COMMIT_SHA"
-        CHANGELOG=$(git log -1 --pretty=format:%b $MERGE_COMMIT_SHA)
-        CHANGELOG="${CHANGELOG//\\/\\\\}"
-        CHANGELOG="${CHANGELOG//\"/\\\"}"
-        echo "changenote<<EOF" >> $GITHUB_OUTPUT
-        echo "$CHANGELOG" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
+      - name: Extract changenote from merge commit message body
+        id: changenote
+        run: |
+          MERGE_COMMIT_SHA=${{ github.event.pull_request.merge_commit_sha }}
+          CHANGELOG=$(git log -1 --pretty=format:%b $MERGE_COMMIT_SHA)
+          # Escape backslashes and quotes
+          CHANGELOG="${CHANGELOG//\\/\\\\}"
+          CHANGELOG="${CHANGELOG//\"/\\\"}"
+          echo "changenote<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
+      - name: Debug changenote
+        run: |
+          echo "Changenote to be inserted:"
+          echo "${{ steps.changenote.outputs.changenote }}"
 
-    
-    - name: Debug changenote
-      run: |
-        echo "Changenote to be inserted:"
-        echo "${{ steps.changenote.outputs.changenote }}"
-    
-    - name: Update changenote in Workshop_TLD_Nynorsk.vdf
-      run: |
-        VDF_FILE="Workshop_TLD_Nynorsk.vdf"
-        CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
-        echo "Raw changenote:"
-        echo "$CHANGENOTE"
-        CHANGENOTE_SINGLE_LINE=$(echo "$CHANGENOTE" | tr '\n' ' ' | sed 's/"/\\"/g')
-        echo "Changenote single line: $CHANGENOTE_SINGLE_LINE"
-    
-        cp "$VDF_FILE" "$VDF_FILE.bak"
-    
-        awk -v changenote="$CHANGENOTE_SINGLE_LINE" '
-          BEGIN { replaced=0; print "Starting awk replacement..." }
-          /^[[:space:]]*"changenote"/ {
-            print "Replacing changenote line with: " changenote
-            print "  \"changenote\"  \"" changenote "\""
-            replaced=1
-            next
-          }
-          { print }
-          END {
-            if (replaced == 0) {
-              print "No changenote line found, appending new one"
+      - name: Update changenote in Workshop_TLD_Nynorsk.vdf
+        run: |
+          VDF_FILE="Workshop_TLD_Nynorsk.vdf"
+          CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
+          CHANGENOTE_SINGLE_LINE=$(echo "$CHANGENOTE" | tr '\n' ' ' | sed 's/"/\\"/g')
+          cp "$VDF_FILE" "$VDF_FILE.bak"
+          awk -v changenote="$CHANGENOTE_SINGLE_LINE" '
+            BEGIN { replaced=0 }
+            /^[[:space:]]*"changenote"/ {
               print "  \"changenote\"  \"" changenote "\""
+              replaced=1
+              next
             }
-          }
-        ' "$VDF_FILE.bak" > "$VDF_FILE"
-    
-        echo "--- Before update (backup) ---"
-        cat "$VDF_FILE.bak"
-        echo "--- After update ---"
-        cat "$VDF_FILE"
+            { print }
+            END {
+              if (replaced == 0)
+                print "  \"changenote\"  \"" changenote "\""
+            }
+          ' "$VDF_FILE.bak" > "$VDF_FILE"
+          echo "--- Before update (backup) ---"
+          cat "$VDF_FILE.bak"
+          echo "--- After update ---"
+          cat "$VDF_FILE"
 
+      - name: Commit and push updated VDF
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Workshop_TLD_Nynorsk.vdf
+          git diff --quiet && echo "No changes to commit" || \
+            (git commit -m "ci: update changenote [skip ci]" && git push origin HEAD:main)
 
-    - name: Install SteamCMD manually
-      run: |
-        sudo dpkg --add-architecture i386
-        sudo apt-get update
-        sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
-        wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-        mkdir -p ~/steamcmd
-        tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
-        echo "$HOME/steamcmd" >> $GITHUB_PATH
+      - name: Install SteamCMD manually
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
+          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+          mkdir -p ~/steamcmd
+          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
+          echo "$HOME/steamcmd" >> $GITHUB_PATH
 
-    - name: Upload to Steam Workshop
-      run: |
-        ~/steamcmd/steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
-
+      - name: Upload to Steam Workshop
+        run: |
+          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
+                      +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
