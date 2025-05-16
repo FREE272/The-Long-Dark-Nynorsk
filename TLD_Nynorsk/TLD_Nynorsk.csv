@@ -3918,7 +3918,7 @@ GAMEPLAY_Hands,Hands,,Nevar
 GAMEPLAY_HandTruck,Hand Cart,metal neve cart,Trillevogn
 GAMEPLAY_hangarFirstaidOverride,First aid not required,,
 GAMEPLAY_hangarHotplate,Hotplate,,
-GAMEPLAY_hangarMap,Map,,
+GAMEPLAY_hangarMap,Map,,Kart
 GAMEPLAY_HangarOfficeDoorBlocked1,Complete Mission Objective First,,
 GAMEPLAY_hangarPhone,Phone,,
 GAMEPLAY_hangarPhoto,Photo,,
