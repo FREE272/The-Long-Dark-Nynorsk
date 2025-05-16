@@ -1,5 +1,8 @@
 name: Upload to Steam Workshop
 
+permissions:
+  contents: write
+
 on:
   pull_request:
     types: [closed]
