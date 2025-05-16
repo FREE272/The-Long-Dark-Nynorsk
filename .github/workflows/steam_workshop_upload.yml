@@ -36,17 +36,18 @@ jobs:
         echo "No changes detected in TLD_Nynorsk folder, exiting."
         exit 0
 
-    - name: Extract changenote from merge commit message
+    - name: Extract changenote from merge commit message body
       id: changenote
       run: |
         MERGE_COMMIT_SHA=${{ github.event.pull_request.merge_commit_sha }}
         echo "Merge commit SHA: $MERGE_COMMIT_SHA"
-        CHANGELOG=$(git log -1 --pretty=%B $MERGE_COMMIT_SHA)
+        CHANGELOG=$(git log -1 --pretty=format:%b $MERGE_COMMIT_SHA)
         CHANGELOG="${CHANGELOG//\\/\\\\}"
         CHANGELOG="${CHANGELOG//\"/\\\"}"
         echo "changenote<<EOF" >> $GITHUB_OUTPUT
         echo "$CHANGELOG" >> $GITHUB_OUTPUT
         echo "EOF" >> $GITHUB_OUTPUT
+
 
     
     - name: Debug changenote
@@ -58,28 +59,34 @@ jobs:
       run: |
         VDF_FILE="Workshop_TLD_Nynorsk.vdf"
         CHANGENOTE="${{ steps.changenote.outputs.changenote }}"
+        echo "Raw changenote:"
+        echo "$CHANGENOTE"
         CHANGENOTE_SINGLE_LINE=$(echo "$CHANGENOTE" | tr '\n' ' ' | sed 's/"/\\"/g')
-    
-        cp "$VDF_FILE" "$VDF_FILE.bak"
         echo "Changenote single line: $CHANGENOTE_SINGLE_LINE"
     
+        cp "$VDF_FILE" "$VDF_FILE.bak"
+    
         awk -v changenote="$CHANGENOTE_SINGLE_LINE" '
-          BEGIN { replaced=0 }
-          /^ *"changenote"/ {
+          BEGIN { replaced=0; print "Starting awk replacement..." }
+          /^[[:space:]]*"changenote"/ {
+            print "Replacing changenote line with: " changenote
             print "  \"changenote\"  \"" changenote "\""
             replaced=1
             next
           }
           { print }
           END {
-            if (replaced == 0)
+            if (replaced == 0) {
+              print "No changenote line found, appending new one"
               print "  \"changenote\"  \"" changenote "\""
+            }
           }
         ' "$VDF_FILE.bak" > "$VDF_FILE"
     
-        echo "Updated changenote line:"
-        grep changenote "$VDF_FILE"
-
+        echo "--- Before update (backup) ---"
+        cat "$VDF_FILE.bak"
+        echo "--- After update ---"
+        cat "$VDF_FILE"
 
 
     - name: Install SteamCMD manually
