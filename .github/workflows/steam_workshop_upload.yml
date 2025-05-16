@@ -83,18 +83,24 @@ jobs:
       - name: Commit and push updated VDF
         if: always()
         run: |
-          # 1) Configure bot identity
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-      
-          # 2) See if the file has changed relative to HEAD
+
+          # Make sure we're on main and up‑to‑date:
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          # Check for changes:
           if git diff --quiet HEAD -- Workshop_TLD_Nynorsk.vdf; then
             echo "No changes to Workshop_TLD_Nynorsk.vdf; skipping commit"
           else
-            echo "Detected changes in Workshop_TLD_Nynorsk.vdf — committing"
+            echo "Detected changes; committing"
             git add Workshop_TLD_Nynorsk.vdf
             git commit -m "ci: update changenote [skip ci]"
-            git push origin HEAD:main
+
+            # Now push this new commit on top of the true remote HEAD:
+            git push origin main
           fi
 
 
