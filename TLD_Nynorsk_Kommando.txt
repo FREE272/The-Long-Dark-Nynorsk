@@ -1,0 +1,1 @@
+C:\SteamCMD\steamcmd.exe +login freelol272 passordlimainnherdomdom +workshop_build_item "E:\TLD_Nynorsk_Prosjekt\Workshop_TLD_Nynorsk.vdf"
