@@ -3338,11 +3338,11 @@ GAMEPLAY_EXPERIENCEMODEDescStalker,"Your demise waits behind every hilltop, shel
 GAMEPLAY_EXPERIENCEMODEDescStalkerBullets,"•  For veteran players looking for a punishingly challenging Survival experience.
 •  Hostile wildlife is common, and will hunt you down.
 •  All survival elements are tuned to be particularly challenging.
-•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).","•  For veteranar som ynskjer ein nådelaust og vanskeleg kamp for å overleva.
-•  Det er vanleg med mannevonde dyr, og dei vil jakta på deg.
+•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).","•  For veteranar som ynskjer ein nådelaus og vanskeleg kamp for å overleva.
+•  Det er mannevonde dyr er vanleg, og dei vil jakta på deg.
 •  Alt i spelet er justert for å gjera det ekstra vanskeleg å overleva.
 •  Tillet tre aktive bragder."
-GAMEPLAY_EXPERIENCEMODEDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,Du er både jeger og bytte. Kampen for å overleva vil til slutt læra deg å meistra omgivelsane.
+GAMEPLAY_EXPERIENCEMODEDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,Du er både jeger og bytte. Kampen for å overleva vil til slutt læra deg å meistra omgjevnadane.
 GAMEPLAY_EXPERIENCEMODEDescVoyageurBullets,"•  For new or experienced players looking for a balance between Exploration and Survival.
 •  Wildlife is sparse, but can seek you out.
 •  Survival elements are challenging but resources are plentiful.
@@ -6375,7 +6375,7 @@ GAMEPLAY_SprayPaintMapQKMessage,New area surveyed on Map,,Nytt område kartlagt
 GAMEPLAY_SprayPaintMultipleMarkers,Multiple Markers,,
 GAMEPLAY_Sprint,Sprint,,Spring
 GAMEPLAY_SSAO,SSAO,Abbreviation for Screen Space Ambient Occlusion,SSAO
-GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgivnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
+GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgjevnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
 GAMEPLAY_SSAOOff,Off,,Av
 GAMEPLAY_SSAOOn,On,,På
 GAMEPLAY_StagQuarter,deer Quarter,Piece of animal that's been sectioned from a carcass,Hjortestykke
