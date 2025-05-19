@@ -58,14 +58,28 @@ jobs:
           echo "${{ steps.changenote.outputs.changenote }}"
 
       - name: Update changenote in Workshop_TLD_Nynorsk.vdf
+        id: update_changenote
         run: |
           VDF=Workshop_TLD_Nynorsk.vdf
           NOTE="${{ steps.changenote.outputs.changenote }}"
-          # Single‑line & escape
-          NOTE=$(echo "$NOTE" | tr '\n' ' ' | sed 's/"/\\"/g')
+          
+          # Format release tag: DD.MM.YY.vN (starting at v1)
+          DATE=$(date +'%d.%m.%y')
+          EXISTING_TAGS=$(gh release list --limit 100 | awk '{print $1}' | grep "^$DATE" || true)
+          COUNT=$(echo "$EXISTING_TAGS" | wc -l)
+          VERSION="v$((COUNT + 1))"
+          TAG="$DATE.$VERSION"
+      
+          # Save version info for later step
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+      
+          # Escape and format changenote
+          NOTE=$(echo "$NOTE" | sed 's/"/\\"/g')
+          LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
+          FINAL_NOTE="${NOTE}\n${LINK}"
+      
           cp "$VDF" "$VDF.bak"
-          awk -v note="$NOTE" '
-            BEGIN { replaced=0 }
+          awk -v note="$FINAL_NOTE" 'BEGIN { replaced=0 }
             /^[[:space:]]*"changenote"/ {
               print "  \"changenote\"  \"" note "\""
               replaced=1; next
@@ -74,10 +88,11 @@ jobs:
             END {
               if (replaced==0)
                 print "  \"changenote\"  \"" note "\""
-            }
-          ' "$VDF.bak" > "$VDF"
+            }' "$VDF.bak" > "$VDF"
+      
           echo "--- Before (bak) ---"; cat "$VDF.bak"
-          echo "--- After (new) ---";  cat "$VDF"
+          echo "--- After (new) ---"; cat "$VDF"
+
 
       - name: Commit & push updated VDF back to main
         if: always()
@@ -113,28 +128,11 @@ jobs:
           steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
                       +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
 
-      - name: Create GitHub release with assets
-        id: release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create GitHub Release
         run: |
-          DATE=$(date +'%d.%m.%y')
-          BASE_TAG="${DATE}"
-          VERSION=1
-          
-          while gh release view "${BASE_TAG}.v${VERSION}" &>/dev/null; do
-            VERSION=$((VERSION + 1))
-          done
-
-          TAG="${BASE_TAG}.v${VERSION}"
-          NOTE="${{ steps.changenote.outputs.changenote }}"
-
-          echo "Creating release with tag: $TAG"
-          
-          gh release create "$TAG" \
-            --title "$TAG" \
-            --notes "$NOTE" \
+          gh release create "${{ steps.update_changenote.outputs.tag }}" \
             TLD_Nynorsk/TLD_Nynorsk.csv \
             TLD_Nynorsk_Bilete.png \
-            Workshop_TLD_Nynorsk.vdf
-
+            Workshop_TLD_Nynorsk.vdf \
+            --title "${{ steps.update_changenote.outputs.tag }}" \
+            --notes "${{ steps.changenote.outputs.changenote }}"
