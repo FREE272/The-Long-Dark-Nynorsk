@@ -39,8 +39,8 @@ ACHIEVEMENT_FaithfulCartographer,Faithful Cartographer,,Ein omhyggeleg kartograf
 ACHIEVEMENT_FaithfulCartographerDescription,Map all named locations in Survival Mode.,,Kartlegg alle navngitte plassar i overlevingsmodus.
 ACHIEVEMENT_FirstOfMany,The First of Many,,Den fyrste av mange
 ACHIEVEMENT_FirstOfManyDescription,Survive 1 day in a single Survival Mode game.,,Overlev 1 dag i eit overlevingsmodusspel.
-ACHIEVEMENT_HappyHarvester,Happy Harvester,,Den glade plantesamlaren
-ACHIEVEMENT_HappyHarvesterDescription,Harvest 25 of each kind of plant (single game).,,Samla 25 av kvar plantetype (i eit spel).
+ACHIEVEMENT_HappyHarvester,Happy Harvester,,Den glade plantesankaren
+ACHIEVEMENT_HappyHarvesterDescription,Harvest 25 of each kind of plant (single game).,,Sank 25 av kvar plantetype (i eit spel).
 ACHIEVEMENT_LivindOffLandDescription,Survive 25 consecutive full days only consuming calories harvestad from wild plants and animals (single game).,,Overlev 25 døger på rad berre på kaloriar frå ville plantar og dyr (i eit spel).
 ACHIEVEMENT_LivingOffLand,Living Off the Land,,Sjølvberga
 ACHIEVEMENT_MasterSurvivor,Master Survivor,,Ein meister i å overleve
@@ -3338,11 +3338,11 @@ GAMEPLAY_EXPERIENCEMODEDescStalker,"Your demise waits behind every hilltop, shel
 GAMEPLAY_EXPERIENCEMODEDescStalkerBullets,"•  For veteran players looking for a punishingly challenging Survival experience.
 •  Hostile wildlife is common, and will hunt you down.
 •  All survival elements are tuned to be particularly challenging.
-•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).","•  For veteranar som ynskjer ein nådelaust og vanskeleg kamp for å overleva.
-•  Det er vanleg med mannevonde dyr, og dei vil jakta på deg.
+•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).","•  For veteranar som ynskjer ein nådelaus og vanskeleg kamp for å overleva.
+•  Det er mannevonde dyr er vanlege, og dei vil jakta på deg.
 •  Alt i spelet er justert for å gjera det ekstra vanskeleg å overleva.
 •  Tillet tre aktive bragder."
-GAMEPLAY_EXPERIENCEMODEDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,Du er både jeger og bytte. Kampen for å overleva vil til slutt læra deg å meistra omgivelsane.
+GAMEPLAY_EXPERIENCEMODEDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,Du er både jeger og bytte. Kampen for å overleva vil til slutt læra deg å meistra omgjevnadane.
 GAMEPLAY_EXPERIENCEMODEDescVoyageurBullets,"•  For new or experienced players looking for a balance between Exploration and Survival.
 •  Wildlife is sparse, but can seek you out.
 •  Survival elements are challenging but resources are plentiful.
@@ -3974,7 +3974,7 @@ GAMEPLAY_HarvestAltCarcass,Harvest,harvesting animal carcass,Slakt
 GAMEPLAY_HarvestCarcass,Harvest Carcass,,Slakt kadaver
 GAMEPLAY_HarvestCharcoal,Take Charcoal,Take charcoal from burnt fire (instant harvest),Ta trekol
 GAMEPLAY_Harvested,Harvested,,Sanka
-GAMEPLAY_HarvestedMaterials,Harvestad Materials,,Innsamla materialar
+GAMEPLAY_HarvestedMaterials,Harvestad Materials,,Sanka materialar
 GAMEPLAY_HarvestFrozenCarcass,Harvest Frozen Carcass,,Slakt fryst kadaver
 GAMEPLAY_HarvestGut,Harvest Gut,,Ta tarm
 GAMEPLAY_HarvestHide,Harvest Hide,,Ta skinn
@@ -5084,7 +5084,7 @@ GAMEPLAY_NoBedrollininventory,No Bedroll in inventory,,Du har ikkje ein sovepose
 GAMEPLAY_NoBlueprintsOfThisType,No Blueprints Of This Type,,Ingen teikningar av denne typen
 GAMEPLAY_NoClothingOfType,You have no clothing of this type.,,Du har ingen klede av denne typen.
 GAMEPLAY_NoCollectiblesFound,No collectibles found.,,Ingen samleobjekt funne.
-GAMEPLAY_NoCollectionFound,No Collection Found.,,Ingen samling funnet.
+GAMEPLAY_NoCollectionFound,No Collection Found.,,Ingen samling funne.
 GAMEPLAY_NoCookingItemsInInventory,No Cooking Pots or cookable items in inventory,Send to KW,Verken gryte eller steikbar mat i ranselen
 GAMEPLAY_NoCookingPotsInInventory,No Cooking Pots in inventory,Send to KW,Ingen gryte i ranselen
 GAMEPLAY_NoCookingSlotsAvailable,No Cooking slots available,Send to KW,Ingen leduge kokeplater
@@ -5134,8 +5134,8 @@ GAMEPLAY_NomadListDaysInEachLocation,Days In Each Location,,Dagar på kvar plass
 GAMEPLAY_NomadLocationComplete,Location Complete,,PLass fullført
 GAMEPLAY_NoMapsUnlocked,You don’t have any maps,,Du har ingen kart
 GAMEPLAY_NoMillablesInInventory,No millable items in Inventory,,
-GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,Du kan ikkje samla flere trebiter
-GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,Du kan ikkje samla meir knusk
+GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,Du kan ikkje sanka flere trebetar
+GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,Du kan ikkje sanka meir knusk
 GAMEPLAY_None,None,,Ingen
 GAMEPLAY_NonPotable,Non Potable,,forureina
 GAMEPLAY_NonPotableWaterSource,Non Potable Water Source,,Kjelde med forureina vatn
@@ -5817,8 +5817,8 @@ GAMEPLAY_RecipeMissingIngredients,Item requires ingredients you don't have,,
 GAMEPLAY_RecipePreparation,Prepping...,,
 GAMEPLAY_Recipes,Recipes,,
 GAMEPLAY_RecipeSkillLevel,Required Skill Level,,
-GAMEPLAY_ReclaimedWood,Reclaimed Wood,,Trebit
-GAMEPLAY_ReclaimedWoodDescription,"Reclaimed wood (from broken furniture, wooDen structures, etc.)",,"Trebit fra Øydelagt e møbler, trebygninger osv."
+GAMEPLAY_ReclaimedWood,Reclaimed Wood,,Trebete
+GAMEPLAY_ReclaimedWoodDescription,"Reclaimed wood (from broken furniture, wooDen structures, etc.)",,"Trebete frå øydelagde møblar, trebygg osv."
 GAMEPLAY_Recovered,Recovered,recovered leftover fuel from lantern,Fekk tak i
 GAMEPLAY_RecoveredFromBloodLoss,Recovered From Blood Loss,,Kvikna til igjen etter blodtapet
 GAMEPLAY_RecycledCan,Recycled Can,,Hermetikkboks
@@ -6375,7 +6375,7 @@ GAMEPLAY_SprayPaintMapQKMessage,New area surveyed on Map,,Nytt område kartlagt
 GAMEPLAY_SprayPaintMultipleMarkers,Multiple Markers,,
 GAMEPLAY_Sprint,Sprint,,Spring
 GAMEPLAY_SSAO,SSAO,Abbreviation for Screen Space Ambient Occlusion,SSAO
-GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgivnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
+GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgjevnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
 GAMEPLAY_SSAOOff,Off,,Av
 GAMEPLAY_SSAOOn,On,,På
 GAMEPLAY_StagQuarter,deer Quarter,Piece of animal that's been sectioned from a carcass,Hjortestykke
@@ -6431,8 +6431,8 @@ GAMEPLAY_Stat_FishCaught,Fish Caught <WEIGHT>,Please do not translate the the te
 GAMEPLAY_Stat_FishConsumed,Fish Consumed <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Fisk ete <WEIGHT>
 GAMEPLAY_Stat_FoodPoisoning,Food Poisoning,,Matforgiftning
 GAMEPLAY_Stat_Frostbite,Frostbite,,Kaldbrann
-GAMEPLAY_Stat_GutsHarvested,Guts Harvested,,Tarmar samla
-GAMEPLAY_Stat_HidesHarvested,Hides Harvested,,Skinn samla
+GAMEPLAY_Stat_GutsHarvested,Guts Harvested,,Tarmar sanka
+GAMEPLAY_Stat_HidesHarvested,Hides Harvested,,Skinn flådd
 GAMEPLAY_Stat_HoursAsleep,Hours Rested,,Timar kvilt
 GAMEPLAY_Stat_HoursAwake,Hours Awake,,Timar vaken
 GAMEPLAY_Stat_HoursIndoors,Hours Indoors,,Timar inne
@@ -6448,14 +6448,14 @@ GAMEPLAY_Stat_ItemsLooted,Items looted,,Ting plukka opp
 GAMEPLAY_Stat_LocationsExplored,Locations Discovered,,Oppdaga plassar
 GAMEPLAY_Stat_LongestBurningFire,Longest Burning Fire <HOURS>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Lengstvarande eld <HOURS>
 GAMEPLAY_Stat_MeatConsumed,Meat Consumed <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Kjøt ete <WEIGHT>
-GAMEPLAY_Stat_MeatHarvested,Meat Harvestad <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Kjøt samla <WEIGHT>
+GAMEPLAY_Stat_MeatHarvested,Meat Harvestad <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Kjøt sanka <WEIGHT>
 GAMEPLAY_Stat_MooseEncountersSurvived,Moose Attacks Survived,,Elgeåttak overlevd
 GAMEPLAY_Stat_MooseKilled,Moose Killed,,Elgar drepne
 GAMEPLAY_Stat_NumRopeFalls,Falls from Rope,,Fall frå tau
 GAMEPLAY_Stat_NumRopeSlips,Slips on Rope,,Sklidd frå tau
 GAMEPLAY_Stat_OutdoorLocationsExplored,Outdoor Locations Found,,Uteplassar funne
 GAMEPLAY_Stat_OutdoorWorldExploredPercentage,Outdoor World Explored,,Utandørsverda utforska
-GAMEPLAY_Stat_PlantsHarvested,Plants Harvested,,Plantar samla
+GAMEPLAY_Stat_PlantsHarvested,Plants Harvested,,Plantar sanka
 GAMEPLAY_Stat_RabbitsKilled,Rabbits Killed,,Kaninar drepne
 GAMEPLAY_Stat_RabbitsSnared,Rabbits Snared,,Kaniner fanga snarar
 GAMEPLAY_Stat_RevolverShot,Revolver Shots Taken,,Skot med revolver
@@ -9665,7 +9665,7 @@ STORY_jnl_CrashSurvive_Obj1_j,Get your body temperature up. Warm yourself by the
 STORY_jnl_CrashSurvive_Obj1_k,Explore the ravine.,,Utforsk slukta.
 STORY_jnl_CrashSurvive_Obj1_l,You need food to survive. Scavenge what you can and eat until you're full.,,"Du treng mat for å overleva. Sjå om du finn noko, og et deg mett."
 STORY_jnl_CrashSurvive_Obj1_m,See if you're strong enough to climb out of the ravine.,,Sjå om du er sterk nok til å klyve ut av slukta.
-STORY_jnl_CrashSurvive_Obj1_n,Collect Rosehips and make Rosehip Tea to treat your pain.,,Samle nyper og lag nypete mot smertane.
+STORY_jnl_CrashSurvive_Obj1_n,Collect Rosehips and make Rosehip Tea to treat your pain.,,Sank nyper og lag nypete mot smertane.
 STORY_jnl_CrashSurvive_Obj1_p,Climb out of the Ravine.,,
 STORY_jnl_CrashSurvive_obj1_sleep,Sleep in the cave.,,
 STORY_jnl_CrashSurvive_Obj2,Your neve feels stronger now. It's time to climb out of the ravine.,,Handa din kjennast sterkare ut no. Det er tid for å klyve ut av slukta.
@@ -9751,7 +9751,7 @@ STORY_jnl_GMStolenItem_Obj5,Retrieve the climbing gear from Lily's trunk.,,Hent 
 STORY_jnl_GMSupplies_Desc,Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.,,Gråmor vil svolte med mindre du fyllar kjøleskåpet hennar med mat. Leit etter mat i omgjevnadane. Nokon matkjelder er lettare å finne enn andre.
 STORY_jnl_GMSupplies_Desc2,Find supplies to help keep Grey Mother alive.,,
 STORY_jnl_GMSupplies_Obj1,[Optional] Break into the gas station and ransack it for supplies.,,[Valfritt] Bryt deg inn i bensinstasjonen og leit etter forsyningar.
-STORY_jnl_GMSupplies_Obj2,"Gather food for Grey Mother wherever you can find it, and put it in her fridge.",,Samla mat til Gråmor og legg maten i kjøleskåpet hennar.
+STORY_jnl_GMSupplies_Obj2,"Gather food for Grey Mother wherever you can find it, and put it in her fridge.",,Sank mat til Gråmor og legg maten i kjøleskåpet hennar.
 STORY_jnl_GMSupplies_Title,Food Supplies for the Grey Mother,,Mat til Gråmor
 STORY_jnl_GMSuppliesOrcaObj,Check the Gas Station for more supplies.,,
 STORY_jnl_GMTunnel_Desc,Investigate the tunnel leading out of Milton. Grey Mother wants to know what happened there.,,Gransk tunnelen som leiar ut av Milton. Gråmor vil gjerna veta kva som skjedde der.
