@@ -116,3 +116,29 @@ jobs:
         run: |
           steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
                       +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
+
+      - name: Create GitHub release with assets
+        id: release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date +'%d.%m.%y')
+          BASE_TAG="${DATE}"
+          VERSION=1
+          
+          while gh release view "${BASE_TAG}.v${VERSION}" &>/dev/null; do
+            VERSION=$((VERSION + 1))
+          done
+
+          TAG="${BASE_TAG}.v${VERSION}"
+          NOTE="${{ steps.changenote.outputs.changenote }}"
+
+          echo "Creating release with tag: $TAG"
+          
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes "$NOTE" \
+            TLD_Nynorsk/TLD_Nynorsk.csv \
+            TLD_Nynorsk_Bilete.png \
+            Workshop_TLD_Nynorsk.vdf
+
