@@ -91,15 +91,11 @@ jobs:
           git reset --hard origin/main
           git rebase origin/main
 
-          # Only commit if there’s a diff
-          if git diff --quiet HEAD -- Workshop_TLD_Nynorsk.vdf; then
-            echo "No update needed."
-          else
-            echo "Committing updated changenote..."
-            git add Workshop_TLD_Nynorsk.vdf
-            git commit -m "ci: update changenote [skip ci]"
-            git push origin main
-          fi
+          echo "Committing updated changenote (if changed)..."
+          git add Workshop_TLD_Nynorsk.vdf
+          git commit -m "ci: update changenote [skip ci]" || echo "No changes to commit"
+          git push origin main
+
           
 
       - name: Install SteamCMD
