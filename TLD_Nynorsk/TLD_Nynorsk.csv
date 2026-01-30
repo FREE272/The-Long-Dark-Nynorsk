@@ -1005,7 +1005,7 @@ GAMEPLAY_4DONObjectiveDay4,"Day 4: A monster blizzard has arrived. Don't stray t
 GAMEPLAY_AbandonedLookout,Etterlate utkikkstårn,,Etterlata utkikkstårn
 GAMEPLAY_Accelerant,Accelerant,,Tennvæske
 GAMEPLAY_AccelerantDescription,Low-volume fuel source designed to help start fires; ex. lighter fluid.,,"Lettenneleg væske, kjem vel med når ein kjapt skal få fyr på bålet."
-GAMEPLAY_AccelerantHeader,Accelerant (Optional),,Tennvæske (Valfri)
+GAMEPLAY_AccelerantHeader,Accelerant (Optional),,Tennvæske (Valfritt)
 GAMEPLAY_AccelerantMed,Accelerant,,Tennvæske
 GAMEPLAY_AccelerantMedDescription,Medium-volume fuel source designed to help start fires; ex. charcoal fuel.,,"Lettenneleg væske, kjem vel med når ein kjapt skal få fyr på bålet."
 GAMEPLAY_Accept,Accept,,Godta
@@ -1918,8 +1918,8 @@ GAMEPLAY_CannotBuildRockCacheIndoors,Cannot build Rock Cache indoors,,
 GAMEPLAY_CannotBuildSnowShelterIndoors,Cannot build Snow Shelter indoors,,Du kan ikkje byggja ei snøhole inne
 GAMEPLAY_CannotClimbWhenEncumbered,Too encumbered to climb.,Player is carrying too much weight and cannot climb.,For nedtyngja til å klyva.
 GAMEPLAY_CannotClimbWithBrokenRib,Cannot climb with a broken rib,Message displayed when trying to climb with a broken rib affliction,Kan ikkje klyva med eit brote ribbein
-GAMEPLAY_CannotClimbWithSprainedAnkle,Cannot Climb with Sprained Ankle,,Du kan ikkje klyva med ein rengja ankel
-GAMEPLAY_CannotClimbWithSprainedWrist,"Niks, handa er fortsatt for svak.",,Du kan ikkje klyva med eit rengja handledd
+GAMEPLAY_CannotClimbWithSprainedAnkle,Cannot Climb with Sprained Ankle,,Du kan ikkje klyva med ei vrengt okle
+GAMEPLAY_CannotClimbWithSprainedWrist,"Niks, handa er fortsatt for svak.",,Du kan ikkje klyva med eit vrengt handledd
 GAMEPLAY_CannotCookWithSelectedPot,No items in inventory can be cooked with selected item,,Ingenting i ranselen kan kokast med vald gjenstand
 GAMEPLAY_Cannotcraftitemwithselectedtool,Cannot craft item with selected tool,,Tingen kan ikkje lagast med den valde reiskapen.
 GAMEPLAY_CannotCraftWithoutRequiredTool,Cannot craft item without a required tool,,Du kan ikkje laga tingen utan dei naudsyte reiskapa.
@@ -2168,7 +2168,7 @@ Clear day. I went out again. Found some metal cargo crates. They look like they 
 Kom fram til foten av Vargafjellet. Ser ut til å vera nokon fine sprekkar her, akkurat som Clive sa. Planen er å festa eit topptau og klyve litt på eiga hand medan eg ventar på dei andre. Forhåpentleg kjem dei snart.
 
 6. september
-Eg lurer på om venane mine har gått seg vill, for dei har ikkje kome endå. Eg vakna midt på natta av eit enormt smell og brann på fjellet. Eg gjekk for å sjekke, men vêret blei dårleg, so eg fant ikkje fram.
+Eg lurer på om venane mine har gått seg vill, for dei har ikkje kome endå. Eg vakna midt på natta av eit enormt smell og brann på fjellet. Eg gjekk for å sjekke, men vêret vart dårleg, so eg fant ikkje fram.
 
 7. september
 Blå himmel. Eg far ut igjen. Fant nokon metallkassar. Det ser ut som om dei kan ha kome i frå eit fly. Det kjem fortsatt røyk frå fjelltoppen. Eg fer for å sjå om eg kan koma meg til topps for å finne ut kva som skjer."
@@ -2279,7 +2279,7 @@ GAMEPLAY_CombatBoots_Mint,New Combat Boots,,Nye feltstøvlar
 GAMEPLAY_CombatBoots_Ragged,Ragged Combat Boots,,Fillete feltstøvlar
 GAMEPLAY_CombatBoots_Ruined,Ruined Combat Boots,,Unyttande feltstøvlar
 GAMEPLAY_CombatBoots_Worn,Worn Combat Boots,,Velbrukte feltstøvlar
-GAMEPLAY_CombatBootsDescription,Boots designs for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.,,Støvlar laga for krigssonar. Berre so synd at dei ikkje er meina for vinteren. Solide skinnstøvlar med god ankelstytte. Toler muligens eit dyrebitt eller to.
+GAMEPLAY_CombatBootsDescription,Boots designs for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.,,Støvlar laga for krigssonar. Berre so synd at dei ikkje er meina for vinteren. Solide skinnstøvlar med god oklestytte. Toler muligens eit dyrebitt eller to.
 GAMEPLAY_CombatPants,Combat Pants,,Feltbukse
 GAMEPLAY_CombatPants_Decent,decent Combat Pants,,Nyttande feltbukse
 GAMEPLAY_CombatPants_Mint,New Combat Pants,,Ny feltbukse
@@ -2539,7 +2539,7 @@ GAMEPLAY_CraftTackle,Craft Tackle,,
 GAMEPLAY_Crampons,Cramponsi,,Broddar
 GAMEPLAY_CramponsBenefit,Sure Footing,UI label for a game «buff» when you have the Crampons item equipped. Better tractions!,Støtt fotfeste
 GAMEPLAY_CramponsBenefitCause,Equipped Crampons,,Nyttar broddar
-GAMEPLAY_CramponsBenefitDescription,"The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.",,"Stålbroddar gjev deg betre fotfeste i isete terreng. Ein vrengjer anklar og handledd sjeldnare, tauklatring vert lettare og tynn is er meir tilgjeveleg."
+GAMEPLAY_CramponsBenefitDescription,"The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.",,"Stålbroddar gjev deg betre fotfeste i isete terreng. Ein vrengjer okler og handledd sjeldnare, tauklatring vert lettare og tynn is er meir tilgjeveleg."
 GAMEPLAY_CramponsDescription,"Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.",,Broddar av stål til å festa på undersida av skor. Gjev deg støtt fotfeste kvar enn du går.
 GAMEPLAY_CrashCave_big,Cave,"large, natural, rock covered area, cave like",Hole
 GAMEPLAY_CrashCave_chasm,Chasm Cave,cave in the base of the chasm,Skarhole
@@ -2743,8 +2743,8 @@ GAMEPLAY_DamageEventMajorBruising,Major Bruising,,Svært blåmerke
 GAMEPLAY_DamageEventMinorBruising,Minor Bruising,,Lite blåmerke
 GAMEPLAY_DamageEventRippedClothing,Clothing,,Klede
 GAMEPLAY_DamageEventRiskOfInfection,Infection Risk,,Infeksjonsrisiko
-GAMEPLAY_DamageEventSprainedAnkle,Sprained Ankle,,Rengja ankel
-GAMEPLAY_DamageEventSprainedWrist,Sprained Wrist,,Rengja handledd
+GAMEPLAY_DamageEventSprainedAnkle,Sprained Ankle,,Vrengde okle
+GAMEPLAY_DamageEventSprainedWrist,Sprained Wrist,,Vrengde handledd
 GAMEPLAY_DamCollectible1,Carter Hydro Dam -- Safety & Shutdown Notice,,Carter-demningen: Tryggleik og stenging notat
 GAMEPLAY_DamCollectible1Description,"Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible.",,"Eit notat som ser offisielt ut, skriven på Carter-demningen sitt brevpapir. Brevet er skada, og nokon av orda er vanskelege å tyda. Brevet er datert ein eller annen gong på nittitalet, men den eksakte datoen er uleseleg."
 GAMEPLAY_DamCollectible1DescriptionNarrativeText,"""I'm sure this will come as no surprise to you, but ever since seismic activity on the Island has become such an issue, it's been almost impossible to run Carter Dam profitably. Besides that, the recent eco-activism -- or, let's call it what it is: terrorism -- has introduce new risks that have brought plant and worker safety into question. Therefore, I'm sad to report that after years of trying to modernize Carter Dam, and after the failed attempts of its original creator, the eponymous Richard Carter, it's finally time for me to also admit defeat, as he did those decades ago. No ambition of mine justifies putting your lives in danger. All workers will be transported out as soon as we can guarantee your safety. In the mean time, please keep an eye out for any suspicous activity in or around the Dam -- the so-called ""Forest Talkers"" are still active in the area. Thank you for your dedication to the cause. Yours truly, Robert Clarke, CEO, Carter Hydro Energy.""",,"Dette vil sikkert ikkje koma som ein overraskelse, men heilt sidan den seismiske aktiviteten på øya begynte å verta eit problem, har det nesten vert umogleg å drive Carter-demningen med profitt. Miljøvernaktivistmen har i seinare tid – forresten, lat oss kalla det for det det er: «terrorisme» – ført med seg nye fareelement som er ein trussel mot tryggleika til verket og arbeidarane her. Derfor må eg dessverre dela at eg òg, etter å ha streva i mange år med å modernisera Carter-demningen etter dei mislukka forsøka til den opprinnelege eigaren, Richard Carter, som ga demningen sitt namn, omsider er naudt til å innrømma nederlag, slik som Carter gjorde flere tiår sidan. Ingen av mine ambisjonar rettferdiggjer å settja dykkar liv i fare. Alle arbeidarar vil verta transportert ut so snart me kan garantera for tryggleika. I mellomtida må de sjå opp for mistenkeleg aktivitet i og rundt demningen. De såkalte Skogpratarane er fortsatt aktive i området. Takk for innsatsen for saken. Mvh. Robert Clarke, administrerende direktør i Carter vasskraft."
@@ -2806,7 +2806,7 @@ GAMEPLAY_DarkwalkerWard_Desc,Safe zone for 15 minutes.,{bracket text} remains in
 GAMEPLAY_DataCorrupt,Data Corrupt,,Data øydelagt
 GAMEPLAY_Date,Date,,Dato
 GAMEPLAY_DateSaved,Date Saved,,Dato lagra
-GAMEPLAY_DavesQuietClearing,Dave's Quiet Clearing,,Dave sin stille lysning
+GAMEPLAY_DavesQuietClearing,Dave's Quiet Clearing,,Dave sin tyste lysing
 GAMEPLAY_Dawn,Dawn,,Grålysing
 GAMEPLAY_Day,Day,,Dag
 GAMEPLAY_day,day,,dag
@@ -3326,7 +3326,7 @@ GAMEPLAY_EXPERIENCEMODEDescInterloperBullets,"•  For expert players looking fo
 •  Du startar med eit minimum av ressursar og må laga alt du treng for å overleva.
 •  Jo lenger du overlev, desto meir fiendtleg vert naturen.
 •  Tillet to aktive bragder."
-GAMEPLAY_EXPERIENCEMODEDescPilgrim,Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.,Flavour text for the Pilgrim experience mode.,Vandra i den stille apokalypsen for å skildra ein epoke som tar slutt. Dette er overlevinga si poesi.
+GAMEPLAY_EXPERIENCEMODEDescPilgrim,Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.,Flavour text for the Pilgrim experience mode.,Vandra i den tyste apokalypsen for å skildra ein epoke som tar slutt. Dette er overlevinga si poesi.
 GAMEPLAY_EXPERIENCEMODEDescPilgrimBullets,"•  For new or experienced players most interestad in pensive Exploration.
 •  Most survival elements tuned to be very forgiving.
 •  Wildlife will not attack unless provoked.
@@ -4098,9 +4098,7 @@ GAMEPLAY_HoursToRest,Hours To Rest,,Timar å kvile
 GAMEPLAY_HoursToSleep,Hours To Sleep,,Timar å sova
 GAMEPLAY_HubRegionBasinOverlook,Conductor's Dropoff,,
 GAMEPLAY_HubRegionCave,Feedwater Cave,,
-GAMEPLAY_HubRegionDesc,"For intermediate players. A crossroads dug out of the looming mountains, Transfer Pass is quiet since the trains stopped. But it remains a critical junction for anyone wishing to access the Far Territory.
-
-Connects to Broken Railroad and Forsaken Airfield.",,
+GAMEPLAY_HubRegionDesc,Vandra i den tyste apokalypsen for å skildra ein epoke som tar slutt. Dette er overlevinga si poesi.,,
 GAMEPLAY_HubRegionHighOverlook,Broad Aerie,,
 GAMEPLAY_HubRegionMarsh,Loitering Marsh,,
 GAMEPLAY_HubRegionRailcars,Distempered Flatcars,,
@@ -4286,7 +4284,7 @@ GAMEPLAY_InsulinDescription,Helps regulate the levels of blood glucose in your b
 GAMEPLAY_InteractCellToilet,Get Up On It,,
 GAMEPLAY_interactionOverideRoseHips,You don't need these yet.,,Du treng ikkje desse enno.
 GAMEPLAY_InteractionOverrideKnock,Knock,,Bank
-GAMEPLAY_InteractionOverrideStay,Stay inside,,Bli inne
+GAMEPLAY_InteractionOverrideStay,Stay inside,,Vert inne
 GAMEPLAY_InteractShoot,Interact / Shoot,,Handter/Skyt
 GAMEPLAY_Interloper,Interloper,name of ultimate difficulty mode,Inntrengar
 GAMEPLAY_IntestinalParasites,Intestinal Parasites,,Tarmparasittar
@@ -4419,13 +4417,13 @@ Still, it’s said the many streams and rivers that surround the prison grounds 
 GAMEPLAY_know_BRbook3_Title,"Building Blackrock, Part Three",,
 GAMEPLAY_know_Hobbs,Hobbs,,
 GAMEPLAY_know_HobbsDesc,"Sentenced to 20 years at the notorious Blackrock Penitentiary, Great Bear Island was the end of the road for the unsavory convict, and he knew it. A cowardly man, Hobbs loved chaos. And even with a knife in his belly, he was still stirring up trouble.",,
-GAMEPLAY_know_pl_CarterDam1,"In the 1960s, a small hydroelectric dam was built on the Carter River. The project was engineered and financed by industrial magnate, Richard Carter, who intended to use power from the dam to sustain a small town he planned to build for the growing workforce across his mining empire. Unfortunately, a combination of setbacks due to seismic activity (which resulted in several deaths and forced the shutdown of one of his mines) and a drop in the price of coal and copper in the late 1960s bankrupted Carter, who abandoned the nearly completed project. In the 1980s, there were multiple attempts to modernize Carter Dam and bring it back online, but by then changes to the local climate and the hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s. Labour disputes and early eco-activism by a small group of environmentalists -- billing themsjølves the ""Forest Talkers"" -- resulted in the sudDen closure of the dam, primarily for the employee’s safety. A skeleton crew of maintenance workers were actually trapped in the Dam for days until mediators could extract them. No violence was reported, but the event served to galvanize the Forest Talkers, who felt their success in keeping Carter Dam shut down validated their continued work to protect Great Bear’s further development and exploitation.",,"På 1960-talet blei det bygd ein liten hydroelektrisk demning på Carter-elva. Prosjektet blei utvikla og finansiert av industrimagnaten Richard Carter, som hadde til hensikt å nytta demningen til å levera straum til ein liten by han hadde tenkt å byggja til den aukande arbeidsstyrken i gruveimperiet hans. Uheldigvis gjorde ein kombinasjon av tilbakeslag på grunn av seismisk aktivitet (som førte til fleire dødsfall og tvangsnedlegging av ein av Carter sine gruver) og eit fall i prisen på kol og kopar på slutten av sekstitalet at Carter gjekk konkurs og derfor skrinla det nesten ferdigstilte prosjektet. På åttitalet blei det gjort fleire forsøk på å modernisera Carter-demningen og varetake ein stabil drift, men endringar i det lokale klimaet og hydrodynamikken i Løyndomsvatnet, og dessutan aukande støtte i befolkninga til det nyleg lanserte «Løyndomsvatnet parkområde», resulterte i at Carter-demningen blei stengt for godt på slutten av 1990-talet. Bak den plutselege nedlegginga av demningen – det blei sagt at det var for å varetake arbeidarane sin sikkerheit – lå arbeidskonfliktar og tidleg økoaktivisme utført av ei lita gruppe miljøvernarar som kalte seg «Skogpratarane». Ei lita gruppe vedlikehaldsarbeidarar blei faktisk sittande fast i demningen i fleire dagar før mellommenn fekk henta dei ut. Det ble ikkje rapport om voldsbruk, men hendinga eggja Skogpratarane, som følte at suksessen med å få Carter-demningen stengt var ein bekreftelse på at arbeidet deiras med å beskytte Sværebjørn mot vidare utbygging og utnytting."
+GAMEPLAY_know_pl_CarterDam1,"In the 1960s, a small hydroelectric dam was built on the Carter River. The project was engineered and financed by industrial magnate, Richard Carter, who intended to use power from the dam to sustain a small town he planned to build for the growing workforce across his mining empire. Unfortunately, a combination of setbacks due to seismic activity (which resulted in several deaths and forced the shutdown of one of his mines) and a drop in the price of coal and copper in the late 1960s bankrupted Carter, who abandoned the nearly completed project. In the 1980s, there were multiple attempts to modernize Carter Dam and bring it back online, but by then changes to the local climate and the hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s. Labour disputes and early eco-activism by a small group of environmentalists -- billing themsjølves the ""Forest Talkers"" -- resulted in the sudDen closure of the dam, primarily for the employee’s safety. A skeleton crew of maintenance workers were actually trapped in the Dam for days until mediators could extract them. No violence was reported, but the event served to galvanize the Forest Talkers, who felt their success in keeping Carter Dam shut down validated their continued work to protect Great Bear’s further development and exploitation.",,"På 1960-talet vart det bygd ein liten hydroelektrisk demning på Carter-elva. Prosjektet vart utvikla og finansiert av industrimagnaten Richard Carter, som hadde til hensikt å nytta demningen til å levera straum til ein liten by han hadde tenkt å byggja til den aukande arbeidsstyrken i gruveimperiet hans. Uheldigvis gjorde ein kombinasjon av tilbakeslag på grunn av seismisk aktivitet (som førte til fleire dødsfall og tvangsnedlegging av ein av Carter sine gruver) og eit fall i prisen på kol og kopar på slutten av sekstitalet at Carter gjekk konkurs og derfor skrinla det nesten ferdigstilte prosjektet. På åttitalet vart det gjort fleire forsøk på å modernisera Carter-demningen og varetake ein stabil drift, men endringar i det lokale klimaet og hydrodynamikken i Løyndomsvatnet, og dessutan aukande støtte i befolkninga til det nyleg lanserte «Løyndomsvatnet parkområde», resulterte i at Carter-demningen vart stengt for godt på slutten av 1990-talet. Bak den plutselege nedlegginga av demningen – det vart sagt at det var for å varetake arbeidarane sin sikkerheit – lå arbeidskonfliktar og tidleg økoaktivisme utført av ei lita gruppe miljøvernarar som kalte seg «Skogpratarane». Ei lita gruppe vedlikehaldsarbeidarar vart faktisk sittande fast i demningen i fleire dagar før mellommenn fekk henta dei ut. Det ble ikkje rapport om voldsbruk, men hendinga eggja Skogpratarane, som følte at suksessen med å få Carter-demningen stengt var ein bekreftelse på at arbeidet deiras med å beskytte Sværebjørn mot vidare utbygging og utnytting."
 GAMEPLAY_know_pl_CarterDam1_Title,PLACE: Carter Hydro Dam,,Stad: Carter-demningen
 GAMEPLAY_know_pl_MiltonHistory1,"Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. In the 2000s, it settled into the 100s, and Post-Collapse, the population has struggled to remain in the low double digits. Originally built along a supply route from the coastline leading into the interior, the old dirt path was replaced by a paved highway in 1960. It’s location about halfway between Port Mary and the interior mountains gave it a natural advantage as a convenient stopping off point for fuel and supplies for miners, loggers, mill workers, and campers from the Mainland, a dynamic that fueled the town’s growth as the Island’s economy boomed in the 1980s. However, the construction of the Great Bear Highway (AKA Highway 15) meant travellers could easily bypass Milton on their way North, which in many ways triggered the gradual decline of Milton’s importance as a gateway town.
   
- This decline was exaggerated even more in the Post-Collapse economic environment, where very few travellers or resource workers had reason to visit Great Bear. Eventually, apart from a few stalwarts and old-timers with deep roots in the area, Milton became, for all intents and purposes, a ghost town.",,"Milton vart skipa i 1911 under det fyrste kapplaupet for å utvinna kol i fjella i området, og gjennom heile 1900-talet opplevde byen ein syklus av oppturar og nedturar. På sitt høgaste var innbyggjartalet omtrent 1000. På 2000-talet stabiliserte tallet seg på nokon hundre, men etter sammenbrotet har innbyggjartalet knapt haldt seg tosifra. I 1960 blei den gamle grusvegen, som opprinneleg blei anlagt som forsyningsruta frå kysten til innlandet, erstatta med ein asfaltert veg. Fordi Milton legg halvvegs mellom Port Mary og fjella lenger inn gjorde byen til ein naturleg og praktisk stoppestad for gruvearbeidarar, tømmerhoggarar, tresliparar og teltturistar som trengte drivstoff og forsyninger på veg frå fastlandet. Byen sin vekst auka i takt med øya sin økonomiske oppblomstring på åttitallet. Men sidan ble det anlagt ein ny veg, Sværebjørn motorveg (motorveg 15), og med den kunne reisande lett køyra utenom Milton på veg nordover. Dette førte etter kvart til at Milton mista sin status som ein viktig stoppestad.
+ This decline was exaggerated even more in the Post-Collapse economic environment, where very few travellers or resource workers had reason to visit Great Bear. Eventually, apart from a few stalwarts and old-timers with deep roots in the area, Milton became, for all intents and purposes, a ghost town.",,"Milton vart skipa i 1911 under det fyrste kapplaupet for å utvinna kol i fjella i området, og gjennom heile 1900-talet opplevde byen ein syklus av oppturar og nedturar. På sitt høgaste var innbyggjartalet omtrent 1000. På 2000-talet stabiliserte tallet seg på nokon hundre, men etter sammenbrotet har innbyggjartalet knapt haldt seg tosifra. I 1960 vart den gamle grusvegen, som opprinneleg vart anlagt som forsyningsruta frå kysten til innlandet, erstatta med ein asfaltert veg. Fordi Milton legg halvvegs mellom Port Mary og fjella lenger inn gjorde byen til ein naturleg og praktisk stoppestad for gruvearbeidarar, tømmerhoggarar, tresliparar og teltturistar som trengte drivstoff og forsyninger på veg frå fastlandet. Byen sin vekst auka i takt med øya sin økonomiske oppblomstring på åttitallet. Men sidan ble det anlagt ein ny veg, Sværebjørn motorveg (motorveg 15), og med den kunne reisande lett køyra utenom Milton på veg nordover. Dette førte etter kvart til at Milton mista sin status som ein viktig stoppestad.
   
-Nedgongen skaut ytterlegar fart etter Sammenbrotet, då den økonomiske situasjonen gjorde at det var få reisande eller arbeidarar som fant nokon grunn til å besøke Sværebjørn. Til slutt blei Milton, med unntak av nokon få hardhausar og eldre mennesker, i realiteten ein spøkelsesby."
+Nedgongen skaut ytterlegar fart etter Sammenbrotet, då den økonomiske situasjonen gjorde at det var få reisande eller arbeidarar som fant nokon grunn til å besøke Sværebjørn. Til slutt vart Milton, med unntak av nokon få hardhausar og eldre mennesker, i realiteten ein spøkelsesby."
 GAMEPLAY_know_pl_MiltonHistory1_Title,Town of Milton,Place Knowledge: Milton,Milton by
 GAMEPLAY_know_pl_MysteryLake1,"The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
@@ -4444,20 +4442,19 @@ Det som fyrst og fremst kjenneteiknar regionen, er dei svære skogane og det kup
 
 Løyndomsvatnet er eit populært reisemål for teltturistar og turgåarar om sommaren, men om vinteren er området so vanskeleg å nå at det i prinsippet er isolert. Det er ingen større veger som knytt området til dei meir befolka naboregionene i dalane lenger ned i fjellkjeda, so dei fleste som kjem innom, er innbitte turgåarar som er villige til å ta den lange turen langs dei krevande turstiane frå Rupertshamn, den nærmaste byen.
 
-Regionen sin utilgjengelegheit har vert både ein velsignelse og ein forbannelse opp gjennom åra. Til jernbanelinja sprengte seg gjennom fjella i 1930-åra bestod området for det meste av vill og urørt natur, og mangelen på fasilitetar og fastbuande gjorde det vanskeleg for permanent infrastruktur å slå rot. Ein plan om å knytte Løyndomsvatnet til eit sekundært nettverk av riksveier som gjekk mellom dei ulike dalane, blei skrinlagt på grunn av dei geologisk ustabile bratte fjella og klippene i området. Bygginga av vegen førte til jordskred som trua lønsemda til prosjektet, og det var ikkje vorte rydda mange kilometer før heile vegprosjektet blei avblåst.
+Regionen sin utilgjengelegheit har vert både ein velsignelse og ein forbannelse opp gjennom åra. Til jernbanelinja sprengte seg gjennom fjella i 1930-åra bestod området for det meste av vill og urørt natur, og mangelen på fasilitetar og fastbuande gjorde det vanskeleg for permanent infrastruktur å slå rot. Ein plan om å knytte Løyndomsvatnet til eit sekundært nettverk av riksveier som gjekk mellom dei ulike dalane, vart skrinlagt på grunn av dei geologisk ustabile bratte fjella og klippene i området. Bygginga av vegen førte til jordskred som trua lønsemda til prosjektet, og det var ikkje vorte rydda mange kilometer før heile vegprosjektet vart avblåst.
 
-På 1960-talet valde den ambisiøse industrimagnaten Richard Carter Løyndomsvatnet då han skulle starta opp eit nytt hydroelektrisk prosjekt som var meina å levera straum til eit stort gruveanlegg i nabodalen. Det at innsjøen kontinuerleg fekk påfyll både frå eit energisk akvifernettverk og fjellbekkane som leia det årlege smeltevatnet om våren, gjorde Løyndomsvatnet til eit naturlig vassmagasin med uutnytta hydroelektrisk potensial. Men med unntak av ein liten prøvedemning som blei anlagt i 1962, blei prosjektet skrinlagt då den dårlige tilgjengelegheit til regionen og dei ustabile seismiske forholda gjorde at det ikkje var lønsamt.
+På 1960-talet valde den ambisiøse industrimagnaten Richard Carter Løyndomsvatnet då han skulle starta opp eit nytt hydroelektrisk prosjekt som var meina å levera straum til eit stort gruveanlegg i nabodalen. Det at innsjøen kontinuerleg fekk påfyll både frå eit energisk akvifernettverk og fjellbekkane som leia det årlege smeltevatnet om våren, gjorde Løyndomsvatnet til eit naturlig vassmagasin med uutnytta hydroelektrisk potensial. Men med unntak av ein liten prøvedemning som vart anlagt i 1962, vart prosjektet skrinlagt då den dårlige tilgjengelegheit til regionen og dei ustabile seismiske forholda gjorde at det ikkje var lønsamt.
 
-Til den dag i dag er den einaste forbindelsen – bortsett frå jernbanen – mellom Løyndomsvatnet og nabodalane turstiane over fjella. Desse turstia vert nærmast umoglege å fylgja om vinteren på grunn av låge temperaturar og mykje snø. Som fylgje av regionen sine låge innbyggjartal har dyrelivet dessutan ikkje vent seg til folk, og dette kan gjera dei truande. Turgåarar og teltturistar advarast mot å begi seg inn i området i vintermånadane, og blir bedd dessutan om å oppbevara all mat og avfall i «bjørnesikre» behaldarar.
-"
+Til den dag i dag er den einaste forbindelsen – bortsett frå jernbanen – mellom Løyndomsvatnet og nabodalane turstiane over fjella. Desse turstia vert nærmast umoglege å fylgja om vinteren på grunn av låge temperaturar og mykje snø. Som fylgje av regionen sine låge innbyggjartal har dyrelivet dessutan ikkje vent seg til folk, og dette kan gjera dei truande. Turgåarar og teltturistar advarast mot å begi seg inn i området i vintermånadane, og vert bedd dessutan om å oppbevara all mat og avfall i «bjørnesikre» behaldarar."
 GAMEPLAY_know_pl_MysteryLake1_Title,PLACE: Mystery Lake & Area,,Stad: Løyndomsvatnet og omland
 GAMEPLAY_know_pl_PerseveranceMills1,There were some mills here.,,Her var det ein gong nokon møller.
 GAMEPLAY_know_pl_PerseveranceMills1_Title,Perseverance Mills,,Trottugmøllene
-GAMEPLAY_know_pl_TheCollapse1,"In the mid-20XX, the ongoing global economic crisis, fueled by continued political instability in the US and Europe, contributing to increasing volatility in the financial markets, led to the sudDen catastrophic collapse of the Canadian, and in general, the North American banking system. This immediately rendered Canadian currency worthless, triggered super-inflation of the US dollar, and all trade and economic activity promptly shifted to the Chinese Yuan or crypto-currencies (a la Bitcoin). Crippled economically, Canada was brought under the financial oversight of the North American Economic Zone, which positioned Canada as a kind of protectorate of a larger US-based economic bloc. From this point onward, the majority of economic activity became centralized on Canada’s already densely urbanized population, with smaller rural and remote communities being essentially cut off. Without a local economic lifeline many of these communities had become dependent on for their continued existence, most rural or remote communities became hollowed out, as people fled to urban areas in search of greater economic stability.",,"I 20XX førte den pågåande globale økonomiske krisa, godt hjelpen av eit vedvarende ustabilt politisk klima i USA og Europa som bidrog til endå større svingningar i finansmarknadane, til ein plutselig kollaps i fyrst og fremst det kanadiske, men òg det amerikanske banksystemet. Kanadisk valuta blei straks verdilaus, Amerikanske dollar gjennomgjekk ein superinflasjon, og all handel og anna økonomisk aktivitet blei umiddelbart flytta over til kinesiske yuan eller kryptovalutaer som Bitcoin. Canada, som økonomisk låg med knekt rygg, blei underlagt den Nord-Amerikanske økonomiske sone, som gav Canada status som eit slags protektorat av ein større USA-basert økonomisk blokk. Frå no av blei det meste av økonomisk aktivitet sentralisert i Canada sitt allereie tett befolka byområder, medan landsbygda og fjerntliggjande samfunn i all hovedsak blei isolert. Utan den lokale økonomien som folk hadde støtta seg til for å overleva, blei landsbygda og dei fleste småstadane tømt for folk, som flokka til byane på jakt etter betre økonomisk stabilitet."
+GAMEPLAY_know_pl_TheCollapse1,"In the mid-20XX, the ongoing global economic crisis, fueled by continued political instability in the US and Europe, contributing to increasing volatility in the financial markets, led to the sudDen catastrophic collapse of the Canadian, and in general, the North American banking system. This immediately rendered Canadian currency worthless, triggered super-inflation of the US dollar, and all trade and economic activity promptly shifted to the Chinese Yuan or crypto-currencies (a la Bitcoin). Crippled economically, Canada was brought under the financial oversight of the North American Economic Zone, which positioned Canada as a kind of protectorate of a larger US-based economic bloc. From this point onward, the majority of economic activity became centralized on Canada’s already densely urbanized population, with smaller rural and remote communities being essentially cut off. Without a local economic lifeline many of these communities had become dependent on for their continued existence, most rural or remote communities became hollowed out, as people fled to urban areas in search of greater economic stability.",,"I 20XX førte den pågåande globale økonomiske krisa, godt hjelpen av eit vedvarende ustabilt politisk klima i USA og Europa som bidrog til endå større svingningar i finansmarknadane, til ein plutselig kollaps i fyrst og fremst det kanadiske, men òg det amerikanske banksystemet. Kanadisk valuta vart straks verdilaus, Amerikanske dollar gjennomgjekk ein superinflasjon, og all handel og anna økonomisk aktivitet vart umiddelbart flytta over til kinesiske yuan eller kryptovalutaer som Bitcoin. Canada, som økonomisk låg med knekt rygg, vart underlagt den Nord-Amerikanske økonomiske sone, som gav Canada status som eit slags protektorat av ein større USA-basert økonomisk blokk. Frå no av vart det meste av økonomisk aktivitet sentralisert i Canada sitt allereie tett befolka byområder, medan landsbygda og fjerntliggjande samfunn i all hovedsak vart isolert. Utan den lokale økonomien som folk hadde støtta seg til for å overleva, vart landsbygda og dei fleste småstadane tømt for folk, som flokka til byane på jakt etter betre økonomisk stabilitet."
 GAMEPLAY_know_pl_TheCollapse1_Title,"KNOWLEDGE: History of The Collapse, Part One",,"RØYNSLE: Historia om Samanbrotet, del 1"
-GAMEPLAY_know_pl_TheCollapse2,"For places like Great Bear, already quite remote and suffering after decades of economic decline, the sudDen Collapse was the final straw. Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.",,"For plassar som Sværebjørn, som låg langt utanfor allmannveg og allereie sleit etter fleire tiår med nedgongstider, var Samanbrotet dråpen som fekk begeret til å flyta over. Utan store lokale hyrnesteinsbedriftar blei dei resterande samfunna på øya fullstendig avhengig av forsyningar frå fastlandet, med regelmessige forsendelser av det mest naudsynte for å halde seg i live, som drivstoff, medisinske forsyningar osv. På mange måter minnet det om rasjoneringa under andre verdskrig. I bytte mot dei regelmessige forsyningsleveransane synast «fastlendingane» – nokon gonger på befaling frå overherrane sør for grensa – det berre var rett og rimeleg at dei kunne forsyna seg av dei ressursane og råmateriala dei trengte for å oppretthalde sine urbane samfunn, og dei demonterte òg noko av tungindustrien sin resterande infrastruktur på Sværebjørn."
+GAMEPLAY_know_pl_TheCollapse2,"For places like Great Bear, already quite remote and suffering after decades of economic decline, the sudDen Collapse was the final straw. Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.",,"For plassar som Sværebjørn, som låg langt utanfor allmannveg og allereie sleit etter fleire tiår med nedgongstider, var Samanbrotet dråpen som fekk begeret til å flyta over. Utan store lokale hyrnesteinsbedriftar vart dei resterande samfunna på øya fullstendig avhengig av forsyningar frå fastlandet, med regelmessige forsendelser av det mest naudsynte for å halde seg i live, som drivstoff, medisinske forsyningar osv. På mange måter minnet det om rasjoneringa under andre verdskrig. I bytte mot dei regelmessige forsyningsleveransane synast «fastlendingane» – nokon gonger på befaling frå overherrane sør for grensa – det berre var rett og rimeleg at dei kunne forsyna seg av dei ressursane og råmateriala dei trengte for å oppretthalde sine urbane samfunn, og dei demonterte òg noko av tungindustrien sin resterande infrastruktur på Sværebjørn."
 GAMEPLAY_know_pl_TheCollapse2_Title,"KNOWLEDGE: History of The Collapse, Part Two",,"RØYNSLE: Historien om Samanbrotet, del 2"
-GAMEPLAY_know_pl_TheCollapse3,"Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage their self-sufficiency. Small-scale local food production efforts, akin to the Victory GarDen program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. Some of these activities took on an aspect of being politically or even ideologically motivated -- these weren’t just gardens or small-scale attempts to provide for local needs. These were acts of rebellion against a (perceived?) occupying economic force.",,"Nokon av innbyggjarane som valde å vera igjen på Sværebjørn, var misnøgde med at øya blei meir avhengig av økonomisk stytte frå fastlandet, og at fastlendingane fortsette å sjå på heimplassen deiras som berre ein ressurskilde dei kunne utnytta, so dei prøvde å gjera seg meir sjølvforsynte. Små matproduksjonsinitiativer, à la «Victory Garden»-programma i England og Canada under andre verdskrig, begynte å spretta opp over heile Sværebjørn, og både enkeltpersonar og til og med heile samfunn tok ansvar med å produsera mat og kraft. Nokon av aktivitetane fekk etter kvart karakter av å vera politisk eller til og med ideologisk motivert, altså noko meir enn berre ein hage eller spede forsøk på å varetaka lokale behov. Initiativene var eit ledd i eit opprør mot ein (innbilt?) økonomisk okkupasjonsmakt."
+GAMEPLAY_know_pl_TheCollapse3,"Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage their self-sufficiency. Small-scale local food production efforts, akin to the Victory GarDen program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. Some of these activities took on an aspect of being politically or even ideologically motivated -- these weren’t just gardens or small-scale attempts to provide for local needs. These were acts of rebellion against a (perceived?) occupying economic force.",,"Nokon av innbyggjarane som valde å vera igjen på Sværebjørn, var misnøgde med at øya vart meir avhengig av økonomisk stytte frå fastlandet, og at fastlendingane fortsette å sjå på heimplassen deiras som berre ein ressurskilde dei kunne utnytta, so dei prøvde å gjera seg meir sjølvforsynte. Små matproduksjonsinitiativer, à la «Victory Garden»-programma i England og Canada under andre verdskrig, begynte å spretta opp over heile Sværebjørn, og både enkeltpersonar og til og med heile samfunn tok ansvar med å produsera mat og kraft. Nokon av aktivitetane fekk etter kvart karakter av å vera politisk eller til og med ideologisk motivert, altså noko meir enn berre ein hage eller spede forsøk på å varetaka lokale behov. Initiativene var eit ledd i eit opprør mot ein (innbilt?) økonomisk okkupasjonsmakt."
 GAMEPLAY_know_pl_TheCollapse3_Title,"KNOWLEDGE: History of The Collapse, Part Three",,"RØYNSLE: Historia om Samanbrotet, del 3"
 GAMEPLAY_know_pl_TheCollapse4,"Cut off from the Mainland -- economically and figuratively -- Great Bear Islanders became increasingly segregated into two pseudo-political entities along ideological lines: those who gratefully embraced dependence on the Mainland and viewed the regular supply ships as a charitable gesture in apology for the Mainland’s exploitation of Great Bear’s resource riches, and those who sought ultimate independence and who considered trade and travel between the Mainland to be a necessary evil, viewing Mainlanders with a degree of mistrust. Those in support of the Mainlanders even considered the small-scale “Victory Garden” type activities as a sign of lacking patriotism, a concept that hadn’t really existad as such in the Canadian mindset, pre-Collapse.",,"Avskåret frå fastlandet – både økonomisk og i overført betydning – delte øyfolket på Sværebjørn i større grad seg inn i to kvasipolitiske grupperingar langs ein ideologisk skillelinje: dei som med takksemd omfavna avhengigheita til fastlandet og såg på forsyningsskipa som ein godgjerande gest og unnskyldning for fastlandets utnytting av naturressursane på Sværebjørn, og dei som ynskte å vera fullstendig uavhengig og såg på handel og reise mellom øya og fastlandet som eit naudsynt onde, og som gjerna var mistru imot fastlendingar. Dei som støtta fastlendingene, såg på sjølv små initiativer av «Victory Garden»-typen som eit teikn på manglande patriotisme, eit konsept som eigentleg ikkje hadde eksistert i det canadiske tankesettet før Samanbrotet."
 GAMEPLAY_know_pl_TheCollapse4_Title,"KNOWLEDGE: History of the Collapse, Part Four",,"RØYNSLE: Historia om Samanbrotet, del 4"
@@ -5600,7 +5597,7 @@ GAMEPLAY_QuoteHeller,"“He is at home with his solitude as the note reverberati
 – Peter Heller, The Dog Stars"
 GAMEPLAY_QuoteKing,"""No one can tell what goes on between the person you were and the person you become. No one can chart that blue and lonely section of hell. There are no maps of the change. You just come out the other side."" 
 
-- Stephen King, The Stand",,"«Ingen kan sei kva som skjer mellom den personen du var, og den personen du blir. Ingen kan kartleggja den triste og einsame delen av helvete. Det er ingen kart over endringa. Du berre kjem ut på den andre sida.» 
+- Stephen King, The Stand",,"«Ingen kan sei kva som skjer mellom den personen du var, og den personen du vert. Ingen kan kartleggja den triste og einsame delen av helvete. Det er ingen kart over endringa. Du berre kjem ut på den andre sida.» 
 
 – Stephen King, The Stand"
 GAMEPLAY_QuoteMamet,"“You know, I once read an interesting book which said that, uh, most people lost in the wilds, they, they die of shame. Yeah, see, they die of shame. 'What did I do wrong? How could I have gotten myself into this?' And so they sit there and they... die. Because they didn't do the one thing that would save their lives. Thinking.” 
@@ -6345,25 +6342,25 @@ GAMEPLAY_SpearHead,Spear Head,,Sjutspiss
 GAMEPLAY_SpearHeadDescription,"The business end of a Bear Spear. Rough-hammered, but effective. Crafted from Scrap Metal.",,Vert nok til eit sabla godt bjørnespjut om ein set det på enden av eit løneskaft.
 GAMEPLAY_SpecialRecipe,Unique Recipe,,
 GAMEPLAY_Spend,Spend,"as in ""spend X hours"" doing something",Nytt
-GAMEPLAY_SprainedAnkle,Sprained Ankle,,Rengja ankel
-GAMEPLAY_SprainedAnkleDescription,"You have twistad your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,"Du har tråkka over og rengja ankelen. Rørsleevna di vil vera redusert til du behandlar skaden, eller han legast av seg sjølv."
-GAMEPLAY_SprainedAnkleHealed,Sprained Ankle Healed,,Rengja ankel lega
-GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,Du har rengja ankelen
-GAMEPLAY_SprainedAnkleLog,Sprained ankle.,,Rengja ankel.
-GAMEPLAY_SprainedWrist,Sprained Wrist,,Rengja handledd
-GAMEPLAY_SprainedWristCannotHold2HandedWeapon,You cannot equip a two-handed weapon while you have a sprained wrist.,,
-GAMEPLAY_SprainedWristCannotHoldWeapon,You cannot equip a weapon while you have a sprained wrist.,,Du kan ikkje nytta våpen medan du har rengja handleddet.
-GAMEPLAY_SprainedWristDescription,"You have sprained your wrist. You will not be able to hald weapons until you treat it, or it heals over time.",,"Du har rengja handleddet. Du kan ikkje halde våpen før du behandlar skaden, eller han legast av seg sjølv."
-GAMEPLAY_SprainedWristHealed,Sprained wrist healed,,Rengja handledd lega
-GAMEPLAY_SprainedWristHUD,Suffered a sprained wrist,,Du har rengja handleddet
-GAMEPLAY_SprainedWristLog,Sprained wrist,,Rengja handledd
+GAMEPLAY_SprainedAnkle,Sprained Ankle,,Vrengt okle
+GAMEPLAY_SprainedAnkleDescription,"You have twistad your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,"Du har tråkka over og vrengt okle. Rørsleevna di vil vera redusert til du behandlar skaden, eller han lækjer av seg sjølv."
+GAMEPLAY_SprainedAnkleHealed,Sprained Ankle Healed,,Vrengt okle lækt
+GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,Du har vrengt okle
+GAMEPLAY_SprainedAnkleLog,Sprained ankle.,,Vrengde okle.
+GAMEPLAY_SprainedWrist,Sprained Wrist,,Vrengt handledd
+GAMEPLAY_SprainedWristCannotHold2HandedWeapon,You cannot equip a two-handed weapon while you have a sprained wrist.,,Du kan ikkje nytta tohandsvåpen med vrengt handledd.
+GAMEPLAY_SprainedWristCannotHoldWeapon,You cannot equip a weapon while you have a sprained wrist.,,Du kan ikkje nytta våpen med vrengt handledd.
+GAMEPLAY_SprainedWristDescription,"You have sprained your wrist. You will not be able to hald weapons until you treat it, or it heals over time.",,"Du har vrengt handleddet. Du kan ikkje halde våpen før du behandlar skaden, eller han lækjer av seg sjølv."
+GAMEPLAY_SprainedWristHealed,Sprained wrist healed,,Vrengt handledd lækt
+GAMEPLAY_SprainedWristHUD,Suffered a sprained wrist,,Du har vrengt handleddet
+GAMEPLAY_SprainedWristLog,Sprained wrist,,Vrengde handledd
 GAMEPLAY_SprainedWristMajor,Plane Crash Injuries,,Skadar etter flystyrten
-GAMEPLAY_SprainedWristMajorDescription,"After the plane crash you are concussed, badly briused and feeling weak. Your neve was wounded during the crash. You will not be able to climb or hald weapons until it heals through rest.",,"Etter flystyrten har du hjernerystelse, du har slått deg kraftig og kjennar deg svak. Handa di blei skada i krasjet. Du kan ikkje klyve eller halde våpen før skaden lækjast. Det vil hjelpe å ta seg ein kvil."
+GAMEPLAY_SprainedWristMajorDescription,"After the plane crash you are concussed, badly briused and feeling weak. Your neve was wounded during the crash. You will not be able to climb or hald weapons until it heals through rest.",,"Etter flystyrten har du hjernerystelse, du har slått deg kraftig og kjennar deg svak. Handa di vart skada i krasjet. Du kan ikkje klyve eller halde våpen før skaden lækjast. Det vil hjelpe å ta seg ein kvil."
 GAMEPLAY_SprainPain,Pain,,Verk
 GAMEPLAY_SprainPainDesc,"You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.",,Skada di verkar noko som fører til uklårt syn og ubehag. Læk det eller la det gå over.
-GAMEPLAY_SprainRisk,Sprain Risk,,Rengjerisiko
-GAMEPLAY_SprainRiskDesc,"You are Exhausted or Encumbered, and at higher risk for a Sprain when traversing sloped ground.",,Du er sleten eller nedtyngja og har derfor ein større sjanse for å rengja anklar og handledd når du går i bakkar.
-GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller hiv i frå deg noko frå ranselen for å kvitta deg med rengjerisikoen.
+GAMEPLAY_SprainRisk,Sprain Risk,,Vrengjerisiko
+GAMEPLAY_SprainRiskDesc,"You are Exhausted or Encumbered, and at higher risk for a Sprain when traversing sloped ground.",,Du er sleten eller nedtyngja og har derfor ein større sjanse for å vrengje okler og handledd når du går i bakkar.
+GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller skilje deg av med noko for å kvitta deg med vrengjerisikoen.
 GAMEPLAY_SprayNotMapped,This shape is not shown on the map when sprayed,,
 GAMEPLAY_SprayPaint,Spray Paint,,
 GAMEPLAY_SprayPaintDescription,A can of Spray Paint. Can be used to leave signs and markers in the environment.,,
@@ -6462,8 +6459,8 @@ GAMEPLAY_Stat_RevolverShot,Revolver Shots Taken,,Skot med revolver
 GAMEPLAY_Stat_RifleAccuracy,Rifle Accuracy,,Treffsikkerheit med børse
 GAMEPLAY_Stat_RifleShot,Rifle Shots Taken,,Skot med børse
 GAMEPLAY_Stat_Scurvy,Scurvy,,Skjørbuk
-GAMEPLAY_Stat_Sprains_Ankle,Ankle Sprains,,Rengja ankler
-GAMEPLAY_Stat_Sprains_Wrist,Wrist Sprains,,Rengja handledd
+GAMEPLAY_Stat_Sprains_Ankle,Ankle Sprains,,Vrengde okler
+GAMEPLAY_Stat_Sprains_Wrist,Wrist Sprains,,Vrengde handledd
 GAMEPLAY_Stat_StagsKilled,deer Killed,,Hjortar drepne
 GAMEPLAY_Stat_SuccessfulHits_Bow,Wildlife Bow Hits,,Treff på dyr med boge
 GAMEPLAY_Stat_SuccessfulHits_DistressPistol,Wildlife Distress Pistol Hits,,Treff på dyr med signalpistol
@@ -6516,7 +6513,7 @@ GAMEPLAY_StoryPreviewEpisodeFourDesc,"A murderous gang of escaped convicts has c
 GAMEPLAY_StoryPreviewEpisodeFourName,Episode Four,,Episode 4
 GAMEPLAY_StoryPreviewEpisodeLocked,Locked,Locked refers to the content currently being locked.,Låst
 GAMEPLAY_StoryPreviewEpisodeOneDate,"Unlocks August 1st, 2017",Unlocks refers to the content unlocking on that date.,Låsast opp 1. august 2017
-GAMEPLAY_StoryPreviewEpisodeOneDesc,"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in the Northern Canadian wilderness. Struggling to survive, Mackenzie explores the small town of Milton, where he begins to understand the scope of this quiet apocalypse.",description of episode one's story,"Mackenzie og dr. Greenwood vert skilt når flyet deira krasjar djupt inne i den nord-kanadiske villmarka. Desperat etter å overleva utforskar Mackenzie den litle byen Milton, kor han byrjar å forstå ruvet av den stille apokalypsen."
+GAMEPLAY_StoryPreviewEpisodeOneDesc,"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in the Northern Canadian wilderness. Struggling to survive, Mackenzie explores the small town of Milton, where he begins to understand the scope of this quiet apocalypse.",description of episode one's story,"Mackenzie og dr. Greenwood vert skilt når flyet deira krasjar djupt inne i den nord-kanadiske villmarka. Desperat etter å overleva utforskar Mackenzie den litle byen Milton, kor han byrjar å forstå ruvet av den tyste apokalypsen."
 GAMEPLAY_StoryPreviewEpisodeOneName,Episode One: Do Not Go Gentle,Name of episode one,Episode 1: Ikkje gje deg utan kamp
 GAMEPLAY_StoryPreviewEpisodeThreeDesc,"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all her skills as a doctor to bear on the survivors she encounters. But will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?",,
 GAMEPLAY_StoryPreviewEpisodeThreeName,Episode Three,,Episode 3
@@ -7414,7 +7411,7 @@ GAMEPLAY_UseHatchet,Use Hatchet,,Nytt øks
 GAMEPLAY_UseKnife,Use Knife,,Nytt kniv
 GAMEPLAY_UseMatch,Match,,Fyrstikk
 GAMEPLAY_UsePrybar,Use Prybar,,Nytt kubein
-GAMEPLAY_UserChanged,The signed in user has changed. ,,Innlogga brukar blei endra.
+GAMEPLAY_UserChanged,The signed in user has changed. ,,Innlogga brukar vart endra.
 GAMEPLAY_UserMarker,Custom Marker,,
 GAMEPLAY_Using,Using,"As in ""Using knife"" or ""Using fists""",Nyttar
 GAMEPLAY_VaultCodeRequired,Bank Vault Code required,,Du må ha koden til bankhvelvet
@@ -9295,7 +9292,7 @@ STORY_Collectible_HC_ML_ClearCut_NarrativeText,"This small note looks to have be
  
  I'm heading to the clear cut - put some supplies aside for us. Away from prying eyes. If you need something, look for the old stump between two log piles.
  
- - K""",,"Det verkar som dette vesle notatet blei etterlaten til ein bestemt person. Det er litt rart, sidan området er tynt befolka.
+ - K""",,"Det verkar som dette vesle notatet vart etterlaten til ein bestemt person. Det er litt rart, sidan området er tynt befolka.
  
  «A, 
  
@@ -9320,7 +9317,7 @@ STORY_Collectible_HC_RW_RavineEnd_NarrativeText,"Judging by the amount of blood 
  
  Should've never tried to leave Milton.""",,"Alt blodet som er frose til arket, det stod nok ikkje so bra til med forfattaren då meldinga vart skriven.
  
-Fyrst var det det forbaska forderva kjøtet. Deretter ein rengja ankel. Og so den jævla fengselsfuglen som dukka opp ut av det blå. Eg kom meg vekk då eg datt ned i eit klov. Sjølvsagt var det då dei helvetes ulvane dukka opp. Eg slapp sakane mine og sprang so fort som faen med ein forstuet ankel. Viss du les dette, vel, det var so langt eg kom.
+Fyrst var det det forbaska forderva kjøtet. Deretter den vrengde okla. Og so den jævla fengselsfuglen som dukka opp ut av det blå. Eg kom meg vekk då eg datt ned i eit klov. Sjølvsagt var det då dei helvetes ulvane dukka opp. Eg slapp sakane mine og sprang so fort som faen med ei vrengt okle. Viss du les dette, vel, det var so langt eg kom.
  
 Eg burde aldri ha prøvd å forlata Milton."
 STORY_Collectible_JoplinsBunkerNote,"Joplin's Journal, Part One",,
@@ -9984,7 +9981,7 @@ STORY_jnl_Spear_spearhead,Use the Forge to create a Spear Head.,,
 STORY_jnl_Spear_workbench,Craft a new Bear Spear at a workbench.,,
 STORY_jnl_SpearQuest_Desc,Arm yourself with a spear to hold off the Old Bear,,
 STORY_jnl_SpearQuest_Title,The Best Defense,,
-STORY_jnl_SurvivalSchool_Desc,Jeremiah's guide to surviving the Quiet Apocalypse. Listen to him if you want to live.,,Jeremiah sin rettleiing til å overleva den stille apokalypsen. Høyr nøye på kva han har å seia om du ynskjer å leva.
+STORY_jnl_SurvivalSchool_Desc,Jeremiah's guide to surviving the Quiet Apocalypse. Listen to him if you want to live.,,Jeremiah sin rettleiing til å overleva den tyste apokalypsen. Høyr nøye på kva han har å seia om du ynskjer å leva.
 STORY_jnl_SurvivalSchool_Title,Survival School,,Overlevingskurs
 STORY_jnl_Survivors_board,Check the survivor board in the hall.,,
 STORY_jnl_Survivors_Desc,"There are many displaced people after the plane crash. Help the survivors, both the living and the lost.",,
@@ -10341,447 +10338,405 @@ Viss du ynskjer å foreta ein betaling eller diskutera kontoens status med oss, 
 Takk, og ha ein fin dag.
  
 FASTLANDET STRAUM AS."
-SUBTITLE_AnkleSprain1,Damn it...sprained my ankle.,,"Faen, eg forstuet ankelen."
-SUBTITLE_AnkleSprain2,Oooh...that's sore.,,"Au, den er sår."
-SUBTITLE_AnkleSprain3,That's going to slow things down...,,"Dette kjem til å sakke meg ned.
-"
-SUBTITLE_AstCarryBreathHigh01,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh02,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh027,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh03,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh04,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh05,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh06,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh07,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh08,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh09,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh10,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh11,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh12,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh13,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh14,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh15,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh16,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh17,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh18,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh19,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh20,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh21,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh22,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh23,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh24,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh25,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh26,[Heavy breathing],,
-SUBTITLE_AstCarryBreathHigh28,[Heavy breathing],,
-SUBTITLE_AstCarryBreathLow01,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow02,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow03,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow04,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow05,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow06,[Quiet breathing],,
-SUBTITLE_AstCarryBreathLow07,[Quiet breathing],,
-SUBTITLE_AstCarryBreathMed01,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed02,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed03,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed04,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed05,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed06,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed07,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed08,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed09,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed10,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed11,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed12,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed13,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed14,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed15,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed16,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed17,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed18,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed19,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed20,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed21,[Moderate breathing],,
-SUBTITLE_AstCarryBreathMed22,[Moderate breathing],,
-SUBTITLE_Atk1,[Attack grunt],,[Stynje]
-SUBTITLE_Atk2,[Attack grunt],,[Stynje]
-SUBTITLE_Atk3,[Attack grunt],,[Stynje]
-SUBTITLE_Atk4,[Attack grunt],,[Stynje]
-SUBTITLE_Atk5,[Attack grunt],,[Stynje]
-SUBTITLE_Bleeding1,Gotta stop that blood loss.,,"Eg må stogge blodtapet.
-"
-SUBTITLE_Bleeding2,Gotta stop that bleeding.,,"Eg må stogge blødingen.
-"
-SUBTITLE_Bleeding3,Need some first aid.,,"Eg trenger førstehjelp.
-"
-SUBTITLE_BleedingSerious1,Feeling... faint.,,Følar meg... dorsk.
-SUBTITLE_BleedingSerious2,I'm going to bleed out soon.,,"Snart blør eg ihel.
-"
-SUBTITLE_BreathHighIntensity1,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity10,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity2,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity3,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity4,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity5,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity6,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity7,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity8,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathHighIntensity9,[Heavy breathing],,[Pesar]
-SUBTITLE_BreathLowIntensity1,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity10,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity2,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity3,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity4,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity5,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity6,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity7,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity8,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathLowIntensity9,[Quiet breathing],,[Pustar stille]
-SUBTITLE_BreathMediumIntensity1,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity10,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity2,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity3,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity4,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity5,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity6,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity7,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity8,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BreathMediumIntensity9,[Moderate breathing],,[Pustar roleg]
-SUBTITLE_BurnReaction1,Ow...hot hot hot.,,Oi... varmt varmt... veldig varmt.
-SUBTITLE_BurnReaction2,Shit that burns.,,"Satan så det svir.
-"
+SUBTITLE_AnkleSprain1,Damn it...sprained my ankle.,,Fy søren... eg vrengde okla.
+SUBTITLE_AnkleSprain2,Oooh...that's sore.,,Åh... det er sårt.
+SUBTITLE_AnkleSprain3,That's going to slow things down...,,Dette kjem til å sakke meg ned...
+SUBTITLE_AstCarryBreathHigh01,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh02,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh027,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh03,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh04,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh05,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh06,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh07,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh08,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh09,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh10,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh11,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh12,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh13,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh14,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh15,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh16,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh17,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh18,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh19,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh20,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh21,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh22,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh23,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh24,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh25,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh26,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathHigh28,[Heavy breathing],,[Pesing]
+SUBTITLE_AstCarryBreathLow01,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow02,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow03,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow04,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow05,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow06,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathLow07,[Quiet breathing],,[Tyst anding]
+SUBTITLE_AstCarryBreathMed01,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed02,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed03,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed04,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed05,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed06,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed07,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed08,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed09,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed10,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed11,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed12,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed13,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed14,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed15,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed16,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed17,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed18,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed19,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed20,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed21,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_AstCarryBreathMed22,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_Atk1,[Attack grunt],,[Støn]
+SUBTITLE_Atk2,[Attack grunt],,[Støn]
+SUBTITLE_Atk3,[Attack grunt],,[Støn]
+SUBTITLE_Atk4,[Attack grunt],,[Støn]
+SUBTITLE_Atk5,[Attack grunt],,[Støn]
+SUBTITLE_Bleeding1,Gotta stop that blood loss.,,Eg må stogge blodtapet.
+SUBTITLE_Bleeding2,Gotta stop that bleeding.,,Eg må stogge blødinga.
+SUBTITLE_Bleeding3,Need some first aid.,,Eg treng fyrstehjelp.
+SUBTITLE_BleedingSerious1,Feeling... faint.,,Eg kjennar meg... dorsk.
+SUBTITLE_BleedingSerious2,I'm going to bleed out soon.,,Snart blør eg i hel.
+SUBTITLE_BreathHighIntensity1,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity10,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity2,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity3,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity4,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity5,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity6,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity7,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity8,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathHighIntensity9,[Heavy breathing],,[Pesing]
+SUBTITLE_BreathLowIntensity1,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity10,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity2,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity3,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity4,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity5,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity6,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity7,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity8,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathLowIntensity9,[Quiet breathing],,[Tyst anding]
+SUBTITLE_BreathMediumIntensity1,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity10,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity2,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity3,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity4,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity5,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity6,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity7,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity8,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BreathMediumIntensity9,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_BurnReaction1,Ow...hot hot hot.,,"Au... varmt, varmt, varmt."
+SUBTITLE_BurnReaction2,Shit that burns.,,"Satan, det svir."
 SUBTITLE_BurnReaction3,Holy shit...that's hot.,,"Helvete, det var varmt."
 SUBTITLE_BurnReaction4,Oh damn it...it burns...,,Steikje... det svir...
-SUBTITLE_BurnReaction5,Climbing into the fire...not a good idea.,,Å gå på bålet er ingen god idé
-SUBTITLE_Burns1,That hurts so much...,,Eg føler store smerter...
+SUBTITLE_BurnReaction5,Climbing into the fire...not a good idea.,,Å gå i bålet... ingen god idé
+SUBTITLE_Burns1,That hurts so much...,,Det gjer so vondt...
 SUBTITLE_Burns2,It feels like it's still burning...,,Det svir framleis...
-SUBTITLE_Burns3,Arggh the pain.,,Satan så vondt.
-SUBTITLE_CatchBreath1,[Gasp],,[Gisper etter luft]
-SUBTITLE_CatchBreath2,[Gasp],,[Gisper etter luft]
-SUBTITLE_CatchBreath3,[Gasp],,[Gisper etter luft]
-SUBTITLE_CatchBreath4,[Gasp],,[Gisper etter luft]
+SUBTITLE_Burns3,Arggh the pain.,,"Arrg, smerta"
+SUBTITLE_CatchBreath1,[Gasp],,[Gisp]
+SUBTITLE_CatchBreath2,[Gasp],,[Gisp]
+SUBTITLE_CatchBreath3,[Gasp],,[Gisp]
+SUBTITLE_CatchBreath4,[Gasp],,[Gisp]
 SUBTITLE_CombatAnimalGrappling1,Get away you mother...,,"Vik frå meg, din..."
 SUBTITLE_CombatAnimalGrappling2,You're gonna die!!!!!,,No skal du døy!
-SUBTITLE_CombatAnimalGrappling3,I'm gonna kill you and eat you ya bastard!!,,"Eg skal ta knekken på deg og ete deg, din jævel!"
-SUBTITLE_CombatAnimalGrappling4,Leit go of me!!!,,Slipp meg!
-SUBTITLE_CombatAnimalGrappling5,It's not gonna be that easy for you!!,,"Du kjem til å ha det vanskeleg!
-"
-SUBTITLE_CombatAnimalGrappling6,You're gonna have to do better than that!!,,Du må prestere betre enn som så!
-SUBTITLE_CombatAnimalGrappling7,[Extertion grunts],,[Stynjer av anstrenging]
-SUBTITLE_CombatAnimalGrappling8,[Extertion grunts],,[Stynjer av anstrenging]
-SUBTITLE_ConditionDehydrated1,My tongue feels like sandpaper.,,Tungen min kjennes som sandpapir.
-SUBTITLE_ConditionDehydrated2,I need to find something to drink.,,"Eg treng noko å drikke.
-"
-SUBTITLE_ConditionDehydrated3,I'm so thirsty I can't think straight.,,Eg er så tørst at eg byrjar å verta ør.
-SUBTITLE_ConditionDehydrated4,"I need somethink to drink, and soon.",,"Eg treng drikke snarast mogeleg.
-"
-SUBTITLE_ConditionDehydrated5,I'll die if I don't drink something soon.,,"Eg kjem til å døy viss eg ikkje får noko drikke inn i meg.
-"
-SUBTITLE_ConditionDehydrated6,Mouth so dry.,,Kjeften min er så tørr.
-SUBTITLE_ConditionDehydrated7,I need some water.,,"Eg treng vatn.
-"
-SUBTITLE_ConditionDehydrated8,Need a drink.,,Eg treng noko å drikke.
-SUBTITLE_ConditionDehydrated9,Need… water.,,Eg treng... vatn.
-SUBTITLE_ConditionEncumberanceHigh1,Too much to carry.,,For mykje å bere.
-SUBTITLE_ConditionEncumberanceHigh2,I can't carry this any further.,,Eg klarer ikkje å bere dette noko lengre.
-SUBTITLE_ConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,"Eg må etterlate litt utstyr.
-"
-SUBTITLE_ConditionEncumberanceHigh4,Can't move.,,Kan ikkje røre meg.
-SUBTITLE_ConditionEncumberanceHigh5,Too heavy. Can't move.,,"For tungt. Klarer ikkje å røre meg.
-"
-SUBTITLE_ConditionEncumberanceLow1,This pack is getting kinda heavy.,,"Denne ranselen byrjar å vege ein del.
-"
-SUBTITLE_ConditionEncumberanceLow2,I'm not sure I can carry much more.,,"Eg trur ikkje eg klarer å bære noko meir enn dette.
-"
-SUBTITLE_ConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Lurer på om eg kan legge frå meg noko av utstyret...
-SUBTITLE_ConditionEncumberanceLow4,Too heavy,,Det er for tungt.
-SUBTITLE_ConditionEncumberanceLow5,Too much stuff to carry.,,"For mange ting å dra med meg.
-"
-SUBTITLE_ConditionEncumberanceLow6,I might have to drop some gear.,,"Eg bør la litt utsyr ligge.
-"
+SUBTITLE_CombatAnimalGrappling3,I'm gonna kill you and eat you ya bastard!!,,"Eg skal drepa og ete deg, din jævel!"
+SUBTITLE_CombatAnimalGrappling4,Leit go of me!!!,,Slepp meg!
+SUBTITLE_CombatAnimalGrappling5,It's not gonna be that easy for you!!,,Det vert ikkje so lett for deg!
+SUBTITLE_CombatAnimalGrappling6,You're gonna have to do better than that!!,,Du må yta betre enn det!
+SUBTITLE_CombatAnimalGrappling7,[Extertion grunts],,[Anstrengde støn]
+SUBTITLE_CombatAnimalGrappling8,[Extertion grunts],,[Anstrengde støn]
+SUBTITLE_ConditionDehydrated1,My tongue feels like sandpaper.,,Tunga min kjennest som sandpapir.
+SUBTITLE_ConditionDehydrated2,I need to find something to drink.,,Eg treng noko å drikke.
+SUBTITLE_ConditionDehydrated3,I'm so thirsty I can't think straight.,,Eg er so tyrst at eg ikkje kan tenkja klart.
+SUBTITLE_ConditionDehydrated4,"I need somethink to drink, and soon.",,"Eg treng noko å drikke, og det snart."
+SUBTITLE_ConditionDehydrated5,I'll die if I don't drink something soon.,,Eg kjem til å døy viss eg ikkje drikk noko snart.
+SUBTITLE_ConditionDehydrated6,Mouth so dry.,,Munnen min er so turr.
+SUBTITLE_ConditionDehydrated7,I need some water.,,Eg treng noko vatn.
+SUBTITLE_ConditionDehydrated8,Need a drink.,,Eg treng ein drykk.
+SUBTITLE_ConditionDehydrated9,Need… water.,,Treng... vatn.
+SUBTITLE_ConditionEncumberanceHigh1,Too much to carry.,,For mykje å bera.
+SUBTITLE_ConditionEncumberanceHigh2,I can't carry this any further.,,Eg maktar ikkje å bera dette noko lenger.
+SUBTITLE_ConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Eg må etterlata noko av utstyret.
+SUBTITLE_ConditionEncumberanceHigh4,Can't move.,,Eg kan ikkje røra meg.
+SUBTITLE_ConditionEncumberanceHigh5,Too heavy. Can't move.,,For tungt. Eg kan ikkje røra meg.
+SUBTITLE_ConditionEncumberanceLow1,This pack is getting kinda heavy.,,Denne ranselen byrjar å vege ein del.
+SUBTITLE_ConditionEncumberanceLow2,I'm not sure I can carry much more.,,Eg veit ikkje om eg maktar å bera meir enn dette.
+SUBTITLE_ConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Eg lurer på om eg kan leggje i frå meg noko av dette utstyret...
+SUBTITLE_ConditionEncumberanceLow4,Too heavy,,For tungt
+SUBTITLE_ConditionEncumberanceLow5,Too much stuff to carry.,,For mykje å drassa på.
+SUBTITLE_ConditionEncumberanceLow6,I might have to drop some gear.,,Eg må gjerne leggja i frå meg noko utstyr.
 SUBTITLE_ConditionEncumberanceLow7,I need to drop something.,,Eg må legge i frå meg noko.
 SUBTITLE_ConditionEncumberanceLow8,I'm going to have to leave something behind. ,,Eg må la noko ligge igjen.
 SUBTITLE_ConditionEncumberanceLow9,Something's got to go.,,Eg må kvitte meg med noko.
-SUBTITLE_ConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg kjem ikkje til å klare å bære dette mykje lengre.
-SUBTITLE_ConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å bli for tung å bære.
-SUBTITLE_ConditionEncumberanceMedium3,I can barely walk with this much gear.,,"Utstyret er så tungt at eg klarer så vidt å gå.
-"
-SUBTITLE_ConditionEncumberanceMedium4,All this gear is slowing me down.,,"Alt utstyret seinkar meg ned.
-"
-SUBTITLE_ConditionEncumberanceMedium5,This gear is starting to slow me down.,,Utstyret gjer at det går saktere.
-SUBTITLE_ConditionEncumberanceMedium6,Starting to weigh me down.,,"Eg kjennar at utstyret byrjar å bli tungt.
-"
-SUBTITLE_ConditionEncumberanceMedium7,Feels like a lot of gear.,,"Følast ut som at eg har pakka litt for masse i sekken.
-"
-SUBTITLE_ConditionFair1,I don't feel so good.,,Eg føler meg ikkje helt i form.
-SUBTITLE_ConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarer meg.
+SUBTITLE_ConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg kjem ikkje til å klara å bera denne byrda mykje lenger.
+SUBTITLE_ConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å verta for tung til å berast.
+SUBTITLE_ConditionEncumberanceMedium3,I can barely walk with this much gear.,,Eg kan knapt gå med so mykje utstyr.
+SUBTITLE_ConditionEncumberanceMedium4,All this gear is slowing me down.,,Alt dette utstyret seinkar meg.
+SUBTITLE_ConditionEncumberanceMedium5,This gear is starting to slow me down.,,Utstyret byrjar å seinka meg.
+SUBTITLE_ConditionEncumberanceMedium6,Starting to weigh me down.,,Det byrjar å tyngje meg.
+SUBTITLE_ConditionEncumberanceMedium7,Feels like a lot of gear.,,Kjennest som mykje utstyr.
+SUBTITLE_ConditionFair1,I don't feel so good.,,Eg kjennar meg ikkje so bra.
+SUBTITLE_ConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarar meg.
 SUBTITLE_ConditionFair3,I'm not ready to die.,,Eg er ikkje klar til å døy.
-SUBTITLE_ConditionFair4,I don't have much more in me.,,"Eg er skåla tom for krefter.
-"
+SUBTITLE_ConditionFair4,I don't have much more in me.,,Eg har ikkje mykje mer i meg.
 SUBTITLE_ConditionFair5,(Needs new line recorded),,(Treng nytt opptak)
-SUBTITLE_ConditionFatigue1,If I don't rest soon I'm going to faint.,,"Eg kjem til å svima av viss eg ikkje får kvile snart. 
-"
-SUBTITLE_ConditionFatigue2,I think I need to lay down.,,Eg trur eg trenger å legge med ned litt.
-SUBTITLE_ConditionFatigue3,I need to find a place to rest.,,"Eg treng ein kvileplass.
-"
-SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,"Eg treng å kvile snart.
-"
-SUBTITLE_ConditionFatigue5,I just need to close my eyes.,,"Augene mine treng kvile.
-"
-SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne lika so godt å leggja meg ned her.
-SUBTITLE_ConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kunne lagd meg ned og kvilt rett her.
-SUBTITLE_ConditionFatigueHigh3,I'd lay down right here if I ever thought I'd wake up again.,,"Hadde eg trudd at eg hadde vakna opp neste gong så hadde eg lagd meg ned her.
-"
+SUBTITLE_ConditionFatigue1,If I don't rest soon I'm going to faint.,,Viss eg ikkje kviler snart kjem eg til å svime av.
+SUBTITLE_ConditionFatigue2,I think I need to lay down.,,Eg trur eg må leggja meg nedpå.
+SUBTITLE_ConditionFatigue3,I need to find a place to rest.,,Eg må finna ein kvileplass.
+SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,Eg kjem til å måtte kvile snart.
+SUBTITLE_ConditionFatigue5,I just need to close my eyes.,,Eg treng berre å lukka augene mine.
+SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne lagt meg her.
+SUBTITLE_ConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan leggja meg ned og kvila litt rett her.
+SUBTITLE_ConditionFatigueHigh3,I'd lay down right here if I ever thought I'd wake up again.,,Eg hadde lagt meg her viss eg trudde at eg kom til å vakna igjen.
 SUBTITLE_ConditionFatigueHigh4,I'm so tired.,,Eg er so trøtt.
-SUBTITLE_ConditionFatigueHigh5,I'm too tired to think straight. ,,Eg er for trøtt til å tenkje skikkeleg. 
-SUBTITLE_ConditionFreezing1,Damn...I'm freezing.,,Faen...so kaldt.
-SUBTITLE_ConditionFreezing2,Wait...I'm so cold I'm warming up again.,,"Vent, eg er so kald at det byrjar å føles varmt igjen."
-SUBTITLE_ConditionFreezing3,So...cold.,,Så... kaldt.
+SUBTITLE_ConditionFatigueHigh5,I'm too tired to think straight. ,,Eg er for trøtt til å tenkje klart.
+SUBTITLE_ConditionFreezing1,Damn...I'm freezing.,,Faen... eg frys.
+SUBTITLE_ConditionFreezing2,Wait...I'm so cold I'm warming up again.,,"Vent, eg er so kald at eg får varmen igjen."
+SUBTITLE_ConditionFreezing3,So...cold.,,So... kaldt.
 SUBTITLE_ConditionFreezing4,I'm too cold to think.,,Eg er for kald til å tenkje.
-SUBTITLE_ConditionFreezing5,I'll die if I don't warm up soon.,,Eg dør viss eg ikkje får varmen i meg snart.
-SUBTITLE_ConditionFreezing6,I'm so cold...just want to lay down for a bit...,,Eg fryser... eg har lyst til å leggje meg ned litt...
-SUBTITLE_ConditionFreezing7,Goddamn freezing.,,So jævlig kaldt.
-SUBTITLE_ConditionFreezing8,Never felt so cold in my life,,"At det går ann å være så kald.
-"
-SUBTITLE_ConditionPoor1,Things are starting to look pretty grim.,,No ser det ganske so mørkt ut.
-SUBTITLE_ConditionPoor2,I think this might be the end.,,"Dette er nok slutten.
-"
+SUBTITLE_ConditionFreezing5,I'll die if I don't warm up soon.,,Eg døyr viss eg ikkje får varmen i meg snart.
+SUBTITLE_ConditionFreezing6,I'm so cold...just want to lay down for a bit...,,Eg er så kald... eg vil berre leggja meg nedpå litt...
+SUBTITLE_ConditionFreezing7,Goddamn freezing.,,Jævlig kaldt.
+SUBTITLE_ConditionFreezing8,Never felt so cold in my life,,Eg har aldri før vert so kald.
+SUBTITLE_ConditionPoor1,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
+SUBTITLE_ConditionPoor2,I think this might be the end.,,Dette er nok slutten.
 SUBTITLE_ConditionPoor3,I'm going to die out here.,,Eg kjem til å døy her ute.
-SUBTITLE_ConditionPoor4,Not going to pull through this time...,,Denne gongen klarer eg meg ikkje...
-SUBTITLE_ConditionPoor5,In the end...did any of it really matter?,,Til syvende og sist... var det i det hele tatt noko som betydde noe?
-SUBTITLE_ConditionStarving1,Where can I find something to eat?,,Kvar kan eg finne noko å ete?
-SUBTITLE_ConditionStarving10,Need something to eat.,,Eg treng noko å ete.
-SUBTITLE_ConditionStarving11,Gotta eat soon.,,Må ete snart.
-SUBTITLE_ConditionStarving2,I'll die if I don't get some food soon.,,"Eg døyr viss eg ikkje får noko mat i meg snart.
-"
-SUBTITLE_ConditionStarving3,I'm so hungry.,,Eg er so sulten.
-SUBTITLE_ConditionStarving4,Can you eat trees?,,Er trea etande?
-SUBTITLE_ConditionStarving5,My stomach feels like an empty pit...,,"Det er nett som at magen min skulle vært eit tomt hól.
-"
-SUBTITLE_ConditionStarving6,Never thought I'd be dying from starvation.,,"Av alle ting så kjem eg til å døy av matmangel.
-"
-SUBTITLE_ConditionStarving7,I think my stomach is eating itself.,,"Eg trur magen min har begynt å ete seg sjølv.
-"
-SUBTITLE_ConditionStarving8,"Dammit, so hungry.",,"Satan, so sulten."
-SUBTITLE_ConditionStarving9,Getting weak.,,"Føler meg svak.
-"
-SUBTITLE_ConditionVeryCold1,My fingers feel numb.,,Fingrane mine er kjenslelause.
-SUBTITLE_ConditionVeryCold2,The cold is making my head feel thick...,,Kulda gjer at hodet føles tjukt...
+SUBTITLE_ConditionPoor4,Not going to pull through this time...,,Denne gongen klarar eg meg ikkje...
+SUBTITLE_ConditionPoor5,In the end...did any of it really matter?,,Til sjuande og sist... var det noko som faktisk betydde noko?
+SUBTITLE_ConditionStarving1,Where can I find something to eat?,,Kvar kan eg finna noko å eta?
+SUBTITLE_ConditionStarving10,Need something to eat.,,Treng noko å eta.
+SUBTITLE_ConditionStarving11,Gotta eat soon.,,Må eta snart.
+SUBTITLE_ConditionStarving2,I'll die if I don't get some food soon.,,Eg kjem til å døy viss eg ikkje får noko mat snart.
+SUBTITLE_ConditionStarving3,I'm so hungry.,,Eg er so svolten.
+SUBTITLE_ConditionStarving4,Can you eat trees?,,Kan ein eta tre?
+SUBTITLE_ConditionStarving5,My stomach feels like an empty pit...,,Magen min kjennest som tomt hòl.
+SUBTITLE_ConditionStarving6,Never thought I'd be dying from starvation.,,Eg hadde aldri trudd at eg skulle svelta i hel.
+SUBTITLE_ConditionStarving7,I think my stomach is eating itself.,,Eg trur magen min har begynt å eta seg sjølv.
+SUBTITLE_ConditionStarving8,"Dammit, so hungry.",,Helvete... so svolten.
+SUBTITLE_ConditionStarving9,Getting weak.,,Vert veik.
+SUBTITLE_ConditionVeryCold1,My fingers feel numb.,,Fingrane mine kjennest nomne.
+SUBTITLE_ConditionVeryCold2,The cold is making my head feel thick...,,Kulda gjer at hovudet kjennest tjukt.
 SUBTITLE_ConditionVeryCold3,I need to find some place to escape this cold.,,Eg må finne ly for denne kulda.
-SUBTITLE_ConditionVeryCold4,Can't feel my feet.,,Har ikkje følelse i beina.
-SUBTITLE_ConditionVeryCold5,Can't feel my hands.,,Har ikkje følelse i nevane.
-SUBTITLE_ConditionVeryHungry1,I could eat anything right now.,,"Eg er villig til å ete kva som helst no.
-"
-SUBTITLE_ConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so sulten før.
-SUBTITLE_ConditionVeryHungry3,All I can think about is food.,,"Alt eg kan tenke på, er mat."
-SUBTITLE_ConditionVeryHungry4,I need to find food,,Eg må finne mat.
-SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Eg må ete snart.
+SUBTITLE_ConditionVeryCold4,Can't feel my feet.,,Eg kjenner ikkje føtene mine.
+SUBTITLE_ConditionVeryCold5,Can't feel my hands.,,Eg kjenner ikkje nevane mine.
+SUBTITLE_ConditionVeryHungry1,I could eat anything right now.,,Eg kunne ete kva som helst nett no.
+SUBTITLE_ConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so svolten før.
+SUBTITLE_ConditionVeryHungry3,All I can think about is food.,,Alt eg kan tenkja på er mat.
+SUBTITLE_ConditionVeryHungry4,I need to find food,,Eg må finna mat.
+SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Eg må eta snart.
 SUBTITLE_ConditionVeryHungry6,I could eat anything.,,Eg kunne ete kva som helst.
-SUBTITLE_ConditionVeryHungry7,I could eat a horse.,,Eg kunne ete ein heil hest.
-SUBTITLE_ConditionVeryHungry8,I'd eat anything right about now.,,Eg kunne ete kva som helst akkurat no.
-SUBTITLE_ConditionVeryThirsty1,I would drink almost anything about now.,,Eg kunne drikke nesten kva som helst akkurat no.
-SUBTITLE_ConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,"Snø overalt, men ingenting å drikke."
-SUBTITLE_ConditionVeryThirsty3,I'd eat snow if the hypothermia wouldn't kill me.,,"Eg hadde gafla i meg snø hvis ikkje hypotermi hadde tatt knekken på meg.
-"
-SUBTITLE_ConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,"Han karen som drakk sitt eget piss, virker ikkje fullt so gal no..."
-SUBTITLE_ConditionVeryThirsty5,I would do anything for a drink right now.,,Eg ville gjort kva som helst for noko å drikke no.
-SUBTITLE_ConditionVeryThirsty6,I could use a drink.,,Eg treng drikke.
-SUBTITLE_ConditionVeryThirsty7,Getting kind of thirsty.,,Det byrjar å verta mørkt. Må finne ly.
-SUBTITLE_ConditionVeryThirsty8,Better find some water.,,"Hadde vært sjå om eg finner litt vatn.
-"
-SUBTITLE_CoughAst_02,[coughing],,
-SUBTITLE_CoughAst_04,[coughing],,
-SUBTITLE_CoughAst_06,[coughing],,
-SUBTITLE_CoughAst_08,[coughing],,
-SUBTITLE_CoughAst_10,[coughing],,
-SUBTITLE_CoughAst_12,[coughing],,
-SUBTITLE_CoughAst_14,[coughing],,
-SUBTITLE_CoughAst_16,[coughing],,
-SUBTITLE_CoughAst_18,[coughing],,
-SUBTITLE_CoughAst_20,[coughing],,
-SUBTITLE_CoughAst_21,[coughing],,
-SUBTITLE_CrowCaw,[crow cawing],,
-SUBTITLE_DeathScream1,[Scream],,[Skriker]
-SUBTITLE_DeathScream2,[Scream],,[Skriker]
-SUBTITLE_Die1,[Moan],,[Jamrer]
-SUBTITLE_Die2,[Moan],,[Jamrer]
-SUBTITLE_Die3,[Moan],,[Jamrer]
-SUBTITLE_Die4,[Moan],,[Jamrer]
-SUBTITLE_Dysentery1,Oh this is a shitty way to die...,,"Snakk om å døy på ein jævlig måte...
-"
-SUBTITLE_Dysentery2,Oh man...of all the ways to die...this is the worst...,,Av alle måter å døy på... dette er den desidert verste...
-SUBTITLE_Dysentery3,Oh boy...it feels like my stomach is burning...,,"Guri malla, det er som at magen min er i full fyr. 
-"
-SUBTITLE_EntityAttack02,[growling],,
-SUBTITLE_EntityAttack04,[growling],,
-SUBTITLE_EntityAttack06,[growling],,
-SUBTITLE_EntityAttack08,[growling],,
-SUBTITLE_EntityAttack10,[growling],,
-SUBTITLE_EntityAttack12,[growling],,
-SUBTITLE_EntityAttack14,[growling],,
-SUBTITLE_EntityAttack16,[growling],,
-SUBTITLE_EntityAttack18,[growling],,
-SUBTITLE_EntityAttack20,[growling],,
-SUBTITLE_EntityAttack22,[growling],,
-SUBTITLE_EntityAttack24,[growling],,
-SUBTITLE_EntityAttack26,[growling],,
-SUBTITLE_EntityAttack28,[growling],,
-SUBTITLE_EntityAttack30,[growling],,
-SUBTITLE_EntityAttack32,[growling],,
-SUBTITLE_EntityAttack34,[growling],,
-SUBTITLE_EntityAttack35,[growling],,
-SUBTITLE_EntityFarAmbient01,[growling],,
-SUBTITLE_EntityFarAmbient02,[growling],,
-SUBTITLE_EntityFarAmbient03,[growling],,
-SUBTITLE_EntityFarAmbient04,[growling],,
-SUBTITLE_EntityFarAmbient05,[growling],,
-SUBTITLE_EntityFarAmbient06,[growling],,
-SUBTITLE_EntityFarAmbient07,[growling],,
-SUBTITLE_EntityFarAmbient08,[growling],,
-SUBTITLE_EntityFarAmbient09,[growling],,
-SUBTITLE_EntityFarAmbient10,[growling],,
-SUBTITLE_EntityFarAmbient11,[growling],,
-SUBTITLE_EntityFarAmbient12,[growling],,
-SUBTITLE_EntityFarAmbient13,[growling],,
-SUBTITLE_EntityFarAmbient14,[growling],,
-SUBTITLE_EntityFarAmbient15,[growling],,
-SUBTITLE_EntityFarAmbient16,[growling],,
-SUBTITLE_EntityFarAmbient17,[growling],,
-SUBTITLE_EntityFarAmbient18,[growling],,
-SUBTITLE_EntityFarAmbient19,[growling],,
-SUBTITLE_EntityFarAmbient20,[growling],,
-SUBTITLE_EntityFarAmbient21,[growling],,
-SUBTITLE_EntityFarBreath01,[snarling],,
-SUBTITLE_EntityFarBreath02,[snarling],,
-SUBTITLE_EntityFarBreath03,[snarling],,
-SUBTITLE_EntityFarBreath04,[snarling],,
-SUBTITLE_EntityFarBreath05,[snarling],,
-SUBTITLE_EntityFarBreath06,[snarling],,
-SUBTITLE_EntityFarBreath07,[snarling],,
-SUBTITLE_EntityFarBreath08,[snarling],,
-SUBTITLE_EntityFarBreath09,[snarling],,
-SUBTITLE_EntityFarBreath10,[snarling],,
-SUBTITLE_EntityFarBreath11,[snarling],,
-SUBTITLE_EntityFarBreath12,[snarling],,
-SUBTITLE_EntityFarBreath13,[snarling],,
-SUBTITLE_EntityFarBreath14,[snarling],,
-SUBTITLE_EntityFarBreath15,[snarling],,
-SUBTITLE_EntityFarBreath16,[snarling],,
-SUBTITLE_EntityFarBreath17,[snarling],,
-SUBTITLE_EntityFarBreath18,[snarling],,
-SUBTITLE_EntityFarBreath19,[snarling],,
-SUBTITLE_EntityHowl02,[howling],,
-SUBTITLE_EntityHowl04,[howling],,
-SUBTITLE_EntityHowl06,[howling],,
-SUBTITLE_EntityHowl08,[howling],,
-SUBTITLE_EntityHowl12,[howling],,
-SUBTITLE_EntityHowl14,[howling],,
-SUBTITLE_EntityHowl16,[howling],,
-SUBTITLE_EntityHowl18,[howling],,
-SUBTITLE_EntityHowl20,[howling],,
-SUBTITLE_EntityHowl22,[howling],,
-SUBTITLE_EntityHowl24,[howling],,
-SUBTITLE_EntityHowl26,[howling],,
-SUBTITLE_EntityHowl28,[howling],,
-SUBTITLE_EntityHowl30,[howling],,
-SUBTITLE_EntityHowl32,[howling],,
-SUBTITLE_EntityHowl34,[howling],,
-SUBTITLE_EntityHowl36,[howling],,
-SUBTITLE_EntityHowl40,[howling],,
-SUBTITLE_EntityHowl42,[howling],,
-SUBTITLE_EntityHowl46,[howling],,
-SUBTITLE_EntityHowl48,[howling],,
-SUBTITLE_EntityHowl49,[howling],,
-SUBTITLE_EntityMidAmbient01,[snarling],,
-SUBTITLE_EntityMidAmbient02,[snarling],,
-SUBTITLE_EntityMidAmbient03,[snarling],,
-SUBTITLE_EntityMidAmbient04,[snarling],,
-SUBTITLE_EntityMidAmbient05,[snarling],,
-SUBTITLE_EntityMidAmbient06,[snarling],,
-SUBTITLE_EntityMidAmbient08,[snarling],,
-SUBTITLE_EntityMidAmbient09,[snarling],,
-SUBTITLE_EntityMidAmbient10,[snarling],,
-SUBTITLE_EntityMidAmbient11,[snarling],,
-SUBTITLE_EntityMidAmbient12,[snarling],,
-SUBTITLE_EntityMidAmbient13,[snarling],,
-SUBTITLE_EntityMidAmbient14,[snarling],,
-SUBTITLE_EntityMidAmbient15,[snarling],,
-SUBTITLE_EntityMidAmbient16,[snarling],,
-SUBTITLE_EntityMidAmbient17,[snarling],,
-SUBTITLE_EntityMidAttackLong01,[growling],,
-SUBTITLE_EntityMidAttackLong02,[growling],,
-SUBTITLE_EntityMidAttackLong03,[growling],,
-SUBTITLE_EntityMidGrowl01,[growling],,
-SUBTITLE_EntityMidGrowl02,[growling],,
-SUBTITLE_EntityMidGrowl03,[growling],,
-SUBTITLE_EntityMidGrowl04,[growling],,
-SUBTITLE_EntityMidGrowl05,[growling],,
-SUBTITLE_EntityMidGrowl06,[growling],,
-SUBTITLE_EntityMidGrowl07,[growling],,
-SUBTITLE_EntityMidGrowl08,[growling],,
-SUBTITLE_EntityMidGrowl10,[growling],,
-SUBTITLE_EntityMidGrowl11,[growling],,
-SUBTITLE_EntityMidGrowl12,[growling],,
-SUBTITLE_EntityMidGrowl13,[growling],,
-SUBTITLE_EntityMidGrowl14,[growling],,
-SUBTITLE_EntityMidGrowl15,[growling],,
-SUBTITLE_EntityMidGrowl16,[growling],,
-SUBTITLE_EntityMidGrowl17,[growling],,
-SUBTITLE_EntityMidGrowl18,[growling],,
-SUBTITLE_EntityMidGrowl19,[growling],,
-SUBTITLE_EntityNearAttackLong01,[growling],,
-SUBTITLE_EntityNearAttackLong02,[growling],,
-SUBTITLE_EntityNearAttackLong03,[growling],,
-SUBTITLE_EntityNearAttackLong04,[growling],,
-SUBTITLE_EntityNearAttackLong05,[growling],,
-SUBTITLE_EntityNearAttackLong06,[growling],,
-SUBTITLE_EntityNearAttackLong07,[growling],,
-SUBTITLE_EntityNearAttackShort01,[growling],,
-SUBTITLE_EntityNearAttackShort02,[growling],,
-SUBTITLE_EntityNearAttackShort03,[growling],,
-SUBTITLE_EntityNearAttackShort04,[growling],,
-SUBTITLE_EntityNearAttackShort05,[growling],,
-SUBTITLE_EntityNearAttackShort06,[growling],,
-SUBTITLE_EntityNearAttackShort07,[growling],,
-SUBTITLE_EntityNearAttackShort08,[growling],,
-SUBTITLE_EntityNearAttackShort09,[growling],,
-SUBTITLE_EntityNearAttackShort10,[growling],,
-SUBTITLE_EntityNearAttackShort11,[growling],,
-SUBTITLE_EntityNearAttackShort12,[growling],,
-SUBTITLE_EntityNearAttackShort13,[growling],,
-SUBTITLE_EntityNearAttackShort14,[growling],,
-SUBTITLE_EntityNearAttackShort15,[growling],,
-SUBTITLE_EntityNearAttackShort16,[growling],,
-SUBTITLE_EntityNearAttackShort17,[growling],,
-SUBTITLE_EntityNearAttackShort18,[growling],,
-SUBTITLE_EntityNearAttackShort19,[growling],,
-SUBTITLE_ExertionHigh1,[Heavy exertion grunt],,[Stønner tungt av anstrenging]
-SUBTITLE_ExertionHigh2,[Heavy exertion grunt],,[Stønner tungt av anstrenging]
-SUBTITLE_ExertionHigh3,[Heavy exertion grunt],,[Stønner tungt av anstrenging]
-SUBTITLE_ExertionLow1,[Light exertion grunt],,[Stønner lett av anstrenging]
-SUBTITLE_ExertionLow2,[Light exertion grunt],,[Stønner lett av anstrenging]
-SUBTITLE_ExertionLow3,[Light exertion grunt],,[Stønner lett av anstrenging]
-SUBTITLE_ExertionMedium1,[Moderate exertion grunt],,[Stønner moderat av anstrenging]
-SUBTITLE_ExertionMedium2,[Moderate exertion grunt],,[Stønner moderat av anstrenging]
-SUBTITLE_ExertionMedium3,[Moderate exertion grunt],,[Stønner moderat av anstrenging]
+SUBTITLE_ConditionVeryHungry7,I could eat a horse.,,Eg kunne ete ein hest.
+SUBTITLE_ConditionVeryHungry8,I'd eat anything right about now.,,Eg hadde ete kva som helst nett no.
+SUBTITLE_ConditionVeryThirsty1,I would drink almost anything about now.,,Eg kunne drukke nesten kva som helst nett no.
+SUBTITLE_ConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,"Omringa av snø, men ingenting å drikka."
+SUBTITLE_ConditionVeryThirsty3,I'd eat snow if the hypothermia wouldn't kill me.,,Eg hadde ete snø viss ikkje hypotermien ville ha drept meg.
+SUBTITLE_ConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,"Han karen som drakk sitt eige piss, verkar ikkje so galen no..."
+SUBTITLE_ConditionVeryThirsty5,I would do anything for a drink right now.,,Eg ville gjort kva som helst for ein drykk no.
+SUBTITLE_ConditionVeryThirsty6,I could use a drink.,,Eg skulle hatt meg ein drykk.
+SUBTITLE_ConditionVeryThirsty7,Getting kind of thirsty.,,Byrjar å verta litt tyrst.
+SUBTITLE_ConditionVeryThirsty8,Better find some water.,,Eg bør finna noko vatn.
+SUBTITLE_CoughAst_02,[coughing],,[Hosting]
+SUBTITLE_CoughAst_04,[coughing],,[Hosting]
+SUBTITLE_CoughAst_06,[coughing],,[Hosting]
+SUBTITLE_CoughAst_08,[coughing],,[Hosting]
+SUBTITLE_CoughAst_10,[coughing],,[Hosting]
+SUBTITLE_CoughAst_12,[coughing],,[Hosting]
+SUBTITLE_CoughAst_14,[coughing],,[Hosting]
+SUBTITLE_CoughAst_16,[coughing],,[Hosting]
+SUBTITLE_CoughAst_18,[coughing],,[Hosting]
+SUBTITLE_CoughAst_20,[coughing],,[Hosting]
+SUBTITLE_CoughAst_21,[coughing],,[Hosting]
+SUBTITLE_CrowCaw,[crow cawing],,[Kråkeskrik]
+SUBTITLE_DeathScream1,[Scream],,[Skrik]
+SUBTITLE_DeathScream2,[Scream],,[Skrik]
+SUBTITLE_Die1,[Moan],,[Jamr]
+SUBTITLE_Die2,[Moan],,[Jamr]
+SUBTITLE_Die3,[Moan],,[Jamr]
+SUBTITLE_Die4,[Moan],,[Jamr]
+SUBTITLE_Dysentery1,Oh this is a shitty way to die...,,"Åh, dette er ein drit måte å døy på..."
+SUBTITLE_Dysentery2,Oh man...of all the ways to die...this is the worst...,,Åh... av alle måtane å døy på... dette er den verste...
+SUBTITLE_Dysentery3,Oh boy...it feels like my stomach is burning...,,Guri malla... det kjennest som om magen min brenn... 
+SUBTITLE_EntityAttack02,[growling],,[Knurring]
+SUBTITLE_EntityAttack04,[growling],,[Knurring]
+SUBTITLE_EntityAttack06,[growling],,[Knurring]
+SUBTITLE_EntityAttack08,[growling],,[Knurring]
+SUBTITLE_EntityAttack10,[growling],,[Knurring]
+SUBTITLE_EntityAttack12,[growling],,[Knurring]
+SUBTITLE_EntityAttack14,[growling],,[Knurring]
+SUBTITLE_EntityAttack16,[growling],,[Knurring]
+SUBTITLE_EntityAttack18,[growling],,[Knurring]
+SUBTITLE_EntityAttack20,[growling],,[Knurring]
+SUBTITLE_EntityAttack22,[growling],,[Knurring]
+SUBTITLE_EntityAttack24,[growling],,[Knurring]
+SUBTITLE_EntityAttack26,[growling],,[Knurring]
+SUBTITLE_EntityAttack28,[growling],,[Knurring]
+SUBTITLE_EntityAttack30,[growling],,[Knurring]
+SUBTITLE_EntityAttack32,[growling],,[Knurring]
+SUBTITLE_EntityAttack34,[growling],,[Knurring]
+SUBTITLE_EntityAttack35,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient01,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient02,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient03,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient04,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient05,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient06,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient07,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient08,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient09,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient10,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient11,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient12,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient13,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient14,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient15,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient16,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient17,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient18,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient19,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient20,[growling],,[Knurring]
+SUBTITLE_EntityFarAmbient21,[growling],,[Knurring]
+SUBTITLE_EntityFarBreath01,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath02,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath03,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath04,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath05,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath06,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath07,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath08,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath09,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath10,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath11,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath12,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath13,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath14,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath15,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath16,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath17,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath18,[snarling],,[Knurring]
+SUBTITLE_EntityFarBreath19,[snarling],,[Knurring]
+SUBTITLE_EntityHowl02,[howling],,[Uling]
+SUBTITLE_EntityHowl04,[howling],,[Uling]
+SUBTITLE_EntityHowl06,[howling],,[Uling]
+SUBTITLE_EntityHowl08,[howling],,[Uling]
+SUBTITLE_EntityHowl12,[howling],,[Uling]
+SUBTITLE_EntityHowl14,[howling],,[Uling]
+SUBTITLE_EntityHowl16,[howling],,[Uling]
+SUBTITLE_EntityHowl18,[howling],,[Uling]
+SUBTITLE_EntityHowl20,[howling],,[Uling]
+SUBTITLE_EntityHowl22,[howling],,[Uling]
+SUBTITLE_EntityHowl24,[howling],,[Uling]
+SUBTITLE_EntityHowl26,[howling],,[Uling]
+SUBTITLE_EntityHowl28,[howling],,[Uling]
+SUBTITLE_EntityHowl30,[howling],,[Uling]
+SUBTITLE_EntityHowl32,[howling],,[Uling]
+SUBTITLE_EntityHowl34,[howling],,[Uling]
+SUBTITLE_EntityHowl36,[howling],,[Uling]
+SUBTITLE_EntityHowl40,[howling],,[Uling]
+SUBTITLE_EntityHowl42,[howling],,[Uling]
+SUBTITLE_EntityHowl46,[howling],,[Uling]
+SUBTITLE_EntityHowl48,[howling],,[Uling]
+SUBTITLE_EntityHowl49,[howling],,[Uling]
+SUBTITLE_EntityMidAmbient01,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient02,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient03,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient04,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient05,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient06,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient08,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient09,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient10,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient11,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient12,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient13,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient14,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient15,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient16,[snarling],,[Knurring]
+SUBTITLE_EntityMidAmbient17,[snarling],,[Knurring]
+SUBTITLE_EntityMidAttackLong01,[growling],,[Knurring]
+SUBTITLE_EntityMidAttackLong02,[growling],,[Knurring]
+SUBTITLE_EntityMidAttackLong03,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl01,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl02,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl03,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl04,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl05,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl06,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl07,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl08,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl10,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl11,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl12,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl13,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl14,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl15,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl16,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl17,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl18,[growling],,[Knurring]
+SUBTITLE_EntityMidGrowl19,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong01,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong02,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong03,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong04,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong05,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong06,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackLong07,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort01,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort02,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort03,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort04,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort05,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort06,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort07,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort08,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort09,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort10,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort11,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort12,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort13,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort14,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort15,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort16,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort17,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort18,[growling],,[Knurring]
+SUBTITLE_EntityNearAttackShort19,[growling],,[Knurring]
+SUBTITLE_ExertionHigh1,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_ExertionHigh2,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_ExertionHigh3,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_ExertionLow1,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_ExertionLow2,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_ExertionLow3,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_ExertionMedium1,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_ExertionMedium2,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_ExertionMedium3,[Moderate exertion grunt],,[Anstrengt støn]
 SUBTITLE_FailFire1,Come on little fire...,,"Kom igjen, litle eld..."
 SUBTITLE_FailFire2,Don't do this to me.,,Ikkje gjer dette mot meg.
 SUBTITLE_FailFire3,Are you serious?,,Køddar du med meg?
-SUBTITLE_FailGeneral1,Damn it.,,Faen ta.
-SUBTITLE_FailGeneral2,That didn't work.,,"Det fungerte lite.
-"
-SUBTITLE_FailGeneral3,Why didn't that work?,,"Kvifor fungerte det ikkje
-"
+SUBTITLE_FailGeneral1,Damn it.,,Søren klype.
+SUBTITLE_FailGeneral2,That didn't work.,,Det virka ikkje.
+SUBTITLE_FailGeneral3,Why didn't that work?,,Kvifor verka det ikkje?
 SUBTITLE_FailGeneral4,Come on...come on...,,Kom igjen... kom igjen...
-SUBTITLE_FailGeneral5,Oh come on...,,"Å, kom igjen..."
-SUBTITLE_FemaleAnkleSprain1,Damn it...sprained my ankle.,,"Faen, eg forstua ankelen."
-SUBTITLE_FemaleAnkleSprain2,Oooh...that's sore.,,"Au, det gjer vondt."
-SUBTITLE_FemaleAnkleSprain3,That's going to slow things down...,,"Det kjem nok til å seinke farten.
-"
-SUBTITLE_FemaleAtk1,[Attack grunt],,[Stønnar]
-SUBTITLE_FemaleAtk2,[Attack grunt],,[Stønnar]
-SUBTITLE_FemaleAtk3,[Attack grunt],,[Stønnar]
-SUBTITLE_FemaleAtk4,[Attack grunt],,[Stønnar]
-SUBTITLE_FemaleAtk5,[Attack grunt],,[Stønnar]
+SUBTITLE_FailGeneral5,Oh come on...,,"Åh, kom igjen..."
+SUBTITLE_FemaleAnkleSprain1,Damn it...sprained my ankle.,,Fy søren... eg vrengde okla.
+SUBTITLE_FemaleAnkleSprain2,Oooh...that's sore.,,"Åh, det gjer vondt."
+SUBTITLE_FemaleAnkleSprain3,That's going to slow things down...,,Det kjem nok til å seinke farten.
+SUBTITLE_FemaleAtk1,[Attack grunt],,[Støn]
+SUBTITLE_FemaleAtk2,[Attack grunt],,[Støn]
+SUBTITLE_FemaleAtk3,[Attack grunt],,[Støn]
+SUBTITLE_FemaleAtk4,[Attack grunt],,[Støn]
+SUBTITLE_FemaleAtk5,[Attack grunt],,[Støn]
 SUBTITLE_FemaleBleeding1,Gotta stop that blood loss.,,Eg må stanse blodtapet.
 SUBTITLE_FemaleBleeding2,Need some first aid.,,Eg treng fyrstehjelp.
 SUBTITLE_FemaleBleeding3,I gotta get some help.,,Eg må få tak i hjelp.
@@ -10792,207 +10747,207 @@ SUBTITLE_FemaleBleedingSerious2,Feeling...faint.,,Føler meg... svimmel.
 SUBTITLE_FemaleBleedingSerious3,Yeah...that smarts.,,"Au, den kjente eg."
 SUBTITLE_FemaleBleedingSerious4,Dammit...bleeding all over the place.,,Helvete... eg blør overalt.
 SUBTITLE_FemaleBleedingSerious5,Oh no...blood. All over. My blood.,,Å nei... blod. Overalt. Mitt blod.
-SUBTITLE_FemaleBreathHighIntensity1,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity10,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity2,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity3,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity4,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity5,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity6,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity7,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity8,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathHighIntensity9,[Heavy breathing],,[Pustar tungt]
-SUBTITLE_FemaleBreathLowIntensity1,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity2,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity3,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity4,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity5,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity6,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathLowIntensity7,[Quiet breathing],,[Pustar stille]
-SUBTITLE_FemaleBreathMediumIntensity1,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity10,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity2,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity3,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity4,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity5,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity6,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity7,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity8,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBreathMediumIntensity9,[Moderate breathing],,[Pustar moderat]
-SUBTITLE_FemaleBurnReaction1,Ow...hot hot hot.,,"Åh .. det svir, det svir."
-SUBTITLE_FemaleBurnReaction2,Shit that burns.,,"Faen, det svir."
+SUBTITLE_FemaleBreathHighIntensity1,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity10,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity2,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity3,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity4,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity5,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity6,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity7,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity8,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathHighIntensity9,[Heavy breathing],,[Pesing]
+SUBTITLE_FemaleBreathLowIntensity1,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity2,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity3,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity4,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity5,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity6,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathLowIntensity7,[Quiet breathing],,[Tyst anding]
+SUBTITLE_FemaleBreathMediumIntensity1,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity10,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity2,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity3,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity4,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity5,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity6,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity7,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity8,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBreathMediumIntensity9,[Moderate breathing],,[Måtehalden anding]
+SUBTITLE_FemaleBurnReaction1,Ow...hot hot hot.,,"Au... varmt, varmt, varmt."
+SUBTITLE_FemaleBurnReaction2,Shit that burns.,,"Satan, det svir."
 SUBTITLE_FemaleBurnReaction3,Holy shit...that's hot.,,"Helvete, det var varmt."
-SUBTITLE_FemaleBurnReaction4,Oh damn it...it burns...,,Steike... det svir...
-SUBTITLE_FemaleBurnReaction5,Climbing into the fire...not a good idea.,,Gå rett på ilden... ingen god idé.
-SUBTITLE_FemaleBurns1,That hurts so much...,,det gjer veldig vondt...
-SUBTITLE_FemaleBurns2,It feels like it's still burning...,,det svir ennå...
-SUBTITLE_FemaleBurns3,Arggh the pain.,,"Faen, so vondt."
-SUBTITLE_FemaleCatchBreath1,[Gasp],,[Gisper etter luft]
-SUBTITLE_FemaleCatchBreath2,[Gasp],,[Gisper etter luft]
-SUBTITLE_FemaleCatchBreath3,[Gasp],,[Gisper etter luft]
-SUBTITLE_FemaleCatchBreath4,[Gasp],,[Gisper etter luft]
-SUBTITLE_FemaleCatchBreath5,[Gasp],,[Gisper etter luft]
-SUBTITLE_FemaleCombatAnimalGrappling1,Get away you mother...,,"Ha deg unna, din..."
-SUBTITLE_FemaleCombatAnimalGrappling2,You're gonna die!!!!!,,Du skal dø!
-SUBTITLE_FemaleCombatAnimalGrappling3,I'm gonna to kill you and eat you ya bastard!!,,"Eg skal drepe deg og spise deg, din jævel!"
-SUBTITLE_FemaleCombatAnimalGrappling4,Leit go of me!!!,,Slipp meg!
-SUBTITLE_FemaleCombatAnimalGrappling5,It's not gonna be that easy for you!!,,Så lett vert det ikke!
-SUBTITLE_FemaleCombatAnimalGrappling6,You're gonna have to do better than that!!,,Du må prestere betre enn som så!
-SUBTITLE_FemaleCombatAnimalGrappling7,[Extertion grunts],,[Stønner av anstrengelse]
-SUBTITLE_FemaleCombatAnimalGrappling8,[Extertion grunts],,[Stønner av anstrengelse]
-SUBTITLE_FemaleConditionDehydrated1,My tongue feels like sandpaper.,,Tungen min føles som sandpapir.
-SUBTITLE_FemaleConditionDehydrated10,I would drink just about anything right now.,,Eg ville drukket nesten kva som helst akkurat nå.
-SUBTITLE_FemaleConditionDehydrated2,Mouth...so dry.,,Munnen min... so tørr.
-SUBTITLE_FemaleConditionDehydrated3,I need some water.,,Eg treng vatn.
-SUBTITLE_FemaleConditionDehydrated4,Need a drink.,,Eg treng noko å drikke.
-SUBTITLE_FemaleConditionDehydrated5,Need...water.,,Trenger... vatn.
-SUBTITLE_FemaleConditionDehydrated6,I need to find something to drink.,,Eg må finne noko å drikke.
-SUBTITLE_FemaleConditionDehydrated7,I'm so thirsty I can't think straight.,,Eg er so tørst at det går rundt for meg.
-SUBTITLE_FemaleConditionDehydrated8,"I need somethink to drink, and soon.",,"Eg må finne noko å drikka, og det snart."
-SUBTITLE_FemaleConditionDehydrated9,I'll die if I don't drink soon.,,Eg dør viss eg ikkje drikk noko snart.
-SUBTITLE_FemaleConditionEncumberanceHigh1,Too much to carry.,,For mykje å bære.
-SUBTITLE_FemaleConditionEncumberanceHigh2,I can't carry this any further.,,Eg kan ikkje bære dette lenger.
-SUBTITLE_FemaleConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Eg må legge frå meg noko av utstyret.
-SUBTITLE_FemaleConditionEncumberanceLow1,This pack is getting kinda heavy.,,Byrjar å bli litt tørst.
-SUBTITLE_FemaleConditionEncumberanceLow2,I'm not sure I can carry much more.,,Eg vet ikkje om eg kan bære noko mer.
-SUBTITLE_FemaleConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Lurer på om eg kan legge frå meg noko av utstyret...
-SUBTITLE_FemaleConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg klarer ikkje å bære alt dette stort lenger.
-SUBTITLE_FemaleConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å verta for tung til å bære.
-SUBTITLE_FemaleConditionEncumberanceMedium3,I can barely walk with this much gear.,,Eg har so mykje utstyr at eg knapt kan gå.
-SUBTITLE_FemaleConditionFair1,I don't feel so good.,,Eg føler meg ikkje helt i form.
-SUBTITLE_FemaleConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarer meg.
-SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,No ser det ganske so mørkt ut.
-SUBTITLE_FemaleConditionFair4,I'm not ready to die.,,Eg vil ikkje dø.
-SUBTITLE_FemaleConditionFair5,(Needs new line recorded),,(Nytt opptak nødvendig)
-SUBTITLE_FemaleConditionFatigue1,If I don't rest soon I'm going to faint.,,"Tar eg meg ikkje ein hvil snart, svimeir eg av."
-SUBTITLE_FemaleConditionFatigue2,I think I need to lay down.,,Eg tror eg må legge meg ned.
-SUBTITLE_FemaleConditionFatigue3,I need to find a place to rest.,,Eg må finne eit plass å hvile.
-SUBTITLE_FemaleConditionFatigue4,I'm going to need to rest soon.,,Eg treng ein pust i bakken snart.
-SUBTITLE_FemaleConditionFatigue5,Getting tired.,,Byrjar å verta trøtt.
-SUBTITLE_FemaleConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne legge meg rett ned her.
-SUBTITLE_FemaleConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan legge meg og sove litt her.
-SUBTITLE_FemaleConditionFatigueHigh3,I just need to close my eyes.,,Eg treng å lukke øynene.
-SUBTITLE_FemaleConditionFatigueHigh4,I'd lay down right here if I thought I'd ever wake up again.,,"Viss eg trodde det var mulig å våkne igjen, ville eg lagt meg ned her."
-SUBTITLE_FemaleConditionFatigueHigh5,So… tired…,,Så... trøtt...
-SUBTITLE_FemaleConditionFatigueHigh6,"Man, I am too tired to think straight.",,"Faen, eg er for trøtt til å tenke."
-SUBTITLE_FemaleConditionFreezing1,Damn...I'm freezing.,,"Faen, so kaldt."
-SUBTITLE_FemaleConditionFreezing2,Goddam freezing.,,Helvetes kaldt.
-SUBTITLE_FemaleConditionFreezing3,So...cold.,,Så... kaldt.
+SUBTITLE_FemaleBurnReaction4,Oh damn it...it burns...,,Steikje... det svir...
+SUBTITLE_FemaleBurnReaction5,Climbing into the fire...not a good idea.,,Å gå i bålet... ingen god idé
+SUBTITLE_FemaleBurns1,That hurts so much...,,Det gjer so vondt...
+SUBTITLE_FemaleBurns2,It feels like it's still burning...,,Det svir framleis...
+SUBTITLE_FemaleBurns3,Arggh the pain.,,"Arrg, smerta"
+SUBTITLE_FemaleCatchBreath1,[Gasp],,[Gisp]
+SUBTITLE_FemaleCatchBreath2,[Gasp],,[Gisp]
+SUBTITLE_FemaleCatchBreath3,[Gasp],,[Gisp]
+SUBTITLE_FemaleCatchBreath4,[Gasp],,[Gisp]
+SUBTITLE_FemaleCatchBreath5,[Gasp],,[Gisp]
+SUBTITLE_FemaleCombatAnimalGrappling1,Get away you mother...,,"Vik frå meg, din..."
+SUBTITLE_FemaleCombatAnimalGrappling2,You're gonna die!!!!!,,No skal du døy!
+SUBTITLE_FemaleCombatAnimalGrappling3,I'm gonna to kill you and eat you ya bastard!!,,"Eg skal drepa og ete deg, din jævel!"
+SUBTITLE_FemaleCombatAnimalGrappling4,Leit go of me!!!,,Slepp meg!
+SUBTITLE_FemaleCombatAnimalGrappling5,It's not gonna be that easy for you!!,,Det vert ikkje so lett for deg!
+SUBTITLE_FemaleCombatAnimalGrappling6,You're gonna have to do better than that!!,,Du må yta betre enn det!
+SUBTITLE_FemaleCombatAnimalGrappling7,[Extertion grunts],,[Anstrengde støn]
+SUBTITLE_FemaleCombatAnimalGrappling8,[Extertion grunts],,[Anstrengde støn]
+SUBTITLE_FemaleConditionDehydrated1,My tongue feels like sandpaper.,,Tunga min kjennest som sandpapir.
+SUBTITLE_FemaleConditionDehydrated10,I would drink just about anything right now.,,Eg ville drukke nesten kva som helst nett no.
+SUBTITLE_FemaleConditionDehydrated2,Mouth...so dry.,,Munnen min... so turr.
+SUBTITLE_FemaleConditionDehydrated3,I need some water.,,Eg treng noko vatn.
+SUBTITLE_FemaleConditionDehydrated4,Need a drink.,,Eg treng ein drykk.
+SUBTITLE_FemaleConditionDehydrated5,Need...water.,,Treng... vatn.
+SUBTITLE_FemaleConditionDehydrated6,I need to find something to drink.,,Eg må finna noko å drikka.
+SUBTITLE_FemaleConditionDehydrated7,I'm so thirsty I can't think straight.,,Eg er so tyrst at eg ikkje klarar å tenkja klart.
+SUBTITLE_FemaleConditionDehydrated8,"I need somethink to drink, and soon.",,"Eg treng noko å drikka, og det snart."
+SUBTITLE_FemaleConditionDehydrated9,I'll die if I don't drink soon.,,Eg døyr viss eg ikkje drikk noko snart.
+SUBTITLE_FemaleConditionEncumberanceHigh1,Too much to carry.,,For mykje å bera.
+SUBTITLE_FemaleConditionEncumberanceHigh2,I can't carry this any further.,,Eg maktar ikkje bera dette lenger.
+SUBTITLE_FemaleConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Eg må leggja i frå meg noko av dette utstyret.
+SUBTITLE_FemaleConditionEncumberanceLow1,This pack is getting kinda heavy.,,Ranselen byrjar å verta tung.
+SUBTITLE_FemaleConditionEncumberanceLow2,I'm not sure I can carry much more.,,Eg vet ikkje om eg kan bera noko mer.
+SUBTITLE_FemaleConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Lurer på om eg kan leggja i frå meg noko av dette utstyret...
+SUBTITLE_FemaleConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg kjem ikkje til å klara å bera denne byrda mykje lenger.
+SUBTITLE_FemaleConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å verta for tung til å berast.
+SUBTITLE_FemaleConditionEncumberanceMedium3,I can barely walk with this much gear.,,Eg kan knapt gå med so mykje utstyr.
+SUBTITLE_FemaleConditionFair1,I don't feel so good.,,Eg kjenner meg ikkje so bra.
+SUBTITLE_FemaleConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarar meg.
+SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
+SUBTITLE_FemaleConditionFair4,I'm not ready to die.,,Eg ikkje klar for å døy.
+SUBTITLE_FemaleConditionFair5,(Needs new line recorded),,(Treng nytt opptak)
+SUBTITLE_FemaleConditionFatigue1,If I don't rest soon I'm going to faint.,,Viss eg ikkje kviler snart kjem eg til å svime av.
+SUBTITLE_FemaleConditionFatigue2,I think I need to lay down.,,Eg trur eg må leggja meg nedpå.
+SUBTITLE_FemaleConditionFatigue3,I need to find a place to rest.,,Eg må finna ein kvileplass.
+SUBTITLE_FemaleConditionFatigue4,I'm going to need to rest soon.,,Eg kjem til å måtte kvile snart.
+SUBTITLE_FemaleConditionFatigue5,Getting tired.,,Vert trøtt.
+SUBTITLE_FemaleConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne lagt meg her.
+SUBTITLE_FemaleConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan leggja meg ned og kvila litt rett her.
+SUBTITLE_FemaleConditionFatigueHigh3,I just need to close my eyes.,,Eg treng berre å lukka augene mine.
+SUBTITLE_FemaleConditionFatigueHigh4,I'd lay down right here if I thought I'd ever wake up again.,,Eg hadde lagt meg her viss eg trudde at eg kom til å vakna igjen.
+SUBTITLE_FemaleConditionFatigueHigh5,So… tired…,,So... trøtt...
+SUBTITLE_FemaleConditionFatigueHigh6,"Man, I am too tired to think straight.",,"Åh, eg er for trøtt til å tenkje klart."
+SUBTITLE_FemaleConditionFreezing1,Damn...I'm freezing.,,Fy søren... eg frys.
+SUBTITLE_FemaleConditionFreezing2,Goddam freezing.,,Jævlig kaldt.
+SUBTITLE_FemaleConditionFreezing3,So...cold.,,So... kaldt.
 SUBTITLE_FemaleConditionFreezing4,I've never felt so cold in my life.,,Eg har aldri vært so kald før.
-SUBTITLE_FemaleConditionFreezing5,I'm too cold to think.,,Eg er for kald til å tenke.
+SUBTITLE_FemaleConditionFreezing5,I'm too cold to think.,,Eg er for kald til å tenkje.
 SUBTITLE_FemaleConditionFreezing6,I'll die if I don't warm up soon.,,Eg dør viss eg ikkje får varmen i meg snart.
-SUBTITLE_FemaleConditionFreezing7,I'm so cold...just want to lay down for a bit...,,Eg fryser... eg har lyst til å legge meg ned litt...
-SUBTITLE_FemaleConditionFreezing8,Wait...I'm so cold I'm warming up a bit.,,"Vent, eg er so kald at det byrjar å føles varmere."
-SUBTITLE_FemaleConditionPoor1,I think this might be the end.,,Slutten har nok kommet.
-SUBTITLE_FemaleConditionPoor2,I'm going to die out here.,,Eg kjem til å dø her ute.
-SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,No ser det ganske so mørkt ut.
-SUBTITLE_FemaleConditionPoor4,Not going to pull through this time...,,denne gangen klarer eg meg ikkje...
-SUBTITLE_FemaleConditionPoor5,In the end...did any of it really matter?,,Til syvende og sist... var det i det hele tatt noko som betydde noe?
-SUBTITLE_FemaleConditionStarving1,Dammit...so hungry.,,Helvete... so sulten.
-SUBTITLE_FemaleConditionStarving10,Where can I find something to eat?,,Hvor kan eg finne noko å spise?
-SUBTITLE_FemaleConditionStarving2,I'll die if I don't get some food soon.,,Eg dør viss eg ikkje får i meg mat snart.
-SUBTITLE_FemaleConditionStarving3,Getting weak...,,Byrjar å verta svak...
+SUBTITLE_FemaleConditionFreezing7,I'm so cold...just want to lay down for a bit...,,Eg er så kald... eg vil berre leggja meg nedpå litt...
+SUBTITLE_FemaleConditionFreezing8,Wait...I'm so cold I'm warming up a bit.,,"Vent, eg er so kald at eg får varmen igjen."
+SUBTITLE_FemaleConditionPoor1,I think this might be the end.,,Dette er nok slutten.
+SUBTITLE_FemaleConditionPoor2,I'm going to die out here.,,Eg kjem til å døy her ute.
+SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
+SUBTITLE_FemaleConditionPoor4,Not going to pull through this time...,,Denne gongen klarar eg meg ikkje...
+SUBTITLE_FemaleConditionPoor5,In the end...did any of it really matter?,,Til sjuande og sist... var det noko som faktisk betydde noko?
+SUBTITLE_FemaleConditionStarving1,Dammit...so hungry.,,Helvete... so svolten.
+SUBTITLE_FemaleConditionStarving10,Where can I find something to eat?,,Kvar kan eg finna noko å eta?
+SUBTITLE_FemaleConditionStarving2,I'll die if I don't get some food soon.,,Eg kjem til å døy viss eg ikkje får noko mat snart.
+SUBTITLE_FemaleConditionStarving3,Getting weak...,,Vert veik.
 SUBTITLE_FemaleConditionStarving4,I'm so hungry.,,Eg er so sulten.
-SUBTITLE_FemaleConditionStarving5,Need something to eat.,,Eg treng noko å spise.
-SUBTITLE_FemaleConditionStarving6,My stomach feels like an empty pit...,,Magen føles som eit tomt hull.
-SUBTITLE_FemaleConditionStarving7,Gotta eat soon.,,Må spise snart.
-SUBTITLE_FemaleConditionStarving8,Never thought I'd be dying from starvation.,,Trodde aldri eg kom til å dø av sult.
-SUBTITLE_FemaleConditionStarving9,I think my stomach is eating itself.,,det føles som om magen spiser seg sjølv.
-SUBTITLE_FemaleConditionVeryCold1,My fingers feel numb.,,Eg har ikkje følelse i fingrene.
+SUBTITLE_FemaleConditionStarving5,Need something to eat.,,Treng noko å eta.
+SUBTITLE_FemaleConditionStarving6,My stomach feels like an empty pit...,,Magen min kjennest som tomt hòl.
+SUBTITLE_FemaleConditionStarving7,Gotta eat soon.,,Må eta snart.
+SUBTITLE_FemaleConditionStarving8,Never thought I'd be dying from starvation.,,Eg hadde aldri trudd at eg skulle svelta i hel.
+SUBTITLE_FemaleConditionStarving9,I think my stomach is eating itself.,,Eg trur magen min har begynt å eta seg sjølv.
+SUBTITLE_FemaleConditionVeryCold1,My fingers feel numb.,,Fingrane mine kjennest nomne.
 SUBTITLE_FemaleConditionVeryCold10,Jesus it's cold.,,"Jesus, det er kaldt."
-SUBTITLE_FemaleConditionVeryCold2,The cold is making my head feel thick...,,KulDen gjer at hodet føles tykt...
-SUBTITLE_FemaleConditionVeryCold3,I need to find some place to escape this cold.,,Eg må finne ly for denne kulden.
-SUBTITLE_FemaleConditionVeryCold4,I can't feel my feet.,,Eg har ikkje følelse i beina.
-SUBTITLE_FemaleConditionVeryCold5,I can't feel my hands.,,Eg har ikkje følelse i hendene.
-SUBTITLE_FemaleConditionVeryCold6,Sure getting cold...,,No byrjar kulda å kjennes...
-SUBTITLE_FemaleConditionVeryCold7,Starting to feel numb.,,Eg byrjar å føle meg nummen.
+SUBTITLE_FemaleConditionVeryCold2,The cold is making my head feel thick...,,Kulda gjer at hovudet kjennest tjukt.
+SUBTITLE_FemaleConditionVeryCold3,I need to find some place to escape this cold.,,Eg må finne ly for denne kulda.
+SUBTITLE_FemaleConditionVeryCold4,I can't feel my feet.,,Eg kjenner ikkje føtene mine.
+SUBTITLE_FemaleConditionVeryCold5,I can't feel my hands.,,Eg kjenner ikkje nevane mine.
+SUBTITLE_FemaleConditionVeryCold6,Sure getting cold...,,"Ja, no vert det kaldt..."
+SUBTITLE_FemaleConditionVeryCold7,Starting to feel numb.,,Eg byrjar å kjenna meg nomen.
 SUBTITLE_FemaleConditionVeryCold8,Gotta warm up somehow.,,Må få varmen i meg på eit vis.
-SUBTITLE_FemaleConditionVeryCold9,"Did I say I hate being cold, because I really do!",,Sa eg at eg hater å fryse? For det gjer eg faktisk!
-SUBTITLE_FemaleConditionVeryHungry1,I could eat anything right now.,,Eg kunne spist kva som helst nå.
-SUBTITLE_FemaleConditionVeryHungry10,"Arrgh, I'm starving.",,"Ahhh, eg sulter ihjel."
-SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so sulten før.
-SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,Er trærne spiselige?
-SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,"Alt eg kan tenke på, er mat."
-SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Eg må finne mat.
+SUBTITLE_FemaleConditionVeryCold9,"Did I say I hate being cold, because I really do!",,Sa eg at eg hatar å frysa? For det gjer eg faktisk!
+SUBTITLE_FemaleConditionVeryHungry1,I could eat anything right now.,,Eg kunne ete kva som helst nett no.
+SUBTITLE_FemaleConditionVeryHungry10,"Arrgh, I'm starving.",,"Åh, eg er svolten."
+SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so svolten før.
+SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,Kan ein eta tre?
+SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,Alt eg kan tenkja på er mat.
+SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Eg må finna mat.
 SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,Eg er nødt til å spise snart.
-SUBTITLE_FemaleConditionVeryHungry7,I could eat anything.,,Eg kunne spist kva som helst.
-SUBTITLE_FemaleConditionVeryHungry8,I could eat a horse.,,Eg kunne spist ein hest.
-SUBTITLE_FemaleConditionVeryHungry9,I'd eat anything right about now.,,Eg kunne spist kva som helst akkurat nå.
-SUBTITLE_FemaleConditionVeryThirsty1,I would drink almost anything about now.,,Eg kunne drukket nesten kva som helst akkurat nå.
-SUBTITLE_FemaleConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,"Snø overalt, men ingenting å drikke."
-SUBTITLE_FemaleConditionVeryThirsty3,I'd eat snow if the hypothermia wouldn't kill me.,,Eg ville spist snø om hypotermi ikkje hadde kunnet ta livet av meg.
-SUBTITLE_FemaleConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,"Han fyren som drakk sitt eget piss, virker ikkje fullt so gal nå..."
-SUBTITLE_FemaleConditionVeryThirsty5,I would do anything for a drink right now.,,Eg ville gjort kva som helst for noko å drikke nå.
-SUBTITLE_FemaleConditionVeryThirsty6,"Man, I could use a drink.",,"Faen, eg treng noko å drikke."
-SUBTITLE_FemaleConditionVeryThirsty7,Getting a bit thirsty.,,Eg byrjar å verta tørst.
-SUBTITLE_FemaleDeathScream1,[Scream],,[Skriker]
-SUBTITLE_FemaleDeathScream2,[Scream],,[Skriker]
-SUBTITLE_FemaleDeathScream3,[Scream],,[Skriker]
-SUBTITLE_FemaleDie1,[Moan],,[Jamrer]
-SUBTITLE_FemaleDie2,[Moan],,[Jamrer]
-SUBTITLE_FemaleDie3,[Moan],,[Jamrer]
-SUBTITLE_FemaleDie4,[Moan],,[Jamrer]
-SUBTITLE_FemaleDryMouth2,[Dry mouth noises],,
-SUBTITLE_FemaleDryMouth3,[Dry mouth noises],,
-SUBTITLE_FemaleDysentery1,Oh this is a shitty way to die...,,For ein jævlig måte å dø på...
-SUBTITLE_FemaleDysentery2,Oh man...of all the ways to die...this is the worst...,,Av alle måter å dø på... dette er den verste...
-SUBTITLE_FemaleDysentery3,Oh boy...it feels like my stomach is burning...,,"Å nei, det kjennes som om magen står i brann..."
-SUBTITLE_FemaleExertionHigh1,[Heavy exertion grunt],,[Stønner tungt av anstrengelse]
-SUBTITLE_FemaleExertionHigh2,[Heavy exertion grunt],,[Stønner tungt av anstrengelse]
-SUBTITLE_FemaleExertionHigh3,[Heavy exertion grunt],,[Stønner tungt av anstrengelse]
-SUBTITLE_FemaleExertionHigh4,[Heavy exertion grunt],,[Stønner tungt av anstrengelse]
-SUBTITLE_FemaleExertionLow1,[Light exertion grunt],,[Stønner lett av anstrengelse]
-SUBTITLE_FemaleExertionLow2,[Light exertion grunt],,[Stønner lett av anstrengelse]
-SUBTITLE_FemaleExertionLow3,[Light exertion grunt],,[Stønner lett av anstrengelse]
-SUBTITLE_FemaleExertionLow4,[Light exertion grunt],,[Stønner lett av anstrengelse]
-SUBTITLE_FemaleExertionMedium1,[Moderate exertion grunt],,[Stønner moderat av anstrengelse]
-SUBTITLE_FemaleExertionMedium2,[Moderate exertion grunt],,[Stønner moderat av anstrengelse]
-SUBTITLE_FemaleExertionMedium3,[Moderate exertion grunt],,[Stønner moderat av anstrengelse]
-SUBTITLE_FemaleExertionMedium4,[Moderate exertion grunt],,[Stønner moderat av anstrengelse]
-SUBTITLE_FemaleFailFire1,Come on little fire...,,"Kom igjen, lille eld..."
+SUBTITLE_FemaleConditionVeryHungry7,I could eat anything.,,Eg kunne ete kva som helst.
+SUBTITLE_FemaleConditionVeryHungry8,I could eat a horse.,,Eg kunne ete ein hest.
+SUBTITLE_FemaleConditionVeryHungry9,I'd eat anything right about now.,,Eg hadde ete kva som helst nett no.
+SUBTITLE_FemaleConditionVeryThirsty1,I would drink almost anything about now.,,Eg kunne drukke nesten kva som helst nett no.
+SUBTITLE_FemaleConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,"Omringa av snø, men ingenting å drikka."
+SUBTITLE_FemaleConditionVeryThirsty3,I'd eat snow if the hypothermia wouldn't kill me.,,Eg hadde ete snø viss ikkje hypotermien ville ha drept meg.
+SUBTITLE_FemaleConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,"Han karen som drakk sitt eige piss, verkar ikkje so galen no..."
+SUBTITLE_FemaleConditionVeryThirsty5,I would do anything for a drink right now.,,Eg ville gjort kva som helst for ein drykk no.
+SUBTITLE_FemaleConditionVeryThirsty6,"Man, I could use a drink.",,"Åh, eg skulle hatt ein drykk."
+SUBTITLE_FemaleConditionVeryThirsty7,Getting a bit thirsty.,,Byrjar å verta litt tyrst.
+SUBTITLE_FemaleDeathScream1,[Scream],,[Skrik]
+SUBTITLE_FemaleDeathScream2,[Scream],,[Skrik]
+SUBTITLE_FemaleDeathScream3,[Scream],,[Skrik]
+SUBTITLE_FemaleDie1,[Moan],,[Jamr]
+SUBTITLE_FemaleDie2,[Moan],,[Jamr]
+SUBTITLE_FemaleDie3,[Moan],,[Jamr]
+SUBTITLE_FemaleDie4,[Moan],,[Jamr]
+SUBTITLE_FemaleDryMouth2,[Dry mouth noises],,[Turr smatting]
+SUBTITLE_FemaleDryMouth3,[Dry mouth noises],,[Turr smatting]
+SUBTITLE_FemaleDysentery1,Oh this is a shitty way to die...,,"Åh, dette er ein drit måte å døy på..."
+SUBTITLE_FemaleDysentery2,Oh man...of all the ways to die...this is the worst...,,Åh... av alle måtane å døy på... dette er den verste...
+SUBTITLE_FemaleDysentery3,Oh boy...it feels like my stomach is burning...,,Guri malla... det kjennest som om magen min brenn... 
+SUBTITLE_FemaleExertionHigh1,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_FemaleExertionHigh2,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_FemaleExertionHigh3,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_FemaleExertionHigh4,[Heavy exertion grunt],,[Tungt anstrengt støn]
+SUBTITLE_FemaleExertionLow1,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_FemaleExertionLow2,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_FemaleExertionLow3,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_FemaleExertionLow4,[Light exertion grunt],,[Lettare anstrengt støn]
+SUBTITLE_FemaleExertionMedium1,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_FemaleExertionMedium2,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_FemaleExertionMedium3,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_FemaleExertionMedium4,[Moderate exertion grunt],,[Anstrengt støn]
+SUBTITLE_FemaleFailFire1,Come on little fire...,,"Kom igjen, litle eld..."
 SUBTITLE_FemaleFailFire2,Don't do this to me.,,Ikkje gjer dette mot meg.
-SUBTITLE_FemaleFailFire3,Come on! Are you serious?,,Kom igjen! Er du seriøs?
-SUBTITLE_FemaleFailGeneral1,Damn it.,,Faen.
-SUBTITLE_FemaleFailGeneral2,That didn't work.,,det fungerte ikke.
-SUBTITLE_FemaleFailGeneral3,Why didn't that work?,,Hvorfor fungerte det ikke?
+SUBTITLE_FemaleFailFire3,Come on! Are you serious?,,Køddar du med meg?
+SUBTITLE_FemaleFailGeneral1,Damn it.,,Søren klype.
+SUBTITLE_FemaleFailGeneral2,That didn't work.,,Det virka ikkje.
+SUBTITLE_FemaleFailGeneral3,Why didn't that work?,,Kvifor verka det ikkje?
 SUBTITLE_FemaleFailGeneral4,Come on...come on...,,Kom igjen... kom igjen...
-SUBTITLE_FemaleFailGeneral5,Oh come on...,,"Å, kom igjen..."
-SUBTITLE_FemaleFemaleInventoryLeave1,Not too useful.,,
-SUBTITLE_FemaleFemaleInventoryLeave2,No use to me.,,
-SUBTITLE_FemaleFemaleInventoryLeave3,Useless.,,
-SUBTITLE_FemaleFemaleInventoryLeave4,Not worth keeping.,,
-SUBTITLE_FemaleFemaleInventoryLeave5,Won't bother with this.,,
-SUBTITLE_FemaleFemaleInventoryLeave6,This is useless.,,
-SUBTITLE_FemaleFemaleInventoryLeave7,Not much to do with this.,,
-SUBTITLE_FemaleFemaleInventoryLeave8,No point in keeping it.,,
-SUBTITLE_FemaleFemaleInventoryLeave9,Don't need it.,,
-SUBTITLE_FemaleFoodPoisoning1,Ooooohh...I feel like I'm going to die...,,"Åhhhhhh, eg tror eg er i ferd med å dø."
-SUBTITLE_FemaleFoodPoisoning2,Oh what a way to die...I just want to die...,,For ein måte å dø på... eg vil berre dø.
-SUBTITLE_FemaleFoodPoisoning3,My stomach...it hurts...oh it hurts...,,"Magen... det gjer so vondt .. Å, so vondt..."
-SUBTITLE_FemaleHit1,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_FemaleHit2,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_FemaleHit3,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_FemaleHit4,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_FemaleHit5,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredHigh1,Holy...that...ahhhhhh...,,Herre... det..... ahhhhhhhh...
-SUBTITLE_FemaleInjuredHigh2,This is serious… right… okay.,,dette er alvorlig... skal vi se... greit.
-SUBTITLE_FemaleInjuredHigh3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredHigh4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredHigh5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredHigh6,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredLow1,Hurts a bit but I'll make it.,,"det gjer litt vondt, men eg klarer meg."
-SUBTITLE_FemaleInjuredLow2,That smarts a bit.,,det gjer litt vondt.
-SUBTITLE_FemaleInjuredLow3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredLow4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredLow5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredLow6,[Pain grunts],,[Stønner av smerte]
+SUBTITLE_FemaleFailGeneral5,Oh come on...,,"Åh, kom igjen..."
+SUBTITLE_FemaleFemaleInventoryLeave1,Not too useful.,,Ikkje so nyttig.
+SUBTITLE_FemaleFemaleInventoryLeave2,No use to me.,,Eg har ikkje bruk for det.
+SUBTITLE_FemaleFemaleInventoryLeave3,Useless.,,Ubrukande.
+SUBTITLE_FemaleFemaleInventoryLeave4,Not worth keeping.,,Ikkje verdt å behalda.
+SUBTITLE_FemaleFemaleInventoryLeave5,Won't bother with this.,,Vill ikkje bry meg om dette.
+SUBTITLE_FemaleFemaleInventoryLeave6,This is useless.,,Dette er ubrukande.
+SUBTITLE_FemaleFemaleInventoryLeave7,Not much to do with this.,,Ikkje mykje å gjera med dette.
+SUBTITLE_FemaleFemaleInventoryLeave8,No point in keeping it.,,Dette er ingenting å spara på.
+SUBTITLE_FemaleFemaleInventoryLeave9,Don't need it.,,Treng det ikkje.
+SUBTITLE_FemaleFoodPoisoning1,Ooooohh...I feel like I'm going to die...,,"Åh, det kjennest som om eg kjem til å døy..."
+SUBTITLE_FemaleFoodPoisoning2,Oh what a way to die...I just want to die...,,"Åh, for ein måte å døy på... eg vil berre døy..."
+SUBTITLE_FemaleFoodPoisoning3,My stomach...it hurts...oh it hurts...,,"Magen min... det gjer so vondt... åh, so vondt..."
+SUBTITLE_FemaleHit1,[Pain grunt],,[Smertestøn]
+SUBTITLE_FemaleHit2,[Pain grunt],,[Smertestøn]
+SUBTITLE_FemaleHit3,[Pain grunt],,[Smertestøn]
+SUBTITLE_FemaleHit4,[Pain grunt],,[Smertestøn]
+SUBTITLE_FemaleHit5,[Pain grunt],,[Smertestøn]
+SUBTITLE_FemaleInjuredHigh1,Holy...that...ahhhhhh...,,Heilage... det... åh...
+SUBTITLE_FemaleInjuredHigh2,This is serious… right… okay.,,Dette er alvorlig... ja... greit.
+SUBTITLE_FemaleInjuredHigh3,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredHigh4,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredHigh5,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredHigh6,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredLow1,Hurts a bit but I'll make it.,,"Det gjer litt vondt, men eg skal klara meg."
+SUBTITLE_FemaleInjuredLow2,That smarts a bit.,,Det gjer litt vondt.
+SUBTITLE_FemaleInjuredLow3,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredLow4,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredLow5,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredLow6,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt. "
-SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,"Faen, det gjer vondt."
-SUBTITLE_FemaleInjuredMedium2,Wow...that hurts a lot.,,"Oi, det gjer veldig vondt."
-SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredMedium4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredMedium5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_FemaleInjuredMedium6,[Pain grunts],,[Stønner av smerte]
+SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,"Fy søren, det gjer vondt."
+SUBTITLE_FemaleInjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
+SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredMedium4,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredMedium5,[Pain grunts],,[Smertestøn]
+SUBTITLE_FemaleInjuredMedium6,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInspectGeneral1,This stuff looks useful.,,
 SUBTITLE_FemaleInspectGeneral2,Should find some use for this.,,
 SUBTITLE_FemaleInspectGeneral3,Have to be vigilant...no matter what.,,
