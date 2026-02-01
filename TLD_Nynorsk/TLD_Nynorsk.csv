@@ -2063,7 +2063,7 @@ GAMEPLAY_ChallengeHunted,"The Hunted, Part One",,"Jaga, del 1"
 GAMEPLAY_ChallengeHuntedPart2,"The Hunted, Part Two",,"Jaga, del 2"
 GAMEPLAY_ChallengeNomad,Nomad,,Nomade
 GAMEPLAY_ChallengeNowhereToHide,Escape the Darkwalker,,
-GAMEPLAY_ChallengeRescue,Hopeless Rescue,,Håplaust redning
+GAMEPLAY_ChallengeRescue,Hopeless Rescue,,Vonlaus berging
 GAMEPLAY_Challenges,Challenges,,Utfordringar
 GAMEPLAY_ChallengesDescription,Badges awarded for completing Challenges.,,Merker som delast ut for å fullføra utfordringar.
 GAMEPLAY_ChallengeWhiteout,Whiteout,,Snøstorm
@@ -2165,7 +2165,7 @@ Wondering if my friends got lost as they still haven't arrived. Woke up in the n
 
 Sept 7th
 Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.",,"5. september
-Kom fram til foten av Vargafjellet. Ser ut til å vera nokon fine sprekkar her, akkurat som Clive sa. Planen er å festa eit topptau og klyve litt på eiga hand medan eg ventar på dei andre. Forhåpentleg kjem dei snart.
+Kom fram til foten av Vargafjellet. Ser ut til å vera nokon fine sprekkar her, akkurat som Clive sa. Planen er å festa eit topptau og klyve litt på eiga hand medan eg ventar på dei andre. Eg vonar dei kjem snart.
 
 6. september
 Eg lurer på om venane mine har gått seg vill, for dei har ikkje kome endå. Eg vakna midt på natta av eit enormt smell og brann på fjellet. Eg gjekk for å sjekke, men vêret vart dårleg, so eg fant ikkje fram.
@@ -3571,7 +3571,7 @@ GAMEPLAY_FleeceMittens_Mint,New Fleece Mittens,,Nye fleecevottar
 GAMEPLAY_FleeceMittens_Ragged,Ragged Fleece Mittens,,Fillete fleecevottar
 GAMEPLAY_FleeceMittens_Ruined,Ruined Fleece Mittens,,Unyttande fleecevottar
 GAMEPLAY_FleeceMittens_Worn,Worn Fleece Mittens,,Velbrukte fleecevottar
-GAMEPLAY_FleeceMittensDescription,"Basic fleece mitts. Pretty warm, but useless when wet.",,"Enkle fleecevottar. Ganske varme, men unyttande når dei vert våte."
+GAMEPLAY_FleeceMittensDescription,"Basic fleece mitts. Pretty warm, but useless when wet.",,"Enkle fleecevottar. Temmeleg varme, men unyttande når dei vert våte."
 GAMEPLAY_FleeceSweater,Fleece Sweater,,Fleecegenser
 GAMEPLAY_FleeceSweater_Decent,decent Fleece Sweater,,Nyttande fleecegenser
 GAMEPLAY_FleeceSweater_Mint,New Fleece Sweater,,Ny fleecegenser
@@ -3700,9 +3700,9 @@ GAMEPLAY_ForestTalkers_PVCollectible3_NarrativeText,"It all happened during a st
 GAMEPLAY_ForestTalkerThankyou,Forest Talker Note,This note is left if you gave the FT all the supplies you found.,Notat frå skogprataren
 GAMEPLAY_ForestTalkerThankyou2,Forest Talker Note,This note is left if you took the ammo before dropping off the FT supplies.,Skogprateren sitt notat
 GAMEPLAY_ForestTalkerThankyou2Description,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogprataren i hytta ved innsjøen.
-GAMEPLAY_ForestTalkerThankyou2NarrativeText,"""While I appreciate what you've done to help me, stealing ammo may be my death sentence out here. I have a long way to go and with hungry wolves and angry people out there, I have no idea how far I'll get. I hope you can sleep at night. Remember: As You Sow, So Shall You Reap.""",,"Sjølv om eg sett pris på alt du har gjort for å hjelpa meg, so kan du ha dømt meg til døydden ved å stela skota mine. Eg har langt å gå, og med svoltne ulvar og sinte mennesker der ute anar eg ikkje kor langt eg vil koma. Eg håpar du får sove om natta. Som man sår, høster man. Husk det."
+GAMEPLAY_ForestTalkerThankyou2NarrativeText,"""While I appreciate what you've done to help me, stealing ammo may be my death sentence out here. I have a long way to go and with hungry wolves and angry people out there, I have no idea how far I'll get. I hope you can sleep at night. Remember: As You Sow, So Shall You Reap.""",,"Sjølv om eg set pris på alt du har gjort for å hjelpa meg, so kan du ha dømt meg til dauden ved å stela skota mine. Eg har langt å gå, og med svoltne ulvar og sinte mennesker der ute anar eg ikkje kor langt eg vil koma. Eg vonar du får sove om natta. Som ein sår, haustar ein. Husk det."
 GAMEPLAY_ForestTalkerThankyouDescription,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogprataren i hytta ved innsjøen.
-GAMEPLAY_ForestTalkerThankyouNarrativeText,"Thank you for helping me, not everyone would have done that. I left this item for you, it belonged to my friend, hopefully you'll be able to make use of it? Maybe our paths will cross again.",,"Takk for at du hjelpte meg – ikkje alle ville ha gjort det. Eg har lagt igjen noko til deg, Noko som tilhøyrte ein ven. Eg håpar du får nytta av det. Kanskje me møtast igjen."
+GAMEPLAY_ForestTalkerThankyouNarrativeText,"Thank you for helping me, not everyone would have done that. I left this item for you, it belonged to my friend, hopefully you'll be able to make use of it? Maybe our paths will cross again.",,"Takk for at du hjelpte meg – ikkje alle ville ha gjort det. Eg har lagt igjen noko til deg, Noko som tilhøyrte ein ven. Eg vonar du får nytta av det. Kanskje me møtast igjen."
 GAMEPLAY_ForestTalkerTrailerKey1,Logging Camp Trailer Key,,Nykel til tømmerleirbrakke
 GAMEPLAY_ForestTalkerTrailerKey1Description,A Logging Camp trailer key given to you by a Forest Talker.,,"Ein nykel til ei brakke i tømmerleiren, gjeve til deg av ein skogpratar."
 GAMEPLAY_Forge,Forge,,Avl
@@ -3937,12 +3937,12 @@ GAMEPLAY_HankJournal1,Hank's Journal - Part One,,Dagboka til Hank – del 1
 GAMEPLAY_HankJournal1Description,Some hand-written pages from Hank's Journal.,,Nokon handskrevne sider frå Hank si dagbok.
 GAMEPLAY_HankJournal1NarrativeText,"I've spent a lot of years in this damn lookout tower, watching the forest around Mystery Lake, and it's given me nothing but time to think about my life and the world around me and what I hear is happening. Sitting in a tower like this for days, weeks, months on end is enough to drive anyone crazy. Even if I didn't have anyone to talk to on the radio -- and just let me say I wish that chatty lady would shut up once in a while. I mean, I came out here to be alone, to be away from other people. It's almost enough to make you wish all the radios, all the satellite phones and internet and stuff...would just...disappear. 
  
- Anyway, I've been putting aside some supplies every season, leftovers or whatever I can spare, and it's added up to quite the little stash of food and equipment. Hopefully I never need it. But if I do -- the ends justify the means, right? I don't think anyone needs that weird old bunker thing I found, and it makes the perfect place to hide out if the SHTF, you know what I mean?",,"Eg har vert mange år her oppe og overvakt skogen rundt Løyndomsvatnet i dette forbaska utkikkstårnet, og det har ikkje gitt meg anna enn tid til å tenkja over livet mitt og verda rundt meg, og på kva eg høyrer om det som skjer. Å sitte i eit tårn som dette dag ut og dag inn, veker og månar i strekk kan gjera einkver person gal. Sjølv om eg ikkje hadde hatt nokon å snakka med på radioen … Og la meg berre sei at eg skulle ynskja den skravlesjuke dama ville halde kjeft innimellom. Fordi eg kom her for å vera alene, på god avstand frå andre mennesker. Det er nesten nok til å ynskja at alle radioar, alle satellittelefonar, internett og den slags … berre ville verta vekke. 
+ Anyway, I've been putting aside some supplies every season, leftovers or whatever I can spare, and it's added up to quite the little stash of food and equipment. Hopefully I never need it. But if I do -- the ends justify the means, right? I don't think anyone needs that weird old bunker thing I found, and it makes the perfect place to hide out if the SHTF, you know what I mean?",,"Eg har vert mange år her oppe og overvakt skogen rundt Løyndomsvatnet i dette forbaska utkikkstårnet, og det har ikkje gjeve meg mykje tid til å tenkja over livet mitt og verda rundt meg, og på kva eg høyrer om det som skjer. Å sitte i eit tårn som dette dag ut og dag inn, veker og månadar i strekk kan gjera kvar og ein galen. Sjølv om eg ikkje hadde hatt nokon å snakka med på radioen – Og lat meg berre sei at eg skulle ynskja den skravlesjuke dama ville halde kjeft innimellom. Fordi eg kom her for å vera åleine, på god avstand frå andre folk. Det er nesten nok til å ynskja at alle radioar, alle satellittelefonar, internett og den slags...berre ville...forsvinna. 
  
-Uansett, eg har heile tida lagt til side litt forsyningar, det vera ting som har vorte til overs, eller som eg ikkje har hatt bruk for, og dette utgjer no eit fint lite oppbevaring av mat og utstyr. Eg håpar eg aldri får bruk for det. Men om eg skulle, so helliger målet middelet, ikkje sant? Eg trur ikkje nokon treng den rare gamle bunkaren eg fant, og det er ein perfekt plass å skyla seg når ting går til helvete. Skjønner du kva eg meniar?"
+Uansett, eg har heile tida lagt til side litt forsyningar, ting som har vore til overs, eller som eg ikkje har hatt bruk for, og dette utgjer no eit fint lite ikornlager av mat og utstyr. Vonar eg aldri får bruk for det. Men om eg skulle, so  rettferdiggjer målet midla, ikkje sant? Eg trur ikkje nokon treng den rare gamle bunkaren eg fant, og det er ein perfekt plass å skyla seg når ting går til helvete. Skjønner du kva eg meniar?"
 GAMEPLAY_HankJournal2,Hank's Journal - Part Two,,Hanks dagbok – del 2
 GAMEPLAY_HankJournal2Description,"More rambling notes from Hank, written in his signature chicken-scratch.",,"Fleire desperate notat frå Hank, skriven med hans sedvanlege kråkeføtter."
-GAMEPLAY_HankJournal2NarrativeText,"Things have not turned out the way I hoped. I guess that's why they say ""hope is not a plan"". I was on my way to drop some supplies off in the bunker, but wolves hunted me the whole way here and I couldn't escape them. One managed to take a chunk out of my leg just before I could get in here and slam the hatch door. It feels like it's on fire -- I think it's infected. And now I hear something like scratching on the hatch door. I'm afraid to open up. Angela -- I pray to god it isn't you or your mother. But it can't be -- it's just too soon. I'm just going to hald out down here for a bit, and will check when it's daylight again. Just have to find a way to keep track of the time down here...",,"Ting har ikkje gått som eg håpa. Det er vel derfor dei seier at «håp ikkje er ein plan». Eg var på veg til bunkeren med nokon forsyningar, men ulvane var etter meg heile vegen, og eg slapp ikkje vekk. Den eine klarte å ta ein bete av beinet mitt nett før eg kom meg inn her og fekk smekka igjen luka. Det kjennast ut som beinet brenn, og eg trur det har gått infeksjon i såret. Og no høyrer eg noko som skrapar på luka. Eg tør ikkje opna han, Angela, og eg ber til gud om at det ikkje er deg eller mor di. Men det kan det jo ikkje vera, det er for tidlig. Eg skal halde fortet her nede ei stund, so skal eg sjekke igjen når det vert ljost ute. Eg må berre finna ein måte å halde oversikt over tida på her nede…"
+GAMEPLAY_HankJournal2NarrativeText,"Things have not turned out the way I hoped. I guess that's why they say ""hope is not a plan"". I was on my way to drop some supplies off in the bunker, but wolves hunted me the whole way here and I couldn't escape them. One managed to take a chunk out of my leg just before I could get in here and slam the hatch door. It feels like it's on fire -- I think it's infected. And now I hear something like scratching on the hatch door. I'm afraid to open up. Angela -- I pray to god it isn't you or your mother. But it can't be -- it's just too soon. I'm just going to hald out down here for a bit, and will check when it's daylight again. Just have to find a way to keep track of the time down here...",,"Ting har ikkje gått som eg vona. Det er vel derfor dei seier at «von ikkje er ein plan». Eg var på veg til bunkeren med nokon forsyningar, men ulvane var etter meg heile vegen, og eg slapp ikkje vekk. Den eine klarte å ta ein bete av beinet mitt nett før eg kom meg inn her og fekk smekka igjen luka. Det kjennast ut som beinet brenn, og eg trur det har gått infeksjon i såret. Og no høyrer eg noko som skrapar på luka. Eg tør ikkje opna han, Angela, og eg ber til gud om at det ikkje er deg eller mor di. Men det kan det jo ikkje vera, det er for tidlig. Eg skal halde fortet her nede ei stund, so skal eg sjekke igjen når det vert ljost ute. Eg må berre finna ein måte å halde oversikt over tida på her nede…"
 GAMEPLAY_HankLockboxKey,Hank's Lock Box Key,,Nykel til metallskrinet til Hank
 GAMEPLAY_HankLockboxKeyDescription,Key to Hank's Lock Box,,Ein nykel til Hank sitt metallskrin.
 GAMEPLAY_HankNeiceLetter,Letter for Hank's Neice,,Brev til niesa til Hank
@@ -4241,7 +4241,7 @@ Thanks,
 
 Bud",,
 GAMEPLAY_InjuriesSustained,Injuries Sustained,header for a stats counter,Skadar
-GAMEPLAY_InjuryPlaneCrash,Plane Crash Injuries,,"Ting har ikkje gått som eg håpa. Det er vel derfor dei seier at «håp ikkje er ein plan». Eg var på veg til bunkeren med nokon forsyningar, men ulvane var etter meg heile vegen, og eg slapp ikkje vekk. Den eine klarte å ta ein bete av beinet mitt nett før eg kom meg inn her og fekk smekka igjen luka. Det kjennast ut som beinet brenn, og eg trur det har gått infeksjon i såret. Og no høyrer eg noko som skrapar på luka. Eg tør ikkje opna han, Angela, og eg ber til Gud om at det ikkje er deg eller mor di. Men det kan det jo ikkje vera, det er for tidlig. Eg skal halde fortet her nede ei stund, so skal eg sjekke igjen når det vert lyst ute. Eg må berre finna ein måte å halde oversikt over tida på her nede…"
+GAMEPLAY_InjuryPlaneCrash,Plane Crash Injuries,,"Ting har ikkje gått som eg vona. Det er vel derfor dei seier at «von ikkje er ein plan». Eg var på veg til bunkeren med nokon forsyningar, men ulvane var etter meg heile vegen, og eg slapp ikkje vekk. Den eine klarte å ta ein bete av beinet mitt nett før eg kom meg inn her og fekk smekka igjen luka. Det kjennast ut som beinet brenn, og eg trur det har gått infeksjon i såret. Og no høyrer eg noko som skrapar på luka. Eg tør ikkje opna han, Angela, og eg ber til Gud om at det ikkje er deg eller mor di. Men det kan det jo ikkje vera, det er for tidlig. Eg skal halde fortet her nede ei stund, so skal eg sjekke igjen når det vert lyst ute. Eg må berre finna ein måte å halde oversikt over tida på her nede…"
 GAMEPLAY_InnerLayerHeader,Inner Layer,inner layer of clothing,Underklede
 GAMEPLAY_InProgressPostfix,(In Progress),,(føregåande)
 GAMEPLAY_InsufficentFireStarter,Insufficient materials to start a fire (need Fire Starter),,Du treng ein tennar for å laga eld
@@ -4530,7 +4530,7 @@ GAMEPLAY_LeatherShoes_Mint,New Leather Shoes,,Nye skinnsko
 GAMEPLAY_LeatherShoes_Ragged,Ragged Leather Shoes,,Fillete skinnsko
 GAMEPLAY_LeatherShoes_Ruined,Ruined Leather Shoes,,Unyttande skinnsko
 GAMEPLAY_LeatherShoes_Worn,Worn Leather Shoes,,Velbrukte skinnsko
-GAMEPLAY_LeatherShoesDescription,Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!,,"Vanlige skinnsko som tek seg godt ut på byen, men som kan bety dauden her ute. Forhåpentleg har du varme labbar!"
+GAMEPLAY_LeatherShoesDescription,Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!,,"Vanlige skinnsko som tek seg godt ut på byen, men som kan bety dauden her ute. Vonar du har varme labbar!"
 GAMEPLAY_LeaveAirfield,Leave Forsaken Airfield,,
 GAMEPLAY_LeaveAshCanyon,Leave Ash Canyon,,Forlat Oskedalen
 GAMEPLAY_LeaveBank,Leave Bank,,Forlat bank
@@ -5393,7 +5393,7 @@ GAMEPLAY_PostFX,Post FX,,Ettereffektar
 GAMEPLAY_PostFXDescription,A variety of visual effects used to make the game look better. Reduce quality level to improve performance at the expense of visual quality.,,Eit utval visuelle effektar som gjer at spelet ser betre ut. Reduser kvalitetsnivået for å betre ytinga på kostnad av grafikken.
 GAMEPLAY_PostOfficeCollectible1,Milton Post Office Collectible,,Milton postkontor samleobjekt
 GAMEPLAY_PostOfficeCollectible1Description,A scrap of paper found in Milton Post Office.,,Ein papirbete funne i Milton postkontor.
-GAMEPLAY_PostOfficeCollectible1NarrativeText,"""Margaret -- we have to stop accepting mail at Milton. We have no way of getting it back to the mainland but we can't tell people that, or they'll know we've been holding on to it all this time. Find some excuse. Whenever you can, encourage people to use email or drone if they can afford it. I'll keep my eyes open for the mail van but I don't hald out high hopes. I imagine Jack probably drove it into a tree again, somewhere way in the back 40. We're likely to never find it back. Damn I should have stopped him from taking the truck while he was on the drink. I'll see what I can do to fix the situation. Hald tight.""",,"Margaret, me må slutta å ta imot post her. Me har ingen moglegheitar til å få han til fastlandet, men dette kan me ikkje fortelja nokon, for då skjønnar dei at me har holdt på posten heile tida. Finn på ei unnskyldning. Er det mogleg, so oppfordra folk til å nytta e-post eller ei drone om dei har råd. Eg skal halde utkikk etter postbilen, men eg trur håpet er ute. Jack køyrte han sikkert inn i eit tre igjen, ein eller anna plass langt i huttaheiti. Me finn han sikkert aldri igjen. Helvete, eg skulle ha hindra han i å køyre medan han drakk. Eg skal sjå kva eg kan gjera for å rette opp i situasjonen. Berre vent litt."
+GAMEPLAY_PostOfficeCollectible1NarrativeText,"""Margaret -- we have to stop accepting mail at Milton. We have no way of getting it back to the mainland but we can't tell people that, or they'll know we've been holding on to it all this time. Find some excuse. Whenever you can, encourage people to use email or drone if they can afford it. I'll keep my eyes open for the mail van but I don't hald out high hopes. I imagine Jack probably drove it into a tree again, somewhere way in the back 40. We're likely to never find it back. Damn I should have stopped him from taking the truck while he was on the drink. I'll see what I can do to fix the situation. Hald tight.""",,"Margaret, me må slutta å ta imot post her. Me har ingen moglegheitar til å få han til fastlandet, men dette kan me ikkje fortelja nokon, for då skjønnar dei at me har holdt på posten heile tida. Finn på ei unnskyldning. Er det mogleg, so oppfordra folk til å nytta e-post eller ei drone om dei har råd. Eg skal halde utkikk etter postbilen, men eg vonar ikkje stort. Jack køyrte han sikkert inn i eit tre igjen, ein eller anna plass langt i hutaheiti. Me finn han sikkert aldri igjen. Helvete, eg skulle ha hindra han i å køyre medan han drakk. Eg skal sjå kva eg kan gjera for å rette opp i situasjonen. Berre vent litt."
 GAMEPLAY_potable,potable,,drikkande
 GAMEPLAY_PotableWaterSource,Potable Water Source,,Kjelde med drikkande vatn
 GAMEPLAY_PotableWaterSupply,Potable Water Supply,,Forsyning med drikkande vatn
@@ -5745,14 +5745,14 @@ GAMEPLAY_RawBurbot_Gamey,Gamey Burbot (Raw),,Seig lake (Rå)
 GAMEPLAY_RawBurbot_Mouldy,Mouldy Burbot (Raw),,Mygla lake (Rå)
 GAMEPLAY_RawBurbot_Rancid,Rancid Burbot (Raw),,Harsk  lake (Rå)
 GAMEPLAY_RawBurbot_Ruined,Ruined Burbot (Raw),,Ròten lake (Rå)
-GAMEPLAY_RawBurbotDescription,A bottom-dwelling freshwater fish. Can grow to impressive size.,,Ein ferskvassfisk sim likar seg best på botn. Kan veksa eg ganske så stor.
+GAMEPLAY_RawBurbotDescription,A bottom-dwelling freshwater fish. Can grow to impressive size.,,Ein ferskvassfisk som likar seg best på botn. Kan veksa seg temmeleg stor.
 GAMEPLAY_RawCohoSalmon,Coho Salmon (Raw),,Sylvlaks (Rå)
 GAMEPLAY_RawCohoSalmon_Fresh,Fresh Coho Salmon (Raw),,Fersk sylvlaks (Rå)
 GAMEPLAY_RawCohoSalmon_Gamey,Gamey Coho Salmon (Raw),,Seig sylvlaks (Rå)
 GAMEPLAY_RawCohoSalmon_Mouldy,Mouldy Coho Salmon (Raw),,Mygla sylvlaks (Rå)
 GAMEPLAY_RawCohoSalmon_Rancid,Rancid Coho Salmon (Raw),,Harsk sylvlaks (Rå)
 GAMEPLAY_RawCohoSalmon_Ruined,Ruined Coho Salmon (Raw),,Ròten sylvlaks (Rå)
-GAMEPLAY_RawCohoSalmonDescription,A formidable West Coast fish. Grows to a good size.,,Ein formidabel fisk frå vestkysten. Veks seg ganske stor.
+GAMEPLAY_RawCohoSalmonDescription,A formidable West Coast fish. Grows to a good size.,,Ein formidabel fisk frå vestkysten. Veks seg temmeleg stor.
 GAMEPLAY_RawGoldeye,Goldeye (Raw),,Hullauge (Rå)
 GAMEPLAY_RawGoldeye_Fresh,Fresh Goldeye (Raw),,Fersk gullauge (Rå)
 GAMEPLAY_RawGoldeye_Gamey,Gamey Goldeye (Raw),,Seig gullauge (Rå)
@@ -5872,9 +5872,9 @@ GAMEPLAY_RequiresLitFire,Requires an active fire,,Krev eit brennande bål
 GAMEPLAY_RequiresTool,(requires tool),,(krev reiskap)
 GAMEPLAY_RequiresToolToBreakDown,Requires {tool-name} to break down,,Krev {tool-name} for å øydeleggja
 GAMEPLAY_Requirestooltoforceopen,Requires tool to force open,,Må brytast opp med eit reiskap
-GAMEPLAY_RescueBadgeDescLocked,You have not completed Hopeless Rescue.,,Du har ikkje fullført Håplaust redning.
-GAMEPLAY_RescueBadgeDescUnlocked,You have completed Hopeless Rescue.,,Du har fullført Håplaust redning.
-GAMEPLAY_RescueBadgeName,Hopeless Rescue,,Håplaus redning
+GAMEPLAY_RescueBadgeDescLocked,You have not completed Hopeless Rescue.,,Du har ikkje fullført Vonlaus berging.
+GAMEPLAY_RescueBadgeDescUnlocked,You have completed Hopeless Rescue.,,Du har fullført Vonlaus berging.
+GAMEPLAY_RescueBadgeName,Hopeless Rescue,,Vonlaus berging
 GAMEPLAY_RescueChallengeDeathDesc,You died,,Du døydde
 GAMEPLAY_RescueChallengeFailDesc,You didn't make it to the Lighthouse in time...,,Du nådde ikkje fyrtårnet i tide...
 GAMEPLAY_RescueChallengeFailHeader,Rescue: Failed,,Redning: Mislukkast
@@ -5890,7 +5890,7 @@ GAMEPLAY_RescueChallengeObjective2a,Get the Distress Pistol.,,Finn signalpistole
 GAMEPLAY_RescueChallengeObjective2b,Equip the Distress Pistol.,,Nytt signalpistolen.
 GAMEPLAY_RescueChallengeObjective3,Fire the Distress Pistol.,,Skyt signalpistolen.
 GAMEPLAY_RescueChallengeStartDesc,Are you the last person alive? You have to know. If only you could get a signal out to someone...,,Er du den siste som er i live? Du berre må veta. Viss du berre kunne senda eit signal til nokon...
-GAMEPLAY_RescueChallengeStartHeader,Hopeless Rescue,,Håplaust redning
+GAMEPLAY_RescueChallengeStartHeader,Hopeless Rescue,,Vonlaus berging
 GAMEPLAY_RescueChallengeSuccessDesc,Is anybody out there still alive?,,Er det nokon der ute som endå er i live?
 GAMEPLAY_RescueChallengeSuccessHeader,Rescue: Success,,Redning: Suksess
 GAMEPLAY_RescueChallengeSurvivalTimeHeader,Completion Time,,Fullføringstid
@@ -8837,7 +8837,7 @@ PRESENCE_PlayingChallengeDeadMan,Playing As the Dead Sleep,,
 PRESENCE_PlayingChallengeHunted,Playing Challenge: Hunted,xbox1 string presence for Playing Challenge Hunted,"Spelar utfordring: Jaga, del 1"
 PRESENCE_PlayingChallengeHuntedPart2,"Playing Challenge: Hunted, Part 2",xbox1 string presence for Playing Challenge Hunted Part 2,"Spelar utfordring: Jaga, del 2"
 PRESENCE_PlayingChallengeNomad,Playing Challenge: Nomad,xbox1 string presence for Playing Challenge Nomad,Spelar utfordring: Nomade
-PRESENCE_PlayingChallengeRescue,Spelar utfordring: Håplaust redning,xbox1 string presence for Playing Challenge Rescue,Spelar utfordring: Håplaust redning
+PRESENCE_PlayingChallengeRescue,Spelar utfordring: Håplaust redning,xbox1 string presence for Playing Challenge Rescue,Spelar utfordring: Vonlaus berging
 PRESENCE_PlayingChallengeWhiteout,Playing Challenge: Whiteout,xbox1 string presence for Playing Challenge Whiteout,Spelar utfordring: Snøstorm
 PRESENCE_PlayingGame,Playing The Long Dark,,
 PRESENCE_PlayingSandbox,Playing Survival Mode,xbox1 string presence for Playing Sandbox,Spelar overlevingsmodus
@@ -9285,7 +9285,7 @@ STORY_Collectible_HC_ML_AlansCave_NarrativeText,"The penmanship on this note sug
  
 Eg lot tinga liggja igjen i hola. Fer ut av demningen. Flyg elva. Sjå etter ei hole i nærleiken av ei rydning med ein jakthytte."
 STORY_Collectible_HC_ML_ClearCut,Simple Note,,Enkelt notat
-STORY_Collectible_HC_ML_ClearCut_Desc,"Teksten på lappen er nesten ulesleg. Viss opplysningane var meina for nokon, vil han eller hun forhåpentligvis vera i stand til å tyde skriften. Heldigvis er det enkelte landemerker som kan gjenkjennes, samt ein tykk pil som peker mot ein stor X.",,Retningsrettleiing til ei skylt oppbevaring.
+STORY_Collectible_HC_ML_ClearCut_Desc,"Teksten på lappen er nesten ulesleg. Viss opplysningane var meina for nokon, vil han eller hun forhåpentligvis vera i stand til å tyde skriften. Heldigvis er det enkelte landemerker som kan gjenkjennes, samt ein tykk pil som peker mot ein stor X.",,"Teksten på lappen er nesten ulesleg. Viss opplysningane var meina for nokon, vil han eller hun forhåpentligvis vera i stand til å tyde skriften. Heldigvis er det enkelte landemerker som kan gjenkjennes, samt ein tykk pil som peker mot ein stor X."
 STORY_Collectible_HC_ML_ClearCut_NarrativeText,"This small note looks to have been left for someone in particular. Hard to imagine, as the area is quite sparse.
  
  ""A, 
@@ -9341,7 +9341,7 @@ STORY_Collectible_MiltonCaveCache_Desc,There are some supplies hidDen under a pi
 STORY_Collectible_MiltonCaveCache_NarrativeText,"""I don't trust anyone anymore. People are getting desperate, and it's only been a few days since the power went out. I'm going to stash some supplies in our special place above town. You know, near where we look at the stars together? We may need them before help gets here.",,"Eg stolar ikkje lenger på nokon. Folk begynnar å verta desperate, og det er berre nokon få dagar sidan straumen vert vekke. Eg skal gøyma nokon forsyninger på den spesielle staden vår over byen. Du veit, like ved der me ser på stjernene saman? Det kan vera me treng forsyningane før det kjem hjelp."
 STORY_Collectible_MiltonChurchMarshCache,Milton HidDen Cache Note,,Notat om skylt oppbevaring i Milton
 STORY_Collectible_MiltonChurchMarshCache_Desc,A note found in a discarded vehicle in Milton.,,Eit notat funnet i eit etterlata køyretøy i Milton.
-STORY_Collectible_MiltonChurchMarshCache_NarrativeText,"Hey girl -- that grumpy jerk at Orca left the back door open so I snuck in and took some stuff. I thought we might need it for when we get out of here. I can't wait to get over to the mainland with you, where we can finally be together ""for real"". I'll meet you there tomorrow night like we planned. I stashed the stuff near that big fallen tree in the marshy area behind St. Christopher's. You know, where we met that one time and drank your dad's contraband.","HidDen cache can be located under a log, near the Church Marsh","Hei, du. Den surpompen på bensinstasjonen lot bakdøra stå open, so eg sneik meg inn og tok nokon greier. Eg tenkte me kunne få bruk for tinga når me stikk her i frå. Eg ser fram til å koma meg til fastlandet saman med deg, so kan me endeleg vera saman på skikkeleg vis. Eg møter deg der i morgon kveld som avtalt. Eg gøymde tinga i nærleiken av det store, nedfalte treet i sumpområdet bak St. Kristoffers. Du huskar sikkert der me møttest den gongen og drakk smuglarspriten til far din."
+STORY_Collectible_MiltonChurchMarshCache_NarrativeText,"Hey girl -- that grumpy jerk at Orca left the back door open so I snuck in and took some stuff. I thought we might need it for when we get out of here. I can't wait to get over to the mainland with you, where we can finally be together ""for real"". I'll meet you there tomorrow night like we planned. I stashed the stuff near that big fallen tree in the marshy area behind St. Christopher's. You know, where we met that one time and drank your dad's contraband.","HidDen cache can be located under a log, near the Church Marsh","Hei, du. Den surpompen på bensinstasjonen lot bakdøra stå open, so eg sneik meg inn og tok nokon greier. Eg tenkte me kan få bruk for tinga når me stikk her i frå. Eg ser fram til å koma meg til fastlandet saman med deg, so kan me endeleg vera saman på skikkeleg vis. Eg møter deg der i morgon kveld som avtalt. Eg gøymde tinga i nærleiken av det store, nedfalte treet i sumpområdet bak St. Kristoffers. Du huskar sikkert der me møttest den gongen og drakk smuglarspriten til far din."
 STORY_Collectible_NoteMCU,Milton Credit Union Letter,,Offisiell kunngjering til medlemmar av Milton Bank.
 STORY_Collectible_NoteMCU_Desc,Official communication to members of the MCU.,,Offisiell kunngjering til medlemmar av Milton Kredittkasse.
 STORY_Collectible_NoteMCU_NarrativeText,"September, 2012
@@ -10017,7 +10017,7 @@ STORY_jnl_ToSignalHill_Obj2,Find your way through Carter Hydro Dam.,,Finn vegen 
 STORY_jnl_ToSignalHill_Obj2_control,Use Jeremiah's code to access the Control Room.,,Nytt Jeremiahs kode til å koma deg inn i kontrollrommet.
 STORY_jnl_ToSignalHill_Obj2_elevator,Get some power to the dam's elevator system.,,Få straum i heisen.
 STORY_jnl_ToSignalHill_Obj3,Explore the guts of the dam. Get through before daylight.,,Gransk inne i demningen. Kom deg gjennom før det vert ljost.
-STORY_jnl_ToSignalHill_Title,Renewed Hope,,Fornya håp
+STORY_jnl_ToSignalHill_Title,Renewed Hope,,Fornya von
 STORY_jnl_Triage_Desc,Check on the sick and wounded survivors in the Community Hall.,,
 STORY_jnl_Triage_diagnose,Check on the plane crash survivors in the Hall.,,
 STORY_jnl_Triage_report,Talk to Father Thomas.,,
@@ -10403,10 +10403,10 @@ SUBTITLE_Atk2,[Attack grunt],,[Støn]
 SUBTITLE_Atk3,[Attack grunt],,[Støn]
 SUBTITLE_Atk4,[Attack grunt],,[Støn]
 SUBTITLE_Atk5,[Attack grunt],,[Støn]
-SUBTITLE_Bleeding1,Gotta stop that blood loss.,,Eg må stogge blodtapet.
-SUBTITLE_Bleeding2,Gotta stop that bleeding.,,Eg må stogge blødinga.
-SUBTITLE_Bleeding3,Need some first aid.,,Eg treng fyrstehjelp.
-SUBTITLE_BleedingSerious1,Feeling... faint.,,Eg kjennar meg... dorsk.
+SUBTITLE_Bleeding1,Gotta stop that blood loss.,,Må stogge blodtapet.
+SUBTITLE_Bleeding2,Gotta stop that bleeding.,,Må stogge blødinga.
+SUBTITLE_Bleeding3,Need some first aid.,,Treng fyrstehjelp.
+SUBTITLE_BleedingSerious1,Feeling... faint.,,Kjennar meg... dorsk.
 SUBTITLE_BleedingSerious2,I'm going to bleed out soon.,,Snart blør eg i hel.
 SUBTITLE_BreathHighIntensity1,[Heavy breathing],,[Pesing]
 SUBTITLE_BreathHighIntensity10,[Heavy breathing],,[Pesing]
@@ -10463,24 +10463,24 @@ SUBTITLE_ConditionDehydrated2,I need to find something to drink.,,Eg treng noko 
 SUBTITLE_ConditionDehydrated3,I'm so thirsty I can't think straight.,,Eg er so tyrst at eg ikkje kan tenkja klart.
 SUBTITLE_ConditionDehydrated4,"I need somethink to drink, and soon.",,"Eg treng noko å drikke, og det snart."
 SUBTITLE_ConditionDehydrated5,I'll die if I don't drink something soon.,,Eg kjem til å døy viss eg ikkje drikk noko snart.
-SUBTITLE_ConditionDehydrated6,Mouth so dry.,,Munnen min er so turr.
+SUBTITLE_ConditionDehydrated6,Mouth so dry.,,Munnen er so turr.
 SUBTITLE_ConditionDehydrated7,I need some water.,,Eg treng noko vatn.
-SUBTITLE_ConditionDehydrated8,Need a drink.,,Eg treng ein drykk.
+SUBTITLE_ConditionDehydrated8,Need a drink.,,Treng ein drykk.
 SUBTITLE_ConditionDehydrated9,Need… water.,,Treng... vatn.
 SUBTITLE_ConditionEncumberanceHigh1,Too much to carry.,,For mykje å bera.
 SUBTITLE_ConditionEncumberanceHigh2,I can't carry this any further.,,Eg maktar ikkje å bera dette noko lenger.
 SUBTITLE_ConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Eg må etterlata noko av utstyret.
-SUBTITLE_ConditionEncumberanceHigh4,Can't move.,,Eg kan ikkje røra meg.
+SUBTITLE_ConditionEncumberanceHigh4,Can't move.,,Kan ikkje røra meg.
 SUBTITLE_ConditionEncumberanceHigh5,Too heavy. Can't move.,,For tungt. Eg kan ikkje røra meg.
 SUBTITLE_ConditionEncumberanceLow1,This pack is getting kinda heavy.,,Denne ranselen byrjar å vege ein del.
 SUBTITLE_ConditionEncumberanceLow2,I'm not sure I can carry much more.,,Eg veit ikkje om eg maktar å bera meir enn dette.
 SUBTITLE_ConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Eg lurer på om eg kan leggje i frå meg noko av dette utstyret...
-SUBTITLE_ConditionEncumberanceLow4,Too heavy,,For tungt
+SUBTITLE_ConditionEncumberanceLow4,Too heavy,,For tungt.
 SUBTITLE_ConditionEncumberanceLow5,Too much stuff to carry.,,For mykje å drassa på.
 SUBTITLE_ConditionEncumberanceLow6,I might have to drop some gear.,,Eg må gjerne leggja i frå meg noko utstyr.
 SUBTITLE_ConditionEncumberanceLow7,I need to drop something.,,Eg må legge i frå meg noko.
 SUBTITLE_ConditionEncumberanceLow8,I'm going to have to leave something behind. ,,Eg må la noko ligge igjen.
-SUBTITLE_ConditionEncumberanceLow9,Something's got to go.,,Eg må kvitte meg med noko.
+SUBTITLE_ConditionEncumberanceLow9,Something's got to go.,,Noko må vekk.
 SUBTITLE_ConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg kjem ikkje til å klara å bera denne byrda mykje lenger.
 SUBTITLE_ConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å verta for tung til å berast.
 SUBTITLE_ConditionEncumberanceMedium3,I can barely walk with this much gear.,,Eg kan knapt gå med so mykje utstyr.
@@ -10488,7 +10488,7 @@ SUBTITLE_ConditionEncumberanceMedium4,All this gear is slowing me down.,,Alt det
 SUBTITLE_ConditionEncumberanceMedium5,This gear is starting to slow me down.,,Utstyret byrjar å seinka meg.
 SUBTITLE_ConditionEncumberanceMedium6,Starting to weigh me down.,,Det byrjar å tyngje meg.
 SUBTITLE_ConditionEncumberanceMedium7,Feels like a lot of gear.,,Kjennest som mykje utstyr.
-SUBTITLE_ConditionFair1,I don't feel so good.,,Eg kjennar meg ikkje so bra.
+SUBTITLE_ConditionFair1,I don't feel so good.,,Eg er ikkje heilt i form.
 SUBTITLE_ConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarar meg.
 SUBTITLE_ConditionFair3,I'm not ready to die.,,Eg er ikkje klar til å døy.
 SUBTITLE_ConditionFair4,I don't have much more in me.,,Eg har ikkje mykje mer i meg.
@@ -10498,7 +10498,7 @@ SUBTITLE_ConditionFatigue2,I think I need to lay down.,,Eg trur eg må leggja me
 SUBTITLE_ConditionFatigue3,I need to find a place to rest.,,Eg må finna ein kvileplass.
 SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,Eg kjem til å måtte kvile snart.
 SUBTITLE_ConditionFatigue5,I just need to close my eyes.,,Eg treng berre å lukka augene mine.
-SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne lagt meg her.
+SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,So trøtt at eg kunne lagt meg her.
 SUBTITLE_ConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan leggja meg ned og kvila litt rett her.
 SUBTITLE_ConditionFatigueHigh3,I'd lay down right here if I ever thought I'd wake up again.,,Eg hadde lagt meg her viss eg trudde at eg kom til å vakna igjen.
 SUBTITLE_ConditionFatigueHigh4,I'm so tired.,,Eg er so trøtt.
@@ -10510,9 +10510,9 @@ SUBTITLE_ConditionFreezing4,I'm too cold to think.,,Eg er for kald til å tenkje
 SUBTITLE_ConditionFreezing5,I'll die if I don't warm up soon.,,Eg døyr viss eg ikkje får varmen i meg snart.
 SUBTITLE_ConditionFreezing6,I'm so cold...just want to lay down for a bit...,,Eg er så kald... eg vil berre leggja meg nedpå litt...
 SUBTITLE_ConditionFreezing7,Goddamn freezing.,,Jævlig kaldt.
-SUBTITLE_ConditionFreezing8,Never felt so cold in my life,,Eg har aldri før vert so kald.
-SUBTITLE_ConditionPoor1,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
-SUBTITLE_ConditionPoor2,I think this might be the end.,,Dette er nok slutten.
+SUBTITLE_ConditionFreezing8,Never felt so cold in my life,,Har aldri før vert so kald.
+SUBTITLE_ConditionPoor1,Things are starting to look pretty grim.,,No byrjar det å sjå ganske mørkt ut.
+SUBTITLE_ConditionPoor2,I think this might be the end.,,Eg trur nok dette er slutten.
 SUBTITLE_ConditionPoor3,I'm going to die out here.,,Eg kjem til å døy her ute.
 SUBTITLE_ConditionPoor4,Not going to pull through this time...,,Denne gongen klarar eg meg ikkje...
 SUBTITLE_ConditionPoor5,In the end...did any of it really matter?,,Til sjuande og sist... var det noko som faktisk betydde noko?
@@ -10523,20 +10523,20 @@ SUBTITLE_ConditionStarving2,I'll die if I don't get some food soon.,,Eg kjem til
 SUBTITLE_ConditionStarving3,I'm so hungry.,,Eg er so svolten.
 SUBTITLE_ConditionStarving4,Can you eat trees?,,Kan ein eta tre?
 SUBTITLE_ConditionStarving5,My stomach feels like an empty pit...,,Magen min kjennest som tomt hòl.
-SUBTITLE_ConditionStarving6,Never thought I'd be dying from starvation.,,Eg hadde aldri trudd at eg skulle svelta i hel.
+SUBTITLE_ConditionStarving6,Never thought I'd be dying from starvation.,,Hadde aldri trudd at eg skulle svelta i hel.
 SUBTITLE_ConditionStarving7,I think my stomach is eating itself.,,Eg trur magen min har begynt å eta seg sjølv.
 SUBTITLE_ConditionStarving8,"Dammit, so hungry.",,Helvete... so svolten.
 SUBTITLE_ConditionStarving9,Getting weak.,,Vert veik.
 SUBTITLE_ConditionVeryCold1,My fingers feel numb.,,Fingrane mine kjennest nomne.
 SUBTITLE_ConditionVeryCold2,The cold is making my head feel thick...,,Kulda gjer at hovudet kjennest tjukt.
 SUBTITLE_ConditionVeryCold3,I need to find some place to escape this cold.,,Eg må finne ly for denne kulda.
-SUBTITLE_ConditionVeryCold4,Can't feel my feet.,,Eg kjenner ikkje føtene mine.
-SUBTITLE_ConditionVeryCold5,Can't feel my hands.,,Eg kjenner ikkje nevane mine.
+SUBTITLE_ConditionVeryCold4,Can't feel my feet.,,Kjenner ikkje føtene mine.
+SUBTITLE_ConditionVeryCold5,Can't feel my hands.,,Kjenner ikkje nevane mine.
 SUBTITLE_ConditionVeryHungry1,I could eat anything right now.,,Eg kunne ete kva som helst nett no.
 SUBTITLE_ConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so svolten før.
 SUBTITLE_ConditionVeryHungry3,All I can think about is food.,,Alt eg kan tenkja på er mat.
 SUBTITLE_ConditionVeryHungry4,I need to find food,,Eg må finna mat.
-SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Eg må eta snart.
+SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Må eta snart.
 SUBTITLE_ConditionVeryHungry6,I could eat anything.,,Eg kunne ete kva som helst.
 SUBTITLE_ConditionVeryHungry7,I could eat a horse.,,Eg kunne ete ein hest.
 SUBTITLE_ConditionVeryHungry8,I'd eat anything right about now.,,Eg hadde ete kva som helst nett no.
@@ -10721,11 +10721,11 @@ SUBTITLE_ExertionLow3,[Light exertion grunt],,[Lettare anstrengt støn]
 SUBTITLE_ExertionMedium1,[Moderate exertion grunt],,[Anstrengt støn]
 SUBTITLE_ExertionMedium2,[Moderate exertion grunt],,[Anstrengt støn]
 SUBTITLE_ExertionMedium3,[Moderate exertion grunt],,[Anstrengt støn]
-SUBTITLE_FailFire1,Come on little fire...,,"Kom igjen, litle eld..."
+SUBTITLE_FailFire1,Come on little fire...,,"Kom igjen, vesle eld..."
 SUBTITLE_FailFire2,Don't do this to me.,,Ikkje gjer dette mot meg.
 SUBTITLE_FailFire3,Are you serious?,,Køddar du med meg?
 SUBTITLE_FailGeneral1,Damn it.,,Søren klype.
-SUBTITLE_FailGeneral2,That didn't work.,,Det virka ikkje.
+SUBTITLE_FailGeneral2,That didn't work.,,Det verka ikkje.
 SUBTITLE_FailGeneral3,Why didn't that work?,,Kvifor verka det ikkje?
 SUBTITLE_FailGeneral4,Come on...come on...,,Kom igjen... kom igjen...
 SUBTITLE_FailGeneral5,Oh come on...,,"Åh, kom igjen..."
@@ -10814,9 +10814,9 @@ SUBTITLE_FemaleConditionEncumberanceLow3,I wonder if I can drop any of this gear
 SUBTITLE_FemaleConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Eg kjem ikkje til å klara å bera denne byrda mykje lenger.
 SUBTITLE_FemaleConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Ranselen byrjar å verta for tung til å berast.
 SUBTITLE_FemaleConditionEncumberanceMedium3,I can barely walk with this much gear.,,Eg kan knapt gå med so mykje utstyr.
-SUBTITLE_FemaleConditionFair1,I don't feel so good.,,Eg kjenner meg ikkje so bra.
+SUBTITLE_FemaleConditionFair1,I don't feel so good.,,Eg er ikkje heilt i form.
 SUBTITLE_FemaleConditionFair2,I'm not sure I'm going to make it.,,Eg vet ikkje om eg klarar meg.
-SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
+SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,No ser det temmeleg mørkt ut.
 SUBTITLE_FemaleConditionFair4,I'm not ready to die.,,Eg ikkje klar for å døy.
 SUBTITLE_FemaleConditionFair5,(Needs new line recorded),,(Treng nytt opptak)
 SUBTITLE_FemaleConditionFatigue1,If I don't rest soon I'm going to faint.,,Viss eg ikkje kviler snart kjem eg til å svime av.
@@ -10840,7 +10840,7 @@ SUBTITLE_FemaleConditionFreezing7,I'm so cold...just want to lay down for a bit.
 SUBTITLE_FemaleConditionFreezing8,Wait...I'm so cold I'm warming up a bit.,,"Vent, eg er so kald at eg får varmen igjen."
 SUBTITLE_FemaleConditionPoor1,I think this might be the end.,,Dette er nok slutten.
 SUBTITLE_FemaleConditionPoor2,I'm going to die out here.,,Eg kjem til å døy her ute.
-SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,No ser det ganske mørkt ut.
+SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,No ser det temmeleg mørkt ut.
 SUBTITLE_FemaleConditionPoor4,Not going to pull through this time...,,Denne gongen klarar eg meg ikkje...
 SUBTITLE_FemaleConditionPoor5,In the end...did any of it really matter?,,Til sjuande og sist... var det noko som faktisk betydde noko?
 SUBTITLE_FemaleConditionStarving1,Dammit...so hungry.,,Helvete... so svolten.
@@ -10908,7 +10908,7 @@ SUBTITLE_FemaleFailFire1,Come on little fire...,,"Kom igjen, litle eld..."
 SUBTITLE_FemaleFailFire2,Don't do this to me.,,Ikkje gjer dette mot meg.
 SUBTITLE_FemaleFailFire3,Come on! Are you serious?,,Køddar du med meg?
 SUBTITLE_FemaleFailGeneral1,Damn it.,,Søren klype.
-SUBTITLE_FemaleFailGeneral2,That didn't work.,,Det virka ikkje.
+SUBTITLE_FemaleFailGeneral2,That didn't work.,,Det verka ikkje.
 SUBTITLE_FemaleFailGeneral3,Why didn't that work?,,Kvifor verka det ikkje?
 SUBTITLE_FemaleFailGeneral4,Come on...come on...,,Kom igjen... kom igjen...
 SUBTITLE_FemaleFailGeneral5,Oh come on...,,"Åh, kom igjen..."
@@ -10942,351 +10942,351 @@ SUBTITLE_FemaleInjuredLow4,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow5,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow6,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt. "
-SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,"Fy søren, det gjer vondt."
+SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
 SUBTITLE_FemaleInjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
 SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredMedium4,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredMedium5,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredMedium6,[Pain grunts],,[Smertestøn]
-SUBTITLE_FemaleInspectGeneral1,This stuff looks useful.,,
-SUBTITLE_FemaleInspectGeneral2,Should find some use for this.,,
-SUBTITLE_FemaleInspectGeneral3,Have to be vigilant...no matter what.,,
-SUBTITLE_FemaleInspectGeneral4,I could find some use for this.,,
-SUBTITLE_FemaleInspectGeneral5,This will come in handy.,,
-SUBTITLE_FemaleInspectObject1,This stuff will come in handy.,,det her kan eg få bruk for.
-SUBTITLE_FemaleInspectObject2,This'll come in handy.,,det var noko eg trengte.
-SUBTITLE_FemaleInspectObject3,Best be prepared for anything.,,Eg må vera forberedt på alt.
-SUBTITLE_FemaleInspectObject4,"Never know, could end up being useful.",,"Du vet aldri, kjem kanskje til nytte ein dag."
-SUBTITLE_FemaleInspectObject5,I think I can use this.,,Den kan eg få bruk for.
-SUBTITLE_FemaleInspectObject6,Hmmm...ok.,,"Hmmmm, greit."
-SUBTITLE_FemaleInspectObject7,Probably useful.,,Sikkert nyttig.
-SUBTITLE_FemaleInspectObject8,I'll take it.,,Den tar jeg.
-SUBTITLE_FemaleInventoryAddFuel1,"Getting going now, ha.",,
-SUBTITLE_FemaleInventoryAddFuel2,Good to keep this lantern topped up.,,
-SUBTITLE_FemaleInventoryAddFuel3,Just a bit more fuel.,,
-SUBTITLE_FemaleInventoryAddFuel4,Lantern was thirsty.,,
-SUBTITLE_FemaleInventoryAddFuel5,Burning brighter now.,,
-SUBTITLE_FemaleInventoryAddFuel6,"Fueled up, at least.",,
-SUBTITLE_FemaleInventoryAddFuel7,Lantern needed fuel.,,
-SUBTITLE_FemaleInventoryAddGenera10,Need to hang on to this.,,
-SUBTITLE_FemaleInventoryAddGeneral1,Worth keeping.,,
-SUBTITLE_FemaleInventoryAddGeneral11,Better add this to my pack.,,
-SUBTITLE_FemaleInventoryAddGeneral12,Can't leave this behind.,,
-SUBTITLE_FemaleInventoryAddGeneral2,Can only use this if I have it with me.,,
-SUBTITLE_FemaleInventoryAddGeneral3,Should keep this with me.,,
-SUBTITLE_FemaleInventoryAddGeneral4,I'll find a use for this.,,
-SUBTITLE_FemaleInventoryAddGeneral5,I'll need this...later.,,
-SUBTITLE_FemaleInventoryAddGeneral6,Shouldn't leave this behind.,,
-SUBTITLE_FemaleInventoryAddGeneral7,I can make use of this.,,
-SUBTITLE_FemaleInventoryAddGeneral8,Ha! A good find.,,
-SUBTITLE_FemaleInventoryAddGeneral9,Can't throw this away.,,
-SUBTITLE_FemaleInventoryAddWater1,Water is life.,,
-SUBTITLE_FemaleInventoryAddWater10,Can't run out of water.,,
-SUBTITLE_FemaleInventoryAddWater2,Have to keep enough water around.,,
-SUBTITLE_FemaleInventoryAddWater3,Won't last long without water.,,
-SUBTITLE_FemaleInventoryAddWater4,Ah...can't beat some extra water.,,
-SUBTITLE_FemaleInventoryAddWater5,Water is always needed.,,
-SUBTITLE_FemaleInventoryAddWater6,Have to stay hydrated.,,
-SUBTITLE_FemaleInventoryAddWater7,Dehydration is deadly out here.,,
-SUBTITLE_FemaleInventoryAddWater8,More water can only help.,,
-SUBTITLE_FemaleInventoryAddWater9,I'm always thirsty.,,
-SUBTITLE_FemaleInventoryDrop1,No room left in my pack.,,
-SUBTITLE_FemaleInventoryDrop2,One too many things to carry.,,
-SUBTITLE_FemaleInventoryDrop3,"Too heavy, have to leave something behind.",,
-SUBTITLE_FemaleInventoryDrop4,Getting too heavy.,,
-SUBTITLE_FemaleInventoryDrop5,I have to leave some of these things.,,
-SUBTITLE_FemaleInventoryDrop6,Need to drop something.,,
-SUBTITLE_FemaleInventoryDrop7,Packing too much gear.,,
-SUBTITLE_FemaleInventoryDrop8,This stuff is weighing me down.,,
-SUBTITLE_FemaleInventoryDrop9,No room for this in my pack.,,
-SUBTITLE_FemaleInventoryNeeded1,I was looking for this.,,
-SUBTITLE_FemaleInventoryNeeded2,Ha! Had just ran out of this.,,
-SUBTITLE_FemaleInventoryNeeded3,Feeling lucky.,,
-SUBTITLE_FemaleInventoryNeeded4,Could do with more of that.,,
-SUBTITLE_FemaleInventoryNeeded5,Perfect.,,
-SUBTITLE_FemaleLandHard1,[Hard grunt],,[Stønner tungt]
-SUBTITLE_FemaleLandHard2,[Hard grunt],,[Stønner tungt]
-SUBTITLE_FemaleLandHard3,[Hard grunt],,[Stønner tungt]
-SUBTITLE_FemaleLandHard4,[Hard grunt],,[Stønner tungt]
-SUBTITLE_FemaleLandLight1,[Light grunt],,[Stønner lett]
-SUBTITLE_FemaleLandLight2,[Light grunt],,[Stønner lett]
-SUBTITLE_FemaleLandLight3,[Light grunt],,[Stønner lett]
-SUBTITLE_FemaleLandMedium1,[Medium grunt],,[Stønner moderat]
-SUBTITLE_FemaleLandMedium2,[Medium grunt],,[Stønner moderat]
-SUBTITLE_FemaleLandMedium3,[Medium grunt],,[Stønner moderat]
-SUBTITLE_FemaleLandMedium4,[Medium grunt],,[Stønner moderat]
-SUBTITLE_FemaleLastItem1,"Run out of those, finally.",,
-SUBTITLE_FemaleLastItem2,Need to find more of those.,,
-SUBTITLE_FemaleLastItem3,"Well, that's that.",,
-SUBTITLE_FemaleLastItem4,Doubt I'll see more of those soon.,,
-SUBTITLE_FemaleLastItem5,Running out.,,
-SUBTITLE_FemaleOpenContainer1,Never would have thought to look here.,,Trodde ikkje eg skulle finne noko her.
+SUBTITLE_FemaleInspectGeneral1,This stuff looks useful.,,Desse greiene ser gagnlege ut.
+SUBTITLE_FemaleInspectGeneral2,Should find some use for this.,,Får nok brukt dette til noko.
+SUBTITLE_FemaleInspectGeneral3,Have to be vigilant...no matter what.,,Må vera årvaken... uansett.
+SUBTITLE_FemaleInspectGeneral4,I could find some use for this.,,Eg kan nok bruke dette til noko.
+SUBTITLE_FemaleInspectGeneral5,This will come in handy.,,Dette får eg bruk for.
+SUBTITLE_FemaleInspectObject1,This stuff will come in handy.,,Desse greiene kjem eg til å få bruk for.
+SUBTITLE_FemaleInspectObject2,This'll come in handy.,,Dette kjem eg til å få bruk for.
+SUBTITLE_FemaleInspectObject3,Best be prepared for anything.,,Det er best å vera førebudd på kva som helst.
+SUBTITLE_FemaleInspectObject4,"Never know, could end up being useful.",,"Ein veit aldri, kan visa seg å vera gagnleg."
+SUBTITLE_FemaleInspectObject5,I think I can use this.,,Eg trur eg kan nytta dette.
+SUBTITLE_FemaleInspectObject6,Hmmm...ok.,,Hm... ja vel.
+SUBTITLE_FemaleInspectObject7,Probably useful.,,Truleg gagnleg.
+SUBTITLE_FemaleInspectObject8,I'll take it.,,Eg tek det.
+SUBTITLE_FemaleInventoryAddFuel1,"Getting going now, ha.",,"Kjem i gang no, hø."
+SUBTITLE_FemaleInventoryAddFuel2,Good to keep this lantern topped up.,,Bra å halda lampen oppfylt.
+SUBTITLE_FemaleInventoryAddFuel3,Just a bit more fuel.,,Berre litt meir brennefang.
+SUBTITLE_FemaleInventoryAddFuel4,Lantern was thirsty.,,Lampen var tyrst.
+SUBTITLE_FemaleInventoryAddFuel5,Burning brighter now.,,Brenn ljosare no.
+SUBTITLE_FemaleInventoryAddFuel6,"Fueled up, at least.",,"Oppfylt, om ikkje noko anna."
+SUBTITLE_FemaleInventoryAddFuel7,Lantern needed fuel.,,Lampa trong brennefang.
+SUBTITLE_FemaleInventoryAddGenera10,Need to hang on to this.,,Må behalde dette.
+SUBTITLE_FemaleInventoryAddGeneral1,Worth keeping.,,Verdt å behalde.
+SUBTITLE_FemaleInventoryAddGeneral11,Better add this to my pack.,,Bør leggja dette i ranselen min.
+SUBTITLE_FemaleInventoryAddGeneral12,Can't leave this behind.,,Kan ikkje gå i frå dette.
+SUBTITLE_FemaleInventoryAddGeneral2,Can only use this if I have it with me.,,Kan berre bruke dette om eg har det med meg.
+SUBTITLE_FemaleInventoryAddGeneral3,Should keep this with me.,,Burde bli verande med meg.
+SUBTITLE_FemaleInventoryAddGeneral4,I'll find a use for this.,,Eg kjem til å bruke dette til noko.
+SUBTITLE_FemaleInventoryAddGeneral5,I'll need this...later.,,Eg treng dette... seinare.
+SUBTITLE_FemaleInventoryAddGeneral6,Shouldn't leave this behind.,,Burde ikkje gå i frå dette.
+SUBTITLE_FemaleInventoryAddGeneral7,I can make use of this.,,Eg kan nytta dette.
+SUBTITLE_FemaleInventoryAddGeneral8,Ha! A good find.,,Ha! Eit godt funn.
+SUBTITLE_FemaleInventoryAddGeneral9,Can't throw this away.,,Kan ikkje hiva dette.
+SUBTITLE_FemaleInventoryAddWater1,Water is life.,,Vatn er liv.
+SUBTITLE_FemaleInventoryAddWater10,Can't run out of water.,,Kan ikkje gå tom for vatn.
+SUBTITLE_FemaleInventoryAddWater2,Have to keep enough water around.,,Må ha nok vatn på lur.
+SUBTITLE_FemaleInventoryAddWater3,Won't last long without water.,,Klarar meg ikkje lenge utan vatn.
+SUBTITLE_FemaleInventoryAddWater4,Ah...can't beat some extra water.,,Ah... ein kan ikkje slå litt meir vatn.
+SUBTITLE_FemaleInventoryAddWater5,Water is always needed.,,Vatn trengs alltid.
+SUBTITLE_FemaleInventoryAddWater6,Have to stay hydrated.,,Må drikka nok.
+SUBTITLE_FemaleInventoryAddWater7,Dehydration is deadly out here.,,Dehydrering er døyeleg her ute.
+SUBTITLE_FemaleInventoryAddWater8,More water can only help.,,Meir vatn må vera bra.
+SUBTITLE_FemaleInventoryAddWater9,I'm always thirsty.,,Eg er alltid tyrst.
+SUBTITLE_FemaleInventoryDrop1,No room left in my pack.,,Ikkje meir plass i ranselen.
+SUBTITLE_FemaleInventoryDrop2,One too many things to carry.,,Ein ting for mykje å bera på.
+SUBTITLE_FemaleInventoryDrop3,"Too heavy, have to leave something behind.",,"For tung, må gå i frå noko,"
+SUBTITLE_FemaleInventoryDrop4,Getting too heavy.,,Vert for tung.
+SUBTITLE_FemaleInventoryDrop5,I have to leave some of these things.,,Eg må gå i frå nokon av desse tinga.
+SUBTITLE_FemaleInventoryDrop6,Need to drop something.,,Må kvitta meg med noko.
+SUBTITLE_FemaleInventoryDrop7,Packing too much gear.,,Har for mykje utstyr.
+SUBTITLE_FemaleInventoryDrop8,This stuff is weighing me down.,,Desse greiene tyngjer meg ned.
+SUBTITLE_FemaleInventoryDrop9,No room for this in my pack.,,Har ikkje plass til dette i ranselen.
+SUBTITLE_FemaleInventoryNeeded1,I was looking for this.,,Eg såg etter dette.
+SUBTITLE_FemaleInventoryNeeded2,Ha! Had just ran out of this.,,Ha! Gjekk nettopp tom for dette.
+SUBTITLE_FemaleInventoryNeeded3,Feeling lucky.,,Kjenner lukka.
+SUBTITLE_FemaleInventoryNeeded4,Could do with more of that.,,Hadde ikkje skada med meir av det.
+SUBTITLE_FemaleInventoryNeeded5,Perfect.,,Perfekt.
+SUBTITLE_FemaleLandHard1,[Hard grunt],,[Tungt støn]
+SUBTITLE_FemaleLandHard2,[Hard grunt],,[Tungt støn]
+SUBTITLE_FemaleLandHard3,[Hard grunt],,[Tungt støn]
+SUBTITLE_FemaleLandHard4,[Hard grunt],,[Tungt støn]
+SUBTITLE_FemaleLandLight1,[Light grunt],,[Lett støn]
+SUBTITLE_FemaleLandLight2,[Light grunt],,[Lett støn]
+SUBTITLE_FemaleLandLight3,[Light grunt],,[Lett støn]
+SUBTITLE_FemaleLandMedium1,[Medium grunt],,[Støn]
+SUBTITLE_FemaleLandMedium2,[Medium grunt],,[Støn]
+SUBTITLE_FemaleLandMedium3,[Medium grunt],,[Støn]
+SUBTITLE_FemaleLandMedium4,[Medium grunt],,[Støn]
+SUBTITLE_FemaleLastItem1,"Run out of those, finally.",,"Gjekk tom for dei, endeleg."
+SUBTITLE_FemaleLastItem2,Need to find more of those.,,Må finna fleire av dei.
+SUBTITLE_FemaleLastItem3,"Well, that's that.",,"Vel, det var det."
+SUBTITLE_FemaleLastItem4,Doubt I'll see more of those soon.,,Tvilar på at eg ser meir av det på ei stund.
+SUBTITLE_FemaleLastItem5,Running out.,,Går tom.
+SUBTITLE_FemaleOpenContainer1,Never would have thought to look here.,,Hadde aldri funne på å sjå her.
 SUBTITLE_FemaleOpenContainer10,Thank you!,,Takk!
 SUBTITLE_FemaleOpenContainer11,Perfect!,,Perfekt!
-SUBTITLE_FemaleOpenContainer2,What have we here?,,Ikkje verst.
-SUBTITLE_FemaleOpenContainer3,Ahh...someone's stash.,,"Oi, utstyret til nokon."
-SUBTITLE_FemaleOpenContainer4,Hope nobody needs this anymore.,,Eg håper ingen treng dette mer.
-SUBTITLE_FemaleOpenContainer5,I wonder who owns this stuff.,,Lurer på hvem som eier dette.
-SUBTITLE_FemaleOpenContainer6,Wonder if the owner's around.,,Lurer på om eieren er i nærheten.
-SUBTITLE_FemaleOpenContainer7,Looks like this has been here a while.,,dette har nok ligget her ein stund.
-SUBTITLE_FemaleOpenContainer8,I could use this.,,dette treng jeg.
-SUBTITLE_FemaleOpenContainer9,Oh lucky day.,,Må vera lykkedagen min.
-SUBTITLE_FemaleTeethChattering1,[Teeth Chattering],,
-SUBTITLE_FemaleTeethChattering2,[Teeth Chattering],,
-SUBTITLE_FemaleTeethChattering3,[Teeth Chattering],,
-SUBTITLE_FemaleTeethChattering4,[Teeth Chattering],,
-SUBTITLE_FemaleTeethChattering5,"So cold...make a fire. Yeah, make a hot fire...",Vocalization for when the female survivor is very cold.,Låsar opp ei teikning som visar korleis ein lagar ei provisorisk øks.
-SUBTITLE_FemaleTODDawn1,Looks like I made it through another night.,,Ser ut til at eg klarte meg gjennom enda ein natt.
-SUBTITLE_FemaleTODDawn3,Thank goodness...made it through another night.,,"Takk og lov, eg klarte meg gjennom enda ein natt."
-SUBTITLE_FemaleTODDawn4,Looks like a new day is dawning.,,Virker som ein ny dag har begynt.
-SUBTITLE_FemaleTODDawn5,What do you know. Looks like I survived another night.,,Har du sett. Virker som eg overlevde enda ein natt.
-SUBTITLE_FemaleTODNight1,Feels like night is coming.,,Kjennes ut som om natten er på vei.
-SUBTITLE_FemaleTODNight2,It's dusk so night can't be far behind.,,"Det er skumring, so natten kan ikkje vera langt unna."
-SUBTITLE_FemaleTODNight3,It's getting dark out here. Time to look for shelter.,,Det byrjar å verta mørkt. Må finne ly.
-SUBTITLE_FemaleTODNight4,The sun is setting. It's going to get a lot colder soon.,,Sola går ned. det vert snart kaldere.
-SUBTITLE_FemaleYawn1,[yawn],,
-SUBTITLE_FFireFailUrg0106,Ok that didn't work.,,"Greit, det fungerte ikke."
-SUBTITLE_FFireFailUrg0107,Ah that didn't work.,,"Uff da, det fungerte ikke."
-SUBTITLE_FFireFailUrg0108,Why didn't that work?,,Hvorfor fungerte det ikke?
-SUBTITLE_FFireFailUrg0116,[grunt],,[Stønner]
-SUBTITLE_FFireFailUrg0117,That didn't work!,,det fungerte ikke!
-SUBTITLE_FFireFailUrg0201,Damn It!,,Faen!
-SUBTITLE_FFireFailUrg0203,Damn It!,,Faen!
-SUBTITLE_FFireFailUrg0204,That didn't work.,,det fungerte ikke.
-SUBTITLE_FFireFailUrg0208,Oh come on.  ,,"Å, kom igjen.  "
-SUBTITLE_FFireFailUrg0210,Damn It!,,Faen!
+SUBTITLE_FemaleOpenContainer2,What have we here?,,Kva har me her?
+SUBTITLE_FemaleOpenContainer3,Ahh...someone's stash.,,Ah... nokon sitt ikornlager.
+SUBTITLE_FemaleOpenContainer4,Hope nobody needs this anymore.,,Vonar ingen treng dette lenger.
+SUBTITLE_FemaleOpenContainer5,I wonder who owns this stuff.,,Lurar på kven som eig desse greiene.
+SUBTITLE_FemaleOpenContainer6,Wonder if the owner's around.,,Lurar på om eigaren er i nærleiken.
+SUBTITLE_FemaleOpenContainer7,Looks like this has been here a while.,,Ser ut som om dette har vert her ei stund.
+SUBTITLE_FemaleOpenContainer8,I could use this.,,Eg kan nytta dette.
+SUBTITLE_FemaleOpenContainer9,Oh lucky day.,,Heldig i dag.
+SUBTITLE_FemaleTeethChattering1,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_FemaleTeethChattering2,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_FemaleTeethChattering3,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_FemaleTeethChattering4,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_FemaleTeethChattering5,"So cold...make a fire. Yeah, make a hot fire...",Vocalization for when the female survivor is very cold.,"So kald... laga eit bål. Ja, laga eit varm bål..."
+SUBTITLE_FemaleTODDawn1,Looks like I made it through another night.,,Ser ut som eg klarte meg endå ei natt.
+SUBTITLE_FemaleTODDawn3,Thank goodness...made it through another night.,,Takk og lov... klarte meg endå ei natt.
+SUBTITLE_FemaleTODDawn4,Looks like a new day is dawning.,,Det ser ut som ein ny dag gryr.
+SUBTITLE_FemaleTODDawn5,What do you know. Looks like I survived another night.,,Har du sett. Ser ut som eg ovelevde endå ei natt.
+SUBTITLE_FemaleTODNight1,Feels like night is coming.,,Verkar som natta kjem.
+SUBTITLE_FemaleTODNight2,It's dusk so night can't be far behind.,,"Det er skumring, so natta kan ikkje vera langt vekke."
+SUBTITLE_FemaleTODNight3,It's getting dark out here. Time to look for shelter.,,Det byrjar å verta mørkt. På tide å leita etter ly.
+SUBTITLE_FemaleTODNight4,The sun is setting. It's going to get a lot colder soon.,,Sola går ned. Det blir mykje kaldare snart.
+SUBTITLE_FemaleYawn1,[yawn],,[Geisp]
+SUBTITLE_FFireFailUrg0106,Ok that didn't work.,,"Ja vel, det verka ikkje."
+SUBTITLE_FFireFailUrg0107,Ah that didn't work.,,"Ah, det verka ikkje."
+SUBTITLE_FFireFailUrg0108,Why didn't that work?,,Kvifor verka det ikkje?
+SUBTITLE_FFireFailUrg0116,[grunt],,[Støn]
+SUBTITLE_FFireFailUrg0117,That didn't work!,,Det verka ikkje.
+SUBTITLE_FFireFailUrg0201,Damn It!,,Fy søren!
+SUBTITLE_FFireFailUrg0203,Damn It!,,Fy søren!
+SUBTITLE_FFireFailUrg0204,That didn't work.,,Det verka ikkje.
+SUBTITLE_FFireFailUrg0208,Oh come on.  ,,"Åh, kom igjen.  "
+SUBTITLE_FFireFailUrg0210,Damn It!,,Fy søren!
 SUBTITLE_FFireFailUrg0212,Come On.,,Kom igjen.
 SUBTITLE_FFireFailUrg0220,Come On.,,Kom igjen.
-SUBTITLE_FFireFailUrg0303,Why didn't that work?,,Hvorfor fungerte det ikke?
+SUBTITLE_FFireFailUrg0303,Why didn't that work?,,Kvifor verka det ikkje?
 SUBTITLE_FFireFailUrg0306,Come On!,,Kom igjen!
 SUBTITLE_FFireFailUrg0310,Are you serious?,,Seriøst?
-SUBTITLE_FFireFailUrg0311,Damn It!,,Faen!
-SUBTITLE_FFireFailUrg0313,Oh come on.  ,,"Å, kom igjen.  "
+SUBTITLE_FFireFailUrg0311,Damn It!,,Fy søren!
+SUBTITLE_FFireFailUrg0313,Oh come on.  ,,"Åh, kom igjen."
 SUBTITLE_FFireFailUrg0315,Are you serious?,,Seriøst?
-SUBTITLE_FFireProgressFailUrg0101,Oh come on.  ,,"Å, kom igjen.  "
-SUBTITLE_FFireProgressFailUrg0102,Oh come on little fire.,,"Å, kom igjen, lille ild."
+SUBTITLE_FFireProgressFailUrg0101,Oh come on.  ,,"Åh, kom igjen."
+SUBTITLE_FFireProgressFailUrg0102,Oh come on little fire.,,"Åh, kom igjen vesle eld."
 SUBTITLE_FFireProgressFailUrg0105,Don't do this to me.,,Ikkje gjer dette mot meg.
 SUBTITLE_FFireProgressFailUrg0201,Don't do this to me.,,Ikkje gjer dette mot meg.
 SUBTITLE_FFireProgressFailUrg0202,Don't do this to me.,,Ikkje gjer dette mot meg.
-SUBTITLE_FFireProgressFailUrg0203,Come on little fire.,,"Kom igjen, lille ild."
+SUBTITLE_FFireProgressFailUrg0203,Come on little fire.,,"Kom igjen, vesle eld."
 SUBTITLE_FFireProgressFailUrg0204,Don't do this to me.,,Ikkje gjer dette mot meg.
-SUBTITLE_FFireProgressFailUrg0302,Gah! Don't do this to me.,,Faen. ikkje gjer dette mot meg.
+SUBTITLE_FFireProgressFailUrg0302,Gah! Don't do this to me.,,Åh! Ikkje gjer dette mot meg.
 SUBTITLE_FFireProgressFailUrg0303,Are you serious?,,Seriøst?
-SUBTITLE_FFireProgressFailUrg0304,Please.,,Vær so snill.
-SUBTITLE_FFireProgressSucUrg0101,Come on little fire.,,"Kom igjen, lille ild."
-SUBTITLE_FFireProgressSucUrg0102,Come on little fire.,,"Kom igjen, lille ild."
-SUBTITLE_FFireProgressSucUrg0103,Come on little fire. Come On.,,"Kom igjen, lille ild. Kom igjen."
-SUBTITLE_FFireProgressSucUrg0104,Come on little fire. Come On.,,"Kom igjen, lille ild. Kom igjen."
+SUBTITLE_FFireProgressFailUrg0304,Please.,,Ver so snill.
+SUBTITLE_FFireProgressSucUrg0101,Come on little fire.,,"Kom igjen, vesle eld."
+SUBTITLE_FFireProgressSucUrg0102,Come on little fire.,,"Kom igjen, vesle eld."
+SUBTITLE_FFireProgressSucUrg0103,Come on little fire. Come On.,,"Kom igjen, vesle eld. Kom igjen."
+SUBTITLE_FFireProgressSucUrg0104,Come on little fire. Come On.,,"Kom igjen, vesle eld. Kom igjen."
 SUBTITLE_FFireProgressSucUrg0106,Come on. Come on.,,Kom igjen. Kom igjen.
-SUBTITLE_FFireProgressSucUrg0201,Come on little fire.,,"Kom igjen, lille ild."
-SUBTITLE_FFireProgressSucUrg0203,Come on little fire.,,"Kom igjen, lille ild."
-SUBTITLE_FFireProgressSucUrg0301,Come on little fire.,,"Kom igjen, lille ild."
-SUBTITLE_FFireSucUrg0201,[exhale],,[puster ut]
-SUBTITLE_FFireSucUrg0203,[exhale],,[puster ut]
-SUBTITLE_FFireSucUrg0205,[exhale],,[puster ut]
-SUBTITLE_FFireSucUrg0301,[exhale],,[puster ut]
-SUBTITLE_FGenSuccess01,Perfect,,Perfekt
-SUBTITLE_FGenSuccess02,Perfect,,Perfekt
-SUBTITLE_FGenSuccess03,Oh ya. That's a good one.,,"der, ja. det var bra."
-SUBTITLE_FGenSuccess04,Oh lucky day.,,Må vera lykkedagen min.
-SUBTITLE_FGenSuccess05,Perfect,,Perfekt
-SUBTITLE_FGenSuccess07,Whew. Right on.,,Puh. Flott.
-SUBTITLE_FoodPoisoning1,Ooooohh...I feel like I'm going to die...,,"Åhhhhhh, eg tror eg er i ferd med å dø."
-SUBTITLE_FoodPoisoning2,Oh what a way to die...I just want to die...,,For ein måte å dø på... eg vil berre dø.
-SUBTITLE_FoodPoisoning3,My stomach...it hurts...oh it hurts...,,"Magen... det gjer so vondt .. Å, so vondt..."
-SUBTITLE_Hit1,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_Hit2,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_Hit3,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_Hit4,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_Hit5,[Pain grunt],,[Stønner av smerte]
-SUBTITLE_InhaleExhaleFemale3,[fatigued deep breath],,
-SUBTITLE_InjuredHigh1,Holy...that...ahhhhhh...,,Herre... det..... ahhhhhhhh...
-SUBTITLE_InjuredHigh2,This is serious.,,dette er alvorlig.
-SUBTITLE_InjuredHigh3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredHigh4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredHigh5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredHigh6,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredLocationHead1,My head hurts so much.,,
-SUBTITLE_InjuredLocationHead3,My head.,,
-SUBTITLE_InjuredLow1,Hurts a bit but I'll make it.,,"det gjer litt vondt, men eg klarer meg."
-SUBTITLE_InjuredLow2,That smarts a bit.,,det gjer litt vondt.
-SUBTITLE_InjuredLow3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredLow4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredLow5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredLow6,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt. "
-SUBTITLE_InjuredMedium1,Damn...that hurts.,,"Faen, det gjer vondt."
-SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,"Au, det gjer veldig vondt."
-SUBTITLE_InjuredMedium3,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredMedium4,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredMedium5,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_InjuredMedium6,[Pain grunts],,[Stønner av smerte]
-SUBTITLE_Insomnia1,Just...can't sleep.,,
-SUBTITLE_Insomnia2,"Pease, please, please. I just want to sleep.",,
-SUBTITLE_Insomnia3,I'm exhausted but I just can't fall asleep.,,
-SUBTITLE_InspectFood1,Is it food or...,,
-SUBTITLE_InspectFood2,Wonder if this is any good to eat.,,
-SUBTITLE_InspectFood3,Hope I can still eat this.,,
-SUBTITLE_InspectGeneral1,This stuff will come in handy.,,
-SUBTITLE_InspectGeneral2,This'll come in handy.,,
-SUBTITLE_InspectGeneral3,Best be prepared for anything.,,
-SUBTITLE_InspectGeneral4,Could end up being useful.,,
-SUBTITLE_InspectGeneral5,I think I can use this.,,
-SUBTITLE_InspectObject1,That'll come in handy.,,dette kan eg få bruk for.
-SUBTITLE_InspectObject2,What have we here?,,Ikkje verst.
-SUBTITLE_InspectObject3,Hope nobody needs this anymore.,,Eg håper ingen treng dette mer.
-SUBTITLE_InspectObject4,Looks like this has been here a while.,,dette har nok ligget her ein stund.
-SUBTITLE_InspectObject5,I could use this.,,dette treng jeg.
-SUBTITLE_InspectWater1,Yes...water.,,
-SUBTITLE_InspectWater2,Thank goodness...more water.,,
-SUBTITLE_InspectWater3,Should be good to drink?,,
-SUBTITLE_InspectWeapon1,Can't be too careful.,,
-SUBTITLE_InspectWeapon2,Live by the sword...,,
-SUBTITLE_InspectWeapon3,You never know when you might need to defend yourself.,,
-SUBTITLE_InteractiveHandheldShortwaveRadioSquelchA01,[Shortwave radio alert],,
-SUBTITLE_InteractiveHandheldShortwaveRadioSquelchA02,[Shortwave radio alert],,
-SUBTITLE_InventoryAddFood1,I can always use more food.,,
-SUBTITLE_InventoryAddFood2,I'd better take this food.,,
-SUBTITLE_InventoryAddFood3,I'll be hungry later.,,
-SUBTITLE_InventoryAddFuel1,Now we're cooking with gas.,,
-SUBTITLE_InventoryAddFuel2,This'll keep the lamp burning.,,
-SUBTITLE_InventoryAddWater1,Can't have too much water.,,
-SUBTITLE_InventoryAddWater2,Don't want to run out of water.,,
-SUBTITLE_InventoryAddWater3,I'll die if I run out of water.,,
-SUBTITLE_InventoryAddWeapon1,Let's hope I never have to use this on anyone.,,
-SUBTITLE_InventoryAddWeapon2,This'll be useful.,,
-SUBTITLE_InventoryAddWeapon3,Better be safe than sorry.,,
-SUBTITLE_InventoryNeeded1,Just what I need.,,
-SUBTITLE_InventoryNeeded2,I'm just out of this stuff.,,
-SUBTITLE_InventoryNeeded3,Thank goodness...,,
-SUBTITLE_InventoryNeeded4,I need more of that.,,
-SUBTITLE_InventoryNeeded5,Excellent.,,
-SUBTITLE_KettleWhistle,[kettle whistling],,
-SUBTITLE_LandHard1,[Hard grunt],,[Stønner tungt]
-SUBTITLE_LandHard2,[Hard grunt],,[Stønner tungt]
-SUBTITLE_LandHard3,[Hard grunt],,[Stønner tungt]
-SUBTITLE_LandHard4,[Hard grunt],,[Stønner tungt]
-SUBTITLE_LandLight1,[Light grunt],,[Stønner lett]
-SUBTITLE_LandLight2,[Light grunt],,[Stønner lett]
-SUBTITLE_LandLight3,[Light grunt],,[Stønner lett]
-SUBTITLE_LandMedium1,[Medium grunt],,[Stønner moderat]
-SUBTITLE_LandMedium2,[Medium grunt],,[Stønner moderat]
-SUBTITLE_LandMedium3,[Medium grunt],,[Stønner moderat]
-SUBTITLE_LandMedium4,[Medium grunt],,[Stønner moderat]
-SUBTITLE_MacAnxiety01,No...no...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety02,No...no...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety03,No...no...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety04,Gotta get out of here...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety05,I gotta get out of here...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety06,Gotta get out of here...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety07,"If this is a nightmare, I want to wake up.",Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety08,"If this is a nightmare, I want to wake up.",Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety11,This is like something out of a horror movie.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety12,This is like something out of a horror movie.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety13,This is like something out of a horror movie.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety14,That's...that's not an animal.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety15,That's...that's not an animal.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety16,That's...that's not an animal.,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety17,What is that thing...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety18,What is that thing...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety19,What is that thing...,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety20,What the hell was that?,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety21,What the hell was that?,Male Survivor Fear VO line,
-SUBTITLE_MacAnxiety22,What the hell was that?,Male Survivor Fear VO line,
-SUBTITLE_MacConAnkle01,Damn...my ankle.,Ankle Sprain,
-SUBTITLE_MacConAnkle02,That hurts like...hell.,Ankle Sprain,
-SUBTITLE_MacConAnkle03,This bad ankle's going to slow me down.,Ankle Sprain,
-SUBTITLE_MacConAnkle04,I'd better lay low til this ankle improves.,Ankle Sprain,
-SUBTITLE_MacConFatigueHi04,I'm getting weaker.,,
-SUBTITLE_MacConInjuryGenLow01,I don't feel so good.,,
-SUBTITLE_MacConInsomnia01,I'm tired but I can't sleep.,,
-SUBTITLE_MacConInsomnia02,I close my eyes but I just can't sleep.,,
-SUBTITLE_MacConWrist01,Ouch...that smarts.,Vocalization for when the male survivor sprains his wrist.,Au … den svei.
-SUBTITLE_MacConWrist02,Holy...I hope my wrist isn't broken.,Vocalization for when the male survivor sprains his wrist.,Jeg … eg håper håndleddet ikkje er brukket.
-SUBTITLE_MacConWrist03,Can't do much with that neve until my wrist heals up.,Vocalization for when the male survivor sprains his wrist.,Kan ikkje gjera stort med den handa før håndleddet er bedre.
-SUBTITLE_MacConWrist04,I have to be more careful. A sprained wrist could mean death out here.,Vocalization for when the male survivor sprains his wrist.,"Eg må vera meir varsom. Forstuer eg håndleddet her, kan det vera slutten."
-SUBTITLE_MacFear01,No...no!,Male Survivor Fear VO line,
-SUBTITLE_MacFear02,No...no!,Male Survivor Fear VO line,
-SUBTITLE_MacFear03,No...no!,Male Survivor Fear VO line,
-SUBTITLE_MacFear04,Oh dear god...,Male Survivor Fear VO line,
-SUBTITLE_MacFear05,Oh dear god...,Male Survivor Fear VO line,
-SUBTITLE_MacFear06,Oh dear god...,Male Survivor Fear VO line,
-SUBTITLE_MacFear07,Oh my god...,Male Survivor Fear VO line,
-SUBTITLE_MacFear08,Oh my god...,Male Survivor Fear VO line,
-SUBTITLE_MacFear09,Oh my god!,Male Survivor Fear VO line,
-SUBTITLE_MacFear10,ah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear11,ah...gah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear12,ah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear13,aahh!,Male Survivor Fear VO line,
-SUBTITLE_MacFear14,aahh...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear15,Gah...ah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear16,ah...ah..,Male Survivor Fear VO line,
-SUBTITLE_MacFear17,ah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear18,ah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFear19,Gah...ah!,Male Survivor Fear VO line,
-SUBTITLE_MacFoodPoisonLow02,I think I'm getting sick.,,
-SUBTITLE_MacHarvCarcassCondGood02,This carcass could save my life.,Starting -- good condition,
-SUBTITLE_MacHarvCarcassCondPoor02,"Doesn't look too good, but what choice do I have?",Starting -- poor condition,
-SUBTITLE_MacRopeNearTop02,I think I'm going to make it.,Rope Nearing the top,
-SUBTITLE_MacRopeNearTop03,Getting near the top!,Rope Nearing the top,
-SUBTITLE_MacRopeStamLo01,I think I'm getting sick.,,
-SUBTITLE_MacRopeStart02,Only one way to go -- up.,Rope Starting,
-SUBTITLE_MacStomachGrowl1,[stomach growling],,
-SUBTITLE_MacStomachGrowl3,[stomach growling],,
-SUBTITLE_MFireFailUrg0101,Damn It.,,Faen.
-SUBTITLE_MFireFailUrg0104,That didn't work.,,det fungerte ikke.
-SUBTITLE_MFireFailUrg0107,Why didn't that work.,,Hvorfor fungerte det ikke?
-SUBTITLE_MFireFailUrg0110,"Well, that didn't work.",,"Nei vel, det fungerte ikke."
-SUBTITLE_MFireFailUrg0111,"Well, that didn't work.",,"Nei vel, det fungerte ikke."
-SUBTITLE_MFireFailUrg0201,Damn It.,,Faen.
-SUBTITLE_MFireFailUrg0202,Why ddin't that work?,,Hvorfor fungerte det ikke?
-SUBTITLE_MFireFailUrg0203,Hrmph.,,Hrmph.
-SUBTITLE_MFireFailUrg0209,Well that didn't work.,,"Vel, det fungerte ikke."
-SUBTITLE_MFireFailUrg0211,Waste of damned time.,,Bortkastet forbanna tid.
-SUBTITLE_MFireFailUrg0212,Waste of damned time.,,Bortkastet forbanna tid.
+SUBTITLE_FFireProgressSucUrg0201,Come on little fire.,,"Kom igjen, vesle eld."
+SUBTITLE_FFireProgressSucUrg0203,Come on little fire.,,"Kom igjen, vesle eld."
+SUBTITLE_FFireProgressSucUrg0301,Come on little fire.,,"Kom igjen, vesle eld."
+SUBTITLE_FFireSucUrg0201,[exhale],,[Puh]
+SUBTITLE_FFireSucUrg0203,[exhale],,[Puh]
+SUBTITLE_FFireSucUrg0205,[exhale],,[Puh]
+SUBTITLE_FFireSucUrg0301,[exhale],,[Puh]
+SUBTITLE_FGenSuccess01,Perfect,,Perfekt.
+SUBTITLE_FGenSuccess02,Perfect,,Perfekt.
+SUBTITLE_FGenSuccess03,Oh ya. That's a good one.,,Åh ja. Det vart bra.
+SUBTITLE_FGenSuccess04,Oh lucky day.,,Heldig i dag.
+SUBTITLE_FGenSuccess05,Perfect,,Perfekt.
+SUBTITLE_FGenSuccess07,Whew. Right on.,,Puh. Der sat han.
+SUBTITLE_FoodPoisoning1,Ooooohh...I feel like I'm going to die...,,"Åh, det kjennest som om eg kjem til å døy..."
+SUBTITLE_FoodPoisoning2,Oh what a way to die...I just want to die...,,"Åh, for ein måte å døy på... eg vil berre døy..."
+SUBTITLE_FoodPoisoning3,My stomach...it hurts...oh it hurts...,,"Magen min... det gjer so vondt... åh, so vondt..."
+SUBTITLE_Hit1,[Pain grunt],,[Smertestøn]
+SUBTITLE_Hit2,[Pain grunt],,[Smertestøn]
+SUBTITLE_Hit3,[Pain grunt],,[Smertestøn]
+SUBTITLE_Hit4,[Pain grunt],,[Smertestøn]
+SUBTITLE_Hit5,[Pain grunt],,[Smertestøn]
+SUBTITLE_InhaleExhaleFemale3,[fatigued deep breath],,[Sliten tungt and]
+SUBTITLE_InjuredHigh1,Holy...that...ahhhhhh...,,Heilage... det... åh...
+SUBTITLE_InjuredHigh2,This is serious.,,Dette er alvorlig.
+SUBTITLE_InjuredHigh3,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredHigh4,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredHigh5,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredHigh6,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredLocationHead1,My head hurts so much.,,Hovudet mitt gjer so vondt.
+SUBTITLE_InjuredLocationHead3,My head.,,Hovudet mitt.
+SUBTITLE_InjuredLow1,Hurts a bit but I'll make it.,,"Det gjer litt vondt, men eg skal klara meg."
+SUBTITLE_InjuredLow2,That smarts a bit.,,Det gjer litt vondt.
+SUBTITLE_InjuredLow3,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredLow4,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredLow5,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredLow6,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt."
+SUBTITLE_InjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
+SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
+SUBTITLE_InjuredMedium3,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredMedium4,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredMedium5,[Pain grunts],,[Smertestøn]
+SUBTITLE_InjuredMedium6,[Pain grunts],,[Smertestøn]
+SUBTITLE_Insomnia1,Just...can't sleep.,,Berre... får ikkje sova.
+SUBTITLE_Insomnia2,"Pease, please, please. I just want to sleep.",,"Ver så snill, ver så snill. Eg vil berre sova."
+SUBTITLE_Insomnia3,I'm exhausted but I just can't fall asleep.,,"Eg er utmødd, men eg får berre ikkje til å sovna."
+SUBTITLE_InspectFood1,Is it food or...,,"Er det mat, eller..."
+SUBTITLE_InspectFood2,Wonder if this is any good to eat.,,Lurer på om dette er noko å eta på.
+SUBTITLE_InspectFood3,Hope I can still eat this.,,Vonar eg framles kan eta dette.
+SUBTITLE_InspectGeneral1,This stuff will come in handy.,,Desse greiene kjem eg til å få bruk for.
+SUBTITLE_InspectGeneral2,This'll come in handy.,,Dette kjem eg til å få bruk for.
+SUBTITLE_InspectGeneral3,Best be prepared for anything.,,Det er best å vera førebudd på kva som helst.
+SUBTITLE_InspectGeneral4,Could end up being useful.,,Kann visa seg å vera gagnleg.
+SUBTITLE_InspectGeneral5,I think I can use this.,,Eg trur eg kan nytta dette.
+SUBTITLE_InspectObject1,That'll come in handy.,,Dette kjem eg til å få bruk for.
+SUBTITLE_InspectObject2,What have we here?,,Kva har me her?
+SUBTITLE_InspectObject3,Hope nobody needs this anymore.,,Vonar ingen treng dette lenger.
+SUBTITLE_InspectObject4,Looks like this has been here a while.,,Ser ut som om dette har vert her ei stund.
+SUBTITLE_InspectObject5,I could use this.,,Eg kan nytta dette.
+SUBTITLE_InspectWater1,Yes...water.,,Ja... vatn.
+SUBTITLE_InspectWater2,Thank goodness...more water.,,Takk og lov... meir vatn.
+SUBTITLE_InspectWater3,Should be good to drink?,,Er vel drikkande?
+SUBTITLE_InspectWeapon1,Can't be too careful.,,Kan ikkje vera for varsam.
+SUBTITLE_InspectWeapon2,Live by the sword...,,For alle som grip til sverd...
+SUBTITLE_InspectWeapon3,You never know when you might need to defend yourself.,,Ein veit aldri kor tid ein måtte forsvara seg sjølv.
+SUBTITLE_InteractiveHandheldShortwaveRadioSquelchA01,[Shortwave radio alert],,[Kortbylgjeradiovarsel]
+SUBTITLE_InteractiveHandheldShortwaveRadioSquelchA02,[Shortwave radio alert],,[Kortbylgjeradiovarsel]
+SUBTITLE_InventoryAddFood1,I can always use more food.,,Eg har alltid bruk for meir mat.
+SUBTITLE_InventoryAddFood2,I'd better take this food.,,Eg bør ta denne maten.
+SUBTITLE_InventoryAddFood3,I'll be hungry later.,,Eg vert svolten seinare.
+SUBTITLE_InventoryAddFuel1,Now we're cooking with gas.,,No får me fart på det.
+SUBTITLE_InventoryAddFuel2,This'll keep the lamp burning.,,Dette vil halda lampen gåande.
+SUBTITLE_InventoryAddWater1,Can't have too much water.,,Ein kan ikkje ha for mykje vatn.
+SUBTITLE_InventoryAddWater2,Don't want to run out of water.,,Vil ikkje gå tom for vatn.
+SUBTITLE_InventoryAddWater3,I'll die if I run out of water.,,Eg døyr om eg går tom for vatn.
+SUBTITLE_InventoryAddWeapon1,Let's hope I never have to use this on anyone.,,Vonar eg aldri må nytta denne mot nokon.
+SUBTITLE_InventoryAddWeapon2,This'll be useful.,,Denne vert gagnleg.
+SUBTITLE_InventoryAddWeapon3,Better be safe than sorry.,,Best å vera på den sikre sida.
+SUBTITLE_InventoryNeeded1,Just what I need.,,Nett det eg treng.
+SUBTITLE_InventoryNeeded2,I'm just out of this stuff.,,Eg gjekk nett tom for desse greiene.
+SUBTITLE_InventoryNeeded3,Thank goodness...,,Takk og lov...
+SUBTITLE_InventoryNeeded4,I need more of that.,,Eg treng meir av det.
+SUBTITLE_InventoryNeeded5,Excellent.,,Framifrå.
+SUBTITLE_KettleWhistle,[kettle whistling],,[Plystrande tekanne]
+SUBTITLE_LandHard1,[Hard grunt],,[Tungt støn]
+SUBTITLE_LandHard2,[Hard grunt],,[Tungt støn]
+SUBTITLE_LandHard3,[Hard grunt],,[Tungt støn]
+SUBTITLE_LandHard4,[Hard grunt],,[Tungt støn]
+SUBTITLE_LandLight1,[Light grunt],,[Lett støn]
+SUBTITLE_LandLight2,[Light grunt],,[Lett støn]
+SUBTITLE_LandLight3,[Light grunt],,[Lett støn]
+SUBTITLE_LandMedium1,[Medium grunt],,[Støn]
+SUBTITLE_LandMedium2,[Medium grunt],,[Støn]
+SUBTITLE_LandMedium3,[Medium grunt],,[Støn]
+SUBTITLE_LandMedium4,[Medium grunt],,[Støn]
+SUBTITLE_MacAnxiety01,No...no...,Male Survivor Fear VO line,Nei... nei...
+SUBTITLE_MacAnxiety02,No...no...,Male Survivor Fear VO line,Nei... nei...
+SUBTITLE_MacAnxiety03,No...no...,Male Survivor Fear VO line,Nei... nei...
+SUBTITLE_MacAnxiety04,Gotta get out of here...,Male Survivor Fear VO line,Må komma meg vekk her ifrå...
+SUBTITLE_MacAnxiety05,I gotta get out of here...,Male Survivor Fear VO line,Eg må komma meg vekk her ifrå...
+SUBTITLE_MacAnxiety06,Gotta get out of here...,Male Survivor Fear VO line,Må komma meg vekk her ifrå...
+SUBTITLE_MacAnxiety07,"If this is a nightmare, I want to wake up.",Male Survivor Fear VO line,"Viss dette er eit mareritt, so vil eg vakna."
+SUBTITLE_MacAnxiety08,"If this is a nightmare, I want to wake up.",Male Survivor Fear VO line,"Viss dette er eit mareritt, so vil eg vakna."
+SUBTITLE_MacAnxiety11,This is like something out of a horror movie.,Male Survivor Fear VO line,Dette er som noko frå ein skrekkfilm.
+SUBTITLE_MacAnxiety12,This is like something out of a horror movie.,Male Survivor Fear VO line,Dette er som noko frå ein skrekkfilm.
+SUBTITLE_MacAnxiety13,This is like something out of a horror movie.,Male Survivor Fear VO line,Dette er som noko frå ein skrekkfilm.
+SUBTITLE_MacAnxiety14,That's...that's not an animal.,Male Survivor Fear VO line,Det er... det er ikkje eit dyr.
+SUBTITLE_MacAnxiety15,That's...that's not an animal.,Male Survivor Fear VO line,Det er... det er ikkje eit dyr.
+SUBTITLE_MacAnxiety16,That's...that's not an animal.,Male Survivor Fear VO line,Det er... det er ikkje eit dyr.
+SUBTITLE_MacAnxiety17,What is that thing...,Male Survivor Fear VO line,Kva er den tingen...
+SUBTITLE_MacAnxiety18,What is that thing...,Male Survivor Fear VO line,Kva er den tingen...
+SUBTITLE_MacAnxiety19,What is that thing...,Male Survivor Fear VO line,Kva er den tingen...
+SUBTITLE_MacAnxiety20,What the hell was that?,Male Survivor Fear VO line,Kva i helvete var det?
+SUBTITLE_MacAnxiety21,What the hell was that?,Male Survivor Fear VO line,Kva i helvete var det?
+SUBTITLE_MacAnxiety22,What the hell was that?,Male Survivor Fear VO line,Kva i helvete var det?
+SUBTITLE_MacConAnkle01,Damn...my ankle.,Ankle Sprain,Fy søren... okla mi.
+SUBTITLE_MacConAnkle02,That hurts like...hell.,Ankle Sprain,Det gjer dritvondt.
+SUBTITLE_MacConAnkle03,This bad ankle's going to slow me down.,Ankle Sprain,Denne vonde okla kjem til å sakke meg.
+SUBTITLE_MacConAnkle04,I'd better lay low til this ankle improves.,Ankle Sprain,Eg må liggje lågt i terrenget til okla betrar seg.
+SUBTITLE_MacConFatigueHi04,I'm getting weaker.,,Eg vert veikare.
+SUBTITLE_MacConInjuryGenLow01,I don't feel so good.,,Eg er ikkje heilt i form.
+SUBTITLE_MacConInsomnia01,I'm tired but I can't sleep.,,"Eg er trøtt, men får ikkje sova."
+SUBTITLE_MacConInsomnia02,I close my eyes but I just can't sleep.,,"Eg lukkar augene, men eg får berre ikkje sova."
+SUBTITLE_MacConWrist01,Ouch...that smarts.,Vocalization for when the male survivor sprains his wrist.,Au... det var vondt.
+SUBTITLE_MacConWrist02,Holy...I hope my wrist isn't broken.,Vocalization for when the male survivor sprains his wrist.,Heilage... eg vonar handleddet mitt ikkje er brote.
+SUBTITLE_MacConWrist03,Can't do much with that hand until my wrist heals up.,Vocalization for when the male survivor sprains his wrist.,Kan ikkje gjera stort med den neven før handleddet læk.
+SUBTITLE_MacConWrist04,I have to be more careful. A sprained wrist could mean death out here.,Vocalization for when the male survivor sprains his wrist.,Eg må vera meir varsam. Eit vrengt handledd kan bety dauden her ute.
+SUBTITLE_MacFear01,No...no!,Male Survivor Fear VO line,Nei... nei!
+SUBTITLE_MacFear02,No...no!,Male Survivor Fear VO line,Nei... nei!
+SUBTITLE_MacFear03,No...no!,Male Survivor Fear VO line,Nei... nei!
+SUBTITLE_MacFear04,Oh dear god...,Male Survivor Fear VO line,Åh kjære Gud...
+SUBTITLE_MacFear05,Oh dear god...,Male Survivor Fear VO line,Åh kjære Gud...
+SUBTITLE_MacFear06,Oh dear god...,Male Survivor Fear VO line,Åh kjære Gud...
+SUBTITLE_MacFear07,Oh my god...,Male Survivor Fear VO line,Herregud...
+SUBTITLE_MacFear08,Oh my god...,Male Survivor Fear VO line,Herregud...
+SUBTITLE_MacFear09,Oh my god!,Male Survivor Fear VO line,Herregud!
+SUBTITLE_MacFear10,ah...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear11,ah...gah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear12,ah...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear13,aahh!,Male Survivor Fear VO line,Ah!
+SUBTITLE_MacFear14,aahh...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear15,Gah...ah...ah!,Male Survivor Fear VO line,Ah... ah... ah!
+SUBTITLE_MacFear16,ah...ah..,Male Survivor Fear VO line,Ah... ah...
+SUBTITLE_MacFear17,ah...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear18,ah...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFear19,Gah...ah!,Male Survivor Fear VO line,Ah... ah!
+SUBTITLE_MacFoodPoisonLow02,I think I'm getting sick.,,Eg trur eg vert sjuk.
+SUBTITLE_MacHarvCarcassCondGood02,This carcass could save my life.,Starting -- good condition,Dette kadaveret kan berga livet mitt.
+SUBTITLE_MacHarvCarcassCondPoor02,"Doesn't look too good, but what choice do I have?",Starting -- poor condition,"Ser ikkje so bra ut, men har eg noko val?"
+SUBTITLE_MacRopeNearTop02,I think I'm going to make it.,Rope Nearing the top,Eg trur eg skal klara det.
+SUBTITLE_MacRopeNearTop03,Getting near the top!,Rope Nearing the top,Eg nærmar meg toppen!
+SUBTITLE_MacRopeStamLo01,I think I'm getting sick.,,Eg trur eg vert sjuk.
+SUBTITLE_MacRopeStart02,Only one way to go -- up.,Rope Starting,Det er berre ein veg å gå – opp.
+SUBTITLE_MacStomachGrowl1,[stomach growling],,[Rumling i magen]
+SUBTITLE_MacStomachGrowl3,[stomach growling],,[Rumling i magen]
+SUBTITLE_MFireFailUrg0101,Damn It.,,Søren klype.
+SUBTITLE_MFireFailUrg0104,That didn't work.,,Det verka ikkje.
+SUBTITLE_MFireFailUrg0107,Why didn't that work.,,Kvifor verka det ikkje?
+SUBTITLE_MFireFailUrg0110,"Well, that didn't work.",,"Vel, det verka ikkje."
+SUBTITLE_MFireFailUrg0111,"Well, that didn't work.",,"Vel, det verka ikkje."
+SUBTITLE_MFireFailUrg0201,Damn It.,,Søren klype.
+SUBTITLE_MFireFailUrg0202,Why ddin't that work?,,Kvifor verka det ikkje?
+SUBTITLE_MFireFailUrg0203,Hrmph.,,[Snøft]
+SUBTITLE_MFireFailUrg0209,Well that didn't work.,,"Vel, det verka ikkje."
+SUBTITLE_MFireFailUrg0211,Waste of damned time.,,Spilt forbanna tid.
+SUBTITLE_MFireFailUrg0212,Waste of damned time.,,Spilt forbanna tid.
 SUBTITLE_MFireFailUrg0301,Are you serious?,,Seriøst?
 SUBTITLE_MFireFailUrg0302,Are you serious?,,Seriøst?
-SUBTITLE_MFireFailUrg0303,Hrmph.,,Hrmph.
+SUBTITLE_MFireFailUrg0303,Hrmph.,,[Snøft]
 SUBTITLE_MFireFailUrg0304,Are you serious?,,Seriøst?
-SUBTITLE_MFireProgressFailUrg0101,Oh come on.  ,,"Å, kom igjen.  "
-SUBTITLE_MFireProgressFailUrg0102,Oh come on.  ,,"Å, kom igjen.  "
-SUBTITLE_MFireProgressFailUrg0201,Oh come on.  ,,"Å, kom igjen.  "
-SUBTITLE_MFireProgressFailUrg0202,Come on little fire.,,"Kom igjen, lille ild."
+SUBTITLE_MFireProgressFailUrg0101,Oh come on.  ,,"Åh, kom igjen.  "
+SUBTITLE_MFireProgressFailUrg0102,Oh come on.  ,,"Åh, kom igjen.  "
+SUBTITLE_MFireProgressFailUrg0201,Oh come on.  ,,"Åh, kom igjen.  "
+SUBTITLE_MFireProgressFailUrg0202,Come on little fire.,,"Kom igjen, vetle eld."
 SUBTITLE_MFireProgressFailUrg0301,"Don't do this to me,",,Ikkje gjer dette mot meg.
 SUBTITLE_MFireProgressFailUrg0302,Come On.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0101,Come on.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0102,Come on. Come on.,,Kom igjen. Kom igjen.
-SUBTITLE_MFireProgressSucUrg0201,Come on little fire.,,"Kom igjen, lille ild."
+SUBTITLE_MFireProgressSucUrg0201,Come on little fire.,,"Kom igjen, vetle eld."
 SUBTITLE_MFireProgressSucUrg0202,Come on.,,Kom igjen.
-SUBTITLE_MFireProgressSucUrg0203,Come on little fire.,,"Kom igjen, lille ild."
+SUBTITLE_MFireProgressSucUrg0203,Come on little fire.,,"Kom igjen, vetle eld."
 SUBTITLE_MFireProgressSucUrg0204,Come on.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0301,Come on. Come on.,,Kom igjen. Kom igjen.
 SUBTITLE_MFireProgressSucUrg0302,Come on.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0304,Come on.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0305,Come on.,,Kom igjen.
 SUBTITLE_MFireProgressSucUrg0306,Come on. Come on.,,Kom igjen. Kom igjen.
-SUBTITLE_MFireSucUrg0103,That did it.,,"der, ja."
-SUBTITLE_MFireSucUrg0104,That did it.,,"der, ja."
-SUBTITLE_MFireSucUrg0106,All right.,,Fint.
-SUBTITLE_MFireSucUrg0108,That's done.,,Gjort.
-SUBTITLE_MFireSucUrg0110,Turned out pretty well.,,det gikk jo bra.
-SUBTITLE_MFireSucUrg0111,Turned out pretty well.,,det gikk jo bra.
-SUBTITLE_MFireSucUrg0202,It worked.,,det fungerte.
-SUBTITLE_MFireSucUrg0204,Looks like it worked.,,det fungerte visst.
-SUBTITLE_MFireSucUrg0206,Well thank goodness for that.,,Takk og lov for det.
-SUBTITLE_MFireSucUrg0208,That should help warm things up.,,No vert det nok litt varmere.
-SUBTITLE_MFireSucUrg0209,That should help warm things up.,,No vert det nok litt varmere.
-SUBTITLE_MFireSucUrg0301,It worked.,,det fungerte.
-SUBTITLE_MFireSucUrg0302,It worked.,,det fungerte.
-SUBTITLE_MFireSucUrg0305,Well thank goodness for that.,,Takk og lov for det.
-SUBTITLE_MFireSucUrg0307,Fire is life out here.,,Ild betyr alt her ute.
-SUBTITLE_OpenContainer1,There's gotta be something useful in here.,,det må da finnes noko nyttig her inne.
-SUBTITLE_OpenContainer2,Where's the good stuff?,,Hvor er alle de bra tingene?
-SUBTITLE_OpenContainer3,Never would have thought to look here.,,Trodde ikkje eg skulle finne noko her.
-SUBTITLE_OpenContainer4,"Ah, someone's stash.",,"Oi, utstyret til nokon."
-SUBTITLE_OpenContainer5,I wonder who owns this stuff?,,Lurer på hvem som eier disse greiene?
-SUBTITLE_OpenContainer6,I wonder if the owner's around?,,Lurer på om eieren er i nærheten?
-SUBTITLE_PlayerVOCoughing,[coughing],,
+SUBTITLE_MFireSucUrg0103,That did it.,,Det gjorde seg.
+SUBTITLE_MFireSucUrg0104,That did it.,,Det gjorde seg.
+SUBTITLE_MFireSucUrg0106,All right.,,Ja vel.
+SUBTITLE_MFireSucUrg0108,That's done.,,Det er ferdig.
+SUBTITLE_MFireSucUrg0110,Turned out pretty well.,,Det vart jo temmeleg bra.
+SUBTITLE_MFireSucUrg0111,Turned out pretty well.,,Det vart jo temmeleg bra.
+SUBTITLE_MFireSucUrg0202,It worked.,,Det verka.
+SUBTITLE_MFireSucUrg0204,Looks like it worked.,,Det verka visst.
+SUBTITLE_MFireSucUrg0206,Well thank goodness for that.,,"Vel, takk og lov for det."
+SUBTITLE_MFireSucUrg0208,That should help warm things up.,,Det burde få varmen i ting.
+SUBTITLE_MFireSucUrg0209,That should help warm things up.,,Det burde få varmen i ting.
+SUBTITLE_MFireSucUrg0301,It worked.,,Det verka.
+SUBTITLE_MFireSucUrg0302,It worked.,,Det verka.
+SUBTITLE_MFireSucUrg0305,Well thank goodness for that.,,"Vel, takk og lov for det."
+SUBTITLE_MFireSucUrg0307,Fire is life out here.,,Eld er liv her ute.
+SUBTITLE_OpenContainer1,There's gotta be something useful in here.,,Det må jo finnast noko gagnleg her.
+SUBTITLE_OpenContainer2,Where's the good stuff?,,Kvar er dei gode greiene?
+SUBTITLE_OpenContainer3,Never would have thought to look here.,,Hadde aldri funne på å sjå her.
+SUBTITLE_OpenContainer4,"Ah, someone's stash.",,"Ah, nokon sitt ikornlager."
+SUBTITLE_OpenContainer5,I wonder who owns this stuff?,,Lurar på kven som eig desse greiene?
+SUBTITLE_OpenContainer6,I wonder if the owner's around?,,Lurar på om eigaren er i nærleiken?
+SUBTITLE_PlayerVOCoughing,[coughing],,[Hosting]
 SUBTITLE_SFXEP01Mac01a,Mackenzie! ,,Mackenzie!
 SUBTITLE_SFXEP01Mac03a,Mackenzie! ,,Mackenzie!
 SUBTITLE_SMAstDiagnosis01,Let's see what's wrong here.,,
@@ -16795,24 +16795,24 @@ SUBTITLE_Tale02SecurityChief370,Some way.,,
 SUBTITLE_Tale02SecurityChief380,I love you.,,
 SUBTITLE_Tale02SecurityChief390,Just frost now.,,
 SUBTITLE_Tale02SecurityChief400,My breath.,,
-SUBTITLE_TeethChattering1,[Teeth Chattering],,
-SUBTITLE_TeethChattering2,[Teeth Chattering],,
-SUBTITLE_TeethChattering3,[Teeth Chattering],,
-SUBTITLE_TeethChattering4,[Teeth Chattering],,
-SUBTITLE_TeethChattering5,[Teeth Chattering],,
-SUBTITLE_TeethChattering6,[Teeth Chattering],,
-SUBTITLE_TeethChattering7,[Teeth Chattering],,
-SUBTITLE_TODDawn1,Looks like I made it through another night.,,Ser ut til at eg klarte meg gjennom enda ein natt.
-SUBTITLE_TODDawn2,Thank goodness...made it through another night.,,"Takk og lov, eg klarte meg gjennom enda ein natt."
-SUBTITLE_TODDawn3,Looks like a new day is dawning.,,Virker som ein ny dag har begynt.
+SUBTITLE_TeethChattering1,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering2,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering3,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering4,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering5,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering6,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TeethChattering7,[Teeth Chattering],,[Hakkande tenner]
+SUBTITLE_TODDawn1,Looks like I made it through another night.,,Ser ut som eg klarte meg endå ei natt.
+SUBTITLE_TODDawn2,Thank goodness...made it through another night.,,Takk og lov... klarte meg endå ei natt.
+SUBTITLE_TODDawn3,Looks like a new day is dawning.,,Det ser ut som ein ny dag gryr.
 SUBTITLE_TODDawn4,Looks like I survived another night.,,Eg overlevde visst enda ein natt.
-SUBTITLE_TODNight1,Feels like night is coming.,,Kjennes ut som om natten er på vei.
-SUBTITLE_TODNight2,It's dusk so night can't be far behind.,,"Det er skumring, so natten kan ikkje vera langt unna."
-SUBTITLE_TODNight3,It's getting dark out here. Time to look for shelter.,,det byrjar å verta mørkt. Må finne ly.
-SUBTITLE_TODNight4,The sun is setting. It's going to get a lot colder soon.,,Sola går ned. det vert snart kaldere.
-SUBTITLE_WristSprain1,Damn.  Gotta be more careful.,Vocalization for when the male survivor sprains his wrist.,Søren. Må vera meir forsiktig.
-SUBTITLE_WristSprain2,Can't afford to have a sprained wrist out here. ,Vocalization for when the male survivor sprains his wrist.,Kan ikkje forstue håndleddet her ute. 
-SUBTITLE_WristSprain3,Gotta rest that wrist or it could get worse.,Vocalization for when the male survivor sprains his wrist.,"Må hvile håndleddet. Viss ikke, kan det verta verre."
+SUBTITLE_TODNight1,Feels like night is coming.,,Verkar som natta kjem.
+SUBTITLE_TODNight2,It's dusk so night can't be far behind.,,"Det er skumring, so natta kan ikkje vera langt vekke."
+SUBTITLE_TODNight3,It's getting dark out here. Time to look for shelter.,,Det byrjar å verta mørkt. På tide å leita etter ly.
+SUBTITLE_TODNight4,The sun is setting. It's going to get a lot colder soon.,,Sola går ned. Det blir mykje kaldare snart.
+SUBTITLE_WristSprain1,Damn.  Gotta be more careful.,Vocalization for when the male survivor sprains his wrist.,Søren. Må vera meir varsam.
+SUBTITLE_WristSprain2,Can't afford to have a sprained wrist out here. ,Vocalization for when the male survivor sprains his wrist.,Kan ikkje ta meg råd til eit vrengd handledd her ute.
+SUBTITLE_WristSprain3,Gotta rest that wrist or it could get worse.,Vocalization for when the male survivor sprains his wrist.,"Må kvile handleddet, elles kan det verta verre."
 SURVIVAL_jnl_Tale1_Desc,Track down mysterious radio transmissions across Great Bear Island,,
 SURVIVAL_jnl_Tale1_Obj1,Repair Transmitter outside Forsaken Airfield Control Tower.,,
 SURVIVAL_jnl_Tale1_Obj2,Repair Transmitter in Forlorn Muskeg.,,
@@ -16849,7 +16849,7 @@ SURVIVAL_jnl_Tale2_Obj5_a,Lay the Security Chief's bones to rest near the waterf
 SURVIVAL_jnl_Tale2_Title,BURIED ECHOES,,
 SYSTEM_MailingListLanguageCode,en,"*** DO NOT TRANSLATE *** String should be set from the list of language codes at the following link: https://kb.mailchimp.com/lists/manage-contacts/view-and-edit-contact-languages,de,ru,fr,ja,ko,zh,sv,zh,tr,no,es,pt_PT,pt,nl,fi,it,pl",no
 SYSTEM_OnlineMessagingLanguageCode,en,*** DO NOT TRANSLATE *** String should be set from the list of language codes at the following link: https://3.basecamp.com/3351141/buckets/5596648/messages/1178734773#__recording_1316796912,no
-WORLDMAP_CoreRegions,Lower Great Bear,,
-WORLDMAP_CoreRegionsDesc,Regions near Great Bear Island's southeast coast.,,
-WORLDMAP_FarTerritories,Far Territory,,
-WORLDMAP_FarTerritoriesDesc,Great Bear Island's deep inland mountain Regions.,,
+WORLDMAP_CoreRegions,Lower Great Bear,,Nedre Sværebjørn
+WORLDMAP_CoreRegionsDesc,Regions near Great Bear Island's southeast coast.,,Regionar nærme den søraustlege kysten til Sværebjørn.
+WORLDMAP_FarTerritories,Far Territory,,Fjærnstrøket
+WORLDMAP_FarTerritoriesDesc,Great Bear Island's deep inland mountain Regions.,,Fjellrike regionar i innlandet på Sværebjørn.
