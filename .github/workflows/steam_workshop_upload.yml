@@ -59,6 +59,8 @@ jobs:
 
       - name: Update changenote in Workshop_TLD_Nynorsk.vdf
         id: update_changenote
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           VDF=Workshop_TLD_Nynorsk.vdf
           NOTE="${{ steps.changenote.outputs.changenote }}"
@@ -76,7 +78,7 @@ jobs:
           # Escape and format changenote
           NOTE=$(echo "$NOTE" | sed 's/"/\\"/g')
           LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
-          FINAL_NOTE="${NOTE}\n${LINK}"
+          FINAL_NOTE="${NOTE}\n\n${LINK}"
       
           cp "$VDF" "$VDF.bak"
           awk -v note="$FINAL_NOTE" 'BEGIN { replaced=0 }
@@ -129,6 +131,8 @@ jobs:
                       +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
 
       - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release create "${{ steps.update_changenote.outputs.tag }}" \
             TLD_Nynorsk/TLD_Nynorsk.csv \
