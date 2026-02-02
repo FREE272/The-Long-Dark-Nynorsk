@@ -72,15 +72,19 @@ jobs:
           VDF=Workshop_TLD_Nynorsk.vdf
           NOTE="${{ steps.changenote.outputs.changenote }}"
           
-          # Format release tag: DD.MM.YY.vN (starting at v1)
+          # Make release tag, date today + increment version number
           DATE=$(date +'%d.%m.%y')
-          EXISTING_TAGS=$(gh release list --limit 100 | awk '{print $1}' | grep "^$DATE" || true)
-          COUNT=$(echo "$EXISTING_TAGS" | wc -l)
-          VERSION="v$((COUNT + 1))"
-          TAG="$DATE.$VERSION"
-      
-          # Save version info for later step
+          LAST_TAG=$(gh release list --limit 1 --sort=created --json tagName --jq '.[0].tagName' 2>/dev/null || true)
+          if [ -z "$LAST_TAG" ]; then
+            NEXT_V=1
+          else
+            # Plukk ut v-nummer fra tag, f.eks "02.02.26.v42" -> 42
+            LAST_V=$(echo "$LAST_TAG" | grep -oE '\.v[0-9]+$' | tr -d '.v')
+            NEXT_V=$((LAST_V + 1))
+          fi
+          TAG="$DATE.v$NEXT_V"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
+
       
           # Escape and format changenote
           NOTE=$(echo "$NOTE" | sed 's/"/\\"/g')
@@ -88,16 +92,9 @@ jobs:
           FINAL_NOTE="${NOTE}\n\n${LINK}"
       
           cp "$VDF" "$VDF.bak"
-          awk -v note="$FINAL_NOTE" 'BEGIN { replaced=0 }
-            /^[[:space:]]*"changenote"/ {
-              print "  \"changenote\"  \"" note "\""
-              replaced=1; next
-            }
-            { print }
-            END {
-              if (replaced==0)
-                print "  \"changenote\"  \"" note "\""
-            }' "$VDF.bak" > "$VDF"
+          perl -0777 -pe '
+          s/"changenote"\s+"[^"]*"/"changenote"  "'"$FINAL_NOTE"'"/s
+          ' "$VDF.bak" > "$VDF"
       
           echo "--- Before (bak) ---"; cat "$VDF.bak"
           echo "--- After (new) ---"; cat "$VDF"
