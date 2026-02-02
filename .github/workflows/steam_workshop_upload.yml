@@ -27,15 +27,21 @@ jobs:
       - name: Check if TLD_Nynorsk folder changed
         id: changes
         run: |
-          git fetch origin main
-          CHANGED_FILES=$(git diff --name-only origin/main HEAD)
-          echo "Changed files: $CHANGED_FILES"
+          CHANGED_FILES=$(git diff --name-only \
+            ${{ github.event.pull_request.base.sha }} \
+            ${{ github.event.pull_request.head.sha }})
+      
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+      
           if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected in TLD_Nynorsk — skipping all downstream steps"
           fi
+
+
 
       - name: Extract changenote from pull request summary
         id: changenote
