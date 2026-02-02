@@ -3532,7 +3532,7 @@ GAMEPLAY_FishingLureDescription,"A solid, enticing lure. Improves the odds when 
 GAMEPLAY_FishingLureSimple,Simple Fishing Lure,,Enkel sluk
 GAMEPLAY_FishingLureSimpleDescription,"A very basic lure, but might help you attract a few more fish.",,"Ein veldig enkel sluk, men kanskje dei svaksynte fiskane bit på?"
 GAMEPLAY_FishingProgress,Fishing...,,Fiskar...
-GAMEPLAY_FishingTackle,Fishing Tackle,,Fiskereiskapar
+GAMEPLAY_FishingTackle,Fishing Tackle,,Fiskesnøre
 GAMEPLAY_FishingTackleDescription,A hook and line used for catching fish.,,Krok og snøre til å fange fisk.
 GAMEPLAY_FixBattery,Repair Battery,,Vøl batteri
 GAMEPLAY_FixBatteryProgress,Repairing Battery...,,Vølar batteri...
@@ -3994,15 +3994,7 @@ GAMEPLAY_Hatch,Hatch,,Luke
 GAMEPLAY_HatchContainerOpen,Open Hatch,,Opn luke
 GAMEPLAY_HatchContainerSearch,Search Hatch,,Gransk luke
 GAMEPLAY_Hatchet,Hatchet,,Øks
-GAMEPLAY_HatchetDescription,A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.,,"Kjære Angela
- 
-Huskar du eg sa at det kunne koma ei tid då du måtte gå i skjul i ein stund? 
- 
-Eg antok at det ville verta på grunn av jordskjelvet, men eg ante ikkje kor gale det ville verta på Sværebjørn i etterkant. Det spelar ingen rolle kva årsaka er, men viss du nokon gong har behov for å skjula deg i ein periode, viss ting går dårleg for deg i byen, eller på besøk hos din mor her på øya, so kan du bruke denne informasjonen til å få tilgang til forsyningsoppbevaringa eg har gjort klart. Eg veit, eg veit. Mor di sa at onkel Hank er ein gamal tulling som du må halde deg langt vekke frå. Som har gravd litt for mykje på internett, ikkje sant? Lest alle slags «klin kokos preppersider». No ja, eg skal ikkje sei det til deg, men ho skal få høyra det neste gong eg møtar ho: «Kva sa eg?»
- 
-Eg er glad i deg.
- 
-Hilsen onkel Hank."
+GAMEPLAY_HatchetDescription,A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.,,Ei lita handøks. God til å køyve ved. Kan til nauds nyttast til å skjera kjøt.
 GAMEPLAY_HatchetImprovised,Improvised Hatchet,,Provisorisk øks
 GAMEPLAY_HatchetImprovisedDescription,"An improvised hatchet. Basically a heavy piece of metal with a sharpened edge. Not fancy, but utilitarian.",,"Ei heimalaga øks. Berre eit tungt metallstykke med ein kvass egg og eit skaft. Ikkje noko du ville hengt opp på veggen, men er godt nyttande."
 GAMEPLAY_HatchInteractClose,Close Hatch,,Lat att luke
@@ -4618,9 +4610,9 @@ GAMEPLAY_LightSnow,Light Snow,,Lett snøvêr
 GAMEPLAY_LightTorch,Light Torch,,Tenn fakkel
 GAMEPLAY_LilyClimbMap,Lily's Map,,Lily sitt kart
 GAMEPLAY_LilyClimbMapDescription,"A map that shows Lily's climbing route, leading out of the Milton area.",,Eit kart som visar Lily sin klatrerute ut av Milton-området.
-GAMEPLAY_Line,Line,,Fiskesnøre
-GAMEPLAY_LineDescription,A line suitable for fishing.,,Eit fiskesnøre til å fiska med.
-GAMEPLAY_Lines,Lines,,Fiskesnører
+GAMEPLAY_Line,Line,,Snøre
+GAMEPLAY_LineDescription,A line suitable for fishing.,,Med ein krok kan ein fiska med det.
+GAMEPLAY_Lines,Lines,,Snører
 GAMEPLAY_LitFlare,Lit Flare,,Tenn bluss
 GAMEPLAY_LitFlareNoStore,A lit flare cannot be stored,,Du kan ikkje ha ein kveikt bluss i ranselen
 GAMEPLAY_litreUnits,L,,L
@@ -4667,7 +4659,7 @@ GAMEPLAY_LogDayCountSummary,Day {day-value} Summary,,Samandrag av dag {day-value
 GAMEPLAY_LogExploredMessage,I have explored {%-value}% of the world so far,,Eg har utforska {%-value} % av verda so langt
 GAMEPLAY_LogGeneralCondition,My general condition,,Mi generelle helse
 GAMEPLAY_LoggingCamp,Logging Camp,,Tømmerleir
-GAMEPLAY_LogItemFound,Item Found,,Ting funne
+GAMEPLAY_LogItemFound,Item Found,,Fann ting
 GAMEPLAY_LogRestedMessage,I restad {hours-value} hours,,Eg har kvilt i {hours-value} timar
 GAMEPLAY_Logs,Logs,,Tømmerstokkar
 GAMEPLAY_LogSort,Log Sort,,Tømmersortering
@@ -5093,7 +5085,7 @@ GAMEPLAY_NoElevatorCrank,No Elevator Crank,,
 GAMEPLAY_NoEmergencyStim,No Emergency Stim in inventory,,Ingen naudsprøyter i ranselen
 GAMEPLAY_Nofirearmsininventory,No weapons in inventory,,Ingen våpen i ranselen
 GAMEPLAY_NoFirstAidItems,No first aid items in your Pack,,Ikkje noko fyrstehjelpsutstyr i ranselen
-GAMEPLAY_NoFishingGear,Fishing Tackle is required for Ice Fishing.,,Du treng fiskereiskap for å fiske.
+GAMEPLAY_NoFishingGear,Fishing Tackle is required for Ice Fishing.,,Du treng fiskesnøre for å fiske.
 GAMEPLAY_Noflaresininventory,No flares or torches in inventory,,Verken bluss eller fakkel i ranselen
 GAMEPLAY_NoFoodRadial,No food in your Pack,,Ikkje noko mat i ranselen
 GAMEPLAY_Nofuelinlantern,No fuel in lantern,,Lampen manglar olje
@@ -6370,7 +6362,7 @@ GAMEPLAY_SprayPaintIndoorNotOnMap,Spray Painting indoors will not show on the Ma
 GAMEPLAY_SprayPaintMapQKHeader,Map Survey,,
 GAMEPLAY_SprayPaintMapQKMessage,New area surveyed on Map,,Nytt område kartlagt
 GAMEPLAY_SprayPaintMultipleMarkers,Multiple Markers,,
-GAMEPLAY_Sprint,Sprint,,Spring
+GAMEPLAY_Sprint,Sprint,,Springing
 GAMEPLAY_SSAO,SSAO,Abbreviation for Screen Space Ambient Occlusion,SSAO
 GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgjevnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
 GAMEPLAY_SSAOOff,Off,,Av
@@ -9007,7 +8999,7 @@ SCENENAME_WhalingShipA,The Riken,name of a whaling ship,Riken
 SCENENAME_WhalingStation,desolation Point,Rocky coastal region where whaling station is located,Einsemdneset
 SCENENAME_WhalingWarehouseA,Whale Processing,name of a warehouse at the whaling factory,Kvalmottak
 SCENENAME_Workshop,Workshop,,Verkstad
-SCENENAME_WorldMap,Great Bear Island,,Sværbjørnøy
+SCENENAME_WorldMap,Great Bear Island,,Sværebjørn
 STEAM_CONTROLLER_Action_ActionsPanel,Actions Panel,,Handlingar
 STEAM_CONTROLLER_Action_AltFire,Aim,,Sikt
 STEAM_CONTROLLER_Action_Backpack,Backpack,,Ransel
@@ -9956,7 +9948,7 @@ STORY_jnl_SchoolDeer_Title,Survival School: Hunting,,Overlevingskurs: Jakt
 STORY_jnl_SchoolDeerRedux_Desc,"Learn to find, track, and shoot Deer.",,
 STORY_jnl_SchoolDeerRedux_Obj1,Hunt and kill a Stag.,,
 STORY_jnl_SchoolDeerRedux_Obj2,Find the hunting grounds.,,
-STORY_jnl_SchoolFish_Desc,"Learn to craft Fishing Tackle, and catch fish from Mystery Lake.",,"Lær å laga fiskereiskap, og fang fisk i Løyndomsvatnet."
+STORY_jnl_SchoolFish_Desc,"Learn to craft Fishing Tackle, and catch fish from Mystery Lake.",,"Lær å laga fiskesnøre, og fang fisk i Løyndomsvatnet."
 STORY_jnl_SchoolFish_Obj1,Place fish meat in the container at Jeremiah's cabin.,,Legg fisk i behalderen i Jeremiah si hytte.
 STORY_jnl_SchoolFish_Obj2,Get to the Camp Office and find the fishing gear you need.,,Fer til leirkontoret og finn fiskeutstyret du treng.
 STORY_jnl_SchoolFish_Title,Survival School: Fishing,,Overlevingskurs: Fisking
