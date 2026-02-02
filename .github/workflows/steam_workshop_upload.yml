@@ -34,14 +34,12 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           else
             echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in TLD_Nynorsk — skipping all downstream steps"
           fi
-
-      - name: Stop if no changes in TLD_Nynorsk
-        if: steps.changes.outputs.changed != 'true'
-        run: exit 0
 
       - name: Extract changenote from pull request summary
         id: changenote
+        if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
           BODY="${{ github.event.pull_request.body }}"
@@ -53,12 +51,14 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Debug changenote
+        if: steps.changes.outputs.changed == 'true'
         run: |
           echo "Changenote to insert:"
           echo "${{ steps.changenote.outputs.changenote }}"
 
       - name: Update changenote in Workshop_TLD_Nynorsk.vdf
         id: update_changenote
+        if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -98,6 +98,7 @@ jobs:
 
 
       - name: Commit & push updated VDF back to main
+        if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
           git config user.name "github-actions[bot]"
@@ -117,6 +118,7 @@ jobs:
           
 
       - name: Install SteamCMD
+        if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
           sudo dpkg --add-architecture i386
@@ -128,12 +130,14 @@ jobs:
           echo "$HOME/steamcmd" >> $GITHUB_PATH
 
       - name: Upload to Steam Workshop
+        if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
           steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
                       +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
 
       - name: Create GitHub Release
+        if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
