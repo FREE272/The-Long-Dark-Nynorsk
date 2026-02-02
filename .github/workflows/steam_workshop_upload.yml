@@ -1,0 +1,142 @@
+name: Upload to Steam Workshop
+
+# Allow the action to push changes back to main
+permissions:
+  contents: write
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  upload_workshop:
+    if: >
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.base.ref == 'main' &&
+      github.event.pull_request.head.ref == 'dev'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code (full history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Check if TLD_Nynorsk folder changed
+        id: changes
+        run: |
+          git fetch origin main
+          CHANGED_FILES=$(git diff --name-only origin/main HEAD)
+          echo "Changed files: $CHANGED_FILES"
+          if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Stop if no changes in TLD_Nynorsk
+        if: steps.changes.outputs.changed != 'true'
+        run: exit 0
+
+      - name: Extract changenote from merge commit body
+        id: changenote
+        run: |
+          SHA=${{ github.event.pull_request.merge_commit_sha }}
+          BODY=$(git log -1 --pretty=format:%b $SHA)
+          # Escape backslashes and quotes
+          BODY="${BODY//\\/\\\\}"
+          BODY="${BODY//\"/\\\"}"
+          echo "changenote<<EOF" >> $GITHUB_OUTPUT
+          echo "$BODY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Debug changenote
+        run: |
+          echo "Changenote to insert:"
+          echo "${{ steps.changenote.outputs.changenote }}"
+
+      - name: Update changenote in Workshop_TLD_Nynorsk.vdf
+        id: update_changenote
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VDF=Workshop_TLD_Nynorsk.vdf
+          NOTE="${{ steps.changenote.outputs.changenote }}"
+          
+          # Format release tag: DD.MM.YY.vN (starting at v1)
+          DATE=$(date +'%d.%m.%y')
+          EXISTING_TAGS=$(gh release list --limit 100 | awk '{print $1}' | grep "^$DATE" || true)
+          COUNT=$(echo "$EXISTING_TAGS" | wc -l)
+          VERSION="v$((COUNT + 1))"
+          TAG="$DATE.$VERSION"
+      
+          # Save version info for later step
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+      
+          # Escape and format changenote
+          NOTE=$(echo "$NOTE" | sed 's/"/\\"/g')
+          LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
+          FINAL_NOTE="${NOTE}\n\n${LINK}"
+      
+          cp "$VDF" "$VDF.bak"
+          awk -v note="$FINAL_NOTE" 'BEGIN { replaced=0 }
+            /^[[:space:]]*"changenote"/ {
+              print "  \"changenote\"  \"" note "\""
+              replaced=1; next
+            }
+            { print }
+            END {
+              if (replaced==0)
+                print "  \"changenote\"  \"" note "\""
+            }' "$VDF.bak" > "$VDF"
+      
+          echo "--- Before (bak) ---"; cat "$VDF.bak"
+          echo "--- After (new) ---"; cat "$VDF"
+
+
+      - name: Commit & push updated VDF back to main
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Sync with remote
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+          git rebase origin/main
+
+          echo "Committing updated changenote (if changed)..."
+          git add Workshop_TLD_Nynorsk.vdf
+          git commit -m "ci: update changenote [skip ci]" || echo "No changes to commit"
+          git push origin main
+
+          
+
+      - name: Install SteamCMD
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
+          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+          mkdir -p ~/steamcmd
+          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
+          echo "$HOME/steamcmd" >> $GITHUB_PATH
+
+      - name: Upload to Steam Workshop
+        run: |
+          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
+                      +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ steps.update_changenote.outputs.tag }}" \
+            TLD_Nynorsk/TLD_Nynorsk.csv \
+            TLD_Nynorsk_Bilete.png \
+            Workshop_TLD_Nynorsk.vdf \
+            --title "${{ steps.update_changenote.outputs.tag }}" \
+            --notes "${{ steps.changenote.outputs.changenote }}"

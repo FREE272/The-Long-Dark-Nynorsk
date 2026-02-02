@@ -1,0 +1,119 @@
+function exportSheetToGitHub() {
+  const spreadsheetId = SpreadsheetApp.getActiveSpreadsheet().getId();
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Nynorsk');
+  const sheetId = sheet.getSheetId();
+
+  const token = PropertiesService.getScriptProperties().getProperty('GITHUB_TOKEN');
+  const repo = 'FREE272/The-Long-Dark-Nynorsk';
+  const branch = 'dev';
+  const filename = 'TLD_Nynorsk/TLD_Nynorsk.csv';
+  const apiBaseUrl = `https://api.github.com/repos/${repo}/contents/${filename}`;
+
+  // Export sheet as CSV using native export (preserves UTF-8)
+  const exportUrl = `https://docs.google.com/spreadsheets/d/${spreadsheetId}/export?format=csv&gid=${sheetId}`;
+  const exportOptions = {
+    headers: {
+      Authorization: 'Bearer ' + ScriptApp.getOAuthToken()
+    },
+    muteHttpExceptions: true
+  };
+  const response = UrlFetchApp.fetch(exportUrl, exportOptions);
+  const newCsvContent = response.getContentText();
+
+  // Fetch existing CSV file from GitHub (dev branch)
+  const getOptions = {
+    method: 'get',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github.v3+json'
+    },
+    muteHttpExceptions: true
+  };
+
+  const getResponse = UrlFetchApp.fetch(`${apiBaseUrl}?ref=${branch}`, getOptions);
+  const getCode = getResponse.getResponseCode();
+  const getData = JSON.parse(getResponse.getContentText());
+
+  const existingContent = (getCode === 200)
+    ? Utilities.newBlob(Utilities.base64Decode(getData.content)).getDataAsString()
+    : null;
+  const sha = (getCode === 200) ? getData.sha : null;
+
+  // Only commit if CSV content has changed
+  if (existingContent && existingContent.trim() === newCsvContent.trim()) {
+    Logger.log("No changes detected in CSV. Skipping commit.");
+    return;
+  }
+
+  // Commit updated file to dev branch
+  const encodedContent = Utilities.base64Encode(newCsvContent, Utilities.Charset.UTF_8);
+  const payload = {
+    message: "Update CSV from Google Sheets",
+    content: encodedContent,
+    branch: branch,
+    ...(sha && { sha })
+  };
+
+  const putOptions = {
+    method: 'put',
+    contentType: 'application/json',
+    payload: JSON.stringify(payload),
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github.v3+json'
+    },
+    muteHttpExceptions: true
+  };
+
+  const putResponse = UrlFetchApp.fetch(apiBaseUrl, putOptions);
+  Logger.log(`PUT Response: ${putResponse.getResponseCode()}`);
+  Logger.log(putResponse.getContentText());
+
+  // After pushing, check for existing PR and create one if missing
+  createPullRequestIfMissing(token, repo, branch, 'main');
+}
+
+function createPullRequestIfMissing(token, repo, headBranch, baseBranch) {
+  const prListUrl = `https://api.github.com/repos/${repo}/pulls?head=${repo.split('/')[0]}:${headBranch}&base=${baseBranch}&state=open`;
+
+  const getOptions = {
+    method: 'get',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github.v3+json'
+    },
+    muteHttpExceptions: true
+  };
+
+  const response = UrlFetchApp.fetch(prListUrl, getOptions);
+  const prs = JSON.parse(response.getContentText());
+
+  if (prs.length > 0) {
+    Logger.log("Pull request already exists.");
+    return;
+  }
+
+  const createPrUrl = `https://api.github.com/repos/${repo}/pulls`;
+  const payload = {
+    title: 'Update CSV from Google Sheets',
+    head: headBranch,
+    base: baseBranch,
+    body: 'This PR contains updated translations exported from the Nynorsk sheet in Google Sheets.',
+    maintainer_can_modify: true
+  };
+
+  const postOptions = {
+    method: 'post',
+    contentType: 'application/json',
+    payload: JSON.stringify(payload),
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github.v3+json'
+    },
+    muteHttpExceptions: true
+  };
+
+  const postResponse = UrlFetchApp.fetch(createPrUrl, postOptions);
+  Logger.log(`Create PR Response: ${postResponse.getResponseCode()}`);
+  Logger.log(postResponse.getContentText());
+}
