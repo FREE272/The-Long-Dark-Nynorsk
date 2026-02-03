@@ -1593,8 +1593,8 @@ GAMEPLAY_BearSkinCoat_Ruined,Ruined Bearskin Coat,,Unyttande bjørneskinnsjakke
 GAMEPLAY_BearSkinCoat_Worn,Worn Bearskin Coat,,Velbrukt bjørneskinnsjakke
 GAMEPLAY_BearSkinCoatDescription,"If it's good enough for the Bear, it's good enough for you. Heavy, bulky, but very warm and one of toughest things around. You may not run from much, but you may not need to either.",,"Viss han er bra nok for ein bjørn, er han bra nok for deg. Tung og stor, men særs varm og slitesterk. Du kan ikkje springa frå noko, men det treng du kanskje ikkje heller."
 GAMEPLAY_BearSpear,Bear Spear,Title of gear item Bear Spear,Bjørnespjut
-GAMEPLAY_BearSpearBroken,Broken Bear Spear,,Knekt bjørnespjut
-GAMEPLAY_BearSpearBrokenDescription,A broken spearhead attached to a salvageable maple shaft.,,Ein knekt spjutspiss på enden av eit nyttande løneskaft.
+GAMEPLAY_BearSpearBroken,Broken Bear Spear,,Brote bjørnespjut
+GAMEPLAY_BearSpearBrokenDescription,A broken spearhead attached to a salvageable maple shaft.,,Ein broten spjutspiss på enden av eit nyttande løneskaft.
 GAMEPLAY_BearSpearDescription,"A large defensive weapon, designed to pierce the thick hides of charging predators. For those with the heart to wield it.",,"Eit svært forsvarsvåpen, laga for å trengje gjennom det tjukke skinnet til rovdyr som kjem til åtak. For dei som er djerve nok til å handtera det."
 GAMEPLAY_Bed,Bed,,Seng
 GAMEPLAY_Bedroll,Bedroll,,Sovepose
@@ -1620,9 +1620,9 @@ GAMEPLAY_BIKey2_Narrative,An old Key to a Lockbox in Bleak Inlet.,,
 GAMEPLAY_BirchbarkPrepared,Prepared Birch Bark,,Førebudd bjørkenever
 GAMEPLAY_BirchbarkPreparedDescription,"Dried Birch Bark, suitable for brewing into a restorative tea.",,Turka bitar av bjørkenever. Nyttast til å koka ein lækjande te.
 GAMEPLAY_BirchbarkTea,Birch Bark Tea,Tea made from the bark of a birch tree.,Bjørkeneverte
-GAMEPLAY_BirchbarkTeaDescription,"A natural tea, brewed from prepared Birch Bark. Drink to gradually restore some lost Condition.",,Ein naturleg te koka på bjørkenever. Drikk for å gradevis betra helsa di.
+GAMEPLAY_BirchbarkTeaDescription,"A natural tea, brewed from prepared Birch Bark. Drink to gradually restore some lost Condition.",,Ein naturleg te koka på bjørkenever. Drikk for å gradvis betra helsa di.
 GAMEPLAY_BirchSapling,Green Birch Sapling,,Nyhogd ungbjørk
-GAMEPLAY_BirchSaplingDescription,Freshly harvestad birch sapling. Needs to be cured before it can be used for crafting and repair.,,Nyhogd ungtre av sorten bjørk. Må tørkast før han kan nyttast til å vøla og laga ting.
+GAMEPLAY_BirchSaplingDescription,Freshly harvestad birch sapling. Needs to be cured before it can be used for crafting and repair.,,Nyhogd ungtre av sorten bjørk. Må turkast før han kan nyttast til å vøla og laga ting.
 GAMEPLAY_BirchSaplingDried,Cured Birch Sapling,cured as in dried,Turka ungbjørk
 GAMEPLAY_BirchSaplingDriedDescription,Small birch sapling that has been cured. Can be used for crafting and repair.,,Turka ungtre av sorten bjørk. Kan nyttast til å vøla og laga ting.
 GAMEPLAY_BirchSaplingHarvest,Harvest Birch Sapling,,Hogg ungbjørk
@@ -1735,8 +1735,8 @@ GAMEPLAY_Bow_WoodwrightsDescription,"Crafted at a master's Work Bench. Every sha
 
 A more durable and agile Survival Bow.",,
 GAMEPLAY_BowDescription,"A simple, improvised bow, suitable for hunting small game.",,"Ein enkel improvisert boge, eigna for jakt på småvilt."
-GAMEPLAY_BowString,Bow String,,Bogesnor
-GAMEPLAY_BowStringDescription,Gut that has been cured and looped to serve as a suitable bow string.,,Turka tarm som har vorte laga om til ei bogesnor.
+GAMEPLAY_BowString,Bow String,,Bogestreng
+GAMEPLAY_BowStringDescription,Gut that has been cured and looped to serve as a suitable bow string.,,EI improvisert bogestreng laga av ein turka tarm.
 GAMEPLAY_BowWood,Bow Wood,,Bogetre
 GAMEPLAY_BowWoodDescription,"Bow wood, cured and shaped to maximize its power. Combine with Bow String.",,"Bogetre, turka og forma for å gje maksimal styrke. Fest ei bogesnor i kvar ende so har du fått deg ein flott boge!"
 GAMEPLAY_branch,Branch,"branch, fallen from a tree, small - can be broken by hand",Grein
@@ -1761,9 +1761,9 @@ GAMEPLAY_BRKey2,Memento Key,,
 GAMEPLAY_BRKey2_Description,A Key to a Lockbox.,,
 GAMEPLAY_BRKey2_Narrative,An old Key to a Lockbox in Broken Railroad.,,
 GAMEPLAY_Broken,{item-name} has been broken,,{item-name} vart øydelagt
-GAMEPLAY_BrokenArrow,Broken Arrow,,Knekt pil
+GAMEPLAY_BrokenArrow,Broken Arrow,,Broten pil
 GAMEPLAY_BrokenArrowDescription,A broken arrow. The arrow-head and some of the feathers may be salvageable.,,"Ei øydelagt pil. Skaftet er det ikkje mykje bruk for, men pilspissen og fjøra kan ein bruka om igjen."
-GAMEPLAY_BrokenArrowHardened,Broken Fire Hardened Arrow,,Knekt flammeherda pil
+GAMEPLAY_BrokenArrowHardened,Broken Fire Hardened Arrow,,Broten flammeherda pil
 GAMEPLAY_BrokenArrowHardenedDescription,"A broken Fire Hardened Arrow. Harvesting these crude weapons may yield some feathers, but nothing more.",,"Ei øydelagt flammeherda pil. Ein kan kanskje nytta fjøra om att, men det same kan ikkje seiast om skaftet."
 GAMEPLAY_BrokenBeyondRepair,{item-name} has been broken beyond repair.,,{item-name} er for øydelagt til å kunne repareres.
 GAMEPLAY_BrokenMetalBedFrame,Broken Metal Bed Frame,"An empty  bed frame with no matress, so can't sleep on it",Øydelagt sengeramme
@@ -3367,7 +3367,7 @@ GAMEPLAY_Fatigue,Fatigue,,Trøyttleik
 GAMEPLAY_FatiguedClimb,You are too fatigued to climb,,Du er for trøytt til å klatra
 GAMEPLAY_FatigueDrained,Drained,related to fatigue,Utkøyrd
 GAMEPLAY_FatigueReduced,Fatigue Reduced,,Trøyttleik redusert
-GAMEPLAY_FatigueReducedDesc,You're feeling more wakeful and energized. Temporarily reduces your Fatigue.,,Du kjennar deg meir våken og drivande. Reduserar trøttleikkjensla mellombels.
+GAMEPLAY_FatigueReducedDesc,You're feeling more wakeful and energized. Temporarily reduces your Fatigue.,,Du kjennar deg meir våken og drivande. Reduserar trøyttleikkjensla mellombels.
 GAMEPLAY_FatigueRested,Rested,related to fatigue,Utkvilt
 GAMEPLAY_FatigueWinded,Winded,related to fatigue,Sliten
 GAMEPLAY_FatTopic01,WHERE?,,
@@ -3401,7 +3401,7 @@ GAMEPLAY_FeatBookSmartsDescription,"You've completed {hours} hours of Research. 
 GAMEPLAY_FeatBookSmartsDescription_short,You've completed {hours} hours of Research.,,
 GAMEPLAY_FeatColdFusion,Cold Fusion,,Isbjørn
 GAMEPLAY_FeatColdFusion_benefit,"You are now less susceptible to the cold, and get a permanent {bonus} bonus to Air Temperature.",,
-GAMEPLAY_FeatColdFusionDescription,"You've spent a total of {days} days outside. You are now less susceptible to the cold, and get a permanent {bonus} bonus to your Feels Like temperature.",,"Du har vert til saman {days} dagar ute. Du tålar kulDen betre enn før, og «Kjennast som»-temperaturen din har fått ein permanent bonus på {bonus}."
+GAMEPLAY_FeatColdFusionDescription,"You've spent a total of {days} days outside. You are now less susceptible to the cold, and get a permanent {bonus} bonus to your Feels Like temperature.",,"Du har vert til saman {days} dagar ute. Du er mindre frostal, og «Kjennast som»-temperaturen din har fått eit permanent tillegg på {bonus}."
 GAMEPLAY_FeatColdFusionDescription_short,You've spent a total of {days} days outside.,,
 GAMEPLAY_FeatEfficientMachine,Efficient Machine,,Maskina
 GAMEPLAY_FeatEfficientMachine_benefit,Your body has adapted to these tough conditions. You now consume {bonus} fewer calories.,,
@@ -3455,24 +3455,24 @@ GAMEPLAY_FirestartingBenefitsTier1,{roll-bonus}% Chance to Start Fires,,{roll-bo
 GAMEPLAY_FirestartingBenefitsTier2,"{roll-bonus}% Chance to Start Fires
 Fires last {duration-bonus} longer","+15 to Firestarting roll
 Fires last 10% longer","{roll-bonus} % sjanse for å kveike eld
-ElDen varar {duration-bonus} lenger
+Elden varar {duration-bonus} lenger
 Kan kveike eld utan knusk"
 GAMEPLAY_FirestartingBenefitsTier3,"{roll-bonus}% Chance to Start Fires
 Fires last {duration-bonus} longer
 Can start fires without Tinder",,"{roll-bonus} % sjanse for å kveike eld
-ElDen varar {duration-bonus} lenger
+Elden varar {duration-bonus} lenger
 Kan kveike eld utan knusk"
 GAMEPLAY_FirestartingBenefitsTier4,"{roll-bonus}% Chance to Start Fires
 Fires last {duration-bonus} longer
 Can start fires without Tinder",,"{roll-bonus} % sjanse for å kveike eld
-ElDen varar {duration-bonus} lenger
+Elden varar {duration-bonus} lenger
 Kan kveike eld utan knusk"
 GAMEPLAY_FirestartingBenefitsTier5,"{roll-bonus}% Chance to Start Fires
 Fires start {speed-bonus} faster
 Fires last {duration-bonus} longer
 Can start fires without Tinder",,"{roll-bonus} % sjanse for å kveike eld
 Det går {speed-bonus} raskare å kveike eld
-ElDen varar {duration-bonus} lenger
+Elden varar {duration-bonus} lenger
 Kan kveike eld utan knusk"
 GAMEPLAY_FirestartingDescriptionTier1,"You have no special knowledge or skill at starting fires, yet.",,Du har ingen spesiell lærdom eller dugleikar i å kveike eld.
 GAMEPLAY_FirestartingDescriptionTier2,You're quite good at starting fires now. Your fires start better and they last longer.,,Du er ganske flink til å tenne eld no. ElDen din startar raskare og varar lenger.
@@ -4158,7 +4158,7 @@ GAMEPLAY_HypothermiaHasPassed,Hypothermia has passed,,Hypotermien har gitt seg
 GAMEPLAY_HypothermiaRisk,Hypothermia Risk,,Fare for hypotermi
 GAMEPLAY_HypothermiaRiskDesc,"Your body temperature is very low. If it remains low, you'll get Hypothermia.",,"Kroppstemperaturen din er særs låg. Viss han fortsett å vera låg, får du hypotermi."
 GAMEPLAY_HypothermiaRiskTreatment,Find someplace warm before Hypothermia develops,,Finn ein varmt plass før du utviklar hypotermi
-GAMEPLAY_HypothermiaTreatment,Remain above freezing for {time-val} hours,,Hald deg i plussgrader i {time-val} timar
+GAMEPLAY_HypothermiaTreatment,Remain above freezing for {time-val} hours,,Hald deg i plussgradar i {time-val} timar
 GAMEPLAY_HypothermiaTreatmentDescription,Needs a warm place to rest.,,Treng ein varm plass å kvila.
 GAMEPLAY_HypothermiaTreatmentDescriptionRefugee,Needs time and bed rest.,,Treng tid og søvn.
 GAMEPLAY_HypothermiaTreatmentRefugee,No treatment required.,,Treng ingen kur.
@@ -4415,7 +4415,7 @@ GAMEPLAY_know_pl_MiltonHistory1,"Founded in 1911 during the early rush to mine c
   
  This decline was exaggerated even more in the Post-Collapse economic environment, where very few travellers or resource workers had reason to visit Great Bear. Eventually, apart from a few stalwarts and old-timers with deep roots in the area, Milton became, for all intents and purposes, a ghost town.",,"Milton vart skipa i 1911 under det fyrste kapplaupet for å utvinna kol i fjella i området, og gjennom heile 1900-talet opplevde byen ein syklus av oppturar og nedturar. På sitt høgaste var innbyggjartalet omtrent 1000. På 2000-talet stabiliserte tallet seg på nokon hundre, men etter sammenbrotet har innbyggjartalet knapt haldt seg tosifra. I 1960 vart den gamle grusvegen, som opprinneleg vart anlagt som forsyningsruta frå kysten til innlandet, erstatta med ein asfaltert veg. Fordi Milton legg halvvegs mellom Port Mary og fjella lenger inn gjorde byen til ein naturleg og praktisk stoppestad for gruvearbeidarar, tømmerhoggarar, tresliparar og teltturistar som trengte drivstoff og forsyninger på veg frå fastlandet. Byen sin vekst auka i takt med øya sin økonomiske oppblomstring på åttitallet. Men sidan ble det anlagt ein ny veg, Sværebjørn motorveg (motorveg 15), og med den kunne reisande lett køyra utenom Milton på veg nordover. Dette førte etter kvart til at Milton mista sin status som ein viktig stoppestad.
   
-Nedgongen skaut ytterlegar fart etter Sammenbrotet, då den økonomiske situasjonen gjorde at det var få reisande eller arbeidarar som fant nokon grunn til å besøke Sværebjørn. Til slutt vart Milton, med unntak av nokon få hardhausar og eldre mennesker, i realiteten ein spøkelsesby."
+Nedgongen skaut ytterlegar fart etter samanbrotet, då den økonomiske situasjonen gjorde at det var få reisande eller arbeidarar som fant nokon grunn til å besøke Sværebjørn. Til slutt vart Milton, med unntak av nokon få hardhausar og eldre mennesker, i realiteten ein spøkelsesby."
 GAMEPLAY_know_pl_MiltonHistory1_Title,Town of Milton,Place Knowledge: Milton,Milton by
 GAMEPLAY_know_pl_MysteryLake1,"The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
@@ -4716,7 +4716,7 @@ GAMEPLAY_MapLastUpdateNever,Last Updated: Never,indicates when the map was last 
 GAMEPLAY_MapLastUpdateToday,Last Updated: Today,indicates when the map was last updated,Sist oppdatert: I dag
 GAMEPLAY_MapLastUpdateYesterday,Last Updated: Yesterday,indicates when the map was last updated,Sist oppdatert: I går
 GAMEPLAY_MapleSapling,Green Maple Sapling,,Nyhogd ungløn
-GAMEPLAY_MapleSaplingDescription,Freshly harvestad maple sapling. Needs to be cured before it can be used for crafting and repair.,,Nyhogd ungtre av sorten løn. Må tørkast før han kan nyttast til å vøla og laga ting.
+GAMEPLAY_MapleSaplingDescription,Freshly harvestad maple sapling. Needs to be cured before it can be used for crafting and repair.,,Nyhogd ungtre av sorten løn. Må turkast før han kan nyttast til å vøla og laga ting.
 GAMEPLAY_MapleSaplingDried,Cured Maple Sapling,cured as in dried,Turka ungløn
 GAMEPLAY_MapleSaplingDriedDescription,Small maple sapling that has been cured. Can be used for crafting and repair.,,Turka ungtre av sorten løn. Kan nyttast til å vøla og laga ting.
 GAMEPLAY_MapleSaplingHarvest,Harvest Maple Sapling,,Hogg ungløn
@@ -6389,7 +6389,7 @@ GAMEPLAY_Stat_Blizzards,Blizzards Survived,,Snøstormar overlevd
 GAMEPLAY_Stat_BloodLoss,BloodLoss,,Blodtap
 GAMEPLAY_Stat_BowAccuracy,Bow Accuracy,,Treffsikkerheit med boge
 GAMEPLAY_Stat_BowShot,Bow Shots Taken,,Skot med boge
-GAMEPLAY_Stat_BrokenRib,Broken Rib,,Knekte ribbein
+GAMEPLAY_Stat_BrokenRib,Broken Rib,,Brotne ribbein
 GAMEPLAY_Stat_CanOpenersFound,Can Openers Found,,Boksopnarar funne
 GAMEPLAY_Stat_CansOpened,Cans Opened,,Boksar opna
 GAMEPLAY_Stat_ChemicalPoisoning,Chemical Poisoning,,
@@ -8051,19 +8051,19 @@ HEROSTAT_DistanceTravelled,Distance Travelled,xbox 1 string for Hero Stat Distan
 HEROSTAT_WildlifeBowHits,Wildlife Bow Hits,xbox 1 string for Hero Stat Wildlife Bow Hits,Treff på dyr med boge
 HEROSTAT_WildlifeRifleHits,Wildlife Rifle Hits,xbox 1 string for Hero Stat Wildlife Rifle Hits,Treff på dyr med børse
 HEROSTAT_WolvesKilled,Wolves Killed,xbox 1 string for Hero Stat Wolves Killed,Ulvar drept
-HEROSTAT_WorldExplored,World Explored,,
-HINT_AimAccuracy,"Your ability to aim successfully is affected by Cold, Fatigue, and Breathing. Kneeling confers added stability.",,
-HINT_AimAccuracy_Title,Aim Accuracy,,
-HINT_AimingTired,Fatigue affects your ability to aim when using Rifles and Bows.,,
-HINT_AimingTired_title,Aiming When Tired,,
-HINT_Arrows,Cure Birch Saplings and Forge Arrowheads to craft Arrows.,,
-HINT_Arrows_title,Arrows,,
-HINT_AuroraWildlife,The Aurora seems to disturb wildlife. Be extra wary of predators at this time!,,
-HINT_AuroraWIldlife_title,Aurora & Wildlife,,
-HINT_BearDens,"If you find bones in a cave, this may mean it's a Bear Den. Watch out! Resting in these caves might earn you a nasty surprise.",,
-HINT_BearDens_title,Bear Dens,,
-HINT_BirchTea,Drink Birch Bark Tea to restore lost Condition over time.,,
-HINT_BirchTea_title,Birch Bark Tea,Tea made from the bark of a birch tree.,
+HEROSTAT_WorldExplored,World Explored,,Verd utforska
+HINT_AimAccuracy,"Your ability to aim successfully is affected by Cold, Fatigue, and Breathing. Kneeling confers added stability.",,"Sikting vert påverka av kulde, trøyttleik og ande. Ein vert meir stabil om ein set seg på huk."
+HINT_AimAccuracy_Title,Aim Accuracy,,Stabil sikting
+HINT_AimingTired,Fatigue affects your ability to aim when using Rifles and Bows.,,"Trøyttleik påverkar evna di til å sikte stabilt med børser, revolverar og bogar."
+HINT_AimingTired_title,Aiming When Tired,,Sikting medan ein er trøytt
+HINT_Arrows,Cure Birch Saplings and Forge Arrowheads to craft Arrows.,,"Saml kråkefjør, turk ungbjørker og smi pilspissar for å laga piler."
+HINT_Arrows_title,Arrows,,Piler
+HINT_AuroraWildlife,The Aurora seems to disturb wildlife. Be extra wary of predators at this time!,,"Nordlyset uroar dyrelivet, så ver særs varsam med rovdyra når det er på gong."
+HINT_AuroraWIldlife_title,Aurora & Wildlife,,Nordlys & dyreliv
+HINT_BearDens,"If you find bones in a cave, this may mean it's a Bear Den. Watch out! Resting in these caves might earn you a nasty surprise.",,Om ein finn bein i ei hole kan det bety at det er eit bjørnehi. Pass på! Kvilar ein i desse holene kan ein få eit uynskt besøk.
+HINT_BearDens_title,Bear Dens,,Bjørnehi
+HINT_BirchTea,Drink Birch Bark Tea to restore lost Condition over time.,,Drikk ein bjørkeneverte vert helsa di gradvis betra.
+HINT_BirchTea_title,Birch Bark Tea,Tea made from the bark of a birch tree.,Bjørkeneverte
 HINT_BlackrockArchive,"Academics sometimes visited Blackrock Penitentiary to explore its vast records archive. The unique combination of geographic and social isolation has led to various scientific studies,  of its staff as well as its inmates. ",,
 HINT_BlackrockArchive_title,Lock and Key,,
 HINT_BlackrockBarracks,New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job.,,
@@ -8105,40 +8105,40 @@ HINT_BlackrockTimberwolves,"While the region surrounding Blackrock Mountain is h
 HINT_BlackrockTimberwolves_title,Timberwolves,,
 HINT_BlackrockWarden,"Blackrock has attracted a variety of Wardens over the years. Some were kind, some cruel, but all were men who relished the extremes of life on Great Bear Island.",,
 HINT_BlackrockWarden_title,The Man,,
-HINT_Blizzards,Blizzards are deadly and enduring storms. They also freeze and damage your Clothing.,,
-HINT_Blizzards_title,Blizzards,,
-HINT_BloodLoss,Bandages treat Blood Loss and can be found or Crafted from Cloth.,,
-HINT_BookSmarts,"After completing 250 hours of Research, you gain 10% more benefit from each completely researched book.",,
-HINT_Bow,Cure Maple Saplings and Gut to craft a Survival bow.,,
-HINT_Bow_title,Survival Bow,,
-HINT_BrokenRibs,"Treat Broken Ribs with Painkillers, Bandages, and Rest.",,
-HINT_BufferMemories,"The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.",,
-HINT_Burns,Burns reduce your overall Condition. Use Painkillers or Rose Hip Tea for quickest recovery.,,
-HINT_CanOpener,Opening cans using a Can Opener{ico_canOpener} maximizes the Calorie value of the food inside.,,
-HINT_CarterDam,"First opened in the 1960s, seismic activity on Great Bear Island proved to be a major obstacle for its builder, the industrialist Richard Carter.",,
-HINT_CatTails,"Cat Tails are a tough, but edible source of calories. Use the Cat Tail Heads as Tinder.",,
-HINT_Charcoal,"Spent fires produce Charcoal, which you can use in Survival Mode to update your world map with a Survey.",,
-HINT_ClothingProtection,Clothing can offer Protection against physical harm - whether it be falls or wildlife attacks.,,
-HINT_ClothingProtection_title,Clothing as Armour,,
-HINT_ColdFusion,"After spending a total of 100 days outside, you are less susceptible to the cold. You get a permanent +2C bonus to your Feels Like temperature.",,
-HINT_Collapse,Early-21st century economic instability in North America and Europe was a key factor in accelerating The Collapse.,century added,
-HINT_Collapse_title,The Collapse,,
-HINT_CookingMeat,Cooked Food and Meat is generally safer to eat.,,
-HINT_CookingMeltBoil,"To produce non-potable Water, place a Can or Pot on an active cooking surface and Melt Snow. Boil the Water to make it safe to drink.",,
-HINT_CookingMeltBoil_title,Cook Longer to Purify Water,,
-HINT_CookingPlacement,"To Cook without a Pot, place raw food directly on hot stones, a grill, or a stove top.",,
-HINT_CookingWarming,Drinks and Canned Food can be placed on or near a fire to warm them.,,
-HINT_CookingWarmupBuff,Eating warm Food or Drinks will give you a buffer against the cold.,,
-HINT_CookingWarmupBuff_title,Hot Food and Drinks Warm You Up,,
-HINT_CraftedClothing,Clothing you make from wildlife hides can offer unique survival advantages.,,
-HINT_CraftedClothing_title,Crafting Clothing,,
-HINT_CraftingCuringMaterials,Cure your Fresh Hides and Green Saplings indoors to Craft unique items.,,
-HINT_CraftingCuringMaterials_title,Curing Hides and Saplings,,
-HINT_CraftingForgeTools,Create Improvised Tools at a Forge from Scrap Metal.,,
-HINT_CraftingForgeTools_title,Improvised Tools,,
-HINT_CraftingSites,Keep an eye out for these valuable crafting locations. The items you make with them are often better than the ones you find in the world.,,
-HINT_CraftingSites_title,Workbench & Forge,,
-HINT_CraftingSnowShelter,"If lost or Freezing in the wilderness, build a Snow Shelter to escape the wind and keep warm.",,
+HINT_Blizzards,Blizzards are deadly and enduring storms. They also freeze and damage your Clothing.,,Snøstormar er døyelege og langvarige. Dei frys og øydelegg òg kleda dine.
+HINT_Blizzards_title,Blizzards,,Snøstormar
+HINT_BloodLoss,Bandages treat Blood Loss and can be found or Crafted from Cloth.,,Bandasjar stoppar blodtap. Dei kan verta funnen eller laga av stoff.
+HINT_BookSmarts,"After completing 250 hours of Research, you gain 10% more benefit from each completely researched book.",,Etter å ha lest i 250 timar får ein 10% meir utbyte av ei utlest bok.
+HINT_Bow,Cure Maple Saplings and Gut to craft a Survival bow.,,Turk unglønar og tarmar for å laga ein boge.
+HINT_Bow_title,Survival Bow,,Boge
+HINT_BrokenRibs,"Treat Broken Ribs with Painkillers, Bandages, and Rest.",,"Læk brotne ribbein med smertestilande, bandasjar og kvile."
+HINT_BufferMemories,"The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.",,Nordlyset kan få liv i gamle datamaskinar og gjenoppretta gamle filer i minnet deira. Om ein tek ein kikk kan ein få eit innblikk i korleis Sværebjørn var før ljosa sløkte.
+HINT_Burns,Burns reduce your overall Condition. Use Painkillers or Rose Hip Tea for quickest recovery.,,Brannsår avgrensar helsa di. Nytt smertestillande eller nypete for  å koma deg snøgt.
+HINT_CanOpener,Opening cans using a Can Opener{ico_canOpener} maximizes the Calorie value of the food inside.,,Ein slepp å søla og mista verdifulle kaloriar om ein opnar hermetikk med ein boksopnar{ico_canOpener}.
+HINT_CarterDam,"First opened in the 1960s, seismic activity on Great Bear Island proved to be a major obstacle for its builder, the industrialist Richard Carter.",,"Fyrst opna på 1960-talet. Seismisk aktivitet på Sværebjørn viste seg å vera eit stort hinder for byggjaren, industrimagnaten Richard Carter."
+HINT_CatTails,"Cat Tails are a tough, but edible source of calories. Use the Cat Tail Heads as Tinder.",,"Dunkjevlestilkar er vel fiberrike, men er likevel etande. Dunkjevleblomen kan nyttast som knusk."
+HINT_Charcoal,"Spent fires produce Charcoal, which you can use in Survival Mode to update your world map with a Survey.",,Frå utbrendt eld får ein trekol som ein kan nytta til å kartleggja lokalområdet.
+HINT_ClothingProtection,Clothing can offer Protection against physical harm - whether it be falls or wildlife attacks.,,"Klede kan verna mot fysiske påkjenningar, blant anna fall og dyreåtak."
+HINT_ClothingProtection_title,Clothing as Armour,,Klede som rustning
+HINT_ColdFusion,"After spending a total of 100 days outside, you are less susceptible to the cold. You get a permanent +2C bonus to your Feels Like temperature.",,Etter ein oppheld seg totalt 100 dagar utandørs so vert ein mindre frostal. Ein kjennar seg +2°C varmare. 
+HINT_Collapse,Early-21st century economic instability in North America and Europe was a key factor in accelerating The Collapse.,century added,Økonomisk ustabilitet tidleg i det 21. hundreår i Nordamerika og Europa var ein nykelfaktor i å akselerera samanbrotet.
+HINT_Collapse_title,The Collapse,,Samanbrotet
+HINT_CookingMeat,Cooked Food and Meat is generally safer to eat.,,Varmebehandla mat er generelt tryggare å eta.
+HINT_CookingMeltBoil,"To produce non-potable Water, place a Can or Pot on an active cooking surface and Melt Snow. Boil the Water to make it safe to drink.",,"Smelt snø i ein blikkboks, gryte eller steikjepanne på ei varm kokeplate for å laga vatn. Lat det koka so det blir trygt å drikka. "
+HINT_CookingMeltBoil_title,Cook Longer to Purify Water,,Kok lengre for å reinse vatn
+HINT_CookingPlacement,"To Cook without a Pot, place raw food directly on hot stones, a grill, or a stove top.",,Varm mat utan ei gryte eller steikjepanne ved å leggja den rett på ei kokeplate.
+HINT_CookingWarming,Drinks and Canned Food can be placed on or near a fire to warm them.,,"Drykkar og boksemat kan setjast på ei kokeplate, eller attåt eld, for å varma dei."
+HINT_CookingWarmupBuff,Eating warm Food or Drinks will give you a buffer against the cold.,,Om ein et eller drikk noko varmt held ein varmen lengre i kulda.
+HINT_CookingWarmupBuff_title,Hot Food and Drinks Warm You Up,,Varm mat og drykk varmar deg
+HINT_CraftedClothing,Clothing you make from wildlife hides can offer unique survival advantages.,,Klede ein syr av dyreskinn kan tilbyde særskilde føremonar.
+HINT_CraftedClothing_title,Crafting Clothing,,Sy klede
+HINT_CraftingCuringMaterials,Cure your Fresh Hides and Green Saplings indoors to Craft unique items.,,Turk nyflodd skinn og nyhogde ungtre for å laga særskilte ting.
+HINT_CraftingCuringMaterials_title,Curing Hides and Saplings,,Turk skinn og ungtre
+HINT_CraftingForgeTools,Create Improvised Tools at a Forge from Scrap Metal.,,Nytt skrapmetall i ein avl til å smi provisoriske reiskap.
+HINT_CraftingForgeTools_title,Improvised Tools,,Provisoriske reiskap
+HINT_CraftingSites,Keep an eye out for these valuable crafting locations. The items you make with them are often better than the ones you find in the world.,,Ver på utkikk etter desse verdifulle arbeidsplassane. Det ein kan laga der er ofte betre enn det ein kan finna.
+HINT_CraftingSites_title,Workbench & Forge,,Arbeidsbenk & Avl
+HINT_CraftingSnowShelter,"If lost or Freezing in the wilderness, build a Snow Shelter to escape the wind and keep warm.",,Lag ei snøhole og søk ly for vinden om du frys eller går deg vill.
 HINT_CrashMountainRegion,"Cold and remote, the massive mountain dominates the landscape. The summit may hold valuable resources for those brave enough to face it.",,
 HINT_CuttysCave,"The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates. ",,
 HINT_CuttysCave_title,Cutty's Run,,
