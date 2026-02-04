@@ -4771,7 +4771,7 @@ GAMEPLAY_Matches,Matches,,Fyrstikker
 GAMEPLAY_MaxCarryWeight,Max Carry Weight,,Maks berevekt
 GAMEPLAY_MaxCondition,Max Condition,,Maks helse
 GAMEPLAY_MaxsLastStand,Max's Last Stand,,Max sin siste skanse
-GAMEPLAY_MaxStamina,Max Stamina,,
+GAMEPLAY_MaxStamina,Max Stamina,,Maks trott
 GAMEPLAY_Meat,Meat,,Kjøt
 GAMEPLAY_MeatBagRequired,GAMEPLAY_MeatBagRequired,,
 GAMEPLAY_MeatPie,Breyerhouse Pie,,
@@ -5825,13 +5825,13 @@ GAMEPLAY_Register,Register,,Registrer
 GAMEPLAY_RegisterContainerOpen,Open Register,cash register,Opn kassaapparat
 GAMEPLAY_RegisterContainerSearch,Search Register,cash register,Gransk kassaapparat
 GAMEPLAY_Regular,Regular,,Vanleg
-GAMEPLAY_ReishiMushroom,Reishi Mushroom,,Lakk-kjuke
+GAMEPLAY_ReishiMushroom,Reishi Mushroom,,Lakkjuke
 GAMEPLAY_ReishiMushroomDescription,"A large, edible shelf mushroom, found mainly on coniferous trees. Known for its antibiotic properties, when ingestad as a kind of tea.","Updated July 12th, 2017.","Ein stor, etande sopp som stort sett er å finna på bartrær. Soppen er kjent for sine bakteriedrepande eigenskapar."
-GAMEPLAY_ReishiMushroomHarvest,Harvest Reishi Mushroom,,Ta lakk-kjuke
-GAMEPLAY_ReishiPrepared,Prepared Reishi Mushrooms,,Klargjorte lakk-kjuker
-GAMEPLAY_ReishiPreparedDescription,Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties.,"Modified July 19th, 2017",Lakk-kjuker som er klare for koking. Du får ein naturlig drykk med lækjande eigenskapar.
-GAMEPLAY_ReishiTea,Reishi Tea,,Lakk-kjukete
-GAMEPLAY_ReishiTeaDescription,Reishi Mushroom tea boosts the immune system and demonstrates antibiotic-like behaviour.,,Lakk-kjukete styrkar immunforsvaret og har antibiotikaliknande eigenskapar.
+GAMEPLAY_ReishiMushroomHarvest,Harvest Reishi Mushroom,,Ta lakkjuke
+GAMEPLAY_ReishiPrepared,Prepared Reishi Mushrooms,,Klargjorte lakkjuker
+GAMEPLAY_ReishiPreparedDescription,Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties.,"Modified July 19th, 2017",Lakkjuker som er klare for koking. Du får ein naturlig drykk med lækjande eigenskapar.
+GAMEPLAY_ReishiTea,Reishi Tea,,Lakkjukete
+GAMEPLAY_ReishiTeaDescription,Reishi Mushroom tea boosts the immune system and demonstrates antibiotic-like behaviour.,,Lakkjukete styrkar immunforsvaret og har antibiotikaliknande eigenskapar.
 GAMEPLAY_RelaxBow,Relax,as in relax a bowstring without firing an arrow,Slakk
 GAMEPLAY_ReleaseIt,Release,Release a rabbit in your hands,Slepp
 GAMEPLAY_Reload,Reload,,Lad om
@@ -6316,8 +6316,8 @@ GAMEPLAY_Snow,Snow,,Snø
 GAMEPLAY_SnowShelter,Snow Shelter,,Snøhole
 GAMEPLAY_SnowShelterMustBeBuiltInSnow,Snow Shelter must be built in snow,,Snøholer må byggjast i snøen
 GAMEPLAY_SnowShelterPerfectCondition,Snow Shelter doesn't need repair,,Snøhola treng ikkje vøling
-GAMEPLAY_SodaEnergy,Go! Energy Drink,A small energy drink that gives a temporary boost,Go! energidrykk
-GAMEPLAY_SodaEnergyDescription,"Provides a boost to Stamina and reduces Fatigue for a short while. Good for extra energy when in tough spots, but distracting headaches may follow.",A small energy drink that gives a temporary boost,
+GAMEPLAY_SodaEnergy,Go! Energy Drink,A small energy drink that gives a temporary boost,Go!-energidrykk
+GAMEPLAY_SodaEnergyDescription,"Provides a boost to Stamina and reduces Fatigue for a short while. Good for extra energy when in tough spots, but distracting headaches may follow.",A small energy drink that gives a temporary boost,"Gjev ein oppkvikkar til trotten og trøyttleiken ei lita stund. Kjem vel med om ein sit i saksa, men plagande hovudverk kjem gjerne etterpå."
 GAMEPLAY_Softwood,Softwood,,Bartreved
 GAMEPLAY_Sort,Sort,,Sorter
 GAMEPLAY_SortAlphabetic,Alphabetic,,Alfabetisk
@@ -6371,8 +6371,8 @@ GAMEPLAY_StagQuarter,deer Quarter,Piece of animal that's been sectioned from a c
 GAMEPLAY_StagQuarterDescription,Section of a deer carcass. Cut from the carcass to make transporation a bit easier. Harvest for usable meat.,,Stykke av eit hjortekadaver. Skore av for å gjera det lettare å bera. Gjev deg etandes kjøt.
 GAMEPLAY_StagQuarterFrozen,Frozen deer Quarter,,Frose hjortestykke
 GAMEPLAY_Stalker,Stalker,,Jeger
-GAMEPLAY_Stamina,Stamina,,
-GAMEPLAY_StaminaClimb,You do not have enough stamina to climb,,Du har ikkje trott til å klatra
+GAMEPLAY_Stamina,Stamina,,Trott
+GAMEPLAY_StaminaClimb,You do not have enough stamina to climb,,Du har ikkje trotten til å klatra
 GAMEPLAY_Stand,Stand,,Reis deg
 GAMEPLAY_Start,Start,,Start
 GAMEPLAY_Startedfire,Started fire.,,Laga eld.
@@ -8139,18 +8139,18 @@ HINT_CraftingForgeTools_title,Improvised Tools,,Provisoriske reiskap
 HINT_CraftingSites,Keep an eye out for these valuable crafting locations. The items you make with them are often better than the ones you find in the world.,,Ver på utkikk etter desse verdifulle arbeidsplassane. Det ein kan laga der er ofte betre enn det ein kan finna.
 HINT_CraftingSites_title,Workbench & Forge,,Arbeidsbenk & Avl
 HINT_CraftingSnowShelter,"If lost or Freezing in the wilderness, build a Snow Shelter to escape the wind and keep warm.",,Lag ei snøhole og søk ly for vinden om du frys eller går deg vill.
-HINT_CrashMountainRegion,"Cold and remote, the massive mountain dominates the landscape. The summit may hold valuable resources for those brave enough to face it.",,
+HINT_CrashMountainRegion,"Cold and remote, the massive mountain dominates the landscape. The summit may hold valuable resources for those brave enough to face it.",,Kaldt og avsidesliggjande. Det svære fjelle ruvar over landskapet. Fjelltoppen har gjerne verdifulle ressursar for dei som er djerve nok til å klyva opp.
 HINT_CuttysCave,"The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates. ",,
 HINT_CuttysCave_title,Cutty's Run,,
-HINT_Dehydration,A quick way to lose Condition. Keep Water on hand to quench your thirst.,,
-HINT_DistressPistol,Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.,,
-HINT_DistressPistol_title,Distress Pistol,,
-HINT_Dysentery,"Drinking Unpotable Water can lead to Dysentery. Take Antibiotics or Reishi Tea, then Rest to recover.",,
-HINT_EfficientMachine,"After surviving 500 days, your body has adapted to the tough conditions. You consume 10% fewer calories.",,
-HINT_EnergyBoost,Energy Drinks grant a Boost to Stamina and reduce Fatigue for a short time. Useful in precarious places.,,
-HINT_EnergyBoost_title,Energy Boost,,
-HINT_EnergyDrink,"Energy Drinks temporarily reduce Fatigue and boost Stamina. Their potent ingredients will cause Headaches, so use only when needed.",,
-HINT_EnergyDrink_title,Energy Drink,,
+HINT_Dehydration,A quick way to lose Condition. Keep Water on hand to quench your thirst.,,Dehydrering går på helsa laus. Ha vatn for handa til å sløkkja tyrsten.
+HINT_DistressPistol,Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.,,"Blussane frå pistolen verkar bra til å skremma vekk mannevonde dyr, samt det einaste ein kan lita på til å jaga vekk ein bjørn som går til åtak."
+HINT_DistressPistol_title,Distress Pistol,,Signalpistol
+HINT_Dysentery,"Drinking Unpotable Water can lead to Dysentery. Take Antibiotics or Reishi Tea, then Rest to recover.",,"Drikk ein utrygt vatn kan ein få dysentri. For å verta betre må ein ta antibiotika, eller drikka lakkjukete, og so kvila."
+HINT_EfficientMachine,"After surviving 500 days, your body has adapted to the tough conditions. You consume 10% fewer calories.",,Etter å ha overlev 500 dagar so tilpassar kroppen seg dei vanskelege vêrforholda og ein forbrenn 10% færre kaloriar.
+HINT_EnergyBoost,Energy Drinks grant a Boost to Stamina and reduce Fatigue for a short time. Useful in precarious places.,,Energidrykkar gjev ein oppkvikkar til trotten og trøyttleiken ei lita stund. Kjem vel med på tvilsame plassar.
+HINT_EnergyBoost_title,Energy Boost,,Oppkvikkar
+HINT_EnergyDrink,"Energy Drinks temporarily reduce Fatigue and boost Stamina. Their potent ingredients will cause Headaches, so use only when needed.",,"Energidrykkar gjev ein oppkvikkar til trotten og trøyttleiken. Det er sterke saker som gjev ein hovudverk, so berre nytt dei når ein må."
+HINT_EnergyDrink_title,Energy Drink,,Energidrykk
 HINT_Exhaustion,A silent killer. Everything is harder when you're Exhausted. Find a safe place to Rest and recover.,,
 HINT_ExposureFrostbite,Uncovered skin can become Frostbitten. Check your Clothing interface to watch for areas of Frostbite Risk.,,
 HINT_ExposureFrostbite_title,Exposure Leads to Frostbite,,
@@ -8451,7 +8451,7 @@ JER943,"You'd better toughen up, Mackenzie.",,"Du må verta tøffere, Mackenzie.
 JER950,"I'm sure it's no coincidence that most of the animals out here are made of meat, Mackenzie.",,"Det er nok ingen tilfeldighet at de fleste dyrene her er laga av kjøt, Mackenzie."
 JER960,"Well, yeah...most of the year, you can subsist mainly on plants you can harvest. Berries. Nuts. Mushrooms. But, not much grows in Winter.",,"Vel, det meste av året kan du leve av spiselige planter. Bær. Nøtter. Sopp. Men det er ikkje mykje som vokser om vinteren."
 JER970,definitely. Cat Tails -- they don't taste like much but they'll keep you from starving. You usually find them near water.,,"Absolutt. Dunkjevler. de smaker ikkje noko særlig, men de hindrer deg i å sulte. Du finner som regel plantene i nærheten av vann."
-JER980,Reishi Mushrooms -- they grow on tree stumps. You can make a tea out of them.  A good natural antibiotic.,,"Lakk-kjuke, som vokser på trestubber. Du kan lage te av dem. Eit naturlig antibiotikum."
+JER980,Reishi Mushrooms -- they grow on tree stumps. You can make a tea out of them.  A good natural antibiotic.,,"Lakkjuke, som vokser på trestubber. Du kan lage te av dem. Eit naturlig antibiotikum."
 JER990,Rose Hips -- they look like little red berries. Also good in a kind of tea. Great for treating pain.,,"Nyper – de ser ut som små røde bær. Du kan lage te av dem, og de er flotte å lindre smerte med."
 Line ID,English,,
 LINETEST_ALTENTER,"This is on the first line
@@ -9954,7 +9954,7 @@ STORY_jnl_SchoolFish_Obj2,Get to the Camp Office and find the fishing gear you n
 STORY_jnl_SchoolFish_Title,Survival School: Fishing,,Overlevingskurs: Fisking
 STORY_jnl_SchoolFishRedux_Obj1,Catch a fish at a fishing hole (found in Ice Fishing Huts).,,
 STORY_jnl_SchoolPlants_Desc,"Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island.",,Lær å identifisera og plukka nokon av dei etande medisinske plantene på Sværebjørn.
-STORY_jnl_SchoolPlants_Obj1,Reishi Mushrooms,,Lakk-kjuke
+STORY_jnl_SchoolPlants_Obj1,Reishi Mushrooms,,Lakkjuke
 STORY_jnl_SchoolPlants_Obj2,Old Man's Beard,,Strylav
 STORY_jnl_SchoolPlants_Obj3,Rosehip,,Nype
 STORY_jnl_SchoolPlants_Obj4,Cattail Stalks,,Dunkjevlestilk
