@@ -2331,7 +2331,7 @@ GAMEPLAY_ContractedDysenteryHUD,Contracted dysentery,,Du har pådratt deg dysent
 GAMEPLAY_ContractedDysenteryLog,Contracted dysentery.,,Du har pådratt deg dysenteri.
 GAMEPLAY_ContractedFoodPoisoningHUD,Contracted food poisoning,,Du er vorte matforgiftet
 GAMEPLAY_ContractedFoodPoisoningLog,Contracted food poisoning.,,Du er vorte matforgiftet.
-GAMEPLAY_ContractedFrostbiteRisk,At risk for Frostbite,,Fare for å få kaldbrann
+GAMEPLAY_ContractedFrostbiteRisk,At risk for Frostbite,,Fare for å få frostskade
 GAMEPLAY_ContractedHypothermiaHUD,Contracted hypothermia,,Fekk hypotermi
 GAMEPLAY_ContractedHypothermiaLog,Contracted hypothermia.,,Du fekk hypotermi.
 GAMEPLAY_ContractedHypothermiaRisk,At risk for Hypothermia,,Du risikerar å få hypotermi
@@ -2851,14 +2851,14 @@ GAMEPLAY_DeathBloodLoss,You died from blood loss,,Du døydde av blodtap
 GAMEPLAY_DeathBloodLossSleeping,You died from blood loss while sleeping,,Du døydde av blodtap medan du sov
 GAMEPLAY_DeathBurning,You burned to death,,Du brant til i hel
 GAMEPLAY_DeathDehydrate,You died from dehydration,,Du døydde av dehydrering
-GAMEPLAY_DeathDehydrateExhausted,You died from dehydration and exhaustion,,Du døydde av dehydrering og utmattelse
-GAMEPLAY_DeathDehydrateExhaustedFreeze,"You died from dehydration, exhaustion, and exposure",,"Du døydde av dehydrering, utmatting og kulde"
+GAMEPLAY_DeathDehydrateExhausted,You died from dehydration and exhaustion,,Du døydde av dehydrering og trøyttleik
+GAMEPLAY_DeathDehydrateExhaustedFreeze,"You died from dehydration, exhaustion, and exposure",,"Du døydde av dehydrering, trøyttleik og kulde"
 GAMEPLAY_DeathDehydrateFreeze,You died from dehydration and exposure,,Du døydde av dehydrering og kulde
-GAMEPLAY_DeathDrowning,You died from Drowning,,
+GAMEPLAY_DeathDrowning,You died from Drowning,,Du drukna
 GAMEPLAY_DeathDysentery,You died from dysentery,,Du døydde av dysenteri
 GAMEPLAY_DeathDysenterySleeping,You died from dysentery while sleeping,,Du døydde av dysenteri medan du sov
-GAMEPLAY_DeathExhausted,You died from exhaustion,,Du døydde av utmatting
-GAMEPLAY_DeathExhaustedFreeze,You died from exhaustion and exposure,,Du døydde av utmatting og kulde
+GAMEPLAY_DeathExhausted,You died from exhaustion,,Du døydde av trøyttleik
+GAMEPLAY_DeathExhaustedFreeze,You died from exhaustion and exposure,,Du døydde av trøyttleik og kulde
 GAMEPLAY_DeathFaDedLongDark,You faded into The Long Dark...,,Du forsvann inn i det evige mørkeret...
 GAMEPLAY_DeathFalling,You died from massive internal injuries after falling,,Du døydde av store innvendige skadar etter eit hardt fall
 GAMEPLAY_DeathFoodPoisoning,You died from food poisoning,,Du døydde av matforgiftning
@@ -2872,11 +2872,11 @@ GAMEPLAY_DeathMooseAttack,You died from injuries sustained during a Moose Attack
 GAMEPLAY_DeathScurvy,You died from Scurvy,,
 GAMEPLAY_DeathStarve,You died from starvation,,Du døydde av sult
 GAMEPLAY_DeathStarveDehydrate,You died from starvation and dehydration,,Du døydde av sult og dehydrering
-GAMEPLAY_DeathStarveDehydrateExhausted,"You died from starvation, dehydration, and exhaustion",,"Du døydde av sult, dehydrering og utmatting"
-GAMEPLAY_DeathStarveDehydrateExhaustedFreeze,"You died from starvation, dehydration, exhaustion, and exposure",,"Du døydde av sult, dehydrering, utmatting og kulde"
+GAMEPLAY_DeathStarveDehydrateExhausted,"You died from starvation, dehydration, and exhaustion",,"Du døydde av sult, dehydrering og trøyttleik"
+GAMEPLAY_DeathStarveDehydrateExhaustedFreeze,"You died from starvation, dehydration, exhaustion, and exposure",,"Du døydde av sult, dehydrering, trøyttleik og kulde"
 GAMEPLAY_DeathStarveDehydrateFreeze,"You died from starvation, dehydration, and exposure",,"Du døydde av sult, dehydrering og kulde"
-GAMEPLAY_DeathStarveExhausted,You died from starvation and exhaustion,,Du døydde av sult og utmatting
-GAMEPLAY_DeathStarveExhaustedFreeze,"You died from starvation, exhaustion, and exposure",,"Du døydde av sult, utmatting og kulde"
+GAMEPLAY_DeathStarveExhausted,You died from starvation and exhaustion,,Du døydde av sult og trøyttleik
+GAMEPLAY_DeathStarveExhaustedFreeze,"You died from starvation, exhaustion, and exposure",,"Du døydde av sult, trøyttleik og kulde"
 GAMEPLAY_DeathStarveFreeze,You died from starvation and exposure,,Du døydde av sult og kulde
 GAMEPLAY_DeathSuffocation,You died from Suffocation,,
 GAMEPLAY_DeathWolfAttack,You died from loss of blood and shock from a wolf attack,,Du døydde av blodtap og sjokk etter eit ulveåtak
@@ -3189,7 +3189,7 @@ GAMEPLAY_ElevatorGoDown,Go Down,,Gå ned
 GAMEPLAY_ElevatorGoUp,Go Up,,Gå opp
 GAMEPLAY_Embers,Embers,a fire burnt down to just embers,Glør
 GAMEPLAY_EmergencyStim,Emergency Stim,,Naudsprøyte
-GAMEPLAY_EmergencyStimDescription,Emergency steroid injection. Will provide a short-burst of energy. Then you'll collapse from exhaustion. Use as a last resort!,,"Naudinnsprøytning av steroidar. Gjev energi i ein kort periode, men etterpå vil du kollapsa av utmatting. Nytt som siste utveg!"
+GAMEPLAY_EmergencyStimDescription,Emergency steroid injection. Will provide a short-burst of energy. Then you'll collapse from exhaustion. Use as a last resort!,,"Naudinnsprøytning av steroidar. Gjev ein god oppkvikkar i ei lita stund, men etterpå sig ein i hop av trøyttleik. Nytt berre som siste utveg!"
 GAMEPLAY_EmergencyStimFailedUsedTooOften,You can only use one Stim at a time.,,Du kan berre nytta ei naudsprøyte om gongen.
 GAMEPLAY_EmergencyStimProgress,Injecting...,,Injiserer...
 GAMEPLAY_Empty,EMPTY,,TOM
@@ -3752,13 +3752,13 @@ GAMEPLAY_FridgeContainerSearch,Search Fridge,,Gransk kjøleskåp
 GAMEPLAY_FridgeInteractClose,Close Fridge,,Lat att kjøleskåp
 GAMEPLAY_FridgeInteractOpen,Open Fridge,,Opn kjøleskåp
 GAMEPLAY_FrontDoor,Front Door,,Hovudinngang
-GAMEPLAY_Frostbite,Frostbite,,Kaldbrann
-GAMEPLAY_FrostbiteDebuff,Frostbite,,Kaldbrann
-GAMEPLAY_FrostbiteDebuffDesc,You have sustained Frostbite. Your general Condition is permanently reduced.,,Du har fått kaldbrann i deg. Din generelle helsa er permanent redusert.
-GAMEPLAY_FrostbiteRisk,Frostbite Risk,,Fare for kaldbrann
-GAMEPLAY_FrostbiteRiskDesc,"Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.",,Huden din er blottlagt for kulda. Viss du ikkje gjer noko med det vil du få kaldbrann i deg.
-GAMEPLAY_FrostbiteRiskHasPassed,Frostbite Risk has passed,,Du risikerer ikkje lenger å få kaldbrann
-GAMEPLAY_FrostbiteRiskTreatment,Cover up the afflicted area or find someplace warm before Frostbite develops,,Dekk til dei utsette områda eller finn ein varm plass før du får kaldbrann i deg.
+GAMEPLAY_Frostbite,Frostbite,,Frostskade
+GAMEPLAY_FrostbiteDebuff,Frostbite,,Frostskade
+GAMEPLAY_FrostbiteDebuffDesc,You have sustained Frostbite. Your general Condition is permanently reduced.,,Du har fått frostskade. Helsa di er permanent redusert.
+GAMEPLAY_FrostbiteRisk,Frostbite Risk,,Fare for frostskade
+GAMEPLAY_FrostbiteRiskDesc,"Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.",,Kulda bit på den berre huda di. Viss du ikkje kler deg vil du få frostskade.
+GAMEPLAY_FrostbiteRiskHasPassed,Frostbite Risk has passed,,Du risikerer ikkje lenger å få frostskade
+GAMEPLAY_FrostbiteRiskTreatment,Cover up the afflicted area or find someplace warm before Frostbite develops,,Dekk til det utsette området eller finn ein varm stad før du får frostskade.
 GAMEPLAY_FrozenCorpse,Frozen Corpse,,Frose lik
 GAMEPLAY_FrozenCorpseContainerOpen,Check Frozen Corpse,,Sjekk frose lik
 GAMEPLAY_FrozenCorpseContainerSearch,Search Frozen Corpse,,Gransk frose lik
@@ -6419,7 +6419,7 @@ GAMEPLAY_Stat_FiresStarted,Fires Started,,Eld kveika
 GAMEPLAY_Stat_FishCaught,Fish Caught <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Fisk fanga <WEIGHT>
 GAMEPLAY_Stat_FishConsumed,Fish Consumed <WEIGHT>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Fisk ete <WEIGHT>
 GAMEPLAY_Stat_FoodPoisoning,Food Poisoning,,Matforgiftning
-GAMEPLAY_Stat_Frostbite,Frostbite,,Kaldbrann
+GAMEPLAY_Stat_Frostbite,Frostbite,,Frostskade
 GAMEPLAY_Stat_GutsHarvested,Guts Harvested,,Tarmar sanka
 GAMEPLAY_Stat_HidesHarvested,Hides Harvested,,Skinn flådd
 GAMEPLAY_Stat_HoursAsleep,Hours Rested,,Timar kvilt
@@ -8151,16 +8151,16 @@ HINT_EnergyBoost,Energy Drinks grant a Boost to Stamina and reduce Fatigue for a
 HINT_EnergyBoost_title,Energy Boost,,Oppkvikkar
 HINT_EnergyDrink,"Energy Drinks temporarily reduce Fatigue and boost Stamina. Their potent ingredients will cause Headaches, so use only when needed.",,"Energidrykkar gjev ein oppkvikkar til trotten og trøyttleiken. Det er sterke saker som gjev ein hovudverk, so berre nytt dei når ein må."
 HINT_EnergyDrink_title,Energy Drink,,Energidrykk
-HINT_Exhaustion,A silent killer. Everything is harder when you're Exhausted. Find a safe place to Rest and recover.,,
-HINT_ExposureFrostbite,Uncovered skin can become Frostbitten. Check your Clothing interface to watch for areas of Frostbite Risk.,,
-HINT_ExposureFrostbite_title,Exposure Leads to Frostbite,,
+HINT_Exhaustion,A silent killer. Everything is harder when you're Exhausted. Find a safe place to Rest and recover.,,Tek deg før ein får sukk for seg. Alt er eit slit når ein er trøytt. Finn ein trygg kvilestad og vinn kreftene att.
+HINT_ExposureFrostbite,Uncovered skin can become Frostbitten. Check your Clothing interface to watch for areas of Frostbite Risk.,,Berr hud kan føra til frostskade. Ta ein kikk på kledeskjemen for å sjå kvar det er fare for frostskade.
+HINT_ExposureFrostbite_title,Exposure Leads to Frostbite,,Frostskadar
 HINT_FeedingBlackrock,"The remote Penitentiary never used to lack for food. Post-Collapse life on Great Bear, however, has meant lean Winter months for inmates and staff at Blackrock. Clever cooks at the prison have become known as much for their farming prowess as their kitchen skills, as they toil to keep their pantries full.",,
 HINT_FeedingBlackrock_title,Feeding Blackrock,,
-HINT_FireAccelerant,"Accelerants are a great way to start a fire when you can't afford to fail, but are a rare resource.",,
-HINT_FireColdBurnTimes,Wood burns more slowly when it's extremely cold.,,
-HINT_FireFuelTypes,Each Fuel type affects your chance to start a fire and how long the fire will last.,,
-HINT_FireMaster,"Successfully start 1000 fires, and all your Survivors start with a Level 3 Fire Starting skill.",,
-HINT_FishLampOil,Every Fish you cook produces oil that you can use in Lanterns.,,
+HINT_FireAccelerant,"Accelerants are a great way to start a fire when you can't afford to fail, but are a rare resource.",,"Med tennvæske får ein fort fyr på elden når ein treng det mest, men det er ei sjeldan vare."
+HINT_FireColdBurnTimes,Wood burns more slowly when it's extremely cold.,,Ved brenn seinare når det er bitande kaldt.
+HINT_FireFuelTypes,Each Fuel type affects your chance to start a fire and how long the fire will last.,,Val av brennefang påverkar sjansen for å få fyr og kor lenge det vil brenna.
+HINT_FireMaster,"Successfully start 1000 fires, and all your Survivors start with a Level 3 Fire Starting skill.",,Når ein har lukkast med å kveikje eld 1000 gongar kan ein velja å starta med nivå 3 i eldkveiking.
+HINT_FishLampOil,Every Fish you cook produces oil that you can use in Lanterns.,,Når ein stekjer fisk får ein olje som ein kan nytta i stormlampar eller som tennvæske.
 HINT_FlaresTorches,Thrown Torches and Flares have a chance to scare away hostile wildlife.,,
 HINT_FlaresTorches_title,Thrown Torches & Flares,,
 HINT_Fog,"Dense fog can blanket Great Bear Island, making navigation difficult. ",,
