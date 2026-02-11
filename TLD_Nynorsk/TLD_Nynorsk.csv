@@ -3266,7 +3266,7 @@ GAMEPLAY_EpisodeTwoTitle,LUMINANCE FUGUE,,
 GAMEPLAY_EQUIP,EQUIP,,NYTT
 GAMEPLAY_Equip,Equip,,Nytt
 GAMEPLAY_EquipFirearm,Equip Weapon,,Nytt våpen
-GAMEPLAY_EquipFlare,Equip Flare,,Nytt nødbluss
+GAMEPLAY_EquipFlare,Equip Flare,,Nytt naudbluss
 GAMEPLAY_EquipIt,Equip It,,Nytt
 GAMEPLAY_EquipLantern,Equip Lantern,,Nytt lampe
 GAMEPLAY_EquipLightsource,Equip Lightsource,,Nytt ljoskjelde
@@ -8159,49 +8159,49 @@ HINT_FeedingBlackrock_title,Feeding Blackrock,,
 HINT_FireAccelerant,"Accelerants are a great way to start a fire when you can't afford to fail, but are a rare resource.",,"Med tennvæske får ein fort fyr på elden når ein treng det mest, men det er ei sjeldan vare."
 HINT_FireColdBurnTimes,Wood burns more slowly when it's extremely cold.,,Ved brenn seinare når det er bitande kaldt.
 HINT_FireFuelTypes,Each Fuel type affects your chance to start a fire and how long the fire will last.,,Val av brennefang påverkar sjansen for å få fyr og kor lenge det vil brenna.
-HINT_FireMaster,"Successfully start 1000 fires, and all your Survivors start with a Level 3 Fire Starting skill.",,Når ein har lukkast med å kveikje eld 1000 gongar kan ein velja å starta med nivå 3 i eldkveiking.
+HINT_FireMaster,"Successfully start 1000 fires, and all your Survivors start with a Level 3 Fire Starting skill.",,Etter ein har lukkast med å kveikje eld 1000 gongar kan ein velja å starta med nivå 3 i eldkveiking.
 HINT_FishLampOil,Every Fish you cook produces oil that you can use in Lanterns.,,Når ein stekjer fisk får ein olje som ein kan nytta i stormlampar eller som tennvæske.
-HINT_FlaresTorches,Thrown Torches and Flares have a chance to scare away hostile wildlife.,,
-HINT_FlaresTorches_title,Thrown Torches & Flares,,
-HINT_Fog,"Dense fog can blanket Great Bear Island, making navigation difficult. ",,
-HINT_Fog_title,Fog,,
-HINT_FoodPoisoning,Use Antibiotics or Reishi Tea to recover from Food Poisoning.,,
-HINT_FoodPoisoning_2,You can get Food Poisoning by eating low-Condition food items.,,
-HINT_FreeRunner,"After Sprinting 50 km, Sprinting burns 25% fewer Calories.",,
-HINT_Freezing,"Freezing is the fastest way to die on Great Bear. Warm up by getting out of the Wind, getting near a fire, or getting inside a shelter.",,
-HINT_Frostbite,Frostbite injuries are permanent. Keep exposed skin covered to avoid this debilitating Affliction.,,
-HINT_GreatBearCollapse,"Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character.",,
-HINT_GreatBearCollapse_title,Great Bear and The Collapse,,
-HINT_Hacksaw,Hacksaws let you Harvest Scrap Metal for Crafting and Repair. You can also use them to Harvest wood from tree limbs.,,
-HINT_Hatchets,Hatchets are the best Tool for Harvesting large amounts of wood.,,
-HINT_Headache,Some afflictions or even first aid actions can leave you with a distracting Headache.,,
-HINT_Headache_title,Headaches,,
-HINT_HuntingKnife,A Hunting Knife is a key tool for harvesting meat from carcasses. It can also protect you against hostile wildlife.,,
-HINT_Hypothermia,Hypothermia happens when body temperature stays too low for too long. Keep an eye on your temperature using the Status screen.,,
-HINT_IceFishing,Use a Tool to break the ice hole in an Ice Fishing hut. It will freeze up again over time!,,
-HINT_IceFishing_title,Ice Fishing,,
-HINT_ImprovisedClothing,"As a last resort, Craft Improvised Head and Hand Wraps to protect yourself from weather and wildlife.",,
-HINT_ImprovisedClothing_title,Improvised Clothing,,
-HINT_InfectionRisk,Antiseptic helps treat Infection Risk resulting from Struggles with Great Bear Island predators.,,
-HINT_InfectionRisk_title,Infection Risk,,
-HINT_Infections,"Infections can be deadly. Treat with Antibiotics or Reishi Tea, and Rest.",,
+HINT_FlaresTorches,Thrown Torches and Flares have a chance to scare away hostile wildlife.,,Sleng ein faklar og bluss mot mannevonde dyr kan det skremma dei vekk.
+HINT_FlaresTorches_title,Thrown Torches & Flares,,Slengde faklar og bluss
+HINT_Fog,"Dense fog can blanket Great Bear Island, making navigation difficult. ",,Tjukk tåke kan leggja seg over Sværebjørn og gjera det vanskeleg å finna fram.
+HINT_Fog_title,Fog,,Tåke
+HINT_FoodPoisoning,Use Antibiotics or Reishi Tea to recover from Food Poisoning.,,Nytt antibiotika eller lakkjukete for å lækja matforgifting.
+HINT_FoodPoisoning_2,You can get Food Poisoning by eating low-Condition food items.,,Ein kan verta matforgita av dårleg mat.
+HINT_FreeRunner,"After Sprinting 50 km, Sprinting burns 25% fewer Calories.",,Etter ein har sprunge 50 km brenn springing 25% færre kaloriar.
+HINT_Freezing,"Freezing is the fastest way to die on Great Bear. Warm up by getting out of the Wind, getting near a fire, or getting inside a shelter.",,"Kulda er det som kjappst tek livet av ein på Sværebjørn. Søk ly frå vinden, kveik eit bål eller kom deg i hus for å få varmen igjen."
+HINT_Frostbite,Frostbite injuries are permanent. Keep exposed skin covered to avoid this debilitating Affliction.,,Forstskadar er varige. Dekk til berr hud for å sleppa å pådraga desse veikjande skadane.
+HINT_GreatBearCollapse,"Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character.",,Sværebjørn var allereie avhengig av fastlandet. Samanbrotet framheva øya si avsidesliggjande natur.
+HINT_GreatBearCollapse_title,Great Bear and The Collapse,,Sværebjørn og samanbrotet
+HINT_Hacksaw,Hacksaws let you Harvest Scrap Metal for Crafting and Repair. You can also use them to Harvest wood from tree limbs.,,"Baufiler kan nyttast til det meste. Med ei kan ein sanka skrapmetall til laging og vøling, ved frå greiner, kjøt frå kadaver med meir!"
+HINT_Hatchets,Hatchets are the best Tool for Harvesting large amounts of wood.,,Ei øks er den beste reiskapen til å sanka store mengder ved med.
+HINT_Headache,Some afflictions or even first aid actions can leave you with a distracting Headache.,,"Nokon lidingar, samt kurar, kan føra til plagande hovudverk."
+HINT_Headache_title,Headaches,,Hovudverk
+HINT_HuntingKnife,A Hunting Knife is a key tool for harvesting meat from carcasses. It can also protect you against hostile wildlife.,,Ein jaktkniv kjem vel med når ein skal slakta eit kadaver eller om ein får ein ulv over seg.
+HINT_Hypothermia,Hypothermia happens when body temperature stays too low for too long. Keep an eye on your temperature using the Status screen.,,Ein får hypotermi når kroppstemperaturen vert verande for låg for lenge. Hald auge med temperaturen din på statusskjermen.
+HINT_IceFishing,Use a Tool to break the ice hole in an Ice Fishing hut. It will freeze up again over time!,,"Med reiskap kan ein laga hol i isen til isfiske, men det frys igjen over tid."
+HINT_IceFishing_title,Ice Fishing,,Isfiske
+HINT_ImprovisedClothing,"As a last resort, Craft Improvised Head and Hand Wraps to protect yourself from weather and wildlife.",,Som ein siste utveg kan ein laga provisoriske hovudplagg og vottar til å verna ein mot vêr og vind.
+HINT_ImprovisedClothing_title,Improvised Clothing,,Provisoriske klede
+HINT_InfectionRisk,Antiseptic helps treat Infection Risk resulting from Struggles with Great Bear Island predators.,,Får ein sår av villdyr som gjekk til åtak på ein vil antiseptikum fjerna risikoen for infeksjon.
+HINT_InfectionRisk_title,Infection Risk,,Infeksjonsrisiko
+HINT_Infections,"Infections can be deadly. Treat with Antibiotics or Reishi Tea, and Rest.",,"Infeksjonar kan vera døyelege. Læk med antibiotika eller lakkjukete, samt kvile."
 HINT_JailersResidence,"Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed. ",,
 HINT_JailersResidence_title,Jailer's Residence,,
-HINT_LakeRegion,A varied region where human industry collides with Great Bear’s wild landscape.,,
-HINT_Landmarks,Look for landmarks to guide your way in the wilderness. Every region tells a story.,,
-HINT_Landmarks_title,Landmarks,,
-HINT_Lantern,"Lanterns are useful for casting light in dark areas, and also provide a bit of warmth when carried in-hand.",,
-HINT_LayeredClothing,"Layer your Clothing{ico_inv_clothing} wisely to take advantage of different Clothing attributes such as Weight, Windproofness and Protection against wildlife.",,
-HINT_LayeredClothing_title,Layered Clothing,,
-HINT_ListenCarefullyWolves,Wolves can often be heard before they are seen.,,
-HINT_ListenCarefullyWolves_title,Listen Carefully,,
+HINT_LakeRegion,A varied region where human industry collides with Great Bear’s wild landscape.,,Ein variert region der menneskleg industri strid imot Sværebjørn sitt naturlandskap.
+HINT_Landmarks,Look for landmarks to guide your way in the wilderness. Every region tells a story.,,Gjer deg kjend med landemerker som kan visa veg i villmarka. Kvar stad har noko å fortelja.
+HINT_Landmarks_title,Landmarks,,Landemerke
+HINT_Lantern,"Lanterns are useful for casting light in dark areas, and also provide a bit of warmth when carried in-hand.",,"Lampar skin ljos i mørkeret so ein får auge på det som gøymer seg, samt varmar nevane lite grann om ein held dei."
+HINT_LayeredClothing,"Layer your Clothing{ico_inv_clothing} wisely to take advantage of different Clothing attributes such as Weight, Windproofness and Protection against wildlife.",,"Det ytste klesplagget{ico_inv_clothing} fastset vass- og vindtettleika, samt vernet, ein får. Derimot varmar alt av klede ein har på seg. Kle deg med omhug!"
+HINT_LayeredClothing_title,Layered Clothing,,Kleslag
+HINT_ListenCarefullyWolves,Wolves can often be heard before they are seen.,,Ein høyrer ofte ulvar før ein ser dei.
+HINT_ListenCarefullyWolves_title,Listen Carefully,,Spiss øyra
 HINT_LoreCollapse,"Largely cut off from the Mainland since The Collapse, Great Bear Islanders became even more resourceful in their isolation.",,
 HINT_LoreEarthquakes,"Earthquakes have decimated parts of Great Bear’s infrastructure, making travel across the Island difficult and dangerous.",,
 HINT_LoreForestTalkers,"Active for decades, the Forest Talkers are fierce defenders of Great Bear Island’s ecology.",,
 HINT_LoreMining,"Now abandoned, mines were a staple of local industry on Great Bear prior to The Collapse.",,
-HINT_MaintainClothing,Keep your Clothing in good Condition or it will become Ruined.,,
-HINT_MaintainClothing_title,Maintain Clothing,,
-HINT_MaintainTools,Using any tool reduces its Condition. Maintain tools before they break!,,
+HINT_MaintainClothing,Keep your Clothing in good Condition or it will become Ruined.,,"Hald kleda i god stand, elles vert dei dårlegare, og til slutt øydelagde."
+HINT_MaintainClothing_title,Maintain Clothing,,Bøt klede
+HINT_MaintainTools,Using any tool reduces its Condition. Maintain tools before they break!,,Reiskap vert slitne med bruk. Vøl dei før dei vert øydelagde.
 HINT_MarshRegion,"Flat and frozen, the Muskeg is a broad marshland bisected by an old railroad line. Watch for weak ice!",,
 HINT_MeatDecoys,"Dropping decoys can distract predators, giving you enough time to escape their interest.",,
 HINT_MiltonOrigins,"Founded as a coal-mining town in 1911, Milton's story has followed the boom-and-bust of the entire Island.",,
