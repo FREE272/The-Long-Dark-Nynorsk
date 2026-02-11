@@ -68,7 +68,7 @@ ACHIEVEMENT_SilentHunterDescription,Survive the first 50 days without firing any
 ACHIEVEMENT_SkilledSurvivor,Skilled Survivor,,Ein som veit å overleva
 ACHIEVEMENT_SkilledSurvivorDescription,Get all skills to level 5 in a single Survival Mode game.,,Få alle dugleikane i level 5 i eit overlevingsmodusspel.
 ACHIEVEMENT_SM_FoundAllForestTalkerCaches,Sounds Like Some Kind of Indie Band,,Namnet høyrast ut som eit indieband
-ACHIEVEMENT_SM_FoundAllForestTalkerCachesDescription,Find all Forest Talker caches.,,Finn alle oppbevaringane til Skogpratarane.
+ACHIEVEMENT_SM_FoundAllForestTalkerCachesDescription,Find all Forest Talker caches.,,Finn alle oppbevaringane til Skogstalarane.
 ACHIEVEMENT_SM_FoundAllHiddenCaches,Cache Mastery,,Oppbevaringsmeisteren
 ACHIEVEMENT_SM_FoundAllHiddenCachesDescription,Find all hidDen caches in Episode One and Episode Two.,,Finn alle de skjulte oppbevaringane i 1. og 2. episode.
 ACHIEVEMENT_SM_UnlockAllMiltonDepositBoxes,Too Big to Fail,,For stor til å mislykkast
@@ -2747,12 +2747,12 @@ GAMEPLAY_DamageEventSprainedAnkle,Sprained Ankle,,Vrengde okle
 GAMEPLAY_DamageEventSprainedWrist,Sprained Wrist,,Vrengde handledd
 GAMEPLAY_DamCollectible1,Carter Hydro Dam -- Safety & Shutdown Notice,,Carter-demningen: Tryggleik og stenging notat
 GAMEPLAY_DamCollectible1Description,"Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible.",,"Eit notat som ser offisielt ut, skriven på Carter-demningen sitt brevpapir. Brevet er skada, og nokon av orda er vanskelege å tyda. Brevet er datert ein eller annen gong på nittitalet, men den eksakte datoen er uleseleg."
-GAMEPLAY_DamCollectible1DescriptionNarrativeText,"""I'm sure this will come as no surprise to you, but ever since seismic activity on the Island has become such an issue, it's been almost impossible to run Carter Dam profitably. Besides that, the recent eco-activism -- or, let's call it what it is: terrorism -- has introduce new risks that have brought plant and worker safety into question. Therefore, I'm sad to report that after years of trying to modernize Carter Dam, and after the failed attempts of its original creator, the eponymous Richard Carter, it's finally time for me to also admit defeat, as he did those decades ago. No ambition of mine justifies putting your lives in danger. All workers will be transported out as soon as we can guarantee your safety. In the mean time, please keep an eye out for any suspicous activity in or around the Dam -- the so-called ""Forest Talkers"" are still active in the area. Thank you for your dedication to the cause. Yours truly, Robert Clarke, CEO, Carter Hydro Energy.""",,"Dette vil sikkert ikkje koma som ein overraskelse, men heilt sidan den seismiske aktiviteten på øya begynte å verta eit problem, har det nesten vert umogleg å drive Carter-demningen med profitt. Miljøvernaktivistmen har i seinare tid – forresten, lat oss kalla det for det det er: «terrorisme» – ført med seg nye fareelement som er ein trussel mot tryggleika til verket og arbeidarane her. Derfor må eg dessverre dela at eg òg, etter å ha streva i mange år med å modernisera Carter-demningen etter dei mislukka forsøka til den opprinnelege eigaren, Richard Carter, som ga demningen sitt namn, omsider er naudt til å innrømma nederlag, slik som Carter gjorde flere tiår sidan. Ingen av mine ambisjonar rettferdiggjer å settja dykkar liv i fare. Alle arbeidarar vil verta transportert ut so snart me kan garantera for tryggleika. I mellomtida må de sjå opp for mistenkeleg aktivitet i og rundt demningen. De såkalte Skogpratarane er fortsatt aktive i området. Takk for innsatsen for saken. Mvh. Robert Clarke, administrerende direktør i Carter vasskraft."
+GAMEPLAY_DamCollectible1DescriptionNarrativeText,"""I'm sure this will come as no surprise to you, but ever since seismic activity on the Island has become such an issue, it's been almost impossible to run Carter Dam profitably. Besides that, the recent eco-activism -- or, let's call it what it is: terrorism -- has introduce new risks that have brought plant and worker safety into question. Therefore, I'm sad to report that after years of trying to modernize Carter Dam, and after the failed attempts of its original creator, the eponymous Richard Carter, it's finally time for me to also admit defeat, as he did those decades ago. No ambition of mine justifies putting your lives in danger. All workers will be transported out as soon as we can guarantee your safety. In the mean time, please keep an eye out for any suspicous activity in or around the Dam -- the so-called ""Forest Talkers"" are still active in the area. Thank you for your dedication to the cause. Yours truly, Robert Clarke, CEO, Carter Hydro Energy.""",,"Dette vil sikkert ikkje koma som ein overraskelse, men heilt sidan den seismiske aktiviteten på øya begynte å verta eit problem, har det nesten vert umogleg å drive Carter-demningen med profitt. Miljøvernaktivistmen har i seinare tid – forresten, lat oss kalla det for det det er: «terrorisme» – ført med seg nye fareelement som er ein trussel mot tryggleika til verket og arbeidarane her. Derfor må eg dessverre dela at eg òg, etter å ha streva i mange år med å modernisera Carter-demningen etter dei mislukka forsøka til den opprinnelege eigaren, Richard Carter, som ga demningen sitt namn, omsider er naudt til å innrømma nederlag, slik som Carter gjorde flere tiår sidan. Ingen av mine ambisjonar rettferdiggjer å settja dykkar liv i fare. Alle arbeidarar vil verta transportert ut so snart me kan garantera for tryggleika. I mellomtida må de sjå opp for mistenkeleg aktivitet i og rundt demningen. De såkalte Skogstalarane er fortsatt aktive i området. Takk for innsatsen for saken. Mvh. Robert Clarke, administrerende direktør i Carter vasskraft."
 GAMEPLAY_DamFenceKey,Carter Hydro Staging Area Gate Key,,Portnykel til transittområde ved Carter-demningen
 GAMEPLAY_DamFenceKeyDescription,Key for the gate in the fence surrounding the Carter Hydro Dam staging area.,A key for the fence gate outside the Dam,Nykel til porten i gjerdet rundt transittområde ved Carter-demningen.
 GAMEPLAY_DamGarbageLetter,Trash Can Letter,,Bosdunkbrev
 GAMEPLAY_DamGarbageLetterDescription,Letter found in garbage can in the bathroom at Carter Hydro Dam.,,Eit brev funne i bosdunken på badet i Carter-demningen.
-GAMEPLAY_DamGarbageLetterDescriptionNarrativeText,"""I'm so ****ed off at you. You told me the Forest Talkers were legit and that we'd be doing ""good work"" out here. All I've seen is a ragtag bunch of dumbies who are disorganized and have no plan. It's way too cold to be out here this time of year, and the wildlife -- I mean, you didn't tell me there would be *actual* wolves out here. This is crazy. You can hear them outside at night, howling. It's making me crazy. What are we doing out here? People said Great Bear was hit hard by the quakes but man, I had no idea it was so stuck in the...dark ages. You owe big time for bringing those supplies, and if the weather doesn't warm up soon, I'm outta here, and you will not be seeing me again any time soon.""",,"Eg er dritsur på deg. Du fortalte meg at Skogpratarane drev på reieleg vis, og at me skulle gjera «viktig arbeid» her ute. Det einaste eg har sitt, er ein lurvete gjeng uorganiserte idiotar utan ein plan. Det er altfor kaldt her på denne tida av året, og dei ville dyra … eg meiner, du sa ingenting om at det var ekte ulvar her. Dette er galskap. Du kan høyra dei ute om natta, ulvane. Eg vert sprø. Kva gjer me her ute? Folk sa at Sværebjørn fekk gjennomgå under jordskjelva, men eg ante ikkje at øya var satt attende til … middelalderen. Du står i stor gjeld til meg for at eg tok med dei forsyningane, og viss det ikkje vert varmare i vêret snart, fer eg, og då ser du meg ikkje igjen på ei stund."
+GAMEPLAY_DamGarbageLetterDescriptionNarrativeText,"""I'm so ****ed off at you. You told me the Forest Talkers were legit and that we'd be doing ""good work"" out here. All I've seen is a ragtag bunch of dumbies who are disorganized and have no plan. It's way too cold to be out here this time of year, and the wildlife -- I mean, you didn't tell me there would be *actual* wolves out here. This is crazy. You can hear them outside at night, howling. It's making me crazy. What are we doing out here? People said Great Bear was hit hard by the quakes but man, I had no idea it was so stuck in the...dark ages. You owe big time for bringing those supplies, and if the weather doesn't warm up soon, I'm outta here, and you will not be seeing me again any time soon.""",,"Eg er dritsur på deg. Du fortalte meg at Skogstalarane drev på reieleg vis, og at me skulle gjera «viktig arbeid» her ute. Det einaste eg har sitt, er ein lurvete gjeng uorganiserte idiotar utan ein plan. Det er altfor kaldt her på denne tida av året, og dei ville dyra … eg meiner, du sa ingenting om at det var ekte ulvar her. Dette er galskap. Du kan høyra dei ute om natta, ulvane. Eg vert sprø. Kva gjer me her ute? Folk sa at Sværebjørn fekk gjennomgå under jordskjelva, men eg ante ikkje at øya var satt attende til … middelalderen. Du står i stor gjeld til meg for at eg tok med dei forsyningane, og viss det ikkje vert varmare i vêret snart, fer eg, og då ser du meg ikkje igjen på ei stund."
 GAMEPLAY_DamLockerKey,Aid Station Medical Locker Key,,Nykel til medisinskåp i fyrstehjelpstasjon
 GAMEPLAY_DamLockerKeyDescription,A key to the Medical Locker at the aid station in Carter Hydro Dam.,A key for the Dam's medical locker,Ein nykel til medisinskåpet i Carter-demningen sin fyrstehjelpstasjon.
 GAMEPLAY_Darker,Darker,screen brightness decrease,Mørkare
@@ -3618,23 +3618,23 @@ GAMEPLAY_ForestCache,Forest Talker Supply Cache,,
 GAMEPLAY_ForestCacheInteractClose,Close Door,,Lat att dør
 GAMEPLAY_ForestCacheInteractOpen,Open Door,,Opn dør
 GAMEPLAY_ForestryLookout,Forestry Lookout,,Skogbruket sitt utkikkstårn
-GAMEPLAY_ForestTalkerBloodyItem,Blood Soaked Forest Talker Documents,,Blodstenkte skogpratardokument
-GAMEPLAY_ForestTalkerBloodyItemDescription,"Official looking documents, soaked in blood.",,Blodstenkte dokument med offisielt preg.
-GAMEPLAY_ForestTalkerBloodyItemNarrativeText,"A variety of documents, some with barely-visible Breyerhouse logos on them. Soaked in blood to the point of being ruined. Whatever useful info they contained is now lost.",,"Ulike dokument, nokon med knapt synlege Breyerhouse-logoar. So blodstenkte at dei nesten er øydelagte. Eventuell nyttig informasjon i dokumenta er no tapt."
+GAMEPLAY_ForestTalkerBloodyItem,Blood Soaked Forest Talker Documents,,Blodige skogstalardokument
+GAMEPLAY_ForestTalkerBloodyItemDescription,"Official looking documents, soaked in blood.",,Blodige dokument med offisielt preg.
+GAMEPLAY_ForestTalkerBloodyItemNarrativeText,"A variety of documents, some with barely-visible Breyerhouse logos on them. Soaked in blood to the point of being ruined. Whatever useful info they contained is now lost.",,"Ulike dokument, nokon med knapt synlege Breyerhouse-logoar. So blodige at dei nesten er øydelagte. Eventuell nyttig informasjon i dokumenta er no tapt."
 GAMEPLAY_ForestTalkerDamNote,Forest Talker Dam Note,,
 GAMEPLAY_ForestTalkerDamNoteDescription,Forest Talker note found next to a corpse and distress pistol in the Dam,,
 GAMEPLAY_ForestTalkerDamNoteNarrativeText,"Phil,
 Jackson’s seen some wolves around the area, and last week Emily said she thought she saw a bear skulking around the camp. I’m not convinced it isn’t those Breyerhouse thugs trying to scare us off, but just in case, keep this flare gun handy. It’s the closest thing we have to a firearm.
 John",,
-GAMEPLAY_ForestTalkerFlyer,Forest Talker Flyer,,Skogpratarane flygeblad
-GAMEPLAY_ForestTalkerFlyerDescription,Hand-printed Forest Talkers Recruitment Flyer,,Håndtrykket flygeblad med reklame for Skogpratarane.
+GAMEPLAY_ForestTalkerFlyer,Forest Talker Flyer,,Flygeblad frå Skogstalarane 
+GAMEPLAY_ForestTalkerFlyerDescription,Hand-printed Forest Talkers Recruitment Flyer,,Håndtrykket flygeblad med reklame for Skogstalarane.
 GAMEPLAY_ForestTalkerFlyerNarrativeText,"It's time to rise up! We can no longer stand idle and watch our beloved Great Bear continue to be raped by the resource companies. If you care about saving this island, meet up at the old lodge on the outskirts of Mystery Lake provincial park. Cell service and satphone access is spotty so use the sneakernet! Remember, they're watching, so be careful who you trust.",,"Me må stå i mot! Me kan ikkje lenger halde oss passive og sjå på medan ressursselskapa voldtar vår kjære Sværebjørn. Viss du vil bidra til å redde øya, kan du møte opp i den gamle hytta i utkanten av parken ved Løyndomsvatnet. Mobil og satellittelefon har dårlig dekning, so nytt snikarnettet. Husk at dei overvåkar oss, so ikkje stol på kven som helst."
-GAMEPLAY_ForestTalkerHiddenItem,Forest Talker Documents,,Skogpratar dokument
-GAMEPLAY_ForestTalkerHiddenItemDescription,Documents found by the Forest Talkers. They think they are important to their cause.,,Dokument funne av Skogpratarane. Dei trur dei er viktige for saka deira.
+GAMEPLAY_ForestTalkerHiddenItem,Forest Talker Documents,,Skogstalardokument
+GAMEPLAY_ForestTalkerHiddenItemDescription,Documents found by the Forest Talkers. They think they are important to their cause.,,Dokument funne av Skogstalarane. Dei trur dei er viktige for saka deira.
 GAMEPLAY_ForestTalkerHiddenItemNarrativeText,"""We finally have the evidence we've been looking for. All the photos of the logging we skanind on social media have been totally ignored -- and I mean, who can blame them. Nobody believes what they see anymore. BUT, we stole some documents from a logging camp that prove that Breyerhouse is here *illegally*. Like, they don't actually have the correct permits or even permission to be here. And they are cutting down OLD GROWTH trees out here. It's exactly the kind of ammunition we need to take them down. Even if the lawyers and the corporate shills try to bury this -- and they will -- we'll be able to use this to drive up our recruitment, as well as cash for our crowdfunding campaign. With this, we can finally takes things to the *next level*.""",,"Endelig har me bevisa me leitte etter. Alle bildene me la ut på sosiale medier av tømmerhogsten, er vorte fullstendig ignorert, og det kan me eigentleg ikkje sei so mykje på. Ingen trur på det dei ser lenger. Men me har stole dokumentar frå ein tømmerleir, og desse bevisar at Breyerhouse ikkje har lov til å vera her. Dei har verken dei naudsynte konsesjonar eller løyve til å vera her. Og dei hogg ned URSKOG der ute. Dette er akkurat den ammunisjonen me treng til å stoppa dei. Sjølv om advokatane og kapitalistane skulle prøva å begrava dette – og det vil dei – so kan me nytta dette til å sitja fart på rekrutteringa og skaffa kontanter til crowdfunding-kampanjen vår. Med dette kan me endeleg ta ting til neste nivå."
 GAMEPLAY_ForestTalkerLetter,Forest Talker Letter,,
-GAMEPLAY_ForestTalkerMap,Forest Talker Map Note,,Notat med kart til leiren til Skogpratarane
-GAMEPLAY_ForestTalkerMapDescription,Written note and map showing the location of the “Forest Talker’s Camp” at the old Lodge building in the hills beyond the Maintenance Shed,,Eit notat og kart som visar posisjonen til leiren til Skogpratarane ved den gamle hytta på åsen bortanfor vedlikehaldsskuret.
+GAMEPLAY_ForestTalkerMap,Forest Talker Map Note,,Notat med kart til leiren til Skogstalarane
+GAMEPLAY_ForestTalkerMapDescription,Written note and map showing the location of the “Forest Talker’s Camp” at the old Lodge building in the hills beyond the Maintenance Shed,,Eit notat og kart som visar posisjonen til leiren til Skogstalarane ved den gamle hytta på åsen bortanfor vedlikehaldsskuret.
 GAMEPLAY_ForestTalkerMapNarrativeText,"Meet up at the abandoned hunting lodge on the outskirts of Mystery Lake park, GPS coordinates [unreadable]. We have to stop those Breyerhouse corporate [expletive].",,Me møtas ved den etterlata jakthytta i utkanten av parken i Løyndomsvatnet. GPS-koordinatar [uleseleg]. Me må stoppa dei jævla Breyerhouse-kapitalistene.
 GAMEPLAY_ForestTalkerPlans,Forest Talker Memo,,
 GAMEPLAY_ForestTalkerPlans_Desc,"A sheet of paper, waterstained but crisply-folded. ",,
@@ -3697,14 +3697,14 @@ GAMEPLAY_ForestTalkers_PVCollectible2_NarrativeText,"Parnell was out checking ro
 GAMEPLAY_ForestTalkers_PVCollectible3,"Pleasant Valley Collectible, Part Three",,
 GAMEPLAY_ForestTalkers_PVCollectible3_Desc,A collectible with details on run ins between the Forest Talkers and Pleasant Valley residents.,,
 GAMEPLAY_ForestTalkers_PVCollectible3_NarrativeText,"It all happened during a storm, so we'll never know exactly what the hell went on out there. All we do know is we're cut off from the highway now. Tonnes and tonnes of rock stand between us and the rest of Great Bear. An earthquake? Maybe.",,
-GAMEPLAY_ForestTalkerThankyou,Forest Talker Note,This note is left if you gave the FT all the supplies you found.,Notat frå skogprataren
-GAMEPLAY_ForestTalkerThankyou2,Forest Talker Note,This note is left if you took the ammo before dropping off the FT supplies.,Skogprateren sitt notat
-GAMEPLAY_ForestTalkerThankyou2Description,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogprataren i hytta ved innsjøen.
+GAMEPLAY_ForestTalkerThankyou,Forest Talker Note,This note is left if you gave the FT all the supplies you found.,Notat frå skogstalaren
+GAMEPLAY_ForestTalkerThankyou2,Forest Talker Note,This note is left if you took the ammo before dropping off the FT supplies.,Skogstalaren sitt notat
+GAMEPLAY_ForestTalkerThankyou2Description,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogstalaren i hytta ved innsjøen.
 GAMEPLAY_ForestTalkerThankyou2NarrativeText,"""While I appreciate what you've done to help me, stealing ammo may be my death sentence out here. I have a long way to go and with hungry wolves and angry people out there, I have no idea how far I'll get. I hope you can sleep at night. Remember: As You Sow, So Shall You Reap.""",,"Sjølv om eg set pris på alt du har gjort for å hjelpa meg, so kan du ha dømt meg til dauden ved å stela skota mine. Eg har langt å gå, og med svoltne ulvar og sinte mennesker der ute anar eg ikkje kor langt eg vil koma. Eg vonar du får sove om natta. Som ein sår, haustar ein. Husk det."
-GAMEPLAY_ForestTalkerThankyouDescription,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogprataren i hytta ved innsjøen.
+GAMEPLAY_ForestTalkerThankyouDescription,A note left for you by the Forest Talker in the Lake Cabin,,Ein beskjed til deg frå skogstalaren i hytta ved innsjøen.
 GAMEPLAY_ForestTalkerThankyouNarrativeText,"Thank you for helping me, not everyone would have done that. I left this item for you, it belonged to my friend, hopefully you'll be able to make use of it? Maybe our paths will cross again.",,"Takk for at du hjelpte meg – ikkje alle ville ha gjort det. Eg har lagt igjen noko til deg, Noko som tilhøyrte ein ven. Eg vonar du får nytta av det. Kanskje me møtast igjen."
 GAMEPLAY_ForestTalkerTrailerKey1,Logging Camp Trailer Key,,Nykel til tømmerleirbrakke
-GAMEPLAY_ForestTalkerTrailerKey1Description,A Logging Camp trailer key given to you by a Forest Talker.,,"Ein nykel til ei brakke i tømmerleiren, gjeve til deg av ein skogpratar."
+GAMEPLAY_ForestTalkerTrailerKey1Description,A Logging Camp trailer key given to you by a Forest Talker.,,"Ein nykel til ei brakke i tømmerleiren, gjeve til deg av ein skogstalar."
 GAMEPLAY_Forge,Forge,,Avl
 GAMEPLAY_ForgeBlueprintsPages,Forge Blueprints,,Avlteikningar
 GAMEPLAY_ForgeBlueprintsPagesDescription,A few old pages with instructions on how to Craft a few items using the Forge.,,Nokon gamle ark med instruksjoner om korleis du lagar forskjellige ting ein avl.
@@ -4409,7 +4409,7 @@ Still, it’s said the many streams and rivers that surround the prison grounds 
 GAMEPLAY_know_BRbook3_Title,"Building Blackrock, Part Three",,
 GAMEPLAY_know_Hobbs,Hobbs,,
 GAMEPLAY_know_HobbsDesc,"Sentenced to 20 years at the notorious Blackrock Penitentiary, Great Bear Island was the end of the road for the unsavory convict, and he knew it. A cowardly man, Hobbs loved chaos. And even with a knife in his belly, he was still stirring up trouble.",,
-GAMEPLAY_know_pl_CarterDam1,"In the 1960s, a small hydroelectric dam was built on the Carter River. The project was engineered and financed by industrial magnate, Richard Carter, who intended to use power from the dam to sustain a small town he planned to build for the growing workforce across his mining empire. Unfortunately, a combination of setbacks due to seismic activity (which resulted in several deaths and forced the shutdown of one of his mines) and a drop in the price of coal and copper in the late 1960s bankrupted Carter, who abandoned the nearly completed project. In the 1980s, there were multiple attempts to modernize Carter Dam and bring it back online, but by then changes to the local climate and the hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s. Labour disputes and early eco-activism by a small group of environmentalists -- billing themsjølves the ""Forest Talkers"" -- resulted in the sudDen closure of the dam, primarily for the employee’s safety. A skeleton crew of maintenance workers were actually trapped in the Dam for days until mediators could extract them. No violence was reported, but the event served to galvanize the Forest Talkers, who felt their success in keeping Carter Dam shut down validated their continued work to protect Great Bear’s further development and exploitation.",,"På 1960-talet vart det bygd ein liten hydroelektrisk demning på Carter-elva. Prosjektet vart utvikla og finansiert av industrimagnaten Richard Carter, som hadde til hensikt å nytta demningen til å levera straum til ein liten by han hadde tenkt å byggja til den aukande arbeidsstyrken i gruveimperiet hans. Uheldigvis gjorde ein kombinasjon av tilbakeslag på grunn av seismisk aktivitet (som førte til fleire dødsfall og tvangsnedlegging av ein av Carter sine gruver) og eit fall i prisen på kol og kopar på slutten av sekstitalet at Carter gjekk konkurs og derfor skrinla det nesten ferdigstilte prosjektet. På åttitalet vart det gjort fleire forsøk på å modernisera Carter-demningen og varetake ein stabil drift, men endringar i det lokale klimaet og hydrodynamikken i Løyndomsvatnet, og dessutan aukande støtte i befolkninga til det nyleg lanserte «Løyndomsvatnet parkområde», resulterte i at Carter-demningen vart stengt for godt på slutten av 1990-talet. Bak den plutselege nedlegginga av demningen – det vart sagt at det var for å varetake arbeidarane sin sikkerheit – lå arbeidskonfliktar og tidleg økoaktivisme utført av ei lita gruppe miljøvernarar som kalte seg «Skogpratarane». Ei lita gruppe vedlikehaldsarbeidarar vart faktisk sittande fast i demningen i fleire dagar før mellommenn fekk henta dei ut. Det ble ikkje rapport om voldsbruk, men hendinga eggja Skogpratarane, som følte at suksessen med å få Carter-demningen stengt var ein bekreftelse på at arbeidet deiras med å beskytte Sværebjørn mot vidare utbygging og utnytting."
+GAMEPLAY_know_pl_CarterDam1,"In the 1960s, a small hydroelectric dam was built on the Carter River. The project was engineered and financed by industrial magnate, Richard Carter, who intended to use power from the dam to sustain a small town he planned to build for the growing workforce across his mining empire. Unfortunately, a combination of setbacks due to seismic activity (which resulted in several deaths and forced the shutdown of one of his mines) and a drop in the price of coal and copper in the late 1960s bankrupted Carter, who abandoned the nearly completed project. In the 1980s, there were multiple attempts to modernize Carter Dam and bring it back online, but by then changes to the local climate and the hydrodynamics of the Mystery Lake area, as well as external public pressure in support of the newly minted Mystery Lake Provincial Park, resulted in Carter Dam being shut down for good in the late 1990s. Labour disputes and early eco-activism by a small group of environmentalists -- billing themsjølves the ""Forest Talkers"" -- resulted in the sudDen closure of the dam, primarily for the employee’s safety. A skeleton crew of maintenance workers were actually trapped in the Dam for days until mediators could extract them. No violence was reported, but the event served to galvanize the Forest Talkers, who felt their success in keeping Carter Dam shut down validated their continued work to protect Great Bear’s further development and exploitation.",,"På 1960-talet vart det bygd ein liten hydroelektrisk demning på Carter-elva. Prosjektet vart utvikla og finansiert av industrimagnaten Richard Carter, som hadde til hensikt å nytta demningen til å levera straum til ein liten by han hadde tenkt å byggja til den aukande arbeidsstyrken i gruveimperiet hans. Uheldigvis gjorde ein kombinasjon av tilbakeslag på grunn av seismisk aktivitet (som førte til fleire dødsfall og tvangsnedlegging av ein av Carter sine gruver) og eit fall i prisen på kol og kopar på slutten av sekstitalet at Carter gjekk konkurs og derfor skrinla det nesten ferdigstilte prosjektet. På åttitalet vart det gjort fleire forsøk på å modernisera Carter-demningen og varetake ein stabil drift, men endringar i det lokale klimaet og hydrodynamikken i Løyndomsvatnet, og dessutan aukande støtte i befolkninga til det nyleg lanserte «Løyndomsvatnet parkområde», resulterte i at Carter-demningen vart stengt for godt på slutten av 1990-talet. Bak den plutselege nedlegginga av demningen – det vart sagt at det var for å varetake arbeidarane sin sikkerheit – lå arbeidskonfliktar og tidleg økoaktivisme utført av ei lita gruppe miljøvernarar som kalte seg «Skogstalarane». Ei lita gruppe vedlikehaldsarbeidarar vart faktisk sittande fast i demningen i fleire dagar før mellommenn fekk henta dei ut. Det ble ikkje rapport om voldsbruk, men hendinga eggja Skogstalarane, som følte at suksessen med å få Carter-demningen stengt var ein bekreftelse på at arbeidet deiras med å beskytte Sværebjørn mot vidare utbygging og utnytting."
 GAMEPLAY_know_pl_CarterDam1_Title,PLACE: Carter Hydro Dam,,Stad: Carter-demningen
 GAMEPLAY_know_pl_MiltonHistory1,"Founded in 1911 during the early rush to mine coal in the surrounding mountains, Milton went through a boom/bust cycle throughout the 1900s, at one point peaking at about 1000 residents. In the 2000s, it settled into the 100s, and Post-Collapse, the population has struggled to remain in the low double digits. Originally built along a supply route from the coastline leading into the interior, the old dirt path was replaced by a paved highway in 1960. It’s location about halfway between Port Mary and the interior mountains gave it a natural advantage as a convenient stopping off point for fuel and supplies for miners, loggers, mill workers, and campers from the Mainland, a dynamic that fueled the town’s growth as the Island’s economy boomed in the 1980s. However, the construction of the Great Bear Highway (AKA Highway 15) meant travellers could easily bypass Milton on their way North, which in many ways triggered the gradual decline of Milton’s importance as a gateway town.
   
@@ -7040,8 +7040,8 @@ GAMEPLAY_Total,Total,as in the total of several values added together,Totalt
 GAMEPLAY_Toughness,Toughness,,Hardførheit
 GAMEPLAY_Towel,Towel,hand towel,Handkle
 GAMEPLAY_TracksFootBridge,Rickety Foot Bridge,wooden foot bridge in Broken RailRoad region,Vinglete gongebru
-GAMEPLAY_TrailerSupplies,Forest Talker Supplies,,Skogpratarane sine forsyningar
-GAMEPLAY_TrailerSuppliesDescription,A backpack full of supplies presumably stashed here by the Forest Talkers.,,"Ein ransel full av forsyningar, sannsynlegvis lagt igjen av Skogpratarane."
+GAMEPLAY_TrailerSupplies,Forest Talker Supplies,,Skogstalarane sine forsyningar
+GAMEPLAY_TrailerSuppliesDescription,A backpack full of supplies presumably stashed here by the Forest Talkers.,,"Ein ransel full av forsyningar, sannsynlegvis lagt igjen av Skogstalarane."
 GAMEPLAY_TrainBridge,Train Bridge,,Togbru
 GAMEPLAY_TraincarInteraction01,Enter traincar,,Gå inn i vogna
 GAMEPLAY_TraincarInteraction02,Exit traincar,,Gå ut av vogna
@@ -7777,8 +7777,8 @@ GAMEPLAY_WolfMeatRaw_Mouldy,Mouldy Wolf Meat (Raw),,Mygla ulvekjøt (Rått)
 GAMEPLAY_WolfMeatRaw_Rancid,Rancid Wolf Meat (Raw),,Harskt ulvekjøt (Rått)
 GAMEPLAY_WolfMeatRaw_Ruined,Ruined Wolf Meat (Raw),,Ròte ulvekjøt (Rått)
 GAMEPLAY_WolfMeatRawDescription,Flesh from a wolf. Cook to eat safely.,,Ulvekjøt. Må steikast for å kunna etast trygt.
-GAMEPLAY_WolfMeter,Timberwolf Morale Meter,,Moralmeter vargar
-GAMEPLAY_WolfMeterDescription,Toggles the Timberwolf Morale Meter (UI) on or off. Note: Does not change Timberwolf attack behaviours.,,Vel om moralen til vargar skal visast på skjermen eller ikkje.
+GAMEPLAY_WolfMeter,Timberwolf Morale Meter,,Vargemoralmålar
+GAMEPLAY_WolfMeterDescription,Toggles the Timberwolf Morale Meter (UI) on or off. Note: Does not change Timberwolf attack behaviours.,,Vel om moralen til vargar skal visast på skjermen eller ikkje. Påverkar ikkje åtferda deira.
 GAMEPLAY_WolfPelt,Fresh Wolf Pelt,,Nyflådd ulvepels
 GAMEPLAY_WolfPeltDescription,"Freshly harvestad fur from a Wolf. Warm, and striking to look at.",,"Nyleg flådd pels frå ein ulv. Varm, og flott å sjå på."
 GAMEPLAY_WolfPeltDried,Cured Wolf Pelt,cured as in dried,Turka ulvepels
@@ -8193,25 +8193,25 @@ HINT_Landmarks_title,Landmarks,,Landemerke
 HINT_Lantern,"Lanterns are useful for casting light in dark areas, and also provide a bit of warmth when carried in-hand.",,"Lampar skin ljos i mørkeret so ein får auge på det som gøymer seg, samt varmar nevane lite grann om ein held dei."
 HINT_LayeredClothing,"Layer your Clothing{ico_inv_clothing} wisely to take advantage of different Clothing attributes such as Weight, Windproofness and Protection against wildlife.",,"Det ytste klesplagget{ico_inv_clothing} fastset vass- og vindtettleika, samt vernet, ein får. Derimot varmar alt av klede ein har på seg. Kle deg med omhug!"
 HINT_LayeredClothing_title,Layered Clothing,,Kleslag
-HINT_ListenCarefullyWolves,Wolves can often be heard before they are seen.,,Ein høyrer ofte ulvar før ein ser dei.
+HINT_ListenCarefullyWolves,Wolves can often be heard before they are seen.,,Ein høyrer ofte ulvar før ein får auge på dei.
 HINT_ListenCarefullyWolves_title,Listen Carefully,,Spiss øyra
-HINT_LoreCollapse,"Largely cut off from the Mainland since The Collapse, Great Bear Islanders became even more resourceful in their isolation.",,
-HINT_LoreEarthquakes,"Earthquakes have decimated parts of Great Bear’s infrastructure, making travel across the Island difficult and dangerous.",,
-HINT_LoreForestTalkers,"Active for decades, the Forest Talkers are fierce defenders of Great Bear Island’s ecology.",,
-HINT_LoreMining,"Now abandoned, mines were a staple of local industry on Great Bear prior to The Collapse.",,
+HINT_LoreCollapse,"Largely cut off from the Mainland since The Collapse, Great Bear Islanders became even more resourceful in their isolation.",,Etter samanbrotet vart Sværebjørn for det meste skild frå fastlandet. I øyde og einsemd vart øybuane desto meir sjølvberande.
+HINT_LoreEarthquakes,"Earthquakes have decimated parts of Great Bear’s infrastructure, making travel across the Island difficult and dangerous.",,Jordskjelv har herja med ferdselsårane på Sværebjørn og gjort det strevsamt og farleg å ferdast på øya.
+HINT_LoreForestTalkers,"Active for decades, the Forest Talkers are fierce defenders of Great Bear Island’s ecology.",,I mangfaldige tiår har Skogstalarane brunne for å verna naturlivet på Sværebjørn.
+HINT_LoreMining,"Now abandoned, mines were a staple of local industry on Great Bear prior to The Collapse.",,Dei forlatne gruvene var ein gong ryggmergen til lokalindustrien på Sværebjørn før samanbrotet.
 HINT_MaintainClothing,Keep your Clothing in good Condition or it will become Ruined.,,"Hald kleda i god stand, elles vert dei dårlegare, og til slutt øydelagde."
 HINT_MaintainClothing_title,Maintain Clothing,,Bøt klede
 HINT_MaintainTools,Using any tool reduces its Condition. Maintain tools before they break!,,Reiskap vert slitne med bruk. Vøl dei før dei vert øydelagde.
-HINT_MarshRegion,"Flat and frozen, the Muskeg is a broad marshland bisected by an old railroad line. Watch for weak ice!",,
-HINT_MeatDecoys,"Dropping decoys can distract predators, giving you enough time to escape their interest.",,
-HINT_MiltonOrigins,"Founded as a coal-mining town in 1911, Milton's story has followed the boom-and-bust of the entire Island.",,
-HINT_MiltonOrigins_title,Milton Origins,,
-HINT_Moonlight,"Use moonlight to Craft, Research, and Repair when outdoors.",,
-HINT_Moonlight_title,Moonlight,,
-HINT_Moose,"If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!",,
-HINT_Moose_title,Moose Sign,,
-HINT_MoraleMeter,"Timberwolf packs have Morale, indicated by a red meter. Timberwolf Morale can be broken by shooting or throwing things at them. Packs with broken Morale will flee, but may return once they recover.",,
-HINT_MoraleMeter_title,Timberwolf Morale,,
+HINT_MarshRegion,"Flat and frozen, the Muskeg is a broad marshland bisected by an old railroad line. Watch for weak ice!",,"Myra ligg flat og frosen, ei vid våtmark kløyvd av gamle togskinner. Trø varsamt på den tynne isen!"
+HINT_MeatDecoys,"Dropping decoys can distract predators, giving you enough time to escape their interest.",,Åte kan setja rovdyr på andre tankar og gje deg høve til å snika vekk.
+HINT_MiltonOrigins,"Founded as a coal-mining town in 1911, Milton's story has followed the boom-and-bust of the entire Island.",,"Sidan grunn­legginga i 1911, og kolgruvedriftas dagar, har Milton spegla opp- og nedgangstidene til resten av øya."
+HINT_MiltonOrigins_title,Milton Origins,,Opphavet til Milton
+HINT_Moonlight,"Use moonlight to Craft, Research, and Repair when outdoors.",,"Utandørs gjev måneskin nok ljos til laging, vøling og lesing midt på natta."
+HINT_Moonlight_title,Moonlight,,Måneskin
+HINT_Moose,"If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!",,Får ein auge på tre med avskrapa bork kan det tyda på at ein elg held til i området. Spiss øyrene!
+HINT_Moose_title,Moose Sign,,Skogens konge
+HINT_MoraleMeter,"Timberwolf packs have Morale, indicated by a red meter. Timberwolf Morale can be broken by shooting or throwing things at them. Packs with broken Morale will flee, but may return once they recover.",,"Vargeflokkar har moral, vist med ein målar på skjermen. Ein svekkar moralen deira ved å skyta eller kasta ting på vargane. Flokkar med knust moral spring vekk, men kjem attende etter å ha slikka såra."
+HINT_MoraleMeter_title,Timberwolf Morale,,Vargemoral
 HINT_MountainTownRegion,"Home to Milton, this region is now completely abandoned since the lights went out.",,
 HINT_OMBDressings,Harvest Old Man's Beard lichen to craft naturally disinfecting wound dressings.,,
 HINT_Parasites,Treat Parasites with Antibiotics or Reishi Tea and Rest.You can get Intestinal Parasites from eating certain meats.,,
@@ -10488,7 +10488,7 @@ SUBTITLE_ConditionFair5,(Needs new line recorded),,(Treng nytt opptak)
 SUBTITLE_ConditionFatigue1,If I don't rest soon I'm going to faint.,,Viss eg ikkje kviler snart kjem eg til å svime av.
 SUBTITLE_ConditionFatigue2,I think I need to lay down.,,Eg trur eg må leggja meg nedpå.
 SUBTITLE_ConditionFatigue3,I need to find a place to rest.,,Eg må finna ein kvileplass.
-SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,Eg kjem til å måtte kvile snart.
+SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,Eg er nøydd til kvile snart.
 SUBTITLE_ConditionFatigue5,I just need to close my eyes.,,Eg treng berre å lukka augene mine.
 SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,So trøtt at eg kunne lagt meg her.
 SUBTITLE_ConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan leggja meg ned og kvila litt rett her.
@@ -10528,7 +10528,7 @@ SUBTITLE_ConditionVeryHungry1,I could eat anything right now.,,Eg kunne ete kva 
 SUBTITLE_ConditionVeryHungry2,I've never been so hungry in my life.,,Eg har aldri vært so svolten før.
 SUBTITLE_ConditionVeryHungry3,All I can think about is food.,,Alt eg kan tenkja på er mat.
 SUBTITLE_ConditionVeryHungry4,I need to find food,,Eg må finna mat.
-SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Må eta snart.
+SUBTITLE_ConditionVeryHungry5,Going to need to eat soon.,,Nøydd til å eta snart.
 SUBTITLE_ConditionVeryHungry6,I could eat anything.,,Eg kunne ete kva som helst.
 SUBTITLE_ConditionVeryHungry7,I could eat a horse.,,Eg kunne ete ein hest.
 SUBTITLE_ConditionVeryHungry8,I'd eat anything right about now.,,Eg hadde ete kva som helst nett no.
@@ -10814,7 +10814,7 @@ SUBTITLE_FemaleConditionFair5,(Needs new line recorded),,(Treng nytt opptak)
 SUBTITLE_FemaleConditionFatigue1,If I don't rest soon I'm going to faint.,,Viss eg ikkje kviler snart kjem eg til å svime av.
 SUBTITLE_FemaleConditionFatigue2,I think I need to lay down.,,Eg trur eg må leggja meg nedpå.
 SUBTITLE_FemaleConditionFatigue3,I need to find a place to rest.,,Eg må finna ein kvileplass.
-SUBTITLE_FemaleConditionFatigue4,I'm going to need to rest soon.,,Eg kjem til å måtte kvile snart.
+SUBTITLE_FemaleConditionFatigue4,I'm going to need to rest soon.,,Eg er nøydd til å kvile snart.
 SUBTITLE_FemaleConditionFatigue5,Getting tired.,,Vert trøtt.
 SUBTITLE_FemaleConditionFatigueHigh1,So tired I could just lay down right here.,,Eg er so trøtt at eg kunne lagt meg her.
 SUBTITLE_FemaleConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Eg kan leggja meg ned og kvila litt rett her.
@@ -10861,7 +10861,7 @@ SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,Eg ha
 SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,Kan ein eta tre?
 SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,Alt eg kan tenkja på er mat.
 SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Eg må finna mat.
-SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,Eg er nødt til å spise snart.
+SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,Eg er nøydd til å eta snart.
 SUBTITLE_FemaleConditionVeryHungry7,I could eat anything.,,Eg kunne ete kva som helst.
 SUBTITLE_FemaleConditionVeryHungry8,I could eat a horse.,,Eg kunne ete ein hest.
 SUBTITLE_FemaleConditionVeryHungry9,I'd eat anything right about now.,,Eg hadde ete kva som helst nett no.
@@ -10933,7 +10933,7 @@ SUBTITLE_FemaleInjuredLow3,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow4,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow5,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow6,[Pain grunts],,[Smertestøn]
-SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt. "
+SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg er nøydd til å få fyrstehjelp, og det raskt. "
 SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
 SUBTITLE_FemaleInjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
 SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Smertestøn]
@@ -11106,7 +11106,7 @@ SUBTITLE_InjuredLow3,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow4,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow5,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow6,[Pain grunts],,[Smertestøn]
-SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg treng fyrstehjelp, og det raskt."
+SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg nøydd til å få fyrstehjelp, og det raskt."
 SUBTITLE_InjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
 SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
 SUBTITLE_InjuredMedium3,[Pain grunts],,[Smertestøn]
