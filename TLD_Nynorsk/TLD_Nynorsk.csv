@@ -4288,7 +4288,7 @@ GAMEPLAY_IntestinalParasitesRiskDesc,Game meat from carnivorous animals may be i
 GAMEPLAY_IntestinalParasitesRiskHasPassed,Risk of Intestinal Parasites has passed,,Du risikerar ikkje lenger å få tarmparasittar
 GAMEPLAY_IntestinalParasitesRiskIncrease,Increased Risk of Intestinal Parasites,,Auka fare for å få tarmparasittar
 GAMEPLAY_IntestinalParasitesRiskStart,At Risk for Intestinal Parasites,,Du risikerar å få tarmparasittar
-GAMEPLAY_IntestinalParasitesRiskTreatment,Avoid eating more meat from carnivores.,,Ikkje et meir kjøt frå rovdyr.
+GAMEPLAY_IntestinalParasitesRiskTreatment,Avoid eating more meat from carnivores.,,Ikkje et meir rovdyrkjøt.
 GAMEPLAY_IntroHoursEarlier,12 Hours Earlier...,,12 timar seinare...
 GAMEPLAY_InvalidLocationTooClose,Too close to another object,,For nærme ein annan ting
 GAMEPLAY_Invalidlocationtoplaceobject,Invalid location to place object,,Kan ikkje plasserast her
@@ -5215,8 +5215,8 @@ GAMEPLAY_OldManDavisKnowledge,Old Man Davis,,Gamlingen Davis
 GAMEPLAY_OldManDavisKnowledgeDescription,"Armed and paranoid, but a good man.",,"Væpna og paranoid, men ein god mann."
 GAMEPLAY_OldMansBeard,Old Man's Beard Lichen,,Strylav
 GAMEPLAY_OldMansBeardDescription,A lichen found in the ancient forests of the Pacific Northwest.,,Ein type lav som finst i dei eldgamle skogane ved stillehavskysten i nordvest.
-GAMEPLAY_OldMansBeardDressing,Old Man's Beard Wound Dressing,,Strylavsalve
-GAMEPLAY_OldMansBeardDressingDescription,En pakke vannrensetabletter. Kan førebyggja dysenteri. Med ein tablett kan du rense 1 liter forureina vann.,,Ein salve som inneheld strylav. Påførast sår for å førebyggja infeksjon.
+GAMEPLAY_OldMansBeardDressing,Old Man's Beard Wound Dressing,,Strylavforbinding
+GAMEPLAY_OldMansBeardDressingDescription,En pakke vannrensetabletter. Kan førebyggja dysenteri. Med ein tablett kan du rense 1 liter forureina vann.,,Ei forbinding av strylav. Påførast sår for å førebyggja infeksjon.
 GAMEPLAY_OldMansBeardHarvest,Harvest Old Man's Beard Lichen,,Ta strylav
 GAMEPLAY_On,On,,På
 GAMEPLAY_OneX,1x,,1x
@@ -8130,7 +8130,7 @@ HINT_CookingPlacement,"To Cook without a Pot, place raw food directly on hot sto
 HINT_CookingWarming,Drinks and Canned Food can be placed on or near a fire to warm them.,,"Drykkar og boksemat kan setjast på ei kokeplate, eller attåt eld, for å varma dei."
 HINT_CookingWarmupBuff,Eating warm Food or Drinks will give you a buffer against the cold.,,Om ein et eller drikk noko varmt held ein varmen lengre i kulda.
 HINT_CookingWarmupBuff_title,Hot Food and Drinks Warm You Up,,Varm mat og drykk varmar deg
-HINT_CraftedClothing,Clothing you make from wildlife hides can offer unique survival advantages.,,Klede ein syr av dyreskinn kan tilbyde særskilde føremonar.
+HINT_CraftedClothing,Clothing you make from wildlife hides can offer unique survival advantages.,,Klede ein syr av dyreskinn kan tilbyda særskilde føremonar.
 HINT_CraftedClothing_title,Crafting Clothing,,Sy klede
 HINT_CraftingCuringMaterials,Cure your Fresh Hides and Green Saplings indoors to Craft unique items.,,Turk nyflodd skinn og nyhogde ungtre for å laga særskilte ting.
 HINT_CraftingCuringMaterials_title,Curing Hides and Saplings,,Turk skinn og ungtre
@@ -8212,27 +8212,27 @@ HINT_Moose,"If you see trees with scratched bark, this might mean Moose are in t
 HINT_Moose_title,Moose Sign,,Skogens konge
 HINT_MoraleMeter,"Timberwolf packs have Morale, indicated by a red meter. Timberwolf Morale can be broken by shooting or throwing things at them. Packs with broken Morale will flee, but may return once they recover.",,"Vargeflokkar har moral, vist med ein målar på skjermen. Ein svekkar moralen deira ved å skyta eller kasta ting på vargane. Flokkar med knust moral spring vekk, men kjem attende etter å ha slikka såra."
 HINT_MoraleMeter_title,Timberwolf Morale,,Vargemoral
-HINT_MountainTownRegion,"Home to Milton, this region is now completely abandoned since the lights went out.",,
-HINT_OMBDressings,Harvest Old Man's Beard lichen to craft naturally disinfecting wound dressings.,,
-HINT_Parasites,Treat Parasites with Antibiotics or Reishi Tea and Rest.You can get Intestinal Parasites from eating certain meats.,,
+HINT_MountainTownRegion,"Home to Milton, this region is now completely abandoned since the lights went out.",,Her finn ein Milton. Denne regionen vart heilt forlaten etter at ljosa slokna.
+HINT_OMBDressings,Harvest Old Man's Beard lichen to craft naturally disinfecting wound dressings.,,Sank strylav som kan nyttast til å laga forbindingar som førebyggjar infeksjon naturleg.
+HINT_Parasites,Treat Parasites with Antibiotics or Reishi Tea and Rest.You can get Intestinal Parasites from eating certain meats.,,"Bli kvitt tarmparasittar med antibiotika, eller lakkjukete, og kvile. Ein kan få tarmparasittar av å eta rovdyrkjøt."
 HINT_PowerWorkers,"Power workers man the Sub Station near the Penitentiary to ensure the gates and doors stay locked at Blackrock. A lonely job, the electricians and line workers who fill the position never last long. ",,
 HINT_PowerWorkers_title,Lighting the Dark,,
-HINT_Prybar,Prybars are essential for forcing open locked doors and vehicles.,,
-HINT_PurificationTablets,Don't have a fire? Use Purification Tablets to treat Non-Potable Water no matter where you are.,,
-HINT_Quartering,"Quartering an animal carcass makes it easier to transport. But keep in mind, the quartering site may attract predators!",,
-HINT_Quartering_title,Carcass Quartering,,
-HINT_Rabbits,Rabbits are quick but plentiful on Great Bear. Use Stones to stun them for capture.,,
-HINT_RabbitSnares,"Craft and place Snares wherever you see Rabbits. Over time, the snares may catch Rabbits. Add multiple Snares to create trap-lines.",,
-HINT_RadialMenu,"Press {OpenRadial} for a quick way to access a variety of critical game actions, as well as critical status information.",,
-HINT_RadialMenu_title,Radial Menu,,
-HINT_RawMeatScent,Raw Meat and Fish give off a scent that attracts predators.,,
-HINT_RegionDifference,Remote regions of Great Bear Island offer fewer human-made shelters. Come prepared!,,
-HINT_ReishiTea,Reishi Mushroom tea makes for an effective natural antibiotic. Useful against Intestinal Parasites and Infections.,,
-HINT_ReishiTea_title,Reishi Mushrooms,,
-HINT_Revolver,"A powerful defensive weapon, you can shoot the Revolver quickly from the hip to frighten wildlife, or aim down sights for more accuracy.",,
-HINT_Revolver_title,Revolver,,
-HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You'll have a chance to take a shot and wound or kill the animal.,,
-HINT_RevolverStruggle_title,Revolver Struggle,,
+HINT_Prybar,Prybars are essential for forcing open locked doors and vehicles.,,For å opna låste dører og køyretøy treng ein eit kubein for å tvinga dei opp.
+HINT_PurificationTablets,Don't have a fire? Use Purification Tablets to treat Non-Potable Water no matter where you are.,,"Om koking av utrygt vatn ikkje let seg gjera kan ein nytta reinsetablettar for å gjera det drikkande, kvar enn ein måtte vera."
+HINT_Quartering,"Quartering an animal carcass makes it easier to transport. But keep in mind, the quartering site may attract predators!",,"Å parterar eit dyrekadaver er raskare enn å slakte heile dyret, noko som gjer at ein kjem seg av garde kjappare. Ulempa er at det vert tyngre, og ein må bruka tid på å slakta stykka ferdig."
+HINT_Quartering_title,Carcass Quartering,,Partering av kadaver
+HINT_Rabbits,Rabbits are quick but plentiful on Great Bear. Use Stones to stun them for capture.,,"Kaninar er kjappe, men talrike på Sværebjørn. Kastar ein stein på ei kanin vert ho slått i svime, nytt høve til å fanga ho."
+HINT_RabbitSnares,"Craft and place Snares wherever you see Rabbits. Over time, the snares may catch Rabbits. Add multiple Snares to create trap-lines.",,Lag og plasser snarer der ein ser kaninar. Kjem ein attende seinare har gjerne nokon av dei gått i fellene. Plasser fleire for å auka sjansane dine.
+HINT_RadialMenu,"Press {OpenRadial} for a quick way to access a variety of critical game actions, as well as critical status information.",,Trykk {OpenRadial} for å kjapt utføra vanlege oppgåver.
+HINT_RadialMenu_title,Radial Menu,,Sirkelmenyen
+HINT_RawMeatScent,Raw Meat and Fish give off a scent that attracts predators.,,"Rått kjøt og rå fisk, blant anna, gjer at rovdyr får ferten av deg. Fleire godsaker gjev frå seg ein sterkare fert."
+HINT_RegionDifference,Remote regions of Great Bear Island offer fewer human-made shelters. Come prepared!,,Dei aude regionane på Sværebjørn har færre menneskeskapte ly å tilbyda. Kom budd!
+HINT_ReishiTea,Reishi Mushroom tea makes for an effective natural antibiotic. Useful against Intestinal Parasites and Infections.,,Ein kan koka te på lakkjuker. Teen er ein natuleg og verknadsfull antibiotikakur mot infeksjonar og tarmparasittar.
+HINT_ReishiTea_title,Reishi Mushrooms,,Lakkjuker
+HINT_Revolver,"A powerful defensive weapon, you can shoot the Revolver quickly from the hip to frighten wildlife, or aim down sights for more accuracy.",,"Eit kraftig sjølvforsvarsvåpen. Skyt revolveren kjapt frå hofta for å skrema vekk dyr, eller sikt for å treffa."
+HINT_Revolver_title,Revolver,,Revolver
+HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You'll have a chance to take a shot and wound or kill the animal.,,"Nytt revolveren for å kvitta deg med ulvar som byksar på deg. Du kan ta eit skot som sårar, eller drep, udyret."
+HINT_RevolverStruggle_title,Revolver Struggle,,Ulveåtak med revolver
 HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,
 HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,
 HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,
