@@ -4566,7 +4566,7 @@ GAMEPLAY_LeavePrepperCache,Leave Prepper Cache,,Forlat førebuaren si oppbevarin
 GAMEPLAY_LeavePrison,Leave Blackrock Prison,,
 GAMEPLAY_LeavePumpHouse,Leave Pump House,,
 GAMEPLAY_LeaveRavine,Leave Ravine,,Forlat Slukta
-GAMEPLAY_LeaveRiverValley,Leave Hushed River Valley,"Refers to new game world Region, Hushed River Valley",Forlat Fåmælt juv
+GAMEPLAY_LeaveRiverValley,Leave Hushed River Valley,"Refers to new game world Region, Hushed River Valley",Forlat Fåmælt elvedal
 GAMEPLAY_LeaveSteamTunnels,Leave Steam Tunnels,,
 GAMEPLAY_LeaveStore,Leave Store,,Forlat butikk
 GAMEPLAY_LeaveSubStation,Leave Sub-Station,,
@@ -6406,7 +6406,7 @@ GAMEPLAY_Stat_DaysInMountainTownRegion,Days In Mountain Town,,Dagar i Fjellbyen
 GAMEPLAY_Stat_DaysInMysteryLake,Days In Mystery lake,,Dagar i Løyndomsvatnet
 GAMEPLAY_Stat_DaysInPleasantValley,Days in Kosedalen,,Dagar i Kosedalen
 GAMEPLAY_Stat_DaysInRailwayRegion,Days in Broken Railroad,,Dagar i Øydelagt jernbane
-GAMEPLAY_Stat_DaysInRiverValleyRegion,Days In Hushed River Valley,"Refers to new game world Region, Hushed River Valley",Dagar i Fåmælt juv
+GAMEPLAY_Stat_DaysInRiverValleyRegion,Days In Hushed River Valley,"Refers to new game world Region, Hushed River Valley",Dagar i Fåmælt elvedal
 GAMEPLAY_Stat_DaysInTransferPass,Days in Transfer Pass,,
 GAMEPLAY_Stat_DistanceTravelled,Distance Travelled <DISTANCE_KM>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Avstand ferda <DISTANCE_KM>
 GAMEPLAY_Stat_DistanceTravelledOnRope,Distance Travelled on Rope<DISTANCE_METERS>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Avstand ferda med tau <DISTANCE_METERS>
@@ -8233,16 +8233,16 @@ HINT_Revolver,"A powerful defensive weapon, you can shoot the Revolver quickly f
 HINT_Revolver_title,Revolver,,Revolver
 HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You'll have a chance to take a shot and wound or kill the animal.,,"Nytt revolveren for å kvitta deg med ulvar som byksar på deg. Du kan ta eit skot som sårar, eller drep, udyret."
 HINT_RevolverStruggle_title,Revolver Struggle,,Ulveåtak med revolver
-HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,
-HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,
-HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,
-HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,
-HINT_ScentIndicator,"Keep an eye on your Scent Indicator{ico_inv_Materials} when carrying Raw Meat or Fish, or when Bleeding. Predators can smell you, and may come looking.",,
-HINT_ScentIndicator_title,Scent Indicator,,
-HINT_ShelterIndicator,"When you see the Sheltered Indicator {ico_sheltered}, this means you are currently protected from the wind.",,
-HINT_ShelterIndicator_title,Sheltered Indicator,,
-HINT_Shivering,"When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.",,
-HINT_Shivering_title,Shivering,"Shivering, a reaction to cold weather.",
+HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,"Børsa er eit kraftig jaktvåpen, men ammunisjon er ei mangelvare! Nytt med omhug. Skot kan òg skremma vekk villdyr."
+HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,"I denne dalen står hamrane tett, og hus er ikkje å finna, men han har framleis nokre løyndommar på lur."
+HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,Plukk og klargjer nyper for å bryggja ein naturleg smertestillande te. Kjem vel med om ein vrengjer okle eller handleddet. brenn seg eller bryt bein.
+HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,"Denne utbreidde regionen har berre nokre få kjernehusrom, samt noko av det mest omskiftelege vêret på Sværebjørn."
+HINT_ScentIndicator,"Keep an eye on your Scent Indicator{ico_inv_Materials} when carrying Raw Meat or Fish, or when Bleeding. Predators can smell you, and may come looking.",,"Hald auge med fertmålaren{ico_inv_Materials} når ein ber på kjøt og fisk, eller blør. Rovdyr kan få ferten av ein og fylgjer gjerne på."
+HINT_ScentIndicator_title,Scent Indicator,,Fertmålar
+HINT_ShelterIndicator,"When you see the Sheltered Indicator {ico_sheltered}, this means you are currently protected from the wind.",,Når ein ser fylgjande merke har ein i livd for vinden: {ico_sheltered}
+HINT_ShelterIndicator_title,Sheltered Indicator,,Livdmerke
+HINT_Shivering,"When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.",,"Ein kan frysa so mykje at ein skjelv, noko som påverkar sikting med våpen."
+HINT_Shivering_title,Shivering,"Shivering, a reaction to cold weather.",Skjelving
 HINT_Slopes,Watch for a Slope Warning when traveling over steeper terrain. Your chance of Sprains is higher on steep or uneven ground.,,
 HINT_Slopes_title,Slope Warning,,
 HINT_SnowWalker,"After travelling 1000 km in the game, your Stamina bar recharges 20% faster.",,
@@ -8978,7 +8978,7 @@ SCENENAME_QuonsetGasStation,Quonset Garage,,Quonset bilverkstad
 SCENENAME_RadioControlHut,Radio Control Hut,,Radiohytte
 SCENENAME_Railway,Broken Railroad,,Øydelagt jernbane
 SCENENAME_Ravine,Ravine,,Slukt
-SCENENAME_RiverValleyRegion,Hushed River Valley,Name of new Region in the game world,Fåmælt juv
+SCENENAME_RiverValleyRegion,Hushed River Valley,Name of new Region in the game world,Fåmælt elvedal
 SCENENAME_RuralHouse,Crossroads House,name for house interiors in Kosedalen's crossroads town,Huset i vegkrysset
 SCENENAME_RuralRegion,Pleasant Valley,location name,Kosedalen
 SCENENAME_RuralStore,Rural Store,,Landhandel
