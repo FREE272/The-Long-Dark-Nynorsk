@@ -2006,7 +2006,7 @@ Kan slakte kadaver som er {frozen-threshold} frosen
 {hidegut-bonus} reduksjon i tida det tek å skjære av skinn gg innvollar"
 GAMEPLAY_CarcassHarvestingDescriptionTier1,"You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself!",,"Du har knapt slakta noko i heile ditt liv, og er nybyrjar i høgste grad, men du kan i all fall sjå forskjell på kjøt og innvollar. "
 GAMEPLAY_CarcassHarvestingDescriptionTier2,"You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting.",,"Du er vorte litt meir komfortabel med handsaminga av kadaver. Du ser kva stykke som gjev best kjøt, men du øydelegg fortsatt ein god del kjøt medan du flår."
-GAMEPLAY_CarcassHarvestingDescriptionTier3,You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat.,,"Du byrjar å kjenna dyrekadavre inn og ut. Du er rask, og du skjer av dei beste stykka utan å øydeleggja dei. Du kastar verken vekk tid eller kjøt."
+GAMEPLAY_CarcassHarvestingDescriptionTier3,You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat.,,"Du byrjar å kjenna dyrekadavre inn og ut. Du er snøgg, og du skjer av dei beste stykka utan å øydeleggja dei. Du kastar verken vekk tid eller kjøt."
 GAMEPLAY_CarcassHarvestingDescriptionTier4,You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little. ,,"Du er den reinaste kunstnaren når det gjelder å slakta kadaver. Du sikrar deg alle dei beste stykka, og du veit kva du skal gjera med dei. Særs lite går tapt."
 GAMEPLAY_CarcassHarvestingDescriptionTier5,"Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed.",,Dugleikane dine er legendariske. Kadaver ber om at det er du som skal slakta dei. Du gjer ikkje ein eineste unødvendig røyrsle. Andrimne har vorte ein god kompis.
 GAMEPLAY_CarcassTooFrozen,Carcass more than {percent} frozen (cannot use berre hands),"was: ""Carcass more than 50% frozen (cannot use berre hands)""",Kadaveret er meir enn {percent} frosen (reiskap naudsynnt)
@@ -2218,10 +2218,10 @@ Bøtetida redusert med {time-bonus}
 Tingen sin kvalitet får ei auke på {cond-bonus}
 Slitasjen på sysakene reduseras med {sewing-bonus}"
 GAMEPLAY_ClothingRepairDescriptionTier1,"You have little knowledge or skill with mending cloth items. Although you can make basic repairs, your use of a sewing kit is clumsy and slow.",,"Du har lite røynsle om og dugleikar i å bøta klede. Sjølv om du kan utføra enkle vølingar, er du treg når du syr."
-GAMEPLAY_ClothingRepairDescriptionTier2,Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily. ,,"Du er vorte betre til å sy. Du gjer færre feil, og bøtingane dine går raskare. "
-GAMEPLAY_ClothingRepairDescriptionTier3,You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare. ,,Du begynnar å verta god til å bøta klede. Du bøtar raskere og meir effektivt enn før. Du gjer sjeldent feil. 
+GAMEPLAY_ClothingRepairDescriptionTier2,Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily. ,,"Du er vorte betre til å sy. Du gjer færre feil, og bøtingane dine går snarare. "
+GAMEPLAY_ClothingRepairDescriptionTier3,You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare. ,,Du begynnar å verta god til å bøta klede. Du bøtar snarere og meir effektivt enn før. Du gjer sjeldent feil. 
 GAMEPLAY_ClothingRepairDescriptionTier4,An expert with a needle and thread. Your sewing skills allow you to keep your clothing in top condition using less time and less resources than before.,,"Du er vorte ein ekspert med nål og tråd. Med dei nye dugleikane dine kan du halde kleda dine i god stand, og du nyttar kortare tid og færre ressursar enn før."
-GAMEPLAY_ClothingRepairDescriptionTier5,"You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease.",,"Du har meistra bruken av nål og tråd. Du er rask og effektiv, og du bøtar klede utan vanskar. Viss bestemor hadde sett deg hadde ho vert stolt."
+GAMEPLAY_ClothingRepairDescriptionTier5,"You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease.",,"Du har meistra bruken av nål og tråd. Du er snøgg og effektiv, og du bøtar klede utan vanskar. Viss bestemor hadde sett deg hadde ho vert stolt."
 GAMEPLAY_ClothingStatLegend,Legend,refers to a special legend screen where icon meanings are explained,Teiknforkåring
 GAMEPLAY_ClothingWarmthBonus,Clothing Warmth Bonus,,Varmebonus frå klær
 GAMEPLAY_ClothingWindchillBonus,Clothing Windchill Bonus,,Vindfaktorbonus frå klær
@@ -2742,12 +2742,12 @@ GAMEPLAY_DamageEventLaceration,Laceration,,Flengje
 GAMEPLAY_DamageEventMajorBruising,Major Bruising,,Svært blåmerke
 GAMEPLAY_DamageEventMinorBruising,Minor Bruising,,Lite blåmerke
 GAMEPLAY_DamageEventRippedClothing,Clothing,,Klede
-GAMEPLAY_DamageEventRiskOfInfection,Infection Risk,,Infeksjonsrisiko
+GAMEPLAY_DamageEventRiskOfInfection,Infection Risk,,Infeksjonsvågnad
 GAMEPLAY_DamageEventSprainedAnkle,Sprained Ankle,,Vrengde okle
 GAMEPLAY_DamageEventSprainedWrist,Sprained Wrist,,Vrengde handledd
 GAMEPLAY_DamCollectible1,Carter Hydro Dam -- Safety & Shutdown Notice,,Carter-demningen: Tryggleik og stenging notat
 GAMEPLAY_DamCollectible1Description,"Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible.",,"Eit notat som ser offisielt ut, skriven på Carter-demningen sitt brevpapir. Brevet er skada, og nokon av orda er vanskelege å tyda. Brevet er datert ein eller annen gong på nittitalet, men den eksakte datoen er uleseleg."
-GAMEPLAY_DamCollectible1DescriptionNarrativeText,"""I'm sure this will come as no surprise to you, but ever since seismic activity on the Island has become such an issue, it's been almost impossible to run Carter Dam profitably. Besides that, the recent eco-activism -- or, let's call it what it is: terrorism -- has introduce new risks that have brought plant and worker safety into question. Therefore, I'm sad to report that after years of trying to modernize Carter Dam, and after the failed attempts of its original creator, the eponymous Richard Carter, it's finally time for me to also admit defeat, as he did those decades ago. No ambition of mine justifies putting your lives in danger. All workers will be transported out as soon as we can guarantee your safety. In the mean time, please keep an eye out for any suspicous activity in or around the Dam -- the so-called ""Forest Talkers"" are still active in the area. Thank you for your dedication to the cause. Yours truly, Robert Clarke, CEO, Carter Hydro Energy.""",,"Dette vil sikkert ikkje koma som ein overraskelse, men heilt sidan den seismiske aktiviteten på øya begynte å verta eit problem, har det nesten vert umogleg å drive Carter-demningen med profitt. Miljøvernaktivistmen har i seinare tid – forresten, lat oss kalla det for det det er: «terrorisme» – ført med seg nye fareelement som er ein trussel mot tryggleika til verket og arbeidarane her. Derfor må eg dessverre dela at eg òg, etter å ha streva i mange år med å modernisera Carter-demningen etter dei mislukka forsøka til den opprinnelege eigaren, Richard Carter, som ga demningen sitt namn, omsider er naudt til å innrømma nederlag, slik som Carter gjorde flere tiår sidan. Ingen av mine ambisjonar rettferdiggjer å settja dykkar liv i fare. Alle arbeidarar vil verta transportert ut so snart me kan garantera for tryggleika. I mellomtida må de sjå opp for mistenkeleg aktivitet i og rundt demningen. De såkalte Skogstalarane er fortsatt aktive i området. Takk for innsatsen for saken. Mvh. Robert Clarke, administrerende direktør i Carter vasskraft."
+GAMEPLAY_DamCollectible1DescriptionNarrativeText,"""I'm sure this will come as no surprise to you, but ever since seismic activity on the Island has become such an issue, it's been almost impossible to run Carter Dam profitably. Besides that, the recent eco-activism -- or, let's call it what it is: terrorism -- has introduce new risks that have brought plant and worker safety into question. Therefore, I'm sad to report that after years of trying to modernize Carter Dam, and after the failed attempts of its original creator, the eponymous Richard Carter, it's finally time for me to also admit defeat, as he did those decades ago. No ambition of mine justifies putting your lives in danger. All workers will be transported out as soon as we can guarantee your safety. In the mean time, please keep an eye out for any suspicous activity in or around the Dam -- the so-called ""Forest Talkers"" are still active in the area. Thank you for your dedication to the cause. Yours truly, Robert Clarke, CEO, Carter Hydro Energy.""",,"Dette vil sikkert ikkje koma som ein overraskelse, men heilt sidan den seismiske aktiviteten på øya begynte å verta eit problem, har det nesten vert umogleg å drive Carter-demningen med profitt. Miljøvernaktivistmen har i seinare tid – forresten, lat oss kalla det for det det er: «terrorisme» – ført med seg nye fareelement som er ein trussel mot tryggleika til verket og arbeidarane her. Derfor må eg dessverre dela at eg òg, etter å ha streva i mange år med å modernisera Carter-demningen etter dei mislukka forsøka til den opprinnelege eigaren, Richard Carter, som gav demningen sitt namn, omsider er naudt til å innrømma nederlag, slik som Carter gjorde flere tiår sidan. Ingen av mine ambisjonar rettferdiggjer å settja dykkar liv i fare. Alle arbeidarar vil verta transportert ut so snart me kan garantera for tryggleika. I mellomtida må de sjå opp for mistenkeleg aktivitet i og rundt demningen. De såkalte Skogstalarane er fortsatt aktive i området. Takk for innsatsen for saken. Mvh. Robert Clarke, administrerende direktør i Carter Vasskraft."
 GAMEPLAY_DamFenceKey,Carter Hydro Staging Area Gate Key,,Portnykel til transittområde ved Carter-demningen
 GAMEPLAY_DamFenceKeyDescription,Key for the gate in the fence surrounding the Carter Hydro Dam staging area.,A key for the fence gate outside the Dam,Nykel til porten i gjerdet rundt transittområde ved Carter-demningen.
 GAMEPLAY_DamGarbageLetter,Trash Can Letter,,Bosdunkbrev
@@ -2996,7 +2996,7 @@ GAMEPLAY_Detonator_Desc,A satchel full of old blasting caps. Miners use them to 
 GAMEPLAY_DevDiary,Dev Diary,,
 GAMEPLAY_DevMessageCrunch,"Made without crunch by people who care about their players, at a studio that cares about its people.",,
 GAMEPLAY_DiabeticShockRiskCause,Type 1 Diabetes,,Sukkersjuke type 1
-GAMEPLAY_DiabeticShockRiskDisplayName,Hyperglycemic Risk,,Risiko for diabeteskoma
+GAMEPLAY_DiabeticShockRiskDisplayName,Hyperglycemic Risk,,Diabeteskomavågnad
 GAMEPLAY_DiabeticShockRiskTreatment,Insulin,,Insulin
 GAMEPLAY_DiabeticShockRiskTreatmentDescription,Needs Insulin,,Treng insulin
 GAMEPLAY_Diagnose,Diagnose,,Diagnose
@@ -3389,7 +3389,7 @@ GAMEPLAY_Feat_NightWalkerDescription,"You've collected 6 Escape the Darkwalker D
 GAMEPLAY_Feat_NightWalkerDescription_short,You've collected 6 Escape the Darkwalker Diary Pages in a single game.,"UI label, Do not translate «Escape the Darkwalker»",
 GAMEPLAY_Feat_SnowWalker,Snow Walker,,Snømannen
 GAMEPLAY_Feat_SnowWalker_benefit,Your Stamina bar recharges {bonus} faster.,,
-GAMEPLAY_Feat_SnowWalkerDescription,You've travelled {distance} in the game. Your Stamina bar recharges {bonus} faster.,,Du har gått {distance} i spelet. Trottlinja fyllast {bonus} raskare.
+GAMEPLAY_Feat_SnowWalkerDescription,You've travelled {distance} in the game. Your Stamina bar recharges {bonus} faster.,,Du har gått {distance}. Trottmålaren fyllast {bonus} snarare.
 GAMEPLAY_Feat_SnowWalkerDescription_short,You've travelled {distance} in the game.,,
 GAMEPLAY_FeatBlizzardWalker,Blizzard Walker,,
 GAMEPLAY_FeatBlizzardWalker_benefit,Speed reduction for walking into wind reduced by {bonus}.,,
@@ -3471,13 +3471,13 @@ GAMEPLAY_FirestartingBenefitsTier5,"{roll-bonus}% Chance to Start Fires
 Fires start {speed-bonus} faster
 Fires last {duration-bonus} longer
 Can start fires without Tinder",,"{roll-bonus} % sjanse for å kveike eld
-Det går {speed-bonus} raskare å kveike eld
+Det går {speed-bonus} snarare å kveike eld
 Elden varar {duration-bonus} lenger
 Kan kveike eld utan knusk"
 GAMEPLAY_FirestartingDescriptionTier1,"You have no special knowledge or skill at starting fires, yet.",,Du har ingen spesiell lærdom eller dugleikar i å kveike eld.
-GAMEPLAY_FirestartingDescriptionTier2,You're quite good at starting fires now. Your fires start better and they last longer.,,Du er ganske flink til å tenne eld no. ElDen din startar raskare og varar lenger.
+GAMEPLAY_FirestartingDescriptionTier2,You're quite good at starting fires now. Your fires start better and they last longer.,,Du er ganske flink til å tenne eld no. Elden din startar snarare og varar lenger.
 GAMEPLAY_FirestartingDescriptionTier3,You have well above-average experience in starting fires now. You're becoming very capable.,,Du har over gjennomsnittlig røynsle i å kveike eld. Du held på å verta veldig flink.
-GAMEPLAY_FirestartingDescriptionTier4,Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins.,,Ikkje mange kan dette lika godt som deg. ElDen din starter raskare og varar lenger. Du er eit naturtalent.
+GAMEPLAY_FirestartingDescriptionTier4,Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins.,,Ikkje mange kan dette lika godt som deg. Elden din starter snarare og varar lenger. Du er eit naturtalent.
 GAMEPLAY_FirestartingDescriptionTier5,You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer.,,Det gneistar av fingertuppane dine. Dugleikane dine er legendariske. Du har vorte god ven med Surt.
 GAMEPLAY_Firestriker,Firestriker,,Tennstål
 GAMEPLAY_FirestrikerDescription,Metal tool designed to help start fires in the wilderness.,,Metallreiskap som påliteleg lagar gneistar. Nyttast til å starte eld.
@@ -4185,8 +4185,8 @@ FisketiDen redusert med {time-bonus}
 GAMEPLAY_IceFishingDescriptionTier1,You don't really know what you're doing yet. You know which end of the line the hook goes on.,,"Du veit fortsatt ikkje heilt kva du driv med. Du veit kva ende av lina du skal festa kroken, men ikkje mykje mer."
 GAMEPLAY_IceFishingDescriptionTier2,"You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line.",,"Du begynnar å verta vant til å fiska om vinteren. Du er flinkare med fiskeutstyret, og du har begynt å forstå når du har fisk på kroken."
 GAMEPLAY_IceFishingDescriptionTier3,"You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour.",,"Du er ikkje so verst til å fiska på isen. Lina ryk nesten aldri, og du får fleire fiskar."
-GAMEPLAY_IceFishingDescriptionTier4,"You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too!",,"Du er særs dyktig til å fiska på isen. Du får fisk oftare og raskare, og av ein eller annen grunn er fiskane større òg!"
-GAMEPLAY_IceFishingDescriptionTier5,"You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time.",,"Du er kongen over isfiskarane. Fisken kjem omtrent sprettande ut av vatnet når holet vert laga. Du får fisk oftare og raskare, og når du før dei er dei større. Njord er dessutan vorte ein god ven."
+GAMEPLAY_IceFishingDescriptionTier4,"You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too!",,"Du er særs dyktig til å fiska på isen. Du får fisk oftare og snarare, og av ein eller annen grunn er fiskane større òg!"
+GAMEPLAY_IceFishingDescriptionTier5,"You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time.",,"Du er kongen over isfiskarane. Fisken kjem omtrent sprettande ut av vatnet når holet vert laga. Du får fisk oftare og snarare, og når du før dei er dei større. Njord er dessutan vorte ein god ven."
 GAMEPLAY_IceFishingHole,Ice Fishing Hole,,Frose isfiskehol
 GAMEPLAY_IceFishingHoleCleared,Ice Fishing Hole (Cleared),,Isfiskehol
 GAMEPLAY_IceFishingHoleMustBeBuiltOnIce,Ice Fishing Hole Requires Ice,,Isfiskehol krev is
@@ -4215,7 +4215,7 @@ GAMEPLAY_InedibleBurnedDebris,Inedible Burned Stuff,,Uetande svidde greier
 GAMEPLAY_Infection,Infection,,Infeksjon
 GAMEPLAY_InfectionCleared,Infection Cleared,,Infeksjon lega
 GAMEPLAY_InfectionDescription,You have an infection that could kill you if left untreated.,,Du har ein infeksjon som kan ta livet av deg om den ikkje vert behandla.
-GAMEPLAY_InfectionRisk,Infection Risk,,Infeksjonsrisiko
+GAMEPLAY_InfectionRisk,Infection Risk,,Infeksjonsvågnad
 GAMEPLAY_InfectionRiskDescription,You sustained a wound that could result in infection if left untreated.,,Du har pådrege deg eit sår som kan føra til infeksjon viss det ikkje vert behandla.
 GAMEPLAY_InfectionRiskHUD,At risk for infected wound,,Fare for sårinfeksjon
 GAMEPLAY_InfectionRiskLog,At risk for infected wound.,,Fare for sårinfeksjon.
@@ -5028,7 +5028,7 @@ GAMEPLAY_MuklukBoots_Mint,New Mukluks,,Nye kamikker
 GAMEPLAY_MuklukBoots_Ragged,Ragged Mukluks,,Fillete kamikker
 GAMEPLAY_MuklukBoots_Ruined,Ruined Mukluks,,Unyttande kamikker
 GAMEPLAY_MuklukBoots_Worn,Worn Mukluks,,Velbrukte kamikker
-GAMEPLAY_MuklukBootsDescription,Manufactured boot inspired by the traditional hunter's footwear. designed for mobility and warmth using leather and fur. You can stay warm and move quickly.,,"Fabrikklaga sko inspirert av det tradisjonelle jegerfottøyet. Laga av skinn og pels, laga for å ha god rørsleevne og varme. Du held deg varm og kan bevega deg raskt."
+GAMEPLAY_MuklukBootsDescription,Manufactured boot inspired by the traditional hunter's footwear. designed for mobility and warmth using leather and fur. You can stay warm and move quickly.,,"Fabrikklaga sko inspirert av det tradisjonelle jegerfottøyet. Laga av skinn og pels, laga for å ha god rørsleevne og varme. Du held deg varm og kan bevega deg snøgt."
 GAMEPLAY_Music,Music,,Musikk
 GAMEPLAY_MusicDescription,In-game music.,Options Menu volume sliders,Musikk i frå spelet.
 GAMEPLAY_MysteryLake,Mystery Lake,,Løyndomsvatnet
@@ -6332,27 +6332,27 @@ GAMEPLAY_SouthWest,South West,,Sørvest
 GAMEPLAY_Spacebar,Space,,Mellomrom
 GAMEPLAY_SpearHead,Spear Head,,Sjutspiss
 GAMEPLAY_SpearHeadDescription,"The business end of a Bear Spear. Rough-hammered, but effective. Crafted from Scrap Metal.",,Vert nok til eit sabla godt bjørnespjut om ein set det på enden av eit løneskaft.
-GAMEPLAY_SpecialRecipe,Unique Recipe,,
+GAMEPLAY_SpecialRecipe,Unique Recipe,,Makelaus oppskrift
 GAMEPLAY_Spend,Spend,"as in ""spend X hours"" doing something",Nytt
 GAMEPLAY_SprainedAnkle,Sprained Ankle,,Vrengt okle
-GAMEPLAY_SprainedAnkleDescription,"You have twistad your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,"Du har tråkka over og vrengt okle. Rørsleevna di vil vera redusert til du behandlar skaden, eller han lækjer av seg sjølv."
+GAMEPLAY_SprainedAnkleDescription,"You have twistad your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,"Du har tråkka over og vrengt okla. Rørsleevna di vil vera redusert til du behandlar skaden, eller han lækjer av seg sjølv."
 GAMEPLAY_SprainedAnkleHealed,Sprained Ankle Healed,,Vrengt okle lækt
-GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,Du har vrengt okle
-GAMEPLAY_SprainedAnkleLog,Sprained ankle.,,Vrengde okle.
+GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,Vrengde ei okle
+GAMEPLAY_SprainedAnkleLog,Sprained ankle.,,Vrengde okla.
 GAMEPLAY_SprainedWrist,Sprained Wrist,,Vrengt handledd
 GAMEPLAY_SprainedWristCannotHold2HandedWeapon,You cannot equip a two-handed weapon while you have a sprained wrist.,,Du kan ikkje nytta tohandsvåpen med vrengt handledd.
 GAMEPLAY_SprainedWristCannotHoldWeapon,You cannot equip a weapon while you have a sprained wrist.,,Du kan ikkje nytta våpen med vrengt handledd.
 GAMEPLAY_SprainedWristDescription,"You have sprained your wrist. You will not be able to hald weapons until you treat it, or it heals over time.",,"Du har vrengt handleddet. Du kan ikkje halde våpen før du behandlar skaden, eller han lækjer av seg sjølv."
 GAMEPLAY_SprainedWristHealed,Sprained wrist healed,,Vrengt handledd lækt
-GAMEPLAY_SprainedWristHUD,Suffered a sprained wrist,,Du har vrengt handleddet
-GAMEPLAY_SprainedWristLog,Sprained wrist,,Vrengde handledd
+GAMEPLAY_SprainedWristHUD,Suffered a sprained wrist,,Vrengde eit handledd
+GAMEPLAY_SprainedWristLog,Sprained wrist,,Vrengde handleddet.
 GAMEPLAY_SprainedWristMajor,Plane Crash Injuries,,Skadar etter flystyrten
 GAMEPLAY_SprainedWristMajorDescription,"After the plane crash you are concussed, badly briused and feeling weak. Your neve was wounded during the crash. You will not be able to climb or hald weapons until it heals through rest.",,"Etter flystyrten har du hjernerystelse, du har slått deg kraftig og kjennar deg svak. Handa di vart skada i krasjet. Du kan ikkje klyve eller halde våpen før skaden lækjast. Det vil hjelpe å ta seg ein kvil."
 GAMEPLAY_SprainPain,Pain,,Verk
 GAMEPLAY_SprainPainDesc,"You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.",,Skada di verkar noko som fører til uklårt syn og ubehag. Læk det eller la det gå over.
-GAMEPLAY_SprainRisk,Sprain Risk,,Vrengjerisiko
+GAMEPLAY_SprainRisk,Sprain Risk,,Vrengjevågnad
 GAMEPLAY_SprainRiskDesc,"You are Exhausted or Encumbered, and at higher risk for a Sprain when traversing sloped ground.",,Du er sleten eller nedtyngja og har derfor ein større sjanse for å vrengje okler og handledd når du går i bakkar.
-GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller skilje deg av med noko for å kvitta deg med vrengjerisikoen.
+GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller skilje deg av med noko for å kvitta deg med vrengjevågnaden.
 GAMEPLAY_SprayNotMapped,This shape is not shown on the map when sprayed,,
 GAMEPLAY_SprayPaint,Spray Paint,,
 GAMEPLAY_SprayPaintDescription,A can of Spray Paint. Can be used to leave signs and markers in the environment.,,
@@ -7183,11 +7183,11 @@ GAMEPLAY_tutorialEp4Ending,"Make sure you have completed all other missions and 
 This is the point of no return.",,
 GAMEPLAY_tutorialEp4Ending_short,Complete all tasks before returning to the Prison,,
 GAMEPLAY_tutorialEp4Ending_Title,Point of No Return,,
-GAMEPLAY_tutorialFire1,"Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire can be used to Cook and Boil Water, as well as keeping you from freezing to death.","Modified July 17th, 2017","Vel leibål frå sirkelmenyen. Du treng fyrtøy, knusk og brensel. Tennvæske gjer det raskare å laga eld. Elden sin levetid og varmeproduksjon er avhengig av kva du nyttar til å fyre med. Eld kan nyttast til å laga mat og koke vatn, og den hindrar dessutan at du frys i hel."
+GAMEPLAY_tutorialFire1,"Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire can be used to Cook and Boil Water, as well as keeping you from freezing to death.","Modified July 17th, 2017","Vel leibål frå sirkelmenyen. Du treng fyrtøy, knusk og brensel. Tennvæske gjer det snarare å laga eld. Elden sin levetid og varmeproduksjon er avhengig av kva du nyttar til å fyre med. Eld kan nyttast til å laga mat og koke vatn, og den hindrar dessutan at du frys i hel."
 GAMEPLAY_tutorialFire1_short,"Use Fires to Melt snow, Cook food, and keep from freezing to death.",,
 GAMEPLAY_tutorialFire1_Summary,"Fire Provides Heat, Water, Food, Protection","Modified July 19th, 2017","Eld gjev varme, vatn, mat og vern."
 GAMEPLAY_tutorialFire1_Title,Fire,"Modified July 19th, 2017",Eld
-GAMEPLAY_tutorialFirstAid,There are many ways to die in the wilderness. Medical treatments -- man-made or harvestad from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.,,"Vel leibål frå sirkelmenyen. Du treng fyrtøy, knusk og brensel. Tennvæske gjer det raskare å laga eld. Elden sin levetid og varmeproduksjon er avhengig av kva du nyttar til å fyre med. Eld kan nyttast til å laga mat og koke vatn, og den hindrar dessutan at du frys i hel."
+GAMEPLAY_tutorialFirstAid,There are many ways to die in the wilderness. Medical treatments -- man-made or harvestad from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.,,"Vel leibål frå sirkelmenyen. Du treng fyrtøy, knusk og brensel. Tennvæske gjer det snarare å laga eld. Elden sin levetid og varmeproduksjon er avhengig av kva du nyttar til å fyre med. Eld kan nyttast til å laga mat og koke vatn, og den hindrar dessutan at du frys i hel."
 GAMEPLAY_tutorialFirstAid_short,Apply First Aid treatments through the Radial Menu.,,
 GAMEPLAY_tutorialFirstAid_Summary,Study Your Treatments and Learn to Triage,"Modified July 19th, 2017",Studer behandlingsmetodar og lær deg å prioritera skadar.
 GAMEPLAY_tutorialFirstAid_Title,First Aid,,Fyrstehjelp
@@ -8182,8 +8182,8 @@ HINT_IceFishing,Use a Tool to break the ice hole in an Ice Fishing hut. It will 
 HINT_IceFishing_title,Ice Fishing,,Isfiske
 HINT_ImprovisedClothing,"As a last resort, Craft Improvised Head and Hand Wraps to protect yourself from weather and wildlife.",,Som ein siste utveg kan ein laga provisoriske hovudplagg og vottar til å verna ein mot vêr og vind.
 HINT_ImprovisedClothing_title,Improvised Clothing,,Provisoriske klede
-HINT_InfectionRisk,Antiseptic helps treat Infection Risk resulting from Struggles with Great Bear Island predators.,,Får ein sår av villdyr som gjekk til åtak på ein vil antiseptikum fjerna risikoen for infeksjon.
-HINT_InfectionRisk_title,Infection Risk,,Infeksjonsrisiko
+HINT_InfectionRisk,Antiseptic helps treat Infection Risk resulting from Struggles with Great Bear Island predators.,,Får ein sår av villdyr som gjekk til åtak på ein vil antiseptikum fjerna infeksjonsvågnaden.
+HINT_InfectionRisk_title,Infection Risk,,Infeksjonsvågnad
 HINT_Infections,"Infections can be deadly. Treat with Antibiotics or Reishi Tea, and Rest.",,"Infeksjonar kan vera døyelege. Læk med antibiotika eller lakkjukete, samt kvile."
 HINT_JailersResidence,"Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed. ",,
 HINT_JailersResidence_title,Jailer's Residence,,
@@ -8219,7 +8219,7 @@ HINT_PowerWorkers,"Power workers man the Sub Station near the Penitentiary to en
 HINT_PowerWorkers_title,Lighting the Dark,,
 HINT_Prybar,Prybars are essential for forcing open locked doors and vehicles.,,For å opna låste dører og køyretøy treng ein eit kubein for å tvinga dei opp.
 HINT_PurificationTablets,Don't have a fire? Use Purification Tablets to treat Non-Potable Water no matter where you are.,,"Om koking av utrygt vatn ikkje let seg gjera kan ein nytta reinsetablettar for å gjera det drikkande, kvar enn ein måtte vera."
-HINT_Quartering,"Quartering an animal carcass makes it easier to transport. But keep in mind, the quartering site may attract predators!",,"Å parterar eit dyrekadaver er raskare enn å slakte heile dyret, noko som gjer at ein kjem seg av garde kjappare. Ulempa er at det vert tyngre, og ein må bruka tid på å slakta stykka ferdig."
+HINT_Quartering,"Quartering an animal carcass makes it easier to transport. But keep in mind, the quartering site may attract predators!",,"Å parterar eit dyrekadaver er snarare enn å slakte heile dyret, noko som gjer at ein kjem seg av garde kjappare. Ulempa er at det vert tyngre, og ein må bruka tid på å slakta stykka ferdig."
 HINT_Quartering_title,Carcass Quartering,,Partering av kadaver
 HINT_Rabbits,Rabbits are quick but plentiful on Great Bear. Use Stones to stun them for capture.,,"Kaninar er kjappe, men talrike på Sværebjørn. Kastar ein stein på ei kanin vert ho slått i svime, nytt høve til å fanga ho."
 HINT_RabbitSnares,"Craft and place Snares wherever you see Rabbits. Over time, the snares may catch Rabbits. Add multiple Snares to create trap-lines.",,Lag og plasser snarer der ein ser kaninar. Kjem ein attende seinare har gjerne nokon av dei gått i fellene. Plasser fleire for å auka sjansane dine.
@@ -8235,7 +8235,7 @@ HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You
 HINT_RevolverStruggle_title,Revolver Struggle,,Ulveåtak med revolver
 HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,"Børsa er eit kraftig jaktvåpen, men ammunisjon er ei mangelvare! Nytt med omhug. Skot kan òg skremma vekk villdyr."
 HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,"I denne dalen står hamrane tett, og hus er ikkje å finna, men han har framleis nokre løyndommar på lur."
-HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,Plukk og klargjer nyper for å bryggja ein naturleg smertestillande te. Kjem vel med om ein vrengjer okle eller handleddet. brenn seg eller bryt bein.
+HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,Plukk og klargjer nyper for å bryggja ein naturleg smertestillande te. Kjem vel med om ein vrengjer okla eller handleddet. brenn seg eller bryt bein.
 HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,"Denne utbreidde regionen har berre nokre få kjernehusrom, samt noko av det mest omskiftelege vêret på Sværebjørn."
 HINT_ScentIndicator,"Keep an eye on your Scent Indicator{ico_inv_Materials} when carrying Raw Meat or Fish, or when Bleeding. Predators can smell you, and may come looking.",,"Hald auge med fertmålaren{ico_inv_Materials} når ein ber på kjøt og fisk, eller blør. Rovdyr kan få ferten av ein og fylgjer gjerne på."
 HINT_ScentIndicator_title,Scent Indicator,,Fertmålar
@@ -8243,15 +8243,15 @@ HINT_ShelterIndicator,"When you see the Sheltered Indicator {ico_sheltered}, thi
 HINT_ShelterIndicator_title,Sheltered Indicator,,Livdmerke
 HINT_Shivering,"When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.",,"Ein kan frysa so mykje at ein skjelv, noko som påverkar sikting med våpen."
 HINT_Shivering_title,Shivering,"Shivering, a reaction to cold weather.",Skjelving
-HINT_Slopes,Watch for a Slope Warning when traveling over steeper terrain. Your chance of Sprains is higher on steep or uneven ground.,,
-HINT_Slopes_title,Slope Warning,,
-HINT_SnowWalker,"After travelling 1000 km in the game, your Stamina bar recharges 20% faster.",,
-HINT_SprainPain,"Pain causes blurred vision and discomfort. Treat it, or let it heal on its own over time.",,
-HINT_SprainPain_title,Pain,,
-HINT_SprainRisk,If Encumbered or Exhausted you are at risk for a Sprain on sloped ground. Drop gear or Rest to eliminate the Risk.,,
-HINT_SprainRisk_title,Sprain Risk,,
-HINT_Sprains,Sprained ankles and wrists affect movement and the ability to use certain Tools. Treat with Painkillers or Rest.,,
-HINT_Stags,"Skittish creatures, but a great source of Meat and valuable Crafting materials.",,
+HINT_Slopes,Watch for a Slope Warning when traveling over steeper terrain. Your chance of Sprains is higher on steep or uneven ground.,,Hald augne opne for bakkevarselet når ein går i bratte bakkar. Ein står i fare for å vrengja noko når ein går i ulendt og bratt lende.
+HINT_Slopes_title,Slope Warning,,Bakkevarsel
+HINT_SnowWalker,"After travelling 1000 km in the game, your Stamina bar recharges 20% faster.",,Etter ein har ferdast 1000 km vil trottmålaren fyllast 20% snarare.
+HINT_SprainPain,"Pain causes blurred vision and discomfort. Treat it, or let it heal on its own over time.",,"Smerte fører til uklårt syn og uhugnad. Nytt smertestillande, eller vent til det går over."
+HINT_SprainPain_title,Pain,,Smerte
+HINT_SprainRisk,If Encumbered or Exhausted you are at risk for a Sprain on sloped ground. Drop gear or Rest to eliminate the Risk.,,Dersom ein er nedtyngd eller sleten er det større vågnad for å vrengje noko i bratte bakkar. Gje slepp på noko utstyr eller kvil for å bli kvitt vågnaden.
+HINT_SprainRisk_title,Sprain Risk,,Vrengjevågnad
+HINT_Sprains,Sprained ankles and wrists affect movement and the ability to use certain Tools. Treat with Painkillers or Rest.,,Vrengde okler og handledd påverkar rørsleevna eins og kva reiskap ein kan nytta. Læk med bandasjar eller kvile. Smertestillande kjem òg vel med.
+HINT_Stags,"Skittish creatures, but a great source of Meat and valuable Crafting materials.",,"Lettskremde skapningar. Dei er ei god kjelde til kjøt, samt skinn og tarmar som kan nyttast til å laga klede, med meir."
 HINT_Starving,"Starving is a slow and steady path to Condition loss. Eat enough to stay healthy, or your weakened condition can lead down many paths to death.",,
 HINT_Stones,Use the small Stones you find on the ground to hunt Rabbits.,,
 HINT_StormFuel,Blizzards and high winds can knock loose Sticks or drop tree Limbs which you can then Harvest later.,,
@@ -9695,7 +9695,7 @@ STORY_jnl_FindMeds_Desc,"The old trapper is badly injured after a bear attack, a
 STORY_jnl_FindMeds_Obj1,"Find, and enter the abandoned Dam.",,Finn og gå inn i den etterlata demningen.
 STORY_jnl_FindMeds_Obj2,Search for medical supplies that can help the old trapper.,,Leit etter medisiner som kan hjelpe den gamle pelsjegeren.
 STORY_jnl_FindMeds_Obj3,Get the meds back to the trapper before he dies.,,Få medisinane attende til pelsjegeren før han døyr.
-STORY_jnl_FindMeds_Title,Risk of Infection,,Infeksjonsrisiko
+STORY_jnl_FindMeds_Title,Risk of Infection,,Infeksjonsvågnad
 STORY_jnl_FindRifle_Desc,"Jeremiah is convinced the Old Bear will be back. But his rifle broke in the first encounter, leaving you both defenseless. Do whatever you need to do to repair his rifle.",,"Jeremiah er sikker på at Gamlebjørn vil koma attende. Men børsa hans vart øydelagt sist han møtte på bjørnen, so de er begge forsvarslause. Vøl børsa hans."
 STORY_jnl_FindRifle_Obj1,Find the Railway Maintenance Yard and get into the repair shed.,,Finn jernbanen sitt verkstadområde og gå inn i maskinverkstaden.
 STORY_jnl_FindRifle_Obj2,Use the hand-driven Milling Machine to repair Jeremiah's rifle.,,Nytt den handdrivne fresemaskinen til å vøle Jeremiah si børse.
@@ -10933,7 +10933,7 @@ SUBTITLE_FemaleInjuredLow3,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow4,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow5,[Pain grunts],,[Smertestøn]
 SUBTITLE_FemaleInjuredLow6,[Pain grunts],,[Smertestøn]
-SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg er nøydd til å få fyrstehjelp, og det raskt. "
+SUBTITLE_FemaleInjuredLow7,"I'm going to need some first aid, soon. ",,"Eg er nøydd til å få fyrstehjelp, og det snart. "
 SUBTITLE_FemaleInjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
 SUBTITLE_FemaleInjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
 SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Smertestøn]
@@ -11106,7 +11106,7 @@ SUBTITLE_InjuredLow3,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow4,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow5,[Pain grunts],,[Smertestøn]
 SUBTITLE_InjuredLow6,[Pain grunts],,[Smertestøn]
-SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg nøydd til å få fyrstehjelp, og det raskt."
+SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,"Eg nøydd til å få fyrstehjelp, og det snart."
 SUBTITLE_InjuredMedium1,Damn...that hurts.,,Fy søren... det gjer vondt.
 SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,Åh... det gjer veldig vondt.
 SUBTITLE_InjuredMedium3,[Pain grunts],,[Smertestøn]
