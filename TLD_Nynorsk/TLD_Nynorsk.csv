@@ -1912,7 +1912,7 @@ Just leave this here in case it goes even worse.",,
 GAMEPLAY_CanneryTrailers,Washed Out Trailers,,Utvaska brakker
 GAMEPLAY_CanneryWaterfallDelta,Ravine's End Waterfall,,Fossen ved slukta sin ende
 GAMEPLAY_CanneryWaterfallForest,Lower Raven Falls,,Nedre ramnefoss
-GAMEPLAY_CannotAddMoreFuel,Cannot add any more fuel to this fire right now,,Det kan ikkje leggjas meir brensel på elden no
+GAMEPLAY_CannotAddMoreFuel,Cannot add any more fuel to this fire right now,,Kan ikkje leggja meir brennefang på elden no
 GAMEPLAY_CannotBuildIceFishingHoleIndoors,Cannot Build Ice Fishing Hole Indoors,,
 GAMEPLAY_CannotBuildRockCacheIndoors,Cannot build Rock Cache indoors,,
 GAMEPLAY_CannotBuildSnowShelterIndoors,Cannot build Snow Shelter indoors,,Du kan ikkje byggja ei snøhole inne
@@ -3774,8 +3774,8 @@ GAMEPLAY_FruitPorridge_Ruined,Ruined Camber Flight Porridge,,
 GAMEPLAY_FruitPorridgeDescription,A porridge fortified with fruits and syrup. A pilot's favourite after a long flight.,,Graut med frukt og sirup. Ein favoritt av pilotar etter ein lang flytur.
 GAMEPLAY_Fuel,Fuel,,Brennefang
 GAMEPLAY_FuelChest,Fuel Chest,,Brennefangkiste
-GAMEPLAY_FuelChestContainerOpen,Open Fuel Chest,,Opn brenselkiste
-GAMEPLAY_FuelChestContainerSearch,Search Fuel Chest,,Gransk brenselkiste
+GAMEPLAY_FuelChestContainerOpen,Open Fuel Chest,,Opn brennefangkiste
+GAMEPLAY_FuelChestContainerSearch,Search Fuel Chest,,Gransk brennefangkiste
 GAMEPLAY_FuelCover,Fuel Cover,,Tanklok
 GAMEPLAY_FuelCoverInteractClose,Close Fuel Cover,,Lat att tanklokk
 GAMEPLAY_FuelCoverInteractOpen,Open Fuel Cover,,Opn tanklokk
@@ -4237,12 +4237,12 @@ GAMEPLAY_InjuryPlaneCrash,Plane Crash Injuries,,"Ting har ikkje gått som eg von
 GAMEPLAY_InnerLayerHeader,Inner Layer,inner layer of clothing,Underklede
 GAMEPLAY_InProgressPostfix,(In Progress),,(føregåande)
 GAMEPLAY_InsufficentFireStarter,Insufficient materials to start a fire (need Fire Starter),,Du treng ein tennar for å laga eld
-GAMEPLAY_InsufficentFireStarterFuel,Insufficient materials to start a fire (need Fire Starter and Fuel),,Du treng ein tennar og brensel for å laga eld
+GAMEPLAY_InsufficentFireStarterFuel,Insufficient materials to start a fire (need Fire Starter and Fuel),,Du treng ein tennar og brennefang for å laga eld
 GAMEPLAY_InsufficentFireStarterTinder,Insufficient materials to start a fire (need Fire Starter and Tinder),,Du treng ein tennar og knusk for å laga eld
-GAMEPLAY_InsufficentFireStarterTinderFuel,"Insufficient materials to start a fire (need Fire Starter, Tinder and Fuel)",,"Du treng ein tennar, knusk og brensel for å laga eld"
-GAMEPLAY_InsufficentFuel,Insufficient materials to start a fire (need Fuel),,Du treng brensel for å laga eld
+GAMEPLAY_InsufficentFireStarterTinderFuel,"Insufficient materials to start a fire (need Fire Starter, Tinder and Fuel)",,"Du treng ein tennar, knusk og brennefang for å laga eld"
+GAMEPLAY_InsufficentFuel,Insufficient materials to start a fire (need Fuel),,Du treng brennefang for å laga eld
 GAMEPLAY_InsufficentTinder,Insufficient materials to start a fire (need Tinder),,Du treng knusk for å laga eld
-GAMEPLAY_InsufficentTinderFuel,Insufficient materials to start a fire (need Tinder and Fuel),,Du treng knusk og brensel for å laga eld
+GAMEPLAY_InsufficentTinderFuel,Insufficient materials to start a fire (need Tinder and Fuel),,Du treng knusk og brennefang for å laga eld
 GAMEPLAY_Insufficientmaterialsforcrafting,Insufficient materials for crafting,,Mangla materialar for å laga
 GAMEPLAY_Insufficientmaterialsforrepair,Insufficient materials for repair,,Mangla materialar til å vøla
 GAMEPLAY_InsufficientMaterialsForRepairableItem,{num-item} {name-item} required to fix this item,,
@@ -6352,7 +6352,7 @@ GAMEPLAY_SprainPain,Pain,,Verk
 GAMEPLAY_SprainPainDesc,"You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.",,Skada di verkar noko som fører til uklårt syn og ubehag. Læk det eller la det gå over.
 GAMEPLAY_SprainRisk,Sprain Risk,,Vrengjevågnad
 GAMEPLAY_SprainRiskDesc,"You are Exhausted or Encumbered, and at higher risk for a Sprain when traversing sloped ground.",,Du er sleten eller nedtyngja og har derfor ein større sjanse for å vrengje okler og handledd når du går i bakkar.
-GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller skilje deg av med noko for å kvitta deg med vrengjevågnaden.
+GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller gje slepp på noko for å kvitta deg med vrengjevågnaden.
 GAMEPLAY_SprayNotMapped,This shape is not shown on the map when sprayed,,
 GAMEPLAY_SprayPaint,Spray Paint,,
 GAMEPLAY_SprayPaintDescription,A can of Spray Paint. Can be used to leave signs and markers in the environment.,,
@@ -8252,16 +8252,16 @@ HINT_SprainRisk,If Encumbered or Exhausted you are at risk for a Sprain on slope
 HINT_SprainRisk_title,Sprain Risk,,Vrengjevågnad
 HINT_Sprains,Sprained ankles and wrists affect movement and the ability to use certain Tools. Treat with Painkillers or Rest.,,Vrengde okler og handledd påverkar rørsleevna eins og kva reiskap ein kan nytta. Læk med bandasjar eller kvile. Smertestillande kjem òg vel med.
 HINT_Stags,"Skittish creatures, but a great source of Meat and valuable Crafting materials.",,"Lettskremde skapningar. Dei er ei god kjelde til kjøt, samt skinn og tarmar som kan nyttast til å laga klede, med meir."
-HINT_Starving,"Starving is a slow and steady path to Condition loss. Eat enough to stay healthy, or your weakened condition can lead down many paths to death.",,
-HINT_Stones,Use the small Stones you find on the ground to hunt Rabbits.,,
-HINT_StormFuel,Blizzards and high winds can knock loose Sticks or drop tree Limbs which you can then Harvest later.,,
-HINT_StormFuel_title,Storms Drop Fuel,,
-HINT_SunNav,Use the sun's position in the sky to navigate Great Bear Island.,,
-HINT_SunNav_title,Use the Sun,,
-HINT_Temperature,Time of day can dramatically affect the overall air temperature on Great Bear Island.,,
-HINT_Temperature_title,Temperature,,
-HINT_TinderFromSticks,"Harvest Sticks to make Tinder, a vital item for firestarting.",,
-HINT_TinderFromSticks_title,Make Tinder from Sticks,,
+HINT_Starving,"Starving is a slow and steady path to Condition loss. Eat enough to stay healthy, or your weakened condition can lead down many paths to death.",,"Svolt er tærer jamt seint på helsa. Et nok til å halde på helsa, elles kan ein veik kropp opna opp for mange måtar dauden kan få kloa i ein."
+HINT_Stones,Use the small Stones you find on the ground to hunt Rabbits.,,Småsteinane ein finn på bakken kan nyttast til å jakta på kaninar og ryper.
+HINT_StormFuel,Blizzards and high winds can knock loose Sticks or drop tree Limbs which you can then Harvest later.,,Snøstormar og sterk vind kan slå laus pinnar eller sleppa ned større greiner som ein kan sanka seinare.
+HINT_StormFuel_title,Storms Drop Fuel,,Stormar blæs ned brennefang
+HINT_SunNav,Use the sun's position in the sky to navigate Great Bear Island.,,"For å fastsetja himmelretningane, og finna fram på Sværebjørn, kan ein sjå på sola og kvar den står på himmelen."
+HINT_SunNav_title,Use the Sun,,Nytt sola
+HINT_Temperature,Time of day can dramatically affect the overall air temperature on Great Bear Island.,,Tida på døgnet kan ha stor påverkand på lufttemperaturen på Sværebjørn.
+HINT_Temperature_title,Temperature,,Temperatur
+HINT_TinderFromSticks,"Harvest Sticks to make Tinder, a vital item for firestarting.",,Sank pinnar for å laga knusk som ein treng for å laga eld.
+HINT_TinderFromSticks_title,Make Tinder from Sticks,,Lag knusk av pinnar
 HINT_ToolsRepair,"Keep your Tools in good Condition. Maintain them using a range of gear items, including Whetstones and Tool Kits. It could make all the difference in the wilderness!",,
 HINT_TracksRegion,"Heavily damaged by earthquakes decades ago, this region's twisting paths can confuse distracted explorers.",,
 HINT_Vehicles,Weather turning bad or predators nearby? Take shelter in a vehicle.,,
