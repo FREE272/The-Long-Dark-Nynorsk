@@ -5269,9 +5269,9 @@ GAMEPLAY_Papers,Papers,,Papir
 GAMEPLAY_PaperStack,Stack of Papers,a stack of papers,Papirbunke
 GAMEPLAY_PaperStackDescription,Stack of now-useless papers. Makes for good Tinder and that's about it.,,"Bunke med papir. Godt å laga knusk av, men ikkje mykje meir."
 GAMEPLAY_PartlyCloudy,Partly Cloudy,,Delvis overskya
-GAMEPLAY_PassTime,Pass Time,,Tidtrøyte
+GAMEPLAY_PassTime,Pass Time,,Tidtrøyt
 GAMEPLAY_PassTimeDescription,Advance time without the benefits of sleep.,,Få tida til å gå utan fordelane ved søvn.
-GAMEPLAY_PassTimeUntilCooked,Pass Time Until Ready,,Tidtrøyte til klar
+GAMEPLAY_PassTimeUntilCooked,Pass Time Until Ready,,Tidtrøyt til klart
 GAMEPLAY_Paused,Paused,,Pause
 GAMEPLAY_PauseMenu,Pause Menu,,Pausemeny
 GAMEPLAY_PeachFruitPie,Peach Pie,,
@@ -8262,27 +8262,27 @@ HINT_Temperature,Time of day can dramatically affect the overall air temperature
 HINT_Temperature_title,Temperature,,Temperatur
 HINT_TinderFromSticks,"Harvest Sticks to make Tinder, a vital item for firestarting.",,Sank pinnar for å laga knusk som ein treng for å laga eld.
 HINT_TinderFromSticks_title,Make Tinder from Sticks,,Lag knusk av pinnar
-HINT_ToolsRepair,"Keep your Tools in good Condition. Maintain them using a range of gear items, including Whetstones and Tool Kits. It could make all the difference in the wilderness!",,
-HINT_TracksRegion,"Heavily damaged by earthquakes decades ago, this region's twisting paths can confuse distracted explorers.",,
-HINT_Vehicles,Weather turning bad or predators nearby? Take shelter in a vehicle.,,
-HINT_VehiclesLoot,Vehicles may hold valuable supplies. Don't forget to check the trunk and glove compartment!,,
-HINT_VehiclesLoot_2,Locked trunks can be opened using a Prybar.,,
-HINT_VehiclesLoot_title,Items in Vehicles,,
-HINT_VehiclesRest,"You can Rest or Pass Time in a vehicle, with or without a Bedroll.",,
-HINT_WetFrozenClothing,Wet or Frozen Clothing can be deadly. Warm it by a fire to dry it out.,,
-HINT_WetFrozenClothing_title,Wet or Frozen Clothing,,
-HINT_WhalingStationRegion,"With plenty of human-made shelters and signs of Great Bear’s industrial past, this narrow coastline is a scavenger’s dream.",,
-HINT_Wind,"High winds will slow movement and exploration, as well as put out campfires.",,
-HINT_Wind_title,Wind,,
-HINT_WolfDeterrence,Thrown Flares and Torches have a chance to deter Wolves. Keep them on hand if exploring.,,
-HINT_WolfDeterrence_title,Wolf Deterrence,,
-HINT_WolfStruggles,"As well as causing dangerous and deadly Afflictions, Wolf struggles can damage and destroy Clothing.",,
-HINT_WolfStruggles_title,Wolf Struggles,,
-HINT_Wolves,Keep your distance whenever possible. A Wolf struggle could be the end of your journey.,,
-HINT_WolvesPatrol,"Wolves are attracted to your scent -- raw meat or fish, or bloody injuries, can draw them to you. Remain down-wind to help mask your scent.",,
-HINT_WolvesPatrol_title,Drawn by Scent,,
-HINT_WoodHarvest,Use your Hatchet or Hacksaw to harvest downed firewood from tree limbs or branches. Sticks are abundant and can be harvested without a tool.,,
-HINT_WoodHarvest_title,Finding Fuel,,
+HINT_ToolsRepair,"Keep your Tools in good Condition. Maintain them using a range of gear items, including Whetstones and Tool Kits. It could make all the difference in the wilderness!",,"Hald ved like reiskap, til dømes ved å nytta bryne eller pusseutstyr. I villmarka treng ein reiskap ein kan lita på."
+HINT_TracksRegion,"Heavily damaged by earthquakes decades ago, this region's twisting paths can confuse distracted explorers.",,Jordskjelv råka hardt denne regionen for nokre tiår sidan. Dei kvorvne leiene her kan forfjamsa umerksame ferdafolk.
+HINT_Vehicles,Weather turning bad or predators nearby? Take shelter in a vehicle.,,"Kanskje vêret vert dårleg, eller rovdyr visar seg? Då kan ein søka ly i eit køyretøy."
+HINT_VehiclesLoot,Vehicles may hold valuable supplies. Don't forget to check the trunk and glove compartment!,,EIn kan finna verdfulle forsyningar i køyretøy. Ikkje gløym å sjå i hanske- og bagasjerommet!
+HINT_VehiclesLoot_2,Locked trunks can be opened using a Prybar.,,Låste bagasjerom kan opnast med eit kubein.
+HINT_VehiclesLoot_title,Items in Vehicles,,Ting i køyretøy
+HINT_VehiclesRest,"You can Rest or Pass Time in a vehicle, with or without a Bedroll.",,"Ein kan kvila og tidtrøyta i køyretøy, både med og utan ein sovepose."
+HINT_WetFrozenClothing,Wet or Frozen Clothing can be deadly. Warm it by a fire to dry it out.,,Klede som vert våte eller frys held ikkje på varmen og vert mykje tyngre. Varm dei ved eld for å turka dei.
+HINT_WetFrozenClothing_title,Wet or Frozen Clothing,,Våte og frosne klede
+HINT_WhalingStationRegion,"With plenty of human-made shelters and signs of Great Bear’s industrial past, this narrow coastline is a scavenger’s dream.",,"Med ein flust av husrom og spor etter Sværebjørn si industrielle fortid, so har denne smale kystlinja mykje å by på."
+HINT_Wind,"High winds will slow movement and exploration, as well as put out campfires.",,"Sterk vind vil stogga rørsle og ferdsel, samt blåsa ut bål og faklar."
+HINT_Wind_title,Wind,,Vind
+HINT_WolfDeterrence,Thrown Flares and Torches have a chance to deter Wolves. Keep them on hand if exploring.,,Kastar ein bluss eller faklar på ulvar kan det skrema dei vekk. Ha nokon for handa når ein ferdast.
+HINT_WolfDeterrence_title,Wolf Deterrence,,Hald ulvane vekke
+HINT_WolfStruggles,"As well as causing dangerous and deadly Afflictions, Wolf struggles can damage and destroy Clothing.",,"I tillegg til døyelege lidingar og at helsa ryk i det, kan ulveåtak gjera ska på og øydeleggja klede."
+HINT_WolfStruggles_title,Wolf Struggles,,Ulveåtak
+HINT_Wolves,Keep your distance whenever possible. A Wolf struggle could be the end of your journey.,,Hald deg unna dei når ein kan. Eit ulveåtak kan enda eins dagar.
+HINT_WolvesPatrol,"Wolves are attracted to your scent -- raw meat or fish, or bloody injuries, can draw them to you. Remain down-wind to help mask your scent.",,"Rovdyr kjem etter eins fert. Kjøt og fisk, eller blodige sår, kan tiltrekkja dei. Sjå til at vinden ikkje tek med seg ferta mot dei."
+HINT_WolvesPatrol_title,Drawn by Scent,,Går etter lukta
+HINT_WoodHarvest,Use your Hatchet or Hacksaw to harvest downed firewood from tree limbs or branches. Sticks are abundant and can be harvested without a tool.,,"Nytt øks eller baufil til å snaka ved frå nedfelte tregreiner. Det er rikeleg med pinnar å finna, og dei kan sankast utan reiskap."
+HINT_WoodHarvest_title,Finding Fuel,,Sank brennefang
 "Interact with the placed Cooking Pot to choose what Cooking actions you want to perform (including Melting snow and Boiling water)""",(tom),,
 JER10,"Story's real simple. That bear and me, we have unfinished business.",,det er veldig enkelt. Bjørnen og eg har noko uoppgjort.
 JER100,Rare supply boat from the mainland. That's really the only lifeline for the few folks that still live on Great Bear...,,"En sjelDen gang kjem det ein forsyningsbåt frå fastlandet. de få som fortsatt bor på Sværebjørn, har egentlig ikkje noko annet å støtte seg til."
