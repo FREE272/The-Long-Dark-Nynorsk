@@ -49,15 +49,11 @@ jobs:
         run: |
           set -e
           BODY="${{ github.event.pull_request.body }}"
-          echo "changenote<<EOF" >> $GITHUB_OUTPUT
-          echo "$BODY" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "changenote=$(jq -Rn --arg str "$BODY" '$str')" >> $GITHUB_OUTPUT
+          echo "Changenote:"
+          echo "$BODY"
 
-      - name: Debug changenote
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          echo "Changenote to insert:"
-          echo "${{ steps.changenote.outputs.changenote }}"
+
 
       - name: Update changenote in Workshop_TLD_Nynorsk.vdf
         id: update_changenote
@@ -71,7 +67,7 @@ jobs:
           
           # Make release tag, date today + increment version number
           DATE=$(date +'%d.%m.%y')
-          LAST_TAG=$(gh release list --limit 1 --sort=created --json tagName --jq '.[0].tagName' 2>/dev/null || true)
+          LAST_TAG=$(gh release list --limit 1000 --json tagName,isLatest --jq '.[] | select(.isLatest) | .tagName // "none"')
           if [ -z "$LAST_TAG" ]; then
             NEXT_V=1
           else
@@ -81,6 +77,12 @@ jobs:
           fi
           TAG="$DATE.v$NEXT_V"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
+
+          echo "DATE: $DATE"
+          echo "LAST_TAG from gh release list: '$LAST_TAG'"
+          echo "Extracted LAST_V: '$LAST_V'"
+          echo "NEXT_V: $NEXT_V"
+          echo "Generated TAG: $TAG"
 
       
           LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
