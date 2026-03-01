@@ -49,9 +49,6 @@ jobs:
         run: |
           set -e
           BODY="${{ github.event.pull_request.body }}"
-          # Escape backslashes and quotes
-          BODY="${BODY//\\/\\\\}"
-          BODY="${BODY//\"/\\\"}"
           echo "changenote<<EOF" >> $GITHUB_OUTPUT
           echo "$BODY" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
