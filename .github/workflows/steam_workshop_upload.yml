@@ -27,15 +27,21 @@ jobs:
       - name: Check if TLD_Nynorsk folder changed
         id: changes
         run: |
-          git fetch origin main
-          CHANGED_FILES=$(git diff --name-only origin/main HEAD)
-          echo "Changed files: $CHANGED_FILES"
+          CHANGED_FILES=$(git diff --name-only \
+            ${{ github.event.pull_request.base.sha }} \
+            ${{ github.event.pull_request.head.sha }})
+      
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+      
           if echo "$CHANGED_FILES" | grep -q '^TLD_Nynorsk/'; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected in TLD_Nynorsk — skipping all downstream steps"
           fi
+
+
 
       - name: Extract changenote from pull request summary
         id: changenote
@@ -65,15 +71,20 @@ jobs:
           set -e
           VDF="Workshop_TLD_Nynorsk.vdf"
           NOTE="${{ steps.changenote.outputs.changenote }}"
-      
-          # Format release tag
+          
+          # Make release tag, date today + increment version number
           DATE=$(date +'%d.%m.%y')
-          EXISTING_TAGS=$(gh release list --limit 100 --json tagName --jq '.[].tagName' | grep "^$DATE" || true)
-          COUNT=$(echo "$EXISTING_TAGS" | grep -c "^" || true)
-          VERSION="v$((COUNT + 1))"
-          TAG="$DATE.$VERSION"
-      
+          LAST_TAG=$(gh release list --limit 1 --sort=created --json tagName --jq '.[0].tagName' 2>/dev/null || true)
+          if [ -z "$LAST_TAG" ]; then
+            NEXT_V=1
+          else
+            # Plukk ut v-nummer fra tag, f.eks "02.02.26.v42" -> 42
+            LAST_V=$(echo "$LAST_TAG" | grep -oE '\.v[0-9]+$' | tr -d '.v')
+            NEXT_V=$((LAST_V + 1))
+          fi
+          TAG="$DATE.v$NEXT_V"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
+
       
           LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
       

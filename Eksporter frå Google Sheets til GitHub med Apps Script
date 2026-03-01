@@ -98,7 +98,7 @@ function createPullRequestIfMissing(token, repo, headBranch, baseBranch) {
     title: 'Update CSV from Google Sheets',
     head: headBranch,
     base: baseBranch,
-    body: 'This PR contains updated translations exported from the Nynorsk sheet in Google Sheets.',
+    body: 'Edit to add change notes.',
     maintainer_can_modify: true
   };
 
