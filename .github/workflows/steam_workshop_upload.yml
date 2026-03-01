@@ -63,38 +63,61 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          VDF=Workshop_TLD_Nynorsk.vdf
+          VDF="Workshop_TLD_Nynorsk.vdf"
           NOTE="${{ steps.changenote.outputs.changenote }}"
-          
-          # Format release tag: DD.MM.YY.vN (starting at v1)
+      
+          # Format release tag
           DATE=$(date +'%d.%m.%y')
-          EXISTING_TAGS=$(gh release list --limit 100 | awk '{print $1}' | grep "^$DATE" || true)
-          COUNT=$(echo "$EXISTING_TAGS" | wc -l)
+          EXISTING_TAGS=$(gh release list --limit 100 --json tagName --jq '.[].tagName' | grep "^$DATE" || true)
+          COUNT=$(echo "$EXISTING_TAGS" | grep -c "^" || true)
           VERSION="v$((COUNT + 1))"
           TAG="$DATE.$VERSION"
       
-          # Save version info for later step
           echo "tag=$TAG" >> $GITHUB_OUTPUT
       
-          # Escape and format changenote
-          NOTE=$(echo "$NOTE" | sed 's/"/\\"/g')
           LINK="[url=https://github.com/${{ github.repository }}/releases/tag/$TAG]Sjå oppdateringa $TAG på GitHub![/url]"
-          FINAL_NOTE="${NOTE}\n\n${LINK}"
       
-          cp "$VDF" "$VDF.bak"
-          awk -v note="$FINAL_NOTE" 'BEGIN { replaced=0 }
-            /^[[:space:]]*"changenote"/ {
-              print "  \"changenote\"  \"" note "\""
-              replaced=1; next
-            }
-            { print }
-            END {
-              if (replaced==0)
-                print "  \"changenote\"  \"" note "\""
-            }' "$VDF.bak" > "$VDF"
+          export NOTE
+          export LINK
+          export VDF
       
-          echo "--- Before (bak) ---"; cat "$VDF.bak"
-          echo "--- After (new) ---"; cat "$VDF"
+          python3 << 'EOF'
+          import os
+          import re
+          
+          vdf_path = os.environ["VDF"]
+          note = os.environ["NOTE"]
+          link = os.environ["LINK"]
+          
+          # Build final note safely
+          final_note = f"{note}\n\n{link}"
+          
+          # Escape only what VDF requires
+          final_note = final_note.replace("\\", "\\\\")
+          final_note = final_note.replace('"', '\\"')
+          final_note = final_note.replace("\r\n", "\n").replace("\r", "\n")
+          final_note = final_note.replace("\n", "\\n")
+          
+          with open(vdf_path, "r", encoding="utf-8") as f:
+              content = f.read()
+          
+          # Replace existing changenote field (robust regex, multiline safe)
+          if re.search(r'"changenote"\s+"[^"]*"', content, flags=re.S):
+              content = re.sub(
+                  r'"changenote"\s+"[^"]*"',
+                  f'"changenote"  "{final_note}"',
+                  content,
+                  flags=re.S
+              )
+          else:
+              # If missing, insert before final closing brace
+              content = content.rstrip()[:-1] + f'\n  "changenote"  "{final_note}"\n}}\n'
+          
+          with open(vdf_path, "w", encoding="utf-8") as f:
+              f.write(content)
+          
+          print("Changenote updated safely.")
+          EOF
 
 
       - name: Commit & push updated VDF back to main
