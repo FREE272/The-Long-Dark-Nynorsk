@@ -68,9 +68,9 @@ ACHIEVEMENT_SilentHunterDescription,Survive the first 50 days without firing any
 ACHIEVEMENT_SkilledSurvivor,Skilled Survivor,,Ein som veit å overleva
 ACHIEVEMENT_SkilledSurvivorDescription,Get all skills to level 5 in a single Survival Mode game.,,Få alle dugleikane i level 5 i eit overlevingsmodusspel.
 ACHIEVEMENT_SM_FoundAllForestTalkerCaches,Sounds Like Some Kind of Indie Band,,Namnet høyrast ut som eit indieband
-ACHIEVEMENT_SM_FoundAllForestTalkerCachesDescription,Find all Forest Talker caches.,,Finn alle oppbevaringane til Skogstalarane.
-ACHIEVEMENT_SM_FoundAllHiddenCaches,Cache Mastery,,Oppbevaringsmeisteren
-ACHIEVEMENT_SM_FoundAllHiddenCachesDescription,Find all hidDen caches in Episode One and Episode Two.,,Finn alle de skjulte oppbevaringane i 1. og 2. episode.
+ACHIEVEMENT_SM_FoundAllForestTalkerCachesDescription,Find all Forest Talker caches.,,Finn alle gøyma til Skogstalarane.
+ACHIEVEMENT_SM_FoundAllHiddenCaches,Cache Mastery,,Gøymefinnaren
+ACHIEVEMENT_SM_FoundAllHiddenCachesDescription,Find all hidDen caches in Episode One and Episode Two.,,Finn alle gøyma i 1. og 2. episode.
 ACHIEVEMENT_SM_UnlockAllMiltonDepositBoxes,Too Big to Fail,,For stor til å mislykkast
 ACHIEVEMENT_SM_UnlockAllMiltonDepositBoxesDescription,Open all Safety deposit boxes in Milton.,,Opn alle bankboksane i Milton.
 ACHIEVEMENT_StarrySky,Beneath a Starry Sky,,Under stjernehimmelen
@@ -1017,19 +1017,19 @@ GAMEPLAY_AccessibleInteractionsTooltip_Switch,"Toggle between interactions like 
 GAMEPLAY_Accessories,Accessories,,Tilbehør
 GAMEPLAY_AchievementUnknown,???,,?
 GAMEPLAY_Acorn,Acorns,,Eikenøtter
-GAMEPLAY_AcornBannock,Acorn Bannock,,Eikenøttbannock
-GAMEPLAY_AcornBannock_Acceptable,Acceptable Acorn Bannock,,
-GAMEPLAY_AcornBannock_Crude,Crude Acorn Bannock,,
-GAMEPLAY_AcornBannock_Elegant,Elegant Acorn Bannock,,
-GAMEPLAY_AcornBannock_Gourmet,Gourmet Acorn Bannock,,
-GAMEPLAY_AcornBannock_Ruined,Ruined Acorn Bannock,,
-GAMEPLAY_AcornBannockDescription,A crusty flatbread cooked with Acorns.,,Eit knasande flatt brød laga av eikenøttmjøl.
+GAMEPLAY_AcornBannock,Acorn Bannock,,Eikenøttpannebrød
+GAMEPLAY_AcornBannock_Acceptable,Acceptable Acorn Bannock,,Dugande eikenøttpannebrød
+GAMEPLAY_AcornBannock_Crude,Crude Acorn Bannock,,Slurvete eikenøttpannebrød
+GAMEPLAY_AcornBannock_Elegant,Elegant Acorn Bannock,,Stilfullt eikenøttpannebrød
+GAMEPLAY_AcornBannock_Gourmet,Gourmet Acorn Bannock,,Framifrå eikenøttpannebrød
+GAMEPLAY_AcornBannock_Ruined,Ruined Acorn Bannock,,Mygla eikenøttpannebrød
+GAMEPLAY_AcornBannockDescription,A crusty flatbread cooked with Acorns.,,Eit usyra brød laga av eikenøttmjøl. Ei knasande skorpe og mjuk inni.
 GAMEPLAY_AcornBannocks,Acorn Bannocks,,Eikenøttbannockar
-GAMEPLAY_AcornBannocks_Acceptable,Acceptable Acorn Bannocks,,
-GAMEPLAY_AcornBannocks_Crude,Crude Acorn Bannocks,,
-GAMEPLAY_AcornBannocks_Elegant,Elegant Acorn Bannocks,,
-GAMEPLAY_AcornBannocks_Gourmet,Gourmet Acorn Bannocks,,
-GAMEPLAY_AcornBannocks_Ruined,Ruined Acorn Bannocks,,
+GAMEPLAY_AcornBannocks_Acceptable,Acceptable Acorn Bannocks,,Dugande eikenøttpannebrød
+GAMEPLAY_AcornBannocks_Crude,Crude Acorn Bannocks,,Slurvete eikenøttpannebrød
+GAMEPLAY_AcornBannocks_Elegant,Elegant Acorn Bannocks,,Stilfulle eikenøttpannebrød
+GAMEPLAY_AcornBannocks_Gourmet,Gourmet Acorn Bannocks,,Framifrå eikenøttpannebrød
+GAMEPLAY_AcornBannocks_Ruined,Ruined Acorn Bannocks,,Mygla eikenøttpannebrød
 GAMEPLAY_AcornCoffeeCup,Cup of Acorn Coffee,,Kopp med eikenøttkaffi
 GAMEPLAY_AcornCoffeeCupDescription,A cup of Acorn Coffee. ,,Ein kopp fylt med kaffi laga av eikenøtter.
 GAMEPLAY_AcornCooked,Acorns (Cooked),,Eikenøtter (Steikte)
@@ -1040,11 +1040,11 @@ GAMEPLAY_AcornGrounds,Acorn Grounds,,Eikenøttmjøl
 GAMEPLAY_AcornGroundsDescription,"Ground Acorns. Makes for a wholesome, but very weak, cup of coffee. ",,Mjøl av malne eikenøtter. Kan nyttast som erstatning for kveitemjøl og kaffipulver. 
 GAMEPLAY_AcornHarvest,Search for Acorns,,Gransk etter eikenøtter
 GAMEPLAY_AcornPancake,Acorn Pancakes,,Eikenøttpannekaker
-GAMEPLAY_AcornPancake_Acceptable,Acceptable Acorn Pancakes,,
-GAMEPLAY_AcornPancake_Crude,Crude Acorn Pancakes,,
-GAMEPLAY_AcornPancake_Elegant,Elegant Acorn Pancakes,,
-GAMEPLAY_AcornPancake_Gourmet,Gourmet Acorn Pancakes,,
-GAMEPLAY_AcornPancake_Ruined,Ruined Acorn Pancakes,,
+GAMEPLAY_AcornPancake_Acceptable,Acceptable Acorn Pancakes,,Dugande eikenøttpannekaker
+GAMEPLAY_AcornPancake_Crude,Crude Acorn Pancakes,,Slurvete eikenøttpannekaker
+GAMEPLAY_AcornPancake_Elegant,Elegant Acorn Pancakes,,Stilfulle eikenøttpannekaker
+GAMEPLAY_AcornPancake_Gourmet,Gourmet Acorn Pancakes,,Framifrå eikenøttpannekaker
+GAMEPLAY_AcornPancake_Ruined,Ruined Acorn Pancakes,,Mygla 
 GAMEPLAY_AcornPancakeDescription,"Classic Pancakes, with Acorns.",,"Gode gamle pannekaker, laga av eikenøttmjøl."
 GAMEPLAY_AcornShelled,Prepared Acorns,,Førebudde eikenøtter
 GAMEPLAY_AcornShelledBig,Prepared Acorns (Large Portion),,Førebudde eikenøtter (Stor porsjon)
@@ -1178,7 +1178,7 @@ GAMEPLAY_AlmanacStormChance,{chance-val}% Chance,{chance-val} will be replaced b
 GAMEPLAY_AlreadyHaveEnergyBoost,Already Have Energy Boost,,
 GAMEPLAY_AlwaysOn,Always On,,Alltid på
 GAMEPLAY_AM,AM,,AM
-GAMEPLAY_AmmoCache,Ammo Cache,,Ammunisjonsoppbevaring
+GAMEPLAY_AmmoCache,Ammo Cache,,Skotgøyme
 GAMEPLAY_AmmoForge,Ammunition Forge,,
 GAMEPLAY_AmmoWorkBench,Ammunition Work Bench,,Ladebenk
 GAMEPLAY_AmmunitionForge,(tom),,
@@ -1491,19 +1491,19 @@ GAMEPLAY_BankManagerHouseKeyDescription,Bank Managers House Key. Will unlock one
 GAMEPLAY_BankVault,Bank Vault,,Bankkvelv
 GAMEPLAY_BankVaultInteractClose,Close Bank Vault,,Lat att bankkvelv
 GAMEPLAY_BankVaultInteractOpen,Open Bank Vault,,Opn bankkvelv
-GAMEPLAY_Bannock,Bannock,,Bannockbrød
-GAMEPLAY_Bannock_Acceptable,Acceptable Bannock,,
-GAMEPLAY_Bannock_Crude,Crude Bannock,,
-GAMEPLAY_Bannock_Elegant,Elegant Bannock,,
-GAMEPLAY_Bannock_Gourmet,Gourmet Bannock,,
-GAMEPLAY_Bannock_Ruined,Ruined Bannock,,
-GAMEPLAY_BannockDescription,A crusty flatbread. Food for the road.,,Eit knasande flatt brød. Ferdselsmat.
-GAMEPLAY_Bannocks,Bannocks,,Bannockbrød
-GAMEPLAY_Bannocks_Acceptable,Acceptable Bannocks,,
-GAMEPLAY_Bannocks_Crude,Crude Bannocks,,
-GAMEPLAY_Bannocks_Elegant,Elegant Bannocks,,
-GAMEPLAY_Bannocks_Gourmet,Gourmet Bannocks,,
-GAMEPLAY_Bannocks_Ruined,Ruined Bannocks,,
+GAMEPLAY_Bannock,Bannock,,Pannebrød
+GAMEPLAY_Bannock_Acceptable,Acceptable Bannock,,Dugande pannebrød
+GAMEPLAY_Bannock_Crude,Crude Bannock,,Slurvete pannebrød
+GAMEPLAY_Bannock_Elegant,Elegant Bannock,,Stilfullt pannebrød
+GAMEPLAY_Bannock_Gourmet,Gourmet Bannock,,Framifrå pannebrød
+GAMEPLAY_Bannock_Ruined,Ruined Bannock,,Mygla pannebrød
+GAMEPLAY_BannockDescription,A crusty flatbread. Food for the road.,,Eit usyra brød med ei knasande skorpe og mjuk inni. Ferdakost.
+GAMEPLAY_Bannocks,Bannocks,,Pannebrød
+GAMEPLAY_Bannocks_Acceptable,Acceptable Bannocks,,Dugande pannebrød
+GAMEPLAY_Bannocks_Crude,Crude Bannocks,,Slurvete pannebrød
+GAMEPLAY_Bannocks_Elegant,Elegant Bannocks,,Stilfulle pannebrød
+GAMEPLAY_Bannocks_Gourmet,Gourmet Bannocks,,Framifrå pannebrød
+GAMEPLAY_Bannocks_Ruined,Ruined Bannocks,,Mygla pannebrød
 GAMEPLAY_BarkTinder,Birch Bark,piece of bark from a birch tree,Never
 GAMEPLAY_BarkTinderDescription,"Birch tree bark. Lightweight and flamable, this bark can be used as tinder",,"Bjørkenever. Lett og brennbart, kan nyttast som knusk."
 GAMEPLAY_Barrel,Barrel,,Tønne
@@ -1775,11 +1775,11 @@ GAMEPLAY_BrokenRifle,Jeremiah's Broken Rifle,,Jeremiah si øydelagte børse
 GAMEPLAY_BrokenRifleDescription,Jeremiah's broken rifle. Will need special tools to fix it.,,Jeremiah si øydelagte børse. Du treng spesialverktøy for å fikse han.
 GAMEPLAY_Broom,Broom,an old fashioned broomstick,Kost
 GAMEPLAY_Broth,Broth,,Kraft
-GAMEPLAY_Broth_Acceptable,Acceptable Broth,,
-GAMEPLAY_Broth_Crude,Crude Broth,,
-GAMEPLAY_Broth_Elegant,Elegant Broth,,
-GAMEPLAY_Broth_Gourmet,Gourmet Broth,,
-GAMEPLAY_Broth_Ruined,Ruined Broth,,
+GAMEPLAY_Broth_Acceptable,Acceptable Broth,,Dugande kraft
+GAMEPLAY_Broth_Crude,Crude Broth,,Slurvete kraft
+GAMEPLAY_Broth_Elegant,Elegant Broth,,Stilfull kraft
+GAMEPLAY_Broth_Gourmet,Gourmet Broth,,Framifrå kraft
+GAMEPLAY_Broth_Ruined,Ruined Broth,,Mygla kraft
 GAMEPLAY_BrothCups,Cups,,Koppar
 GAMEPLAY_BrothCupsSingle,Cup,,Kopp
 GAMEPLAY_BrothDescription,A wholesome broth. Savory.,,Kraft kok på rypekjøt.
@@ -1789,7 +1789,7 @@ GAMEPLAY_Build,Build,,Bygg
 GAMEPLAY_BuildAttackStrength,Build Strength,,Bygg styrkje
 GAMEPLAY_BuildingProgress,Building...,Building a snow shelter,Byggjar ...
 GAMEPLAY_BuildingShelterWillCost,Building Snow Shelter Will Cost,,Å bygge ei snøhole kostar
-GAMEPLAY_BuildRockCacheProgress,Building Rock Cache,,
+GAMEPLAY_BuildRockCacheProgress,Building Rock Cache,,Bygg steingøyme
 GAMEPLAY_BuildSnowShelter,Build Snow Shelter,,Bygg snøhole
 GAMEPLAY_Bullet,Bullet,,Blykule
 GAMEPLAY_BulletDescription,Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.,,Ladekomponent til både børse- og revolverskot. Laga ved å støypa om skrapbly.
@@ -1914,7 +1914,7 @@ GAMEPLAY_CanneryWaterfallDelta,Ravine's End Waterfall,,Fossen ved slukta sin end
 GAMEPLAY_CanneryWaterfallForest,Lower Raven Falls,,Nedre ramnefoss
 GAMEPLAY_CannotAddMoreFuel,Cannot add any more fuel to this fire right now,,Kan ikkje leggja meir brennefang på elden no
 GAMEPLAY_CannotBuildIceFishingHoleIndoors,Cannot Build Ice Fishing Hole Indoors,,
-GAMEPLAY_CannotBuildRockCacheIndoors,Cannot build Rock Cache indoors,,
+GAMEPLAY_CannotBuildRockCacheIndoors,Cannot build Rock Cache indoors,,Kan ikkje byggja steingøyme inne
 GAMEPLAY_CannotBuildSnowShelterIndoors,Cannot build Snow Shelter indoors,,Du kan ikkje byggja ei snøhole inne
 GAMEPLAY_CannotClimbWhenEncumbered,Too encumbered to climb.,Player is carrying too much weight and cannot climb.,For nedtyngja til å klyva.
 GAMEPLAY_CannotClimbWithBrokenRib,Cannot climb with a broken rib,Message displayed when trying to climb with a broken rib affliction,Kan ikkje klyva med eit brote ribbein
@@ -2254,7 +2254,7 @@ GAMEPLAY_ColdWeather,Cold Weather,,Kaldt vær
 GAMEPLAY_Collectibles,Collectibles,,Samleobjekt
 GAMEPLAY_CollectionAuroraScreensDescription,Buffer Memories Discovered,Description for the buffer memories description,
 GAMEPLAY_CollectionCairnsDescription,Cairns Discovered,,Vardar funne
-GAMEPLAY_CollectionCounter,#{num-value} of {max-value},"will look like ""#21 of 100"" in game",#{num-value} av {max-value}
+GAMEPLAY_CollectionCounter,#{num-value} of {max-value},"will look like ""#21 of 100"" in game",Nr. {num-value} av {max-value}
 GAMEPLAY_CollectionFilterAuroraScreens,Buffer Memories,Menu item displayed on the collections panel,
 GAMEPLAY_CollectionFilterCairns,Cairns,,Vardar
 GAMEPLAY_CollectionFilterGeneral,General,,Generelt
@@ -3497,24 +3497,24 @@ GAMEPLAY_FirstAidRestRemaining,{needed-value} Hours Rest ({remaining-value} Left
 GAMEPLAY_FirstAidWater,Drink {needed-value} Clean Water,,Drikk {needed-value} reint vatn
 GAMEPLAY_FirstAidWaterRemaining,Drink {needed-value} Clean Water ({remaining-value} Left),,Drikk {needed-value} reint vatn ({remaining-value} igjen)
 GAMEPLAY_Fishcake,Coastal Fishcake,,Fiskekake
-GAMEPLAY_Fishcake_Acceptable,Acceptable Coastal Fishcake,,
-GAMEPLAY_Fishcake_Crude,Crude Coastal Fishcake,,
-GAMEPLAY_Fishcake_Elegant,Elegant Coastal Fishcake,,
-GAMEPLAY_Fishcake_Gourmet,Gourmet Coastal Fishcake,,
-GAMEPLAY_Fishcake_Ruined,Ruined Coastal Fishcake,,
+GAMEPLAY_Fishcake_Acceptable,Acceptable Coastal Fishcake,,Dugande fiskekake
+GAMEPLAY_Fishcake_Crude,Crude Coastal Fishcake,,Slurvete fiskekake
+GAMEPLAY_Fishcake_Elegant,Elegant Coastal Fishcake,,Stilfull fiskekake
+GAMEPLAY_Fishcake_Gourmet,Gourmet Coastal Fishcake,,Framifrå fiskekake
+GAMEPLAY_Fishcake_Ruined,Ruined Coastal Fishcake,,Mygla fiskekake
 GAMEPLAY_Fishcakes,Coastal Fishcakes,,Fiskekaker
-GAMEPLAY_Fishcakes_Acceptable,Acceptable Coastal Fishcakes,,
-GAMEPLAY_Fishcakes_Crude,Crude Coastal Fishcakes,,
-GAMEPLAY_Fishcakes_Elegant,Elegant Coastal Fishcakes,,
-GAMEPLAY_Fishcakes_Gourmet,Gourmet Coastal Fishcakes,,
-GAMEPLAY_Fishcakes_Ruined,Ruined Coastal Fishcakes,,
+GAMEPLAY_Fishcakes_Acceptable,Acceptable Coastal Fishcakes,,Dugande fiskekaker
+GAMEPLAY_Fishcakes_Crude,Crude Coastal Fishcakes,,Slurvete fiskekaker
+GAMEPLAY_Fishcakes_Elegant,Elegant Coastal Fishcakes,,Stilfulle fiskekaker
+GAMEPLAY_Fishcakes_Gourmet,Gourmet Coastal Fishcakes,,Framifrå fiskekaker
+GAMEPLAY_Fishcakes_Ruined,Ruined Coastal Fishcakes,,Mygla fiskekaker
 GAMEPLAY_FishcakesDescription,"Crispy cakes of fish, traditional style. Salty. ",,Sprø kake av fiskefarse. Ekte tradisjonsmat.
 GAMEPLAY_FishermansPie,Dockworker's Pie,,Fiskepai
-GAMEPLAY_FishermansPie_Acceptable,Acceptable Dockworker's Pie,,
-GAMEPLAY_FishermansPie_Crude,Crude Dockworker's Pie,,
-GAMEPLAY_FishermansPie_Elegant,Elegant Dockworker's Pie,,
-GAMEPLAY_FishermansPie_Gourmet,Gourmet Dockworker's Pie,,
-GAMEPLAY_FishermansPie_Ruined,Ruined Dockworker's Pie,,
+GAMEPLAY_FishermansPie_Acceptable,Acceptable Dockworker's Pie,,Dugande fiskepai
+GAMEPLAY_FishermansPie_Crude,Crude Dockworker's Pie,,Slurvete fiskepai
+GAMEPLAY_FishermansPie_Elegant,Elegant Dockworker's Pie,,Stilfull fiskepai
+GAMEPLAY_FishermansPie_Gourmet,Gourmet Dockworker's Pie,,Framifrå fiskepai
+GAMEPLAY_FishermansPie_Ruined,Ruined Dockworker's Pie,,Mygla fiskepai
 GAMEPLAY_FishermansPieDescription,A satisfying pie made from the day's catch. The taste of the sea.,,Ein nydeleg pai laga av dagens fangst. 
 GAMEPLAY_FishermanSweater,Fisherman's Sweater,,Strikkegenser
 GAMEPLAY_FishermanSweater_Decent,decent Fisherman's Sweater,,Nyttande strikkegenser
@@ -3597,24 +3597,24 @@ GAMEPLAY_FoodStatBuffDesc,You feel sustained after eating a meal.,,Du kvikna til
 GAMEPLAY_FoodstatDebuff,Gorged,,Stappmett
 GAMEPLAY_FoodstatDebuffDesc,You feel weighed down after eating a meal.,,Du kjenner deg nedtyngja etter eit måltid.
 GAMEPLAY_FoodSupplies,Emergency Food,,Naudmat
-GAMEPLAY_FoodSuppliesDescription,"Hardy stuff in an emergency, but not a fancy meal.",,"Mettar til nauds, men ikkje gourmetmat."
+GAMEPLAY_FoodSuppliesDescription,"Hardy stuff in an emergency, but not a fancy meal.",,"Mettar til nauds, men er ikkje festmat."
 GAMEPLAY_FootLeft,Left Foot,Affliction location for FootLeft,Venstre fot
 GAMEPLAY_Footprints,Footprints,,Fotspor
 GAMEPLAY_FootprintsDescription,Visual quality of the footprint decals used. Setting does not affect footprint density or distance. Has no effect on gameplay.,,"Den visuelle kvaliteten på fotspora i spelet. Innstillingen påverker ikkje fotspora sin tettleik og avstand. Dette har ingen effekt på spelet, du vil sjå like mange fotspor uansett."
 GAMEPLAY_FootRight,Right Foot,Affliction location for FootRight,Høgre fot
 GAMEPLAY_Forage,Forage,,Sank
-GAMEPLAY_ForagersPie,Prepper's Pie,,
-GAMEPLAY_ForagersPie_Acceptable,Acceptable Prepper's Pie,,
-GAMEPLAY_ForagersPie_Crude,Crude Prepper's Pie,,
-GAMEPLAY_ForagersPie_Elegant,Elegant Prepper's Pie,,
-GAMEPLAY_ForagersPie_Gourmet,Gourmet Prepper's Pie,,
-GAMEPLAY_ForagersPie_Ruined,Ruined Prepper's Pie,,
-GAMEPLAY_ForagersPieDescription,A dense pie made from foraged vegetables. Rough around the edges.,,
+GAMEPLAY_ForagersPie,Prepper's Pie,,Villmarkspai
+GAMEPLAY_ForagersPie_Acceptable,Acceptable Prepper's Pie,,Dugande villmarkspai
+GAMEPLAY_ForagersPie_Crude,Crude Prepper's Pie,,Slurvete villmarkspai
+GAMEPLAY_ForagersPie_Elegant,Elegant Prepper's Pie,,Stilfull villmarkspai
+GAMEPLAY_ForagersPie_Gourmet,Gourmet Prepper's Pie,,Framifrå villmarkspai
+GAMEPLAY_ForagersPie_Ruined,Ruined Prepper's Pie,,Mygla villmarkspai
+GAMEPLAY_ForagersPieDescription,A dense pie made from foraged vegetables. Rough around the edges.,,Ein grov pai laga av sanka grønsaker. 
 GAMEPLAY_ForagingProgress,Foraging...,,Sankar...
 GAMEPLAY_ForagingWillCost,Foraging will cost,followed by time and calories that will be spent,Å sanka vil kosta
-GAMEPLAY_ForceRevealAchievements,Force Reveal,,
+GAMEPLAY_ForceRevealAchievements,Force Reveal,,Tving avduking
 GAMEPLAY_Forcing,Forcing...,,Tvingar...
-GAMEPLAY_ForestCache,Forest Talker Supply Cache,,
+GAMEPLAY_ForestCache,Forest Talker Supply Cache,,Skogstalargøyme
 GAMEPLAY_ForestCacheInteractClose,Close Door,,Lat att dør
 GAMEPLAY_ForestCacheInteractOpen,Open Door,,Opn dør
 GAMEPLAY_ForestryLookout,Forestry Lookout,,Skogbruket sitt utkikkstårn
@@ -3765,13 +3765,13 @@ GAMEPLAY_FrozenCorpseContainerSearch,Search Frozen Corpse,,Gransk frose lik
 GAMEPLAY_FrozenCreek,Frozen Creek,,Frosen bekk
 GAMEPLAY_FrozenPercentPostfix,({%-value}% Frozen),,({%-value}% frose)
 GAMEPLAY_FrozenPostfix,(Frozen),,(Frosen)
-GAMEPLAY_FruitPorridge,Camber Flight Porridge,,Graut
-GAMEPLAY_FruitPorridge_Acceptable,Acceptable Camber Flight Porridge,,
-GAMEPLAY_FruitPorridge_Crude,Crude Camber Flight Porridge,,
-GAMEPLAY_FruitPorridge_Elegant,Elegant Camber Flight Porridge,,
-GAMEPLAY_FruitPorridge_Gourmet,Gourmet Camber Flight Porridge,,
-GAMEPLAY_FruitPorridge_Ruined,Ruined Camber Flight Porridge,,
-GAMEPLAY_FruitPorridgeDescription,A porridge fortified with fruits and syrup. A pilot's favourite after a long flight.,,Graut med frukt og sirup. Ein favoritt av pilotar etter ein lang flytur.
+GAMEPLAY_FruitPorridge,Camber Flight Porridge,,Frukthavregraut
+GAMEPLAY_FruitPorridge_Acceptable,Acceptable Camber Flight Porridge,,Dugande frukthavregraut
+GAMEPLAY_FruitPorridge_Crude,Crude Camber Flight Porridge,,Slurvete frukthavregraut
+GAMEPLAY_FruitPorridge_Elegant,Elegant Camber Flight Porridge,,Stilfull frukthavregraut
+GAMEPLAY_FruitPorridge_Gourmet,Gourmet Camber Flight Porridge,,Framifrå frukthavregraut
+GAMEPLAY_FruitPorridge_Ruined,Ruined Camber Flight Porridge,,Mygla frukthavregraut
+GAMEPLAY_FruitPorridgeDescription,A porridge fortified with fruits and syrup. A pilot's favourite after a long flight.,,Havregraumt med frukt og sirup. Søt og mektig mat.
 GAMEPLAY_Fuel,Fuel,,Brennefang
 GAMEPLAY_FuelChest,Fuel Chest,,Brennefangkiste
 GAMEPLAY_FuelChestContainerOpen,Open Fuel Chest,,Opn brennefangkiste
@@ -4245,9 +4245,9 @@ GAMEPLAY_InsufficentTinder,Insufficient materials to start a fire (need Tinder),
 GAMEPLAY_InsufficentTinderFuel,Insufficient materials to start a fire (need Tinder and Fuel),,Du treng knusk og brennefang for å laga eld
 GAMEPLAY_Insufficientmaterialsforcrafting,Insufficient materials for crafting,,Mangla materialar for å laga
 GAMEPLAY_Insufficientmaterialsforrepair,Insufficient materials for repair,,Mangla materialar til å vøla
-GAMEPLAY_InsufficientMaterialsForRepairableItem,{num-item} {name-item} required to fix this item,,
-GAMEPLAY_InsufficientMaterialsForRockCache,Requires {num-rocks} Stones to build,,
-GAMEPLAY_InsufficientMaterialsForSnowShelter,Requires {num-sticks} Sticks and {num-cloth} Cloth to build,,Treng {num-sticks} pinnar og {num-cloth} stoffbetar for å byggje
+GAMEPLAY_InsufficientMaterialsForRepairableItem,{num-item} {name-item} required to fix this item,,Treng {num-item} {name-item} for å vøla denne tingen
+GAMEPLAY_InsufficientMaterialsForRockCache,Requires {num-rocks} Stones to build,,Treng {num-rocks} steinar for å byggja
+GAMEPLAY_InsufficientMaterialsForSnowShelter,Requires {num-sticks} Sticks and {num-cloth} Cloth to build,,Treng {num-sticks} pinnar og {num-cloth} stoffbetar for å byggja
 GAMEPLAY_Insufficientmaterialstocreatefire,Insufficient materials to create fire,,Mangla materialar til å laga eld
 GAMEPLAY_InsulatedBoots,Insulated Boots,,Isolerte støvlar
 GAMEPLAY_InsulatedBoots_Decent,decent Insulated Boots,,Nyttande isolerte støvlar
@@ -4736,7 +4736,7 @@ GAMEPLAY_MappingLocalAreaProgress,Surveying Local Area...,,Kartlegg lokalområde
 GAMEPLAY_MapUIFilter_title,Filters,,Filter
 GAMEPLAY_MapUIFilterCorpses,Carcasses,,Kadaver
 GAMEPLAY_MapUIFilterResources,Resources,,Resursar
-GAMEPLAY_MapUIFilterRockCaches,Rock Caches,,
+GAMEPLAY_MapUIFilterRockCaches,Rock Caches,,Steingøyme
 GAMEPLAY_MapUIFilterSprayMarkings,Spray Markers,,
 GAMEPLAY_MapUIFilterStructures,Structures,,Bygg
 GAMEPLAY_MarinersPeaCoat,Mariner's Pea Coat,,Sjømannspjekkert
@@ -4774,20 +4774,20 @@ GAMEPLAY_MaxsLastStand,Max's Last Stand,,Max sin siste skanse
 GAMEPLAY_MaxStamina,Max Stamina,,Maks trott
 GAMEPLAY_Meat,Meat,,Kjøt
 GAMEPLAY_MeatBagRequired,GAMEPLAY_MeatBagRequired,,
-GAMEPLAY_MeatPie,Breyerhouse Pie,,
-GAMEPLAY_MeatPie_Acceptable,Acceptable Breyerhouse Pie,,
-GAMEPLAY_MeatPie_Crude,Crude Breyerhouse Pie,,
-GAMEPLAY_MeatPie_Elegant,Elegant Breyerhouse Pie,,
-GAMEPLAY_MeatPie_Gourmet,Gourmet Breyerhouse Pie,,
-GAMEPLAY_MeatPie_Ruined,Ruined Breyerhouse Pie,,
-GAMEPLAY_MeatPieDescription,A pie any meateater would love. Lunchbox-ready. ,,
-GAMEPLAY_MeatStew,Ranger Stew,,
-GAMEPLAY_MeatStew_Acceptable,Acceptable Ranger Stew,,
-GAMEPLAY_MeatStew_Crude,Crude Ranger Stew,,
-GAMEPLAY_MeatStew_Elegant,Elegant Ranger Stew,,
-GAMEPLAY_MeatStew_Gourmet,Gourmet Ranger Stew,,
-GAMEPLAY_MeatStew_Ruined,Ruined Ranger Stew,,
-GAMEPLAY_MeatStewDescription,A thick and greasy stew filled to the brim with harvested meats. Fuel for a long day in the woods.,,
+GAMEPLAY_MeatPie,Breyerhouse Pie,,Viltpai
+GAMEPLAY_MeatPie_Acceptable,Acceptable Breyerhouse Pie,,Dugande viltpai
+GAMEPLAY_MeatPie_Crude,Crude Breyerhouse Pie,,Slurvete viltpai
+GAMEPLAY_MeatPie_Elegant,Elegant Breyerhouse Pie,,Stilfull viltpai
+GAMEPLAY_MeatPie_Gourmet,Gourmet Breyerhouse Pie,,Framifrå viltpai
+GAMEPLAY_MeatPie_Ruined,Ruined Breyerhouse Pie,,Mygla viltpai
+GAMEPLAY_MeatPieDescription,A pie any meateater would love. Lunchbox-ready. ,,Ein pai fylt med tre velsmakande slag kjøt.
+GAMEPLAY_MeatStew,Ranger Stew,,Viltgryte
+GAMEPLAY_MeatStew_Acceptable,Acceptable Ranger Stew,,Dugande viltgryte
+GAMEPLAY_MeatStew_Crude,Crude Ranger Stew,,Slurvete viltgryte
+GAMEPLAY_MeatStew_Elegant,Elegant Ranger Stew,,Stilfull viltgryte
+GAMEPLAY_MeatStew_Gourmet,Gourmet Ranger Stew,,Framifrå viltgryte
+GAMEPLAY_MeatStew_Ruined,Ruined Ranger Stew,,Mygla viltgryte
+GAMEPLAY_MeatStewDescription,A thick and greasy stew filled to the brim with harvested meats. Fuel for a long day in the woods.,,Ei tjukk og fettete gryte fylt til randa med kjøt. Mettar godt etter ein lang dag i skogen.
 GAMEPLAY_MedicalLocker,Medical Supply Locker,a locker for medical supplies,Medisinskåp
 GAMEPLAY_MedicalLockerContainerOpen,Open Medical Locker,,Opn medisinskåp
 GAMEPLAY_MedicalLockerContainerSearch,Search Medical Locker,,Gransk medisinskåp
@@ -4843,9 +4843,9 @@ GAMEPLAY_MilitaryParka_Worn,Worn Military Coat,,Velbrukt militærjakke
 GAMEPLAY_MilitaryParkaDescription,"Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.",,"Vinterutgåva av militæret si tradisjonelle jakke. Ikkje laga av dei beste tekniske materialane, men enormt slitesterk. Tålar ein støyt, i likskap med deg om du går med han."
 GAMEPLAY_MillingMachine,Milling Machine,,Fres
 GAMEPLAY_MillingTool,Hand-Powered Milling Tool,for rifle repair,Handdriven fres
-GAMEPLAY_MiltonCacheLetter,Milton Cache Letter,,Brev om oppbevaring i Milton
-GAMEPLAY_MiltonCacheLetterDescription,A letter containing the whereabouts of a hidDen cache,,Eit brev som fortel kvar du kan finna ein skylt oppbevaring.
-GAMEPLAY_MiltonCacheLetterNarrativeText,A letter containing the whereabouts of a hidDen cache,,Eit brev som fortel kvar du kan finna ein skylt oppbevaring.
+GAMEPLAY_MiltonCacheLetter,Milton Cache Letter,,Milton gøymebrev
+GAMEPLAY_MiltonCacheLetterDescription,A letter containing the whereabouts of a hidDen cache,,Eit brev som fortel kvar ein kan finna eit gøyme.
+GAMEPLAY_MiltonCacheLetterNarrativeText,A letter containing the whereabouts of a hidDen cache,,Eit brev som fortel kvar ein kan finna eit gøyme.
 GAMEPLAY_MiltonCaveLetter,Lost in the Storm,Found in cave near road area.,Vekke i stormen
 GAMEPLAY_MiltonCaveLetterDescription,A letter found on a discarded backpack in a cave.,,Eit brev funne i ein etterlata ransel i ei hole.
 GAMEPLAY_MiltonCaveLetterNarrativeText,"""I left with the others but the storm turned bad and I couldn't keep up. Some turned back to see if they could wait it out at the old Church. I kept going but I think I took a wrong turn. I'll backtrack in the morning and see if I can find their trail.""
@@ -5038,10 +5038,10 @@ Connects to Coastal Highway and Kosedalen.","REMOVED: You've found your way to M
 
 Er forbundet med Kystvegen og Kosedalen."
 GAMEPLAY_MysteryLakeWesternAccess,Mystery Lake (Western Access),,Løyndomsvatnet (Vestre ende)
-GAMEPLAY_NameChallenge,Name Challenge,,Gje utfordringa eit namn
-GAMEPLAY_NameRockCache,Name Rock Cache,,
-GAMEPLAY_NameSandbox,Name Sandbox,,Gje runden eit namn
-GAMEPLAY_NameStory,Name Story,Prompt displayed on the popup during the creation of a new story mode save,Gje runden eit namn
+GAMEPLAY_NameChallenge,Name Challenge,,Namngje utfordringa
+GAMEPLAY_NameRockCache,Name Rock Cache,,Namngje steingøyme
+GAMEPLAY_NameSandbox,Name Sandbox,,Namngje runden
+GAMEPLAY_NameStory,Name Story,Prompt displayed on the popup during the creation of a new story mode save,Namngje forteljinga
 GAMEPLAY_Neck,Neck,,Nakke
 GAMEPLAY_NeedDetonators,Find the Detonators first,,
 GAMEPLAY_NeverDieDisabled,Never Die Disabled,,Evig liv deaktivert
@@ -5126,9 +5126,9 @@ GAMEPLAY_NoMillablesInInventory,No millable items in Inventory,,
 GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,Du kan ikkje sanka flere trebetar
 GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,Du kan ikkje sanka meir knusk
 GAMEPLAY_None,None,,Ingen
-GAMEPLAY_NonPotable,Non Potable,,forureina
-GAMEPLAY_NonPotableWaterSource,Non Potable Water Source,,Kjelde med forureina vatn
-GAMEPLAY_NonPotableWaterSupply,Non Potable Water Supply,,Forsyning av forureina vatn
+GAMEPLAY_NonPotable,Non Potable,,Udrikkande
+GAMEPLAY_NonPotableWaterSource,Non Potable Water Source,,Kjelde med udrikkande vatn
+GAMEPLAY_NonPotableWaterSupply,Non Potable Water Supply,,Forsyning med udrikkande vatn
 GAMEPLAY_Noobjectselectedforharvest,No object selected for harvest,,Ingen ting valt for å øydleggjast
 GAMEPLAY_Noobjectselectedforrepair,No object selected for repair,,Ingen ting valt for å vølast
 GAMEPLAY_Noon,Noon,,
@@ -5136,10 +5136,10 @@ GAMEPLAY_NoOtherFirearmsInInventory,No other weapons in inventory,,Ingen andre v
 GAMEPLAY_NoOtherLightSourceInInventory,No other light sources in inventory,,Ingen andre ljoskjelder i ranselen
 GAMEPLAY_NoPassTimeIndoorsCabinFever,Cannot pass time indoors due to Cabin Fever,,Du har brakkesjuka og kan ikkje vera inne
 GAMEPLAY_NoPassTimeOnThinIce,Cannot pass time while on weak ice.,,Du kan ikkje tidtrøyte medan du er på tynn is.
-GAMEPLAY_NoPotInInventory,No {item-name} in inventory,,
+GAMEPLAY_NoPotInInventory,No {item-name} in inventory,,Ingen {item-name} i ranselen
 GAMEPLAY_NoRestOnThinIce,Cannot rest while on weak ice.,,Du kan ikkje ta deg ein kvil medan du er på tynn is.
 GAMEPLAY_Normal,Normal,,Normal
-GAMEPLAY_NoRockCacheRadial,No rocks in your pack,,
+GAMEPLAY_NoRockCacheRadial,No rocks in your pack,,Ingen stein i ranselen
 GAMEPLAY_NoRope,No Mountaineering Rope In Inventory,,Ingen fjellklatretau i ranselen
 GAMEPLAY_North,North,,Nord
 GAMEPLAY_NorthEast,North East,,Nordaust
@@ -5252,14 +5252,14 @@ GAMEPLAY_Painkillers,Painkillers,,Smertestillande
 GAMEPLAY_PainkillersDescription,A bottle of Painkillers. Take it to reduce pain from injuries.,,Ein flaske med smertestillande. Minkar smerte ved skade.
 GAMEPLAY_Paint,Paint,,Måling
 GAMEPLAY_Pallet,Pallet,"single wooden, large pallet",Pall
-GAMEPLAY_Pallets,Pallets,"pile of large, wooDen pallets",Pallar
-GAMEPLAY_Pancake,Pancakes,,
-GAMEPLAY_Pancake_Acceptable,Acceptable Pancakes,,
-GAMEPLAY_Pancake_Crude,Crude Pancakes,,
-GAMEPLAY_Pancake_Elegant,Elegant Pancakes,,
-GAMEPLAY_Pancake_Gourmet,Gourmet Pancakes,,
-GAMEPLAY_Pancake_Ruined,Ruined Pancakes,,
-GAMEPLAY_PancakeDescription,Classic Pancakes. Hot and heartening.,,
+GAMEPLAY_Pallets,Pallets,"pile of large, wooden pallets",Pallar
+GAMEPLAY_Pancake,Pancakes,,Pannekaker
+GAMEPLAY_Pancake_Acceptable,Acceptable Pancakes,,Dugande pannekaker
+GAMEPLAY_Pancake_Crude,Crude Pancakes,,Slurvete pannekaker
+GAMEPLAY_Pancake_Elegant,Elegant Pancakes,,Stilfulle pannekaker
+GAMEPLAY_Pancake_Gourmet,Gourmet Pancakes,,Framifrå pannekaker
+GAMEPLAY_Pancake_Ruined,Ruined Pancakes,,Mygla pannekaker
+GAMEPLAY_PancakeDescription,Classic Pancakes. Hot and heartening.,,Gode gamle pannekaker slår aldri feil.
 GAMEPLAY_PanningRule,Audio Output,,Lydeining
 GAMEPLAY_PanningRuleHeadphones,Headphones,,Høyretelfonar
 GAMEPLAY_PanningRuleSpeakers,Speakers,,Høgtalarar
@@ -5274,26 +5274,26 @@ GAMEPLAY_PassTimeDescription,Advance time without the benefits of sleep.,,Få ti
 GAMEPLAY_PassTimeUntilCooked,Pass Time Until Ready,,Tidtrøyt til klart
 GAMEPLAY_Paused,Paused,,Pause
 GAMEPLAY_PauseMenu,Pause Menu,,Pausemeny
-GAMEPLAY_PeachFruitPie,Peach Pie,,
-GAMEPLAY_PeachFruitPie_Acceptable,Acceptable Peach Pie,,
-GAMEPLAY_PeachFruitPie_Crude,Crude Peach Pie,,
-GAMEPLAY_PeachFruitPie_Elegant,Elegant Peach Pie,,
-GAMEPLAY_PeachFruitPie_Gourmet,Gourmet Peach Pie,,
-GAMEPLAY_PeachFruitPie_Ruined,Ruined Peach Pie,,
-GAMEPLAY_PeachFruitPieDescription,"A pie filled with sweet, canned peaches. Reminds of warmer seasons and brighter days.",,
-GAMEPLAY_PeachFruitPies,Peach Pies,,
-GAMEPLAY_PeachFruitPies_Acceptable,Acceptable Peach Pies,,
-GAMEPLAY_PeachFruitPies_Crude,Crude Peach Pies,,
-GAMEPLAY_PeachFruitPies_Elegant,Elegant Peach Pies,,
-GAMEPLAY_PeachFruitPies_Gourmet,Gourmet Peach Pies,,
-GAMEPLAY_PeachFruitPies_Ruined,Ruined Peach Pies,,
-GAMEPLAY_PeachPancake,Lily's Pancakes,,
-GAMEPLAY_PeachPancake_Acceptable,Acceptable Lily's Pancakes,,
-GAMEPLAY_PeachPancake_Crude,Crude Lily's Pancakes,,
-GAMEPLAY_PeachPancake_Elegant,Elegant Lily's Pancakes,,
-GAMEPLAY_PeachPancake_Gourmet,Gourmet Lily's Pancakes,,
-GAMEPLAY_PeachPancake_Ruined,Ruined Lily's Pancakes,,
-GAMEPLAY_PeachPancakeDescription,"Classic Pancakes, with Peaches. Perfect for a day of climbing. ",,
+GAMEPLAY_PeachFruitPie,Peach Pie,,Ferskenpain
+GAMEPLAY_PeachFruitPie_Acceptable,Acceptable Peach Pie,,Dugande ferskenpai
+GAMEPLAY_PeachFruitPie_Crude,Crude Peach Pie,,Slurvete ferskenpai
+GAMEPLAY_PeachFruitPie_Elegant,Elegant Peach Pie,,Stilfull ferskenpai
+GAMEPLAY_PeachFruitPie_Gourmet,Gourmet Peach Pie,,Framifrå ferskenpai
+GAMEPLAY_PeachFruitPie_Ruined,Ruined Peach Pie,,Mygla ferskenpai
+GAMEPLAY_PeachFruitPieDescription,"A pie filled with sweet, canned peaches. Reminds of warmer seasons and brighter days.",,Ein pai fylt med søte fersken som låg i sukkerlake. Minnar ein om varmare årstider og lysare dagar.
+GAMEPLAY_PeachFruitPies,Peach Pies,,Ferskenpaiar
+GAMEPLAY_PeachFruitPies_Acceptable,Acceptable Peach Pies,,Dugande ferskenpaiar
+GAMEPLAY_PeachFruitPies_Crude,Crude Peach Pies,,Slurvete ferskenpaiar
+GAMEPLAY_PeachFruitPies_Elegant,Elegant Peach Pies,,Stilfulle ferskenpaiar
+GAMEPLAY_PeachFruitPies_Gourmet,Gourmet Peach Pies,,Framifrå ferskenpaiar
+GAMEPLAY_PeachFruitPies_Ruined,Ruined Peach Pies,,Mygla ferskenpaiar
+GAMEPLAY_PeachPancake,Lily's Pancakes,,Ferskenpannekaker
+GAMEPLAY_PeachPancake_Acceptable,Acceptable Lily's Pancakes,,Dugande ferskenpannekaker
+GAMEPLAY_PeachPancake_Crude,Crude Lily's Pancakes,,Slurvete ferskenpannekaker
+GAMEPLAY_PeachPancake_Elegant,Elegant Lily's Pancakes,,Stilfulle ferskenpannekaker
+GAMEPLAY_PeachPancake_Gourmet,Gourmet Lily's Pancakes,,Framifrå ferskenpannekaker
+GAMEPLAY_PeachPancake_Ruined,Ruined Lily's Pancakes,,Mygla ferskenpannekaker
+GAMEPLAY_PeachPancakeDescription,"Classic Pancakes, with Peaches. Perfect for a day of climbing. ",,Pannekaker laga av eikenøttmjøl med fersken og sirup attåt. Gjerne litt vel søtt?
 GAMEPLAY_PeanutButter,Peanut Butter,,Peanøttsmør
 GAMEPLAY_PeanutButter_Fresh,New Peanut Butter,,Nytt peanøttsmør
 GAMEPLAY_PeanutButter_Mouldy,Mouldy Peanut Butter,,Mygla peanøttsmør
@@ -5374,13 +5374,13 @@ GAMEPLAY_PorkandBeans_New,New Pork and Beans,,Ny boks med svinekjøt og bønner
 GAMEPLAY_PorkandBeans_Ruined,Ruined Pork and Beans,,Øydelagt boks med svinekjøt og bønner
 GAMEPLAY_PorkandBeans_Rusty,Rusty Pork and Beans,,Rusta boks med svinekjøt og bønner
 GAMEPLAY_PorkandBeansDescription,"Beans in molasses, with bits of what looks like pork.",,"Bønner i melasse, med noko som lignar på svinekjøt."
-GAMEPLAY_Porridge,Porridge,,
-GAMEPLAY_Porridge_Acceptable,Acceptable Porridge,,
-GAMEPLAY_Porridge_Crude,Crude Porridge,,
-GAMEPLAY_Porridge_Elegant,Elegant Porridge,,
-GAMEPLAY_Porridge_Gourmet,Gourmet Porridge,,
-GAMEPLAY_Porridge_Ruined,Ruined Porridge,,
-GAMEPLAY_PorridgeDescription,Oats cooked in Water. Sustaining and timeless.,,
+GAMEPLAY_Porridge,Porridge,,Havregraut
+GAMEPLAY_Porridge_Acceptable,Acceptable Porridge,,Dugande havregraut
+GAMEPLAY_Porridge_Crude,Crude Porridge,,Slurvete havregraut
+GAMEPLAY_Porridge_Elegant,Elegant Porridge,,Stilfull havregraut
+GAMEPLAY_Porridge_Gourmet,Gourmet Porridge,,Framifrå havregraut
+GAMEPLAY_Porridge_Ruined,Ruined Porridge,,Mygla havregraut
+GAMEPLAY_PorridgeDescription,Oats cooked in Water. Sustaining and timeless.,,Havregrynt kokt på vatn. Mettande kvardagskost.
 GAMEPLAY_PostFX,Post FX,,Ettereffektar
 GAMEPLAY_PostFXDescription,A variety of visual effects used to make the game look better. Reduce quality level to improve performance at the expense of visual quality.,,Eit utval visuelle effektar som gjer at spelet ser betre ut. Reduser kvalitetsnivået for å betre ytinga på kostnad av grafikken.
 GAMEPLAY_PostOfficeCollectible1,Milton Post Office Collectible,,Milton postkontor samleobjekt
@@ -5389,19 +5389,19 @@ GAMEPLAY_PostOfficeCollectible1NarrativeText,"""Margaret -- we have to stop acce
 GAMEPLAY_potable,potable,,drikkande
 GAMEPLAY_PotableWaterSource,Potable Water Source,,Kjelde med drikkande vatn
 GAMEPLAY_PotableWaterSupply,Potable Water Supply,,Forsyning med drikkande vatn
-GAMEPLAY_Potato,Potato,,
-GAMEPLAY_PotatoDescription,"Highly nutritious, but only edible when cooked.",,
-GAMEPLAY_PotatoSack,Perfect Potatoes,,
-GAMEPLAY_PotatoSackContainerOpen,Open Potato Sack,,
-GAMEPLAY_PotatoSackContainerSearch,Search Potato Sack,,
+GAMEPLAY_Potato,Potato,,Potet
+GAMEPLAY_PotatoDescription,"Highly nutritious, but only edible when cooked.",,Ein næringsrik knoll. Berre etandes kokt.
+GAMEPLAY_PotatoSack,Perfect Potatoes,,Potetsekk
+GAMEPLAY_PotatoSackContainerOpen,Open Potato Sack,,Opn potetsekk
+GAMEPLAY_PotatoSackContainerSearch,Search Potato Sack,,Gransk potetsekk
 GAMEPLAY_PotBellyStove,Pot Belly Stove,,Rund vedomn
-GAMEPLAY_PredatorPie,Stalker's Pie,,
-GAMEPLAY_PredatorPie_Acceptable,Acceptable Stalker's Pie,,
-GAMEPLAY_PredatorPie_Crude,Crude Stalker's Pie,,
-GAMEPLAY_PredatorPie_Elegant,Elegant Stalker's Pie,,
-GAMEPLAY_PredatorPie_Gourmet,Gourmet Stalker's Pie,,
-GAMEPLAY_PredatorPie_Ruined,Ruined Stalker's Pie,,
-GAMEPLAY_PredatorPieDescription,"A rich pie made with Bear and Wolf meat. Dangerous, mysterious filling.",,
+GAMEPLAY_PredatorPie,Stalker's Pie,,Rovdyrpai
+GAMEPLAY_PredatorPie_Acceptable,Acceptable Stalker's Pie,,Dugande rovdyrpai
+GAMEPLAY_PredatorPie_Crude,Crude Stalker's Pie,,Slurvete rovdyrpai
+GAMEPLAY_PredatorPie_Elegant,Elegant Stalker's Pie,,Stilfull rovdyrpai
+GAMEPLAY_PredatorPie_Gourmet,Gourmet Stalker's Pie,,Framifrå rovdyrpai
+GAMEPLAY_PredatorPie_Ruined,Ruined Stalker's Pie,,Mygla rovdyrpai
+GAMEPLAY_PredatorPieDescription,"A rich pie made with Bear and Wolf meat. Dangerous, mysterious filling.",,Ein mektig pai fylt med bjørne- og ulvekjøt. Et på eige ansvar.
 GAMEPLAY_PremiumWinterCoat,Premium Winter Coat,,Ekspedisjons anorakk
 GAMEPLAY_PremiumWinterCoat_Decent,decent Expedition Parka,,Nyttande ekspedisjons anorakk
 GAMEPLAY_PremiumWinterCoat_Mint,New Expedition Parka,,Ny ekspedisjons anorakk
@@ -5508,35 +5508,35 @@ GAMEPLAY_PtarmiganCookedDescription,Cooked flesh from a Ptarmigan.,,Steikt kjøt
 GAMEPLAY_PtarmiganDown,Ptarmigan Down,,Rypedun
 GAMEPLAY_PtarmiganDownDescription,Feathers harvested from a Ptarmigan. Can be used for crafting and gear improvements.,,Dunfjør frå ei fjellrype. Kan nyttast til laging og utbetringar av utstyr.
 GAMEPLAY_PtarmiganFeathers,Feathers,,Fjør
-GAMEPLAY_PtarmiganMeatPie,Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPie_Acceptable,Acceptable Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPie_Crude,Crude Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPie_Elegant,Elegant Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPie_Gourmet,Gourmet Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPie_Ruined,Ruined Ptarmigan Pie,,
-GAMEPLAY_PtarmiganMeatPieDescription,"A flaky, basic pie baked with meat from the ptarmigan. ",,
-GAMEPLAY_PtarmiganMeatPies,Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatPies_Acceptable,Acceptable Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatPies_Crude,Crude Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatPies_Elegant,Elegant Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatPies_Gourmet,Gourmet Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatPies_Ruined,Ruined Ptarmigan Pies,,
-GAMEPLAY_PtarmiganMeatStew,Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStew_Acceptable,Acceptable Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStew_Crude,Crude Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStew_Elegant,Elegant Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStew_Gourmet,Gourmet Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStew_Ruined,Ruined Ptarmigan Stew,,
-GAMEPLAY_PtarmiganMeatStewDescription,A stew filled with harvested ptarmigan meat.,,
-GAMEPLAY_PtarmiganNest,Ptarmigan Nest,,
-GAMEPLAY_PtarmiganRaw,Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRaw_Fresh,Fresh Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRaw_Gamey,Gamey Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRaw_Mouldy,Mouldy Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRaw_Rancid,Rancid Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRaw_Ruined,Ruined Ptarmigan (Raw),,
-GAMEPLAY_PtarmiganRawDescription,Flesh from a Ptarmigan. Cook to eat safely.,,
-GAMEPLAY_PullKnife,PULL KNIFE,,
+GAMEPLAY_PtarmiganMeatPie,Ptarmigan Pie,,Rypepai
+GAMEPLAY_PtarmiganMeatPie_Acceptable,Acceptable Ptarmigan Pie,,Dugande rypepai
+GAMEPLAY_PtarmiganMeatPie_Crude,Crude Ptarmigan Pie,,Slurvete rypepai
+GAMEPLAY_PtarmiganMeatPie_Elegant,Elegant Ptarmigan Pie,,Stilfull rypepai
+GAMEPLAY_PtarmiganMeatPie_Gourmet,Gourmet Ptarmigan Pie,,Framifrå rypepai
+GAMEPLAY_PtarmiganMeatPie_Ruined,Ruined Ptarmigan Pie,,Mygla rypepai
+GAMEPLAY_PtarmiganMeatPieDescription,"A flaky, basic pie baked with meat from the ptarmigan. ",,Ein smuldrete pai fylt med rypekjøt.
+GAMEPLAY_PtarmiganMeatPies,Ptarmigan Pies,,Rypepaiar
+GAMEPLAY_PtarmiganMeatPies_Acceptable,Acceptable Ptarmigan Pies,,Dugande rypepaiar
+GAMEPLAY_PtarmiganMeatPies_Crude,Crude Ptarmigan Pies,,Slurvete rypepaiar
+GAMEPLAY_PtarmiganMeatPies_Elegant,Elegant Ptarmigan Pies,,Stilfulle rypepaiar
+GAMEPLAY_PtarmiganMeatPies_Gourmet,Gourmet Ptarmigan Pies,,Framifrå rypepaiar
+GAMEPLAY_PtarmiganMeatPies_Ruined,Ruined Ptarmigan Pies,,Mygla rypepaiar
+GAMEPLAY_PtarmiganMeatStew,Ptarmigan Stew,,Rypegryte
+GAMEPLAY_PtarmiganMeatStew_Acceptable,Acceptable Ptarmigan Stew,,Dugande rypegryte
+GAMEPLAY_PtarmiganMeatStew_Crude,Crude Ptarmigan Stew,,Slurvete rypegryte
+GAMEPLAY_PtarmiganMeatStew_Elegant,Elegant Ptarmigan Stew,,Stilfull rypegryte
+GAMEPLAY_PtarmiganMeatStew_Gourmet,Gourmet Ptarmigan Stew,,Framifrå rypegryte
+GAMEPLAY_PtarmiganMeatStew_Ruined,Ruined Ptarmigan Stew,,Mygla rypegryte
+GAMEPLAY_PtarmiganMeatStewDescription,A stew filled with harvested ptarmigan meat.,,Ei gryte med mørt rypekjøt.
+GAMEPLAY_PtarmiganNest,Ptarmigan Nest,,Rypereir
+GAMEPLAY_PtarmiganRaw,Ptarmigan (Raw),,Rypekjøt (Rått)
+GAMEPLAY_PtarmiganRaw_Fresh,Fresh Ptarmigan (Raw),,Ferskt rypekjøt (Rått)
+GAMEPLAY_PtarmiganRaw_Gamey,Gamey Ptarmigan (Raw),,Seigt rypekjøt (Rått)
+GAMEPLAY_PtarmiganRaw_Mouldy,Mouldy Ptarmigan (Raw),,Mygla rypekjøt (Rått)
+GAMEPLAY_PtarmiganRaw_Rancid,Rancid Ptarmigan (Raw),,Harskt rypekjøt (Rått)
+GAMEPLAY_PtarmiganRaw_Ruined,Ruined Ptarmigan (Raw),,Ròte rypekjøt (Rått)
+GAMEPLAY_PtarmiganRawDescription,Flesh from a Ptarmigan. Cook to eat safely.,,Kjøt frå ei rype. Må steikast for å etast trygt.
+GAMEPLAY_PullKnife,PULL KNIFE,,DRA KNIV
 GAMEPLAY_PumpkinPie,Pumpkin Pie,,Graskarpai
 GAMEPLAY_PumpkinPieDescription,"A delicious, seasonal dessert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.",,Ein deilig dessert. Varm og fullpakka av kaloriar. Fakta: Det er ein kjent sak at villdyr ikkje likar lukta av graskar.
 GAMEPLAY_PumpkinPieDescriptionDarkwalker,"A delicious, seasonal dessert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.",,
@@ -5648,33 +5648,33 @@ GAMEPLAY_RabbitCooked_Ruined,Ruined Rabbit (Cooked),,Ròte kaninkjøt (Steikt)
 GAMEPLAY_RabbitCookedDescription,Steikt kjøt frå ei kanin.,,Steikt kjøt frå ei nusseleg kanin.
 GAMEPLAY_RabbitDescription,Unharvestad Rabbit carcass. Harvest it for usable meat.,Edited on July 3rd.,"Ei daud kanin, passeleg stor til å ha i lomma."
 GAMEPLAY_RabbitGrove,Rabbit Grove,,Kaninholt
-GAMEPLAY_RabbitMeatPie,Rabbit Pie,,
-GAMEPLAY_RabbitMeatPie_Acceptable,Acceptable Rabbit Pie,,
-GAMEPLAY_RabbitMeatPie_Crude,Crude Rabbit Pie,,
-GAMEPLAY_RabbitMeatPie_Elegant,Elegant Rabbit Pie,,
-GAMEPLAY_RabbitMeatPie_Gourmet,Gourmet Rabbit Pie,,
-GAMEPLAY_RabbitMeatPie_Ruined,Ruined Rabbit Pie,,
-GAMEPLAY_RabbitMeatPieDescription,A classic game pie in the traditional style. ,,
-GAMEPLAY_RabbitMeatPies,Rabbit Pies,,
-GAMEPLAY_RabbitMeatPies_Acceptable,Acceptable Rabbit Pies,,
-GAMEPLAY_RabbitMeatPies_Crude,Crude Rabbit Pies,,
-GAMEPLAY_RabbitMeatPies_Elegant,Elegant Rabbit Pies,,
-GAMEPLAY_RabbitMeatPies_Gourmet,Gourmet Rabbit Pies,,
-GAMEPLAY_RabbitMeatPies_Ruined,Ruined Rabbit Pies,,
-GAMEPLAY_RabbitMeatStew,Rabbit Stew,,
-GAMEPLAY_RabbitMeatStew_Acceptable,Acceptable Rabbit Stew,,
-GAMEPLAY_RabbitMeatStew_Crude,Crude Rabbit Stew,,
-GAMEPLAY_RabbitMeatStew_Elegant,Elegant Rabbit Stew,,
-GAMEPLAY_RabbitMeatStew_Gourmet,Gourmet Rabbit Stew,,
-GAMEPLAY_RabbitMeatStew_Ruined,Ruined Rabbit Stew,,
-GAMEPLAY_RabbitMeatStewDescription,A basic rabbit stew. ,,
+GAMEPLAY_RabbitMeatPie,Rabbit Pie,,Kaninpai
+GAMEPLAY_RabbitMeatPie_Acceptable,Acceptable Rabbit Pie,,Dugande kaninpai
+GAMEPLAY_RabbitMeatPie_Crude,Crude Rabbit Pie,,Slurvete kaninpai
+GAMEPLAY_RabbitMeatPie_Elegant,Elegant Rabbit Pie,,Stilfull kaninpai
+GAMEPLAY_RabbitMeatPie_Gourmet,Gourmet Rabbit Pie,,Framifrå kaninpai
+GAMEPLAY_RabbitMeatPie_Ruined,Ruined Rabbit Pie,,Mygla kaninpai
+GAMEPLAY_RabbitMeatPieDescription,A classic game pie in the traditional style. ,,Ein viltpai fylt med magert kaninkjøt.
+GAMEPLAY_RabbitMeatPies,Rabbit Pies,,Kaninpaiar
+GAMEPLAY_RabbitMeatPies_Acceptable,Acceptable Rabbit Pies,,Dugande kaninpaiar
+GAMEPLAY_RabbitMeatPies_Crude,Crude Rabbit Pies,,Slurvete kaninpaiar
+GAMEPLAY_RabbitMeatPies_Elegant,Elegant Rabbit Pies,,Stilfulle kaninpaiar
+GAMEPLAY_RabbitMeatPies_Gourmet,Gourmet Rabbit Pies,,Framifrå kaninpaiar
+GAMEPLAY_RabbitMeatPies_Ruined,Ruined Rabbit Pies,,Mygla kaninpaiar
+GAMEPLAY_RabbitMeatStew,Rabbit Stew,,Kaningryte
+GAMEPLAY_RabbitMeatStew_Acceptable,Acceptable Rabbit Stew,,Dugande kaningryte
+GAMEPLAY_RabbitMeatStew_Crude,Crude Rabbit Stew,,Slurvete kaningryte
+GAMEPLAY_RabbitMeatStew_Elegant,Elegant Rabbit Stew,,Stilfull kaningryte
+GAMEPLAY_RabbitMeatStew_Gourmet,Gourmet Rabbit Stew,,Framifrå kaningryte
+GAMEPLAY_RabbitMeatStew_Ruined,Ruined Rabbit Stew,,Mygla kaningryte
+GAMEPLAY_RabbitMeatStewDescription,A basic rabbit stew. ,,Ei einkel kaningryte.
 GAMEPLAY_RabbitRaw,Rabbit  (Raw),,Kaninkjøt (Rått)
 GAMEPLAY_RabbitRaw_Fresh,Fresh Rabbit  (Raw),,Ferskt kaninkjøt (Rått)
 GAMEPLAY_RabbitRaw_Gamey,Gamey Rabbit  (Raw),,Seigt kaninkjøt (Rått)
 GAMEPLAY_RabbitRaw_Mouldy,Mouldy Rabbit  (Raw),,Mygla kaninkjøt (Rått)
 GAMEPLAY_RabbitRaw_Rancid,Rancid Rabbit  (Raw),,Harskt kaninkjøt (Rått)
 GAMEPLAY_RabbitRaw_Ruined,Ruined Rabbit  (Raw),,Ròte kaninkjøt (Rått)
-GAMEPLAY_RabbitRawDescription,Flesh from a rabbit. Cook to eat safely.,,Kaninkjøt. Må steikast for å kunne etast trygt.
+GAMEPLAY_RabbitRawDescription,Flesh from a rabbit. Cook to eat safely.,,Kjøt frå ein kanin. Må steikast for å etast trygt.
 GAMEPLAY_RabbitskinHat,Rabbitskin Hat,,Kaninskinnshue
 GAMEPLAY_RabbitskinHat_Decent,Decent Rabbitskin Hat,,Nyttande kaninskinnshue
 GAMEPLAY_RabbitskinHat_Mint,New Rabbitskin Hat,,Nye kaninskinnshue
@@ -5706,7 +5706,7 @@ GAMEPLAY_RadialMap,Open Map,,Opn kart
 GAMEPLAY_RadialNavigation,Navigation,,Navigasjon
 GAMEPLAY_RadialPassTime,Pass Time,,Tidstrøyte
 GAMEPLAY_RadialPlaceItem,Campcraft,,Leirkunnskap
-GAMEPLAY_RadialRockCache,Rock Cache,,
+GAMEPLAY_RadialRockCache,Rock Cache,,Steinøyme
 GAMEPLAY_RadialShelter,Refuge,,Ly
 GAMEPLAY_RadialSnowShelter,Snow Shelter,,Snøhole
 GAMEPLAY_RadialSprayPaint,Spray Paint,,
@@ -5795,7 +5795,7 @@ GAMEPLAY_RawSmallMouthBass_Rancid,Rancid Smallmouth Bass (Raw),,Harsk svart laks
 GAMEPLAY_RawSmallMouthBass_Ruined,Ruined Smallmouth Bass (Raw),,Ròten svart lakseabbor (Rå)
 GAMEPLAY_RawSmallMouthBassDescription,A hefty sized freshwater fish. Intolerant of polluted waters.,,Ein stor ferskvassfisk. Tålar ikkje forureina vatn.
 GAMEPLAY_ReachedCheckpoint,Reached Checkpoint,,Kontrollpunkt nådd
-GAMEPLAY_ReachedMaxRockCaches,Reached maximum number of Rock Caches,,
+GAMEPLAY_ReachedMaxRockCaches,Reached maximum number of Rock Caches,,Nådde høgaste tal av steingøyme
 GAMEPLAY_Read,Read,"As in ""Read a book""",Les
 GAMEPLAY_ReadIt,Research It,Action on Inspect Mode UI,Les han
 GAMEPLAY_ReadText,Read Text,,Les tekst
@@ -6046,20 +6046,20 @@ GAMEPLAY_RopeDeployed,Mountaineering Rope deployed,,Tau tatt i bruk
 GAMEPLAY_RopeDescription,Heavy-duty rope designed for climbing.,,Eit sikkeleg tau som nyttast til fjellklatring.
 GAMEPLAY_RoseHip,Rose Hip,,Nype
 GAMEPLAY_RoseHipDescription,The fruit of a wild rose bush. Can be used to make a tea that helps manage pain.,"Updated July 12th, 2017.",Frukten til ein vill rosebusk. Kan nyttas til å laga te som lindrar smerte.
-GAMEPLAY_RoseHipFruitPie,Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPie_Acceptable,Acceptable Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPie_Crude,Crude Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPie_Elegant,Elegant Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPie_Gourmet,Gourmet Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPie_Ruined,Ruined Rose Hip Pie,,
-GAMEPLAY_RoseHipFruitPieDescription,A thick-crusted pie overflowing with Rose Hips. ,,
-GAMEPLAY_RoseHipFruitPies,Rose Hip Pies,,
-GAMEPLAY_RoseHipFruitPies_Acceptable,Acceptable Rose Hip Pies,,
-GAMEPLAY_RoseHipFruitPies_Crude,Crude Rose Hip Pies,,
-GAMEPLAY_RoseHipFruitPies_Elegant,Elegant Rose Hip Pies,,
-GAMEPLAY_RoseHipFruitPies_Gourmet,Gourmet Rose Hip Pies,,
-GAMEPLAY_RoseHipFruitPies_Ruined,Ruined Rose Hip Pies,,
-GAMEPLAY_RoseHips,Rose Hips,,Nyper
+GAMEPLAY_RoseHipFruitPie,Rose Hip Pie,,Nypepai
+GAMEPLAY_RoseHipFruitPie_Acceptable,Acceptable Rose Hip Pie,,Dugande nypepai
+GAMEPLAY_RoseHipFruitPie_Crude,Crude Rose Hip Pie,,Slurvete nypepai
+GAMEPLAY_RoseHipFruitPie_Elegant,Elegant Rose Hip Pie,,Stilfull nypepai
+GAMEPLAY_RoseHipFruitPie_Gourmet,Gourmet Rose Hip Pie,,Framifrå nypepai
+GAMEPLAY_RoseHipFruitPie_Ruined,Ruined Rose Hip Pie,,Mygla nypepai
+GAMEPLAY_RoseHipFruitPieDescription,A thick-crusted pie overflowing with Rose Hips. ,,Ein pai med tjukk sorpe og stappfull av nyper.
+GAMEPLAY_RoseHipFruitPies,Rose Hip Pies,,Nypepaiar
+GAMEPLAY_RoseHipFruitPies_Acceptable,Acceptable Rose Hip Pies,,Dugande nypepaiar
+GAMEPLAY_RoseHipFruitPies_Crude,Crude Rose Hip Pies,,Slurvete nypepaiar
+GAMEPLAY_RoseHipFruitPies_Elegant,Elegant Rose Hip Pies,,Stilfull nypepaiar
+GAMEPLAY_RoseHipFruitPies_Gourmet,Gourmet Rose Hip Pies,,Framifrå nypepaiar
+GAMEPLAY_RoseHipFruitPies_Ruined,Ruined Rose Hip Pies,,Mygla nypepaiar
+GAMEPLAY_RoseHips,Rose Hips,,Nyper nypepaiar
 GAMEPLAY_RoseHipsHarvest,Harvest Rose Hips,,Plukk nyper
 GAMEPLAY_RosehipsPrepared,Prepared Rosehips,,Klargjorte nyper
 GAMEPLAY_RosehipsPreparedDescription,Roships that are ready to be boiled to make a healing natural tea.,"Modified July 19th, 2017",Nyper som er klare for koking. Du får ein lækjande og naturleg te.
@@ -6547,9 +6547,9 @@ GAMEPLAY_SummitSodaDescription,Sweet carbonated drink. Full of high-fructose cor
 GAMEPLAY_SupplyBin,Supply Bin,,Forsyningskasse
 GAMEPLAY_SupplyBinContainerOpen,Open Supply Bin,,Opn forsyningskasse
 GAMEPLAY_SupplyBinContainerSearch,Search Supply Bin,,Gransk forsyningskasse
-GAMEPLAY_SupplyCacheContainer,Supply Cache,,
-GAMEPLAY_SupplyCacheContainerContainerOpen,Open Supply Cache,,
-GAMEPLAY_SupplyCacheContainerContainerSearch,Search Supply Cache,,
+GAMEPLAY_SupplyCacheContainer,Supply Cache,,Gøyme
+GAMEPLAY_SupplyCacheContainerContainerOpen,Open Supply Cache,,Opn gøyme
+GAMEPLAY_SupplyCacheContainerContainerSearch,Search Supply Cache,,Grasnk gøyme
 GAMEPLAY_SurivorCarryReq,Carry the Survivor to go indoors during Survivor Rescue Missions,,
 GAMEPLAY_SurivorCarryReqOutdoors,Carry the Survivor to go outdoors during Survivor Rescue Missions,,
 GAMEPLAY_SurvDeathBloodLoss,{name} has died from Blood Loss,,
@@ -6938,9 +6938,9 @@ GAMEPLAY_TeeShirt_Worn,Worn T-Shirt,,Velbrukt t-skjorte
 GAMEPLAY_TeeShirtDescription,"Short-sleeved cotton t-shirt. Doesn't offer much warmth, particularly when wet.",,"Korterma-skjorte av bomull. Gjev ikkje mykje varme, spesielt ikkje når han er våt."
 GAMEPLAY_Temperature,Temperature,,Temperatur
 GAMEPLAY_TestBuild, TEST BUILD,Shown on HUD to incdicate build is a test version, TEST-VERSJON
-GAMEPLAY_TestCache,Test Cache,,Test oppbevaring
-GAMEPLAY_TestCacheContainerOpen,Open Test Cache,,Opn testoppbevaring
-GAMEPLAY_TestCacheContainerSearch,Opn testoppbevaring,,Gransk testoppbevaring
+GAMEPLAY_TestCache,Test Cache,,Testgøyme
+GAMEPLAY_TestCacheContainerOpen,Open Test Cache,,Opn testgøyme
+GAMEPLAY_TestCacheContainerSearch,Opn testoppbevaring,,Gransk testgøyme
 GAMEPLAY_TestWaterSource,Test Water Source,,Test vasskjelde
 GAMEPLAY_TextureQuality,Texture Resolution,,Teksturoppløysning
 GAMEPLAY_TextureQualityDescription,Lower quality textures look worse but may perform better.,,"Teksturar av lågare kvalitet vil kanskje sjå verre ut, men ytinga kan verta betre."
@@ -7086,13 +7086,13 @@ GAMEPLAY_TreeBillboardDistance,Tree Billboard Distance,,Avstand for bakgrunnstre
 GAMEPLAY_TreeBillboardDistanceDescription,Reducing this distance is better for performance but will mean trees in the distance don't look as good.,,"Å redusere denne avstanden gjev betre yting, men gjer òg at tre i bakgrunnen ikkje ser like fine ut."
 GAMEPLAY_TrialMode,Trial Mode,,Prøvemodus
 GAMEPLAY_TrialVersion,Trial Version,,Prøveversjon
-GAMEPLAY_TroutMeatStew,Trout Stew,,
-GAMEPLAY_TroutMeatStew_Acceptable,Acceptable Trout Stew,,
-GAMEPLAY_TroutMeatStew_Crude,Crude Trout Stew,,
-GAMEPLAY_TroutMeatStew_Elegant,Elegant Trout Stew,,
-GAMEPLAY_TroutMeatStew_Gourmet,Gourmet Trout Stew,,
-GAMEPLAY_TroutMeatStew_Ruined,Ruined Trout Stew,,
-GAMEPLAY_TroutMeatStewDescription,"A flavorful stew made from the ubiquitous, colourful fish. ",,
+GAMEPLAY_TroutMeatStew,Trout Stew,,Auregrute
+GAMEPLAY_TroutMeatStew_Acceptable,Acceptable Trout Stew,,Dugande auregryte
+GAMEPLAY_TroutMeatStew_Crude,Crude Trout Stew,,Slurvete auregryte
+GAMEPLAY_TroutMeatStew_Elegant,Elegant Trout Stew,,Stilfull auregryte
+GAMEPLAY_TroutMeatStew_Gourmet,Gourmet Trout Stew,,Framifrå auregryte
+GAMEPLAY_TroutMeatStew_Ruined,Ruined Trout Stew,,Mygla auregryte
+GAMEPLAY_TroutMeatStewDescription,"A flavorful stew made from the ubiquitous, colourful fish. ",,Ein smakfull gryterett med den velkjende og fargerike fisken.
 GAMEPLAY_Trunk,Trunk,,Bagasjerom
 GAMEPLAY_TrunkContainerOpen,Open Trunk,car trunk,Opn bagasjerom
 GAMEPLAY_TrunkContainerSearch,Search Trunk,car trunk,Gransk bagasjerom
@@ -7369,9 +7369,9 @@ GAMEPLAY_TypeHeader,Type:,,Type:
 GAMEPLAY_Ultra,Ultra,,Ultra
 GAMEPLAY_UnableToForage,You were unable to forage any usable wood,,Du klarte ikkje sanke noko Nyttande ved
 GAMEPLAY_Unarmed,Unarmed,,Uvæpna
-GAMEPLAY_UncoverBunker,Uncover,,
-GAMEPLAY_UncoverCache,Uncover Cache,,
-GAMEPLAY_Uncovering,Uncovering...,,
+GAMEPLAY_UncoverBunker,Uncover,,Grav fram
+GAMEPLAY_UncoverCache,Uncover Cache,,Grav fram gøyme
+GAMEPLAY_Uncovering,Uncovering...,,Grev fram...
 GAMEPLAY_Unequip,Unequip,,Legg vekk
 GAMEPLAY_UnHangBait,Detach bait,2n line displayed when hovering a Hanging Tree with bait during the Bear Hunt,
 GAMEPLAY_units,units,,einingar
@@ -7407,14 +7407,14 @@ GAMEPLAY_UserChanged,The signed in user has changed. ,,Innlogga brukar vart endr
 GAMEPLAY_UserMarker,Custom Marker,,
 GAMEPLAY_Using,Using,"As in ""Using knife"" or ""Using fists""",Nyttar
 GAMEPLAY_VaultCodeRequired,Bank Vault Code required,,Du må ha koden til bankhvelvet
-GAMEPLAY_VegetableCart,Vegetable Cart,,
-GAMEPLAY_VegetableStew,Thomson Family Stew,,
-GAMEPLAY_VegetableStew_Acceptable,Acceptable Thomson Family Stew,,
-GAMEPLAY_VegetableStew_Crude,Crude Thomson Family Stew,,
-GAMEPLAY_VegetableStew_Elegant,Elegant Thomson Family Stew,,
-GAMEPLAY_VegetableStew_Gourmet,Gourmet Thomson Family Stew,,
-GAMEPLAY_VegetableStew_Ruined,Ruined Thomson Family Stew,,
-GAMEPLAY_VegetableStewDescription,A light but satisfying stew made with vegetables. Fresh from the gardens of Pleasant Valley.,,
+GAMEPLAY_VegetableCart,Vegetable Cart,,Grønsakskjerre
+GAMEPLAY_VegetableStew,Thomson Family Stew,,Grønsaksgryte
+GAMEPLAY_VegetableStew_Acceptable,Acceptable Thomson Family Stew,,Dugande grønsaksgryte
+GAMEPLAY_VegetableStew_Crude,Crude Thomson Family Stew,,Slurvete grønsaksgryte
+GAMEPLAY_VegetableStew_Elegant,Elegant Thomson Family Stew,,Stilfull grønsaksgryte
+GAMEPLAY_VegetableStew_Gourmet,Gourmet Thomson Family Stew,,Framifrå grønsaksgryte
+GAMEPLAY_VegetableStew_Ruined,Ruined Thomson Family Stew,,Mygla grønsaksgryte
+GAMEPLAY_VegetableStewDescription,A light but satisfying stew made with vegetables. Fresh from the gardens of Pleasant Valley.,,Ein mild og mettande gryterett laga av grønsaker.
 GAMEPLAY_Vehicle,Vehicle,Map marker,Køyretøy
 GAMEPLAY_VehicleEnter,Enter Vehicle,,Gå inn i køyretøy
 GAMEPLAY_VehicleLeave,Leave Vehicle,,Gå ut av køyretøy
@@ -7425,26 +7425,26 @@ GAMEPLAY_VenisonCooked_Mouldy,Mouldy Venison (Cooked),,Mygla hjortekjøt (Steikt
 GAMEPLAY_VenisonCooked_Rancid,Rancid Venison (Cooked),,Harskt hjortekjøt (Steikt)
 GAMEPLAY_VenisonCooked_Ruined,Ruined Venison (Cooked),,Ròte hjortekjøt (Steikt)
 GAMEPLAY_VenisonCookedDescription,Cooked flesh from a deer.,,Kjøt frå ein hjort.
-GAMEPLAY_VenisonMeatPie,Venison Pie,,
-GAMEPLAY_VenisonMeatPie_Acceptable,Acceptable Venison Pie,,
-GAMEPLAY_VenisonMeatPie_Crude,Crude Venison Pie,,
-GAMEPLAY_VenisonMeatPie_Elegant,Elegant Venison Pie,,
-GAMEPLAY_VenisonMeatPie_Gourmet,Gourmet Venison Pie,,
-GAMEPLAY_VenisonMeatPie_Ruined,Ruined Venison Pie,,
-GAMEPLAY_VenisonMeatPieDescription,A game pie made from harvested deer meat.,,
-GAMEPLAY_VenisonMeatPies,Venison Pies,,
-GAMEPLAY_VenisonMeatPies_Acceptable,Acceptable Venison Pies,,
-GAMEPLAY_VenisonMeatPies_Crude,Crude Venison Pies,,
-GAMEPLAY_VenisonMeatPies_Elegant,Elegant Venison Pies,,
-GAMEPLAY_VenisonMeatPies_Gourmet,Gourmet Venison Pies,,
-GAMEPLAY_VenisonMeatPies_Ruined,Ruined Venison Pies,,
-GAMEPLAY_VenisonMeatStew,Venison Stew,,
-GAMEPLAY_VenisonMeatStew_Acceptable,Acceptable Venison Stew,,
-GAMEPLAY_VenisonMeatStew_Crude,Crude Venison Stew,,
-GAMEPLAY_VenisonMeatStew_Elegant,Elegant Venison Stew,,
-GAMEPLAY_VenisonMeatStew_Gourmet,Gourmet Venison Stew,,
-GAMEPLAY_VenisonMeatStew_Ruined,Ruined Venison Stew,,
-GAMEPLAY_VenisonMeatStewDescription,A tangy and powerful stew made from harvested deer meat. ,,
+GAMEPLAY_VenisonMeatPie,Venison Pie,,Hjortepai
+GAMEPLAY_VenisonMeatPie_Acceptable,Acceptable Venison Pie,,Dugande hjortepai
+GAMEPLAY_VenisonMeatPie_Crude,Crude Venison Pie,,Slurvete hjortepai
+GAMEPLAY_VenisonMeatPie_Elegant,Elegant Venison Pie,,Stilfull hjortepai
+GAMEPLAY_VenisonMeatPie_Gourmet,Gourmet Venison Pie,,Framifrå hjortepai
+GAMEPLAY_VenisonMeatPie_Ruined,Ruined Venison Pie,,Mygla hjortepai
+GAMEPLAY_VenisonMeatPieDescription,A game pie made from harvested deer meat.,,Ein viltpai fylt med godt hjortekjøt.
+GAMEPLAY_VenisonMeatPies,Venison Pies,,Hjortepaiar
+GAMEPLAY_VenisonMeatPies_Acceptable,Acceptable Venison Pies,,Dugande hjortepaiar
+GAMEPLAY_VenisonMeatPies_Crude,Crude Venison Pies,,Slurvete hjortepaiar
+GAMEPLAY_VenisonMeatPies_Elegant,Elegant Venison Pies,,Stilfull hjortepaiar
+GAMEPLAY_VenisonMeatPies_Gourmet,Gourmet Venison Pies,,Framifrå hjortepaiar
+GAMEPLAY_VenisonMeatPies_Ruined,Ruined Venison Pies,,Mygla hjortepaiar
+GAMEPLAY_VenisonMeatStew,Venison Stew,,Hjortegryte
+GAMEPLAY_VenisonMeatStew_Acceptable,Acceptable Venison Stew,,Dugande hjortegryte
+GAMEPLAY_VenisonMeatStew_Crude,Crude Venison Stew,,Slurvete hjortegryte
+GAMEPLAY_VenisonMeatStew_Elegant,Elegant Venison Stew,,Stilfull hjortegryte
+GAMEPLAY_VenisonMeatStew_Gourmet,Gourmet Venison Stew,,Framifrå hjortegryte
+GAMEPLAY_VenisonMeatStew_Ruined,Ruined Venison Stew,,Mygla hjortegryte
+GAMEPLAY_VenisonMeatStewDescription,A tangy and powerful stew made from harvested deer meat. ,,Ein mektig gryterett med ein skarp viltsmak frå hjortekjøtet.
 GAMEPLAY_VenisonRaw,Venison (Raw),,Hjortekjøt (Rått)
 GAMEPLAY_VenisonRaw_Fresh,Fresh Venison (Raw),,Ferskt hjortekjøt (Rått)
 GAMEPLAY_VenisonRaw_Gamey,Gamey Venison (Raw),,Seigt hjortekjøt (Rått)
@@ -7458,7 +7458,7 @@ GAMEPLAY_VeryHigh,Very High,,Særs høgt
 GAMEPLAY_VeryTired,Very Tired,,Veldig trøytt
 GAMEPLAY_View,View,,Vis
 GAMEPLAY_ViewNotes,View Notes,,Vis notata
-GAMEPLAY_ViewPrivacyPolicy,View Privacy Policy,,
+GAMEPLAY_ViewPrivacyPolicy,View Privacy Policy,,Vis personvernreglar
 GAMEPLAY_Visor,Visor,,Skjerm
 GAMEPLAY_VisorInteractClose,Close Visor,car visor,Lat att skjerm
 GAMEPLAY_VisorInteractOpen,Open Visor,car visor,Opn skjerm
@@ -7543,8 +7543,8 @@ GAMEPLAY_VisorNoteHRV3_Narrative,They went in but never came out. I waited five 
 GAMEPLAY_VisorNoteHRVKey1,Memento Key,,
 GAMEPLAY_VisorNoteHRVKey1_Description,A Key to a Lockbox.,,
 GAMEPLAY_VisorNoteHRVKey1_Narrative,An old Key to a Lockbox in Hushed River Valley,,
-GAMEPLAY_VisorNoteMapIcon,Memento Hint,,
-GAMEPLAY_VisorNoteMapIconLoot,Memento Cache,,
+GAMEPLAY_VisorNoteMapIcon,Memento Hint,,Minnevink
+GAMEPLAY_VisorNoteMapIconLoot,Memento Cache,,Minnegøyme
 GAMEPLAY_VisorNoteML1,Scrawled Message,,
 GAMEPLAY_VisorNoteML1_Description,A note with a survival hint.,,
 GAMEPLAY_VisorNoteML1_Narrative,A new cave has opened up to Milton. Near the old Trapper's place. Earthquake?,,
@@ -8946,7 +8946,7 @@ SCENENAME_CrashMountainRegion,Timberwolf Mountain,,Vargafjellet
 SCENENAME_DamCaveTransitionZone,Cave System,,Holesystem
 SCENENAME_DamRiver,Winding River,River area leading to carter Dam,Buktande elv
 SCENENAME_DamTransitionZone,Lower Dam,,Nedre demning
-SCENENAME_EmptyPrepperCache,Prepper's Abandoned Cache,,Førebuaren si etterlata oppbevaring
+SCENENAME_EmptyPrepperCache,Prepper's Abandoned Cache,,Førebuaren sitt etterlata gøyme
 SCENENAME_FarmHouse,Farmhouse,,Våningshus
 SCENENAME_FarmHouseBasement,Farmhouse Basement,,Kjellaren i våningshuset
 SCENENAME_FishingCabin,Fishing Cabin,,Fiskehytte
@@ -8971,7 +8971,7 @@ SCENENAME_MotelRoom,Motel Room,,
 SCENENAME_MountainTownRegion,Mountain Town,,Milton
 SCENENAME_MysteryLake,Mystery Lake,,Løyndomsvatnet
 SCENENAME_PostOffice,Post Office,,Postkontoret
-SCENENAME_PrepperCache,Prepper Cache,,Førebuaren sin oppbevaring
+SCENENAME_PrepperCache,Prepper Cache,,Førebuaren sitt gøyme
 SCENENAME_PumpHouse,Pump House,,
 SCENENAME_PVChurch,Pleasant Valley Church,,Kosedalen kyrkje
 SCENENAME_QuonsetGasStation,Quonset Garage,,Quonset bilverkstad
