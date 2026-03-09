@@ -858,8 +858,8 @@ CAIRN_Quote162,"""Its story is not yet written...""",,"""Historia dess er enno i
 CAIRN_Quote163,"""Its story is not yet written...""",,"""Historia dess er enno ikkje skriven..."""
 CAIRN_Quote164,"""Its story is not yet written...""",,"""Historia dess er enno ikkje skriven..."""
 CAIRN_Quote165,"""Its story is not yet written...""",,"""Historia dess er enno ikkje skriven..."""
-CERT_ProfileChanged,The signed in profile has changed.,xbox 1 cert string for Profile Changed event,Innlogga profil er endra.
-CERT_SwitchProfile,Switch Profile,xbox 1 cert string for Profile switch in MainMenu,Bytt profil
+CERT_ProfileChanged,The signed in profile has changed.,xbox 1 cert string for Profile Changed event,Innlogga profil vart endra.
+CERT_SwitchProfile,Switch Profile,xbox 1 cert string for Profile switch in MainMenu,Byt profil
 CINEMATIC_SMAst1000,I know you do.,,Eg vet.
 CINEMATIC_SMAst1020,You don’t have to...let’s not...,,Du treng ikkje … la oss ikkje …
 CINEMATIC_SMAst1040,Mackenzie. Not now. There’s...,,Mackenzie. ikkje nå. det er …
@@ -955,7 +955,7 @@ DIA_TEST_Ast100,Yup. The radio’s sure dead. [TEMP],setup as test for TLD-13482
 DIA_TEST_Ast110,"Well, that trip was a waste. [TEMP]",setup as test for TLD-13482 only,
 DIA_TEST_Ast200,The radio...it’s working! [TEMP],setup as test for TLD-13482 only,
 DIA_TEST_Ast210,Damn! Why can’t I get anything... [TEMP],setup as test for TLD-13482 only,
-DLC_DLC01,Tales from the Far Territory,,
+DLC_DLC01,Tales from the Far Territory,,Soger frå Fjærnstrøket
 EP4_BlackBlackHeart,Black Black Heart,,
 EP4_BlackBlackHeartDescription,Collect all four bloody pages from the Blackrock Archives.,,
 EP4_EnemyForLife,Enemy For Life,,
@@ -995,8 +995,8 @@ GAMEPALY_HungerFull,Full,related to hunger,Mett
 GAMEPLAT_BaseTimeRermaining,Base Time Remaining,,
 GAMEPLAY_12Hour,12 Hour,,12 timar
 GAMEPLAY_24Hour,24 Hour,,24 timar
-GAMEPLAY_38AmmoBox,.38 Ammo Box,,Øskje med .38-ammunisjon
-GAMEPLAY_38AmmoBoxDescription,A box of .38 caliber ammo.,,Ei øskje med kaliber .38-ammunisjon.
+GAMEPLAY_38AmmoBox,.38 Ammo Box,,Revolverskotøskje
+GAMEPLAY_38AmmoBoxDescription,A box of .38 caliber ammo.,,Ei øskje med .38 Special-skot.
 GAMEPLAY_4DONDayComplete,Day Complete,,Dag fullført
 GAMEPLAY_4DONObjectiveDay1,Day 1: Wildlife have vanished -- use this time to explore and gather supplies for the long nights ahead. Survive at least two real-time hours to make progress towards 4DON Rewards.,"Added ""Survive at least two real-time hours to make progress towards 4DON Rewards.""",Dag 1: Dyrelivet har kvorve; nytt denne tida til å utforska og å samla forsyningar for dei komade nettene. Overlev minst to timar i sanntid for å gjera framsteg mot 4DON vederlag.
 GAMEPLAY_4DONObjectiveDay2,"Day 2: Wolves have returned to Great Bear Island, watch out! Survive at least two real-time hours to make progress towards 4DoN Rewards.",,"Dag 2: Ulvane har returnert til Sværebjørn, ver å vakt! Overlev minst to timar i sanntid for å gjera framsteg mot 4DON vederlag."
@@ -1080,14 +1080,14 @@ GAMEPLAY_Afflictions,Afflictions,,Lidelser
 GAMEPLAY_AfflictionSuffocating,Suffocation,,Kveling
 GAMEPLAY_AfflictionSuffocationCause,Unbreathable air,,Upustande luft
 GAMEPLAY_AfflictionSuffocationDescription,You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. ,,Du går tom for luft å pusta. Finn ei lomme med frisk luft eller ta på deg ei vernemaske før du døyr.
-GAMEPLAY_AfflictionToxicFog,Toxic Fog,UI label,Giftig Skodde
-GAMEPLAY_AfflictionToxicFogCause,Poisonous Toxic Fog,UI label,Pusta inn giftig skodde.
-GAMEPLAY_AfflictionToxicFogTreatment,Escape the Fog,,Kom deg ut av skodda.
+GAMEPLAY_AfflictionToxicFog,Toxic Fog,UI label,Giftig tåke
+GAMEPLAY_AfflictionToxicFogCause,Poisonous Toxic Fog,UI label,Pusta inn giftig tåke.
+GAMEPLAY_AfflictionToxicFogTreatment,Escape the Fog,,Kom deg ut av tåka.
 GAMEPLAY_AFShed,Shed,,Skur
 GAMEPLAY_Afternoon,Afternoon,,Ettermiddag
 GAMEPLAY_Aim,Aim,action,Sikt
-GAMEPLAY_AimOnly,Aiming Only,,
-GAMEPLAY_AimSensitivity,Aim Sensitivity,,
+GAMEPLAY_AimOnly,Aiming Only,,Berre sikting
+GAMEPLAY_AimSensitivity,Aim Sensitivity,,Siktefølsemd
 GAMEPLAY_AirfieldCabinNote,Page,,
 GAMEPLAY_AirfieldCabinNote_Description,A page from a diary.,,
 GAMEPLAY_AirfieldCabinNote_Narrative,"Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can’t all be tourists. Not anymore and not for a long while anyway.",,
@@ -1184,7 +1184,7 @@ GAMEPLAY_AmmoWorkBench,Ammunition Work Bench,,Ladebenk
 GAMEPLAY_AmmunitionForge,(tom),,
 GAMEPLAY_AmmunitionWorkBench,Ammunition WorkBench,,
 GAMEPLAY_Amount,Amount,,Mengd
-GAMEPLAY_AnalogSensitivity,Analog Sticks Sensitivity,,Sensitivitet for analoge spaker
+GAMEPLAY_AnalogSensitivity,Analog Sticks Sensitivity,,Styrestikkefølsemd
 GAMEPLAY_AnimalGut,Gut,,Tarm
 GAMEPLAY_AnimalHide,Hide,,Skinn
 GAMEPLAY_Antibiotics,Antibiotics,,Antibiotika
@@ -1792,7 +1792,7 @@ GAMEPLAY_BuildingShelterWillCost,Building Snow Shelter Will Cost,,Å bygge ei sn
 GAMEPLAY_BuildRockCacheProgress,Building Rock Cache,,
 GAMEPLAY_BuildSnowShelter,Build Snow Shelter,,Bygg snøhole
 GAMEPLAY_Bullet,Bullet,,Blykule
-GAMEPLAY_BulletDescription,Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.,,"Ladekomponent til patroner, for både rifle og revolver. Kan verta støypt frå skrapbly."
+GAMEPLAY_BulletDescription,Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.,,Ladekomponent til både børse- og revolverskot. Laga ved å støypa om skrapbly.
 GAMEPLAY_Bullets,Bullets,Plural version of GAMEPLAY_Bullet,Blykuler
 GAMEPLAY_Burdock,Burdock Root,,Kardeborre
 GAMEPLAY_BurdockDescription,Prepare the root for a crunchy bite or as the base of an antibiotic tea.,,Førebu rota for å knaskast på eller nyttast i ein antibiotisk te.
@@ -1856,7 +1856,7 @@ GAMEPLAY_Calories,Calories,,Kalorier
 GAMEPLAY_CaloriesBurned,Calories Burned,"format is ""calories burned 999"", showing how many calories will be burned by performing an action",Kaloriar forbrent
 GAMEPLAY_CaloriesPerHour,Calories / Hour,,Kalorier/time
 GAMEPLAY_CalorieStore,Calorie Store,number of calories in reserve,Kaloriar i reserve
-GAMEPLAY_CameraSensitivity,Camera Sensitivity,,Kamerasensitivitet
+GAMEPLAY_CameraSensitivity,Camera Sensitivity,,Kamerafølsemd
 GAMEPLAY_Campfire,Campfire,,Leirbål
 GAMEPLAY_CampOffice,Camp Office,,Leirkontor
 GAMEPLAY_CampOfficeCollectible,Park Notice,,Parkvarsel
@@ -2984,7 +2984,7 @@ GAMEPLAY_DescriptionResumeSurvival,Continue your last saved Survival Mode game.,
 GAMEPLAY_DescriptionSandbox,"The non-narrative exploration-survival experience where day-to-day survival is the only objective, and death is the only ending. Play your own story.",Short description in MainMenu for item Sandbox,"Ei oppleving utan ei bestemt handling, det einaste målet er å overleva, og dauden er den einaste avslutninga. Spel di eiga historie."
 GAMEPLAY_DescriptionSaveGame,Create a new Save Game.,description for pause menu item Save Game,
 GAMEPLAY_DescriptionStory,"The authored, episodic story mode for The Long Dark. ",Short description in MainMenu for item Story,Den forfatta og episodiske historiemodusen til The Long Dark.
-GAMEPLAY_DescriptionTFTFTUpsell,Download Tales from the Far Territory Expansion.,,
+GAMEPLAY_DescriptionTFTFTUpsell,Download Tales from the Far Territory Expansion.,,Last ned utvidinga Soger frå Fjærnstrøket.
 GAMEPLAY_DescriptionUpdates,Updates on game progress.,description for menu item Updates,Oppdateringar om spelframdrift.
 GAMEPLAY_Desperation,desperation,"Struggle weapon picker category ""desperation""",Desperasjon
 GAMEPLAY_DestroyedLookout,destroyed Lookout,"Map marker; for the forestry lookout that is destroyed, not just abandoned",Øydelagt utkikkstårn
@@ -3174,7 +3174,7 @@ GAMEPLAY_EatIt,Eat it,,Et
 GAMEPLAY_EatRawMeatRadialNotification,Eating this raw item could make you sick. Continue?,,Å eta dette rått kan gjera deg sjuk. Vil du halda fram?
 GAMEPLAY_EditNotes,Edit Notes,,Rediger notata
 GAMEPLAY_Electricity,Electricity,,Elektrisitet
-GAMEPLAY_ElectrostaticFog,Glimmer Fog,,Glitreskodde
+GAMEPLAY_ElectrostaticFog,Glimmer Fog,,Glitretåke
 GAMEPLAY_ElectrostaticFogDescription,An unusual weather event featuring electrical discharges. May be hazardous to your health.,,Uvanleg vêrfenomen som fører til elektrisk sjokk. Kan vera helseskadeleg.
 GAMEPLAY_Elevator,Elevator,,Heis
 GAMEPLAY_ElevatorCable,Elevator Cable,,Heisvaier
@@ -3547,7 +3547,7 @@ GAMEPLAY_FixWiresProgress,Repairing Wires...,,Vølar leidningar...
 GAMEPLAY_Flare,Flare,,Bluss
 GAMEPLAY_FlareDescription,A powerful flare. Loud enough to scare wildlife.,Was: A throwable flare. Loud enough to scare wildlife.,Ein kraftig bluss. Kraftig nok til å skremma dyr.
 GAMEPLAY_FlareGun,Distress Pistol,,Signalpistol
-GAMEPLAY_FlareGunAmmoSingle,Flare Shell,,Blusspatron
+GAMEPLAY_FlareGunAmmoSingle,Flare Shell,,Blusskot
 GAMEPLAY_FlareGunAmmoSingleDescription,An emergency beacon fired from a Distress Pistol.,,Ein naudbluss som kan skytast frå ein signalpistol.
 GAMEPLAY_FlareGunContainer,Emergency Kit,,Fyrstehjelpskrin
 GAMEPLAY_FlareGunContainerInteractClose,Close Emergency Kit,,Lat att fyrstehjelpskrin
@@ -3585,7 +3585,7 @@ GAMEPLAY_FlintSteel,Flint & Steel,,Flint og stål
 GAMEPLAY_FlintSteelDescription,Flint and steel striker to create hot sparks and ignite tinder.,,Flintstein og stål nyttast til å laga gneitrar som set fyr på knusk.
 GAMEPLAY_Flour,Old Mill Flour,,Kveitemjøl
 GAMEPLAY_FlourDescription,All purpose flour. A base ingredient in many recipes.,,Mjøl av kveite som eignar seg til det meste. Ingrediens i mange oppskrifter.
-GAMEPLAY_Foggy,Foggy,,Skoddete
+GAMEPLAY_Foggy,Foggy,,Tåkete
 GAMEPLAY_Food,Food,,Mat
 GAMEPLAY_FoodEffect,Food,,Mat
 GAMEPLAY_Fooditemhasnocalories,Food item has no calories,,Matvaren har ingen kaloriar
@@ -3875,7 +3875,7 @@ GAMEPLAY_GunDescLoaDedRound,The gun has {num-rounds} round loaded.,,Våpenet er 
 GAMEPLAY_GunDescLoaDedRounds,The gun has {num-rounds} rounds loaded.,,Våpenet er lada med {num-rounds} skot.
 GAMEPLAY_Gunpowder,Gunpowder,,Krut
 GAMEPLAY_GunpowderCan,Can of Gunpowder,,Boks med krut
-GAMEPLAY_GunpowderCanDescription,Explosive powder. A valuable ingredient when Crafting Ammunition. Also handy as a fire accelerant.,,Eksplosivt pulver nytta i lading av patroner. Kan òg nyttast til å få fart på bålet.
+GAMEPLAY_GunpowderCanDescription,Explosive powder. A valuable ingredient when Crafting Ammunition. Also handy as a fire accelerant.,,Eksplosivt pulver nytta til lading av skot. Kan òg nyttast til å få fart på bålet.
 GAMEPLAY_GunshotSound,[gun shot],"closed captioning for a ""gun shot"" sound effect.",
 GAMEPLAY_Gunsmithing,Gunsmithing,,
 GAMEPLAY_GunsmithingBenefitsTier1,"Crafted Ammunition Condition is {craft-condition}
@@ -3897,10 +3897,10 @@ GAMEPLAY_Gut,Fresh Gut,,Fersk tarm
 GAMEPLAY_GutDescription,Freshly harvestad gut.,,Nyleg teke tarmar frå eit dyr
 GAMEPLAY_GutDried,Cured Gut,cured as in dried,Turka tarm
 GAMEPLAY_GutDriedDescription,Gut that has been cured. Can be used for crafting and repair.,,Turka tarm. Kan nyttast til å vøla og laga ting.
-GAMEPLAY_GyroAimHorizontalSensitivity,Gyroscope Aim Horizontal,,
-GAMEPLAY_GyroAimVerticalSensitivity,Gyroscope Aim Vertical,,
-GAMEPLAY_GyroLookHorizontalSensitivity,Gyroscope Look Horizontal,,
-GAMEPLAY_GyroLookVerticalSensitivity,Gyroscope Look Vertical,,
+GAMEPLAY_GyroAimHorizontalSensitivity,Gyroscope Aim Horizontal,,Gyroskopfølsemd - Vassrett sikting
+GAMEPLAY_GyroAimVerticalSensitivity,Gyroscope Aim Vertical,,Gyroskopfølsemd - Loddrett sikting
+GAMEPLAY_GyroLookHorizontalSensitivity,Gyroscope Look Horizontal,,Gyroskopfølsemd - Sjå vassrett
+GAMEPLAY_GyroLookVerticalSensitivity,Gyroscope Look Vertical,,Gyroskopfølsemd - Sjå loddrett
 GAMEPLAY_Hacksaw,Hacksaw,,Baufil
 GAMEPLAY_HacksawDescription,Heavy-duty saw made to cut through metal.,,"Handsag med utskifteleg sagblad, tiltenkt saging av metall."
 GAMEPLAY_HalfRes,Half,half texture resolution,Halv
@@ -4591,7 +4591,7 @@ GAMEPLAY_Level,Level,Skill Level in Log,Nivå
 GAMEPLAY_Lid,Lid,,Lok
 GAMEPLAY_Light,Light,as in light a lantern or flare,Kveik
 GAMEPLAY_Lighter,Lighter,screen brightness increase,Ljosare
-GAMEPLAY_LightFog,Light Fog,weather condition,Lett skodde
+GAMEPLAY_LightFog,Light Fog,weather condition,Tynn tåke
 GAMEPLAY_LightParka,Simple Parka,,Enkel anorakk
 GAMEPLAY_LightParka_Decent,decent Simple Parka,,Nyttande enkel anorakk
 GAMEPLAY_LightParka_Mint,New Simple Parka,,Ny enkel anorakk
@@ -4673,7 +4673,7 @@ GAMEPLAY_LongRailTrainBridge,Surfeit Trestle,,
 GAMEPLAY_LongRailTrainCave,Remnant Cave,,
 GAMEPLAY_LongRailWaterfall,Oddment Falls,,
 GAMEPLAY_Lookout,Lookout,,Utkikkstårn
-GAMEPLAY_LookSensitivity,Look Sensitivity,,Sjåsensitivitet
+GAMEPLAY_LookSensitivity,Look Sensitivity,,Synsfølsemd
 GAMEPLAY_LooseBark,Loose Tree Bark,,
 GAMEPLAY_LooseBarkContainerOpen,Loose Tree Bark,,
 GAMEPLAY_LooseBarkContainerSearch,Loose Tree Bark,,
@@ -4689,13 +4689,13 @@ GAMEPLAY_M1Topic_Cars,CARS?,,
 GAMEPLAY_M1Topic_Strange,STRANGE,,
 GAMEPLAY_M1Topic_Town,TOWN?,,
 GAMEPLAY_M1Topic_Where,WHERE?,,
-GAMEPLAY_MackinawJacket,Mackinaw Jacket,,Mackinawjakke
-GAMEPLAY_MackinawJacket_Decent,decent Mackinaw Jacket,,Nyttande mackinawjakke
-GAMEPLAY_MackinawJacket_Mint,New Mackinaw Jacket,,Ny mackinawjakke
-GAMEPLAY_MackinawJacket_Ragged,Ragged Mackinaw Jacket,,Fillete mackinawjakke
-GAMEPLAY_MackinawJacket_Ruined,Ruined Mackinaw Jacket,,Unyttande mackinawjakke
-GAMEPLAY_MackinawJacket_Worn,Worn Mackinaw Jacket,,Velbrukt mackinawjakke
-GAMEPLAY_MackinawJacketDescription,Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.,,Tung ulljakke som osar av Canada. Ein favoritt av både jegerar og skogsarbeidar.
+GAMEPLAY_MackinawJacket,Mackinaw Jacket,,Ulljakke
+GAMEPLAY_MackinawJacket_Decent,decent Mackinaw Jacket,,Nyttande ulljakke
+GAMEPLAY_MackinawJacket_Mint,New Mackinaw Jacket,,Ny ulljakke
+GAMEPLAY_MackinawJacket_Ragged,Ragged Mackinaw Jacket,,Fillete ulljakke
+GAMEPLAY_MackinawJacket_Ruined,Ruined Mackinaw Jacket,,Unyttande ulljakke
+GAMEPLAY_MackinawJacket_Worn,Worn Mackinaw Jacket,,Velbrukt ulljakke
+GAMEPLAY_MackinawJacketDescription,Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.,,Tung ulljakke som osar av Canada. Ein favoritt av både jegerar og tømmer­hoggarar.
 GAMEPLAY_Madeittoday,Made it to day,,
 GAMEPLAY_MagnifyingLens,Magnifying Lens,,Lupe
 GAMEPLAY_MagnifyingLensDescription,A magnifying lens that can be used to start a fire during daylight.,,Ei lupe som kan nyttast til å laga eld i dagsljos.
@@ -4996,8 +4996,8 @@ GAMEPLAY_MountainTownRegionDesc,"For new players. Although deep in decline, Milt
 
 Connects to Mystery Lake, Forlorn Muskeg, and Hushed River Valley.",,
 GAMEPLAY_MountainTownTransmitterRegionDesc,Transmitter covers Mountain Town and Hushed River Valley Regions,,
-GAMEPLAY_MouseSensitivity,Mouse Sensitivity,,Musesensitivitet
-GAMEPLAY_MouseSmoothing,Mouse Smoothing,Control option to enable or disable mouse smoothing,Glatta muserørsler
+GAMEPLAY_MouseSensitivity,Mouse Sensitivity,,Musefølsemd
+GAMEPLAY_MouseSmoothing,Mouse Smoothing,Control option to enable or disable mouse smoothing,Muserørsleutjamning
 GAMEPLAY_MouseSmoothingDescription,Filters mouse input to smooth out small movements,Description of mouse smoothing toggle,Jamnar ut og fjerner små muserørsler
 GAMEPLAY_MoveAllToContainer,Move all to container,,Flytt alt til behaldar
 GAMEPLAY_MoveAllToInventory,Move all to inventory,,Flytt alt til ransel
@@ -5910,16 +5910,16 @@ GAMEPLAY_Resume4DONDesc,Continue your last saved 4 Days Of Night game.,,
 GAMEPLAY_ResumeDWDesc,Continue your last saved Escape the Darkwalker game.,UI label,
 GAMEPLAY_ResumeWEDesc,Continue your last saved Winter's Embrace game.,,
 GAMEPLAY_Revolver,Revolver,,Revolver
-GAMEPLAY_RevolverAmmunition,Revolver Ammunition,,Øskje med revolverskot
+GAMEPLAY_RevolverAmmunition,Revolver Ammunition,,Revolverskot
 GAMEPLAY_RevolverAmmunition_Good,Good Revolver Ammunition,,Gode revolverskot
 GAMEPLAY_RevolverAmmunition_Great,Great Revolver Ammunition,,Knallgode revolverskot
 GAMEPLAY_RevolverAmmunition_Mediocre,Mediocre Revolver Ammunition,,Greie revolverskot
 GAMEPLAY_RevolverAmmunition_Perfect,Perfect Revolver Ammunition,,Framifrå revolverskot
 GAMEPLAY_RevolverAmmunition_Poor,Poor Revolver Ammunition,,Skrale revolverskot
 GAMEPLAY_RevolverAmmunition_Ruined,Ruined Revolver Ammunition,,Unyttande revolverskot
-GAMEPLAY_RevolverAmmunitionDescription,A box of Revolver cartridges.,,Ei øskje med patroner som passar i revolverar.
-GAMEPLAY_RevolverCasing,Revolver Shell Casing,,Revolverhylse
-GAMEPLAY_RevolverCasingDescription,Empty casing from firing a Revolver. Used for Crafting new Ammunition.,,Tomhylse i kaliber .32 S&W. Kan ladast om igjen.
+GAMEPLAY_RevolverAmmunitionDescription,A box of Revolver cartridges.,,Ei øskje med .38 Special-skot.
+GAMEPLAY_RevolverCasing,Revolver Shell Casing,,Revolverskothylse
+GAMEPLAY_RevolverCasingDescription,Empty casing from firing a Revolver. Used for Crafting new Ammunition.,,.38 Special-tomhylse. Kan ladast om igjen.
 GAMEPLAY_RevolverDescription,,,"Eit kraftig handvåpen best nytta til sjølvforsvar, ikkje til å jakta med."
 GAMEPLAY_RevolverFancy,Hunter's Revolver,,
 GAMEPLAY_RevolverFancyDescription,"Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance.",,
@@ -5948,7 +5948,7 @@ GAMEPLAY_RevolverGreen,Forester's Revolver,,
 GAMEPLAY_RevolverGreenDescription,"An old, reliable weapon. Durable. Taken off a Breyerhouse worker by an unknown Forest Talker.",,
 GAMEPLAY_RevolverJammedReloadReq,Revolver Jammed. Reload to Clear.,,Revolveren klikka. Lad om for å ordna.
 GAMEPLAY_RevolverRound,Revolver Cartridge,,Revolverskot
-GAMEPLAY_RevolverRoundDescription,A single Revolver cartridge.,,Ei einsleg patron i kaliber .32 S&W.
+GAMEPLAY_RevolverRoundDescription,A single Revolver cartridge.,,Eit einsleg .38 Special-skot.
 GAMEPLAY_RevolverStubNosed,Warden's Revolver,,
 GAMEPLAY_RevolverStubNosedDescription,"Quick draw sidearm. Out of place in the wilderness, but its light
 weight and short barrel allow for a faster aiming action.",,
@@ -5965,16 +5965,16 @@ GAMEPLAY_Rifle_Vaughns,Vaughn's Rifle,,
 GAMEPLAY_Rifle_VaughnsDescription,"A weathered .303 Rifle covered in epoxy and duct tape. Its patchwork exterior hides an improved firing action. A handy tool when working the various industrial sites and power stations that dot Great Bear Island.
 
 Fragile and deadly, just like its owner.",,
-GAMEPLAY_RifleAmmunition,Rifle Ammunition,,Øskje med børseskot
+GAMEPLAY_RifleAmmunition,Rifle Ammunition,,Børseskotøskje
 GAMEPLAY_RifleAmmunition_Good,Good Rifle Ammunition,,Gode børseskot
 GAMEPLAY_RifleAmmunition_Great,Great Rifle Ammunition,,Knallgode børseskot
 GAMEPLAY_RifleAmmunition_Mediocre,Mediocre Rifle Ammunition,,Greie børseskot
 GAMEPLAY_RifleAmmunition_Perfect,Perfect Rifle Ammunition,,Framifrå børseskot
 GAMEPLAY_RifleAmmunition_Poor,Poor Rifle Ammunition,,Skrale børseskot
 GAMEPLAY_RifleAmmunition_Ruined,Ruined Rifle Ammunition,,Unyttande børseskot
-GAMEPLAY_RifleAmmunitionDescription,A box of rifle cartridges.,,Ei øskje med patroner i .303-kaliber.
-GAMEPLAY_RifleCasing,Rifle Shell Casing,,Børsehylse
-GAMEPLAY_RifleCasingDescription,Empty casing from firing a Rifle. Used for Crafting new Ammunition.,,Tomhylse i .303-kaliber. Kan ladast om igjen.
+GAMEPLAY_RifleAmmunitionDescription,A box of rifle cartridges.,,Ei øskje med .303 British-skot.
+GAMEPLAY_RifleCasing,Rifle Shell Casing,,Børseskothylse
+GAMEPLAY_RifleCasingDescription,Empty casing from firing a Rifle. Used for Crafting new Ammunition.,,.303 British-tomhylse. Kan ladast om igjen.
 GAMEPLAY_RifleCleaningKit,Rifle Cleaning Kit,,Pusseutstyr
 GAMEPLAY_RifleCleaningKitDescription,Compact tool kit used to keep a Rifle in good working order.,,Ein kompakt pakke med pusseutstyr til å halde skytevåpna dine i god stand.
 GAMEPLAY_RifleFirearm,Rifle Firearm,,Jaktbørse
@@ -6014,7 +6014,7 @@ GAMEPLAY_RifleFirearmDescriptionTier4,You've developed a strong feeling for the 
 GAMEPLAY_RifleFirearmDescriptionTier5,"When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life. ",,"Når du har dyret i siktet, stengast verda ute, og det er berre du, børsa, skotet og målet. Avtrekkaren er dauden. Avtrekkaren er livet. Veninna di Hel ventar på neste avtrekk. "
 GAMEPLAY_RifleJammedReloadReq,Rifle Jammed. Reload to Clear.,,Børsa har låst seg. Lad om.
 GAMEPLAY_RifleRound,Rifle Cartridge,,Børseskot
-GAMEPLAY_RifleRoundDescription,A single .303 rifle cartridge.,,Ei einsleg .303-patron.
+GAMEPLAY_RifleRoundDescription,A single .303 rifle cartridge.,,Eit einsleg .303-skot.
 GAMEPLAY_RifleScabbardA,Security Chief's Rifle Holster,,
 GAMEPLAY_RifleScabbardADescription,"Although quite old, the Holster's original owner took great care to preserve the leatherwork. Its fine construction reduces the weight of your primary Rifle.
 
@@ -6026,17 +6026,17 @@ GAMEPLAY_RifleScabbardADescription,"Although quite old, the Holster's original o
 GAMEPLAY_Right,Right,,Høgre
 GAMEPLAY_RimGrill,Rim Grill,,Rundgrill
 GAMEPLAY_ritualLocation,Banish Ritual,,
-GAMEPLAY_RiverNorthernAccess,River (Northern Access),,Elv (nordleg ende)
-GAMEPLAY_RiverSouthernAccess,River (Southern Access),,Elv (sørleg ende)
+GAMEPLAY_RiverNorthernAccess,River (Northern Access),,Elv (Nordlege ende)
+GAMEPLAY_RiverSouthernAccess,River (Southern Access),,Elv (Sørlege ende)
 GAMEPLAY_RiverValleyRegionDesc,"For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.
  
 Connects to Mountain Town.",,
-GAMEPLAY_RockCache,Rock Cache,,
-GAMEPLAY_RockCacheContainerOpen,Open Rock Cache,,
-GAMEPLAY_RockCacheInvalidLocation,Invalid location to place Rock Cache,,
-GAMEPLAY_RockCacheRegionCount,{number-rock caches} Rock Caches placed in Region,,
-GAMEPLAY_RockCaches,Rock Caches,,
-GAMEPLAY_RockCacheSurvey,Survey area around Rock Cache to show it on your Map.,,
+GAMEPLAY_RockCache,Rock Cache,,Steingøyme
+GAMEPLAY_RockCacheContainerOpen,Open Rock Cache,,Opn steingøyme
+GAMEPLAY_RockCacheInvalidLocation,Invalid location to place Rock Cache,,Uhøveleg stad for steingøyme
+GAMEPLAY_RockCacheRegionCount,{number-rock caches} Rock Caches placed in Region,,{number-rock caches} steingøyme laga i regionen
+GAMEPLAY_RockCaches,Rock Caches,,Steingøyme
+GAMEPLAY_RockCacheSurvey,Survey area around Rock Cache to show it on your Map.,,Kartlegg området rundt steingøyme for å visa det på kartet.
 GAMEPLAY_Rockfall,Rockfall,,Steinsprang
 GAMEPLAY_Roll,Roll,,Rull
 GAMEPLAY_Rolls,Rolls,,Rullar
@@ -6069,8 +6069,8 @@ GAMEPLAY_Rotate,Rotate,,Vri
 GAMEPLAY_RotateObjectLeft,Rotate Left,,Vri mot venstre
 GAMEPLAY_RotateObjectRight,Rotate Right,,Vri mot høgre
 GAMEPLAY_RotatingProgress,Rotating,,Vrir
-GAMEPLAY_Round,Round,,Patron
-GAMEPLAY_Rounds,Rounds,,Patroner
+GAMEPLAY_Round,Round,,Skot
+GAMEPLAY_Rounds,Rounds,,Skot
 GAMEPLAY_rug,Rug,,Teppe
 GAMEPLAY_Ruined,{item-name} ruined.,,{item-name} øydelagt.
 GAMEPLAY_RuinedPopup,Ruined,,Øydelagdt
@@ -6104,7 +6104,7 @@ GAMEPLAY_RuralHuntersBlind2,Hunter's Blind,,Jakttårn
 GAMEPLAY_RuralMine,Abandoned Mine,Location name. An abandoned mineshaft the player can travel through.,Etterlate gruve
 GAMEPLAY_RuralMollyBarn,Molly's Barn,,Molly si løe
 GAMEPLAY_RuralOldCabins,derelict Cabins,abandoned cabins,Etterlate hytter
-GAMEPLAY_RuralPicnicWaterfall,Misty Falls Picnic Area,a small picnic area near a waterfall,Skoddefossen rasteplass
+GAMEPLAY_RuralPicnicWaterfall,Misty Falls Picnic Area,a small picnic area near a waterfall,Disfossen rasteplass
 GAMEPLAY_RuralRadioTower,Signal Hill,hilltop where there is a radio tower; signal refers to radio signal,Signalåsen
 GAMEPLAY_RuralRemoteCave,Cave,a simple cave,Hole
 GAMEPLAY_RuralRiverRoadBend,Long Curve,a long curve in the road,Lang sving
@@ -6176,7 +6176,7 @@ GAMEPLAY_Scare,Scare,"Struggle weapon picker category ""Scare""",Skrem
 GAMEPLAY_SceneFileCorrupted,Corrupted Save Data detected - {scene-name},,Øydelagt e lagringsdata oppdaga – {scene-name}
 GAMEPLAY_Scent,Scent,label beside the scent indicator,Fert
 GAMEPLAY_ScrapLead,Scrap Lead,,Skrapbly
-GAMEPLAY_ScrapLeadDescription,"Harvested from dead Car Batteries, Scrap Lead can be used to Craft Bullets.",,Henta frå gamle bilbatteri. Kan smeltast om til blykuler for å laga nye patroner.
+GAMEPLAY_ScrapLeadDescription,"Harvested from dead Car Batteries, Scrap Lead can be used to Craft Bullets.",,Henta frå gamle bilbatteri. Kan smeltast om til blykuler for å laga nye skot.
 GAMEPLAY_ScrapMetal,Scrap Metal,,Skrapmetall
 GAMEPLAY_ScrapMetalDescription,Bits and pieces of metal scrounged from various sources.,,Metallbetar frå ymse ting.
 GAMEPLAY_ScrapMetalStruggle,Remove Metal,Player is being instructed to yank free a metal shard that is imbedded in the player character hand,Fjern metall
@@ -7379,11 +7379,11 @@ GAMEPLAY_UnitsOfMeasurement,Units,,Einingar
 GAMEPLAY_UnitsToHarvest,Units To Harvest:,,Tal einingar:
 GAMEPLAY_Unknown,Unknown,,Ukjend
 GAMEPLAY_Unload,Unload,as in: unload ammo from a gun ,Tøm
-GAMEPLAY_Unloaded,Unloaded,unloaded ammo from gun,tømt
+GAMEPLAY_Unloaded,Unloaded,unloaded ammo from gun,Tømt
 GAMEPLAY_Unlocking,Unlocking...,Unlocking a door with a key,Låsar opp…
 GAMEPLAY_UnnamedPond,Unnamed Pond,,Namnlaus pytt
 GAMEPLAY_unsafe,unsafe,,utrygt
-GAMEPLAY_Untreated,Untreated,untreated or unsafe water,Ikkje reinska
+GAMEPLAY_Untreated,Untreated,untreated or unsafe water,Ureinska
 GAMEPLAY_UnZoom,Unzoom,Map Unzoom,
 GAMEPLAY_UpdatedMission,Updated Mission,mission popup,Oppdrag oppdatert
 GAMEPLAY_UpdatedObjective,Updated Objective,mission popup,Mål oppdatert
@@ -7642,9 +7642,9 @@ GAMEPLAY_WearingPostfix,(Wearing),,(har på)
 GAMEPLAY_WeatherBlizzard,Blizzard,,Snøstorm
 GAMEPLAY_WeatherClear,Clear,,Klårvêr
 GAMEPLAY_WeatherConditions,Conditions,,Vêrforhold
-GAMEPLAY_WeatherHeavyFog,Heavy Fog,,Tjukk skodde
+GAMEPLAY_WeatherHeavyFog,Heavy Fog,,Tjukk tåke
 GAMEPLAY_WeatherHeavySnow,Heavy Snow,,Snøbye
-GAMEPLAY_WeatherLightFog,Light Fog,,Mild skodde
+GAMEPLAY_WeatherLightFog,Light Fog,,Tynn tåke
 GAMEPLAY_WeatherLightSnow,Light Snow,,Snø
 GAMEPLAY_Weight,Weight,,Vekt
 GAMEPLAY_WeightAddedInventory,{weight-value} {item-name} added to inventory,,{weight-value} {item-name} lagt i ranselen
@@ -7704,7 +7704,7 @@ GAMEPLAY_WhiteoutListMatches,Matches,,Fyrstikker
 GAMEPLAY_WhiteoutListOfItems,List Of Items,,Liste over ting
 GAMEPLAY_WhiteoutListReclaimedWood,Reclaimed Wood,,Trebete
 GAMEPLAY_WhiteoutListRifle,Rifle,,Børse
-GAMEPLAY_WhiteoutListRifleAmmo,Rifle Cartridges,,Børsepatroner
+GAMEPLAY_WhiteoutListRifleAmmo,Rifle Cartridges,,Børseskot
 GAMEPLAY_WhiteoutListSoftwoodHardwood,Softwood/Hardwood,,Bartreved/Lauvtreved
 GAMEPLAY_WhiteoutListStick,Sticks,,Pinnar
 GAMEPLAY_WhiteoutListTinder,Tinder,,Knusk
@@ -8233,7 +8233,7 @@ HINT_Revolver,"A powerful defensive weapon, you can shoot the Revolver quickly f
 HINT_Revolver_title,Revolver,,Revolver
 HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You'll have a chance to take a shot and wound or kill the animal.,,"Nytt revolveren for å kvitta deg med ulvar som byksar på deg. Du kan ta eit skot som sårar, eller drep, udyret."
 HINT_RevolverStruggle_title,Revolver Struggle,,Ulveåtak med revolver
-HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,"Børsa er eit kraftig jaktvåpen, men ammunisjon er ei mangelvare! Nytt med omhug. Skot kan òg skremma vekk villdyr."
+HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,"Børsa er eit kraftig jaktvåpen, men skot er ei mangelvare! Nytt med omhug. Skot kan òg skremma vekk villdyr."
 HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,"I denne dalen står hamrane tett, og hus er ikkje å finna, men han har framleis nokre løyndommar på lur."
 HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,Plukk og klargjer nyper for å bryggja ein naturleg smertestillande te. Kjem vel med om ein vrengjer okla eller handleddet. brenn seg eller bryt bein.
 HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,"Denne utbreidde regionen har berre nokre få kjernehusrom, samt noko av det mest omskiftelege vêret på Sværebjørn."
