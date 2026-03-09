@@ -1122,32 +1122,32 @@ We hope you find your work at our little outpost rewarding!
 GAMEPLAY_AirfieldJunkerNote,Journal Page,,
 GAMEPLAY_AirfieldJunkerNote_Description,A page from a journal.,,
 GAMEPLAY_AirfieldJunkerNote_Narrative,I’ll keep writing as long as my hands hold up. The old road can’t be all broken. I didn’t fly in here and there’s no way they can make me fly out. No matter what the hell they say is going on.,,
-GAMEPLAY_AirfieldRegionBehindWaterfall,Stony Passage,,
-GAMEPLAY_AirfieldRegionBlind,Spotter's Blind,,
-GAMEPLAY_AirfieldRegionBrokenRoad,Whealy's Turn,,
-GAMEPLAY_AirfieldRegionCove,Cove,,
-GAMEPLAY_AirfieldRegionCrashedHelicopter,Final Approach,,
+GAMEPLAY_AirfieldRegionBehindWaterfall,Stony Passage,,Steinete gang
+GAMEPLAY_AirfieldRegionBlind,Spotter's Blind,,Speidartårn
+GAMEPLAY_AirfieldRegionBrokenRoad,Whealy's Turn,,Whealy-svingen
+GAMEPLAY_AirfieldRegionCove,Cove,,Vik
+GAMEPLAY_AirfieldRegionCrashedHelicopter,Final Approach,,Siste innflyging
 GAMEPLAY_AirfieldRegionDesc,"For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes.
 
 Connects to Transfer Pass.
 ",,
-GAMEPLAY_AirfieldRegionFieldTrailer,Cargomaster's Trailer,,
-GAMEPLAY_AirfieldRegionHangar,Main Hangar,,
-GAMEPLAY_AirfieldRegionHouseRuins,Surveyor's Memory,,
-GAMEPLAY_AirfieldRegionIsland,Drift Island,,
-GAMEPLAY_AirfieldRegionIslandCabin,Island Cottage,,
-GAMEPLAY_AirfieldRegionLake,Shoulder Lake,,
-GAMEPLAY_AirfieldRegionLakeCave,Archie's Crawlspace,,
-GAMEPLAY_AirfieldRegionLowCave,Sudden Washout,,
-GAMEPLAY_AirfieldRegionOldCabin,Justy's Hovel,,
-GAMEPLAY_AirfieldRegionOverlookCabin,Mindful Cabin,,
-GAMEPLAY_AirfieldRegionRidgeCave,Grip's Cave,,
-GAMEPLAY_AirfieldRegionStreamCave,Frost Cave,,
-GAMEPLAY_AirfieldRegionTerminal,Terminal,,
-GAMEPLAY_AirfieldRegionTower,Control Tower,,
-GAMEPLAY_AirfieldRegionTwoFallsCave,Brittle Cave,,
-GAMEPLAY_AirfieldRegionUtilityTrailer,Junker's Paddock,,
-GAMEPLAY_AirfieldRegionWatersEdgeCave,Fallow Dugout,,
+GAMEPLAY_AirfieldRegionFieldTrailer,Cargomaster's Trailer,,Brakka til lastmeisteren
+GAMEPLAY_AirfieldRegionHangar,Main Hangar,,Hovudhangar
+GAMEPLAY_AirfieldRegionHouseRuins,Surveyor's Memory,,Minnestaden til landmålaren
+GAMEPLAY_AirfieldRegionIsland,Drift Island,,Drivøya
+GAMEPLAY_AirfieldRegionIslandCabin,Island Cottage,,Øyhytte
+GAMEPLAY_AirfieldRegionLake,Shoulder Lake,,Akselvatnet
+GAMEPLAY_AirfieldRegionLakeCave,Archie's Crawlspace,,Hybelen til Archie
+GAMEPLAY_AirfieldRegionLowCave,Sudden Washout,,Brå utvasking
+GAMEPLAY_AirfieldRegionOldCabin,Justy's Hovel,,Hytta til Justy
+GAMEPLAY_AirfieldRegionOverlookCabin,Mindful Cabin,,Hugsam hytte
+GAMEPLAY_AirfieldRegionRidgeCave,Grip's Cave,,Grip si hole
+GAMEPLAY_AirfieldRegionStreamCave,Frost Cave,,Frosthole
+GAMEPLAY_AirfieldRegionTerminal,Terminal,,Terminal
+GAMEPLAY_AirfieldRegionTower,Control Tower,,Kontrolltårn
+GAMEPLAY_AirfieldRegionTwoFallsCave,Brittle Cave,,Ròtefjellhola
+GAMEPLAY_AirfieldRegionUtilityTrailer,Junker's Paddock,,Luftegarden til skrotnissen
+GAMEPLAY_AirfieldRegionWatersEdgeCave,Fallow Dugout,,Forsømt utgraving
 GAMEPLAY_AirfieldSecChiefNote1,Stained Paper,,
 GAMEPLAY_AirfieldSecChiefNote1_Description,A piece of paper torn out of an old logbook.,,
 GAMEPLAY_AirfieldSecChiefNote1_Narrative,"[...illegible…]to say for certain what security will be like out here. Told the boss a single exit point at the current air strip would never satisfy our usual standard for evac. Nowhere else in the world would we set him up for a risk like this. But his eyes are open. And so are mine.
@@ -3205,7 +3205,7 @@ GAMEPLAY_EnergyBarDescription,"Energy in a bar. Chocolate, nuts, healthy stuff."
 GAMEPLAY_EnergyBoost,Energy Boost,"A ""buff"" or gameplay advantage the player receives after drinking an Energy Drink.",
 GAMEPLAY_EnergyBoostDesc,"For a short time, Fatigue vanishes and your Stamina feels endless.",,
 GAMEPLAY_English,English,Do not translate,English
-GAMEPLAY_EnterAirfield,To Forsaken Airfield,,
+GAMEPLAY_EnterAirfield,To Forsaken Airfield,,Til Forlaten landingsstripe
 GAMEPLAY_EnterAshCanyon,To Ash Canyon,,Til Oskedalen
 GAMEPLAY_EnterBlackrockTransition,To Keeper’s Pass North,,
 GAMEPLAY_EnterCanneryRegion,Enter Bleak Inlet Region,,Gå inn i Tunglyndt sund
@@ -4523,7 +4523,7 @@ GAMEPLAY_LeatherShoes_Ragged,Ragged Leather Shoes,,Fillete skinnsko
 GAMEPLAY_LeatherShoes_Ruined,Ruined Leather Shoes,,Unyttande skinnsko
 GAMEPLAY_LeatherShoes_Worn,Worn Leather Shoes,,Velbrukte skinnsko
 GAMEPLAY_LeatherShoesDescription,Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!,,"Vanlige skinnsko som tek seg godt ut på byen, men som kan bety dauden her ute. Vonar du har varme labbar!"
-GAMEPLAY_LeaveAirfield,Leave Forsaken Airfield,,
+GAMEPLAY_LeaveAirfield,Leave Forsaken Airfield,,Forlat Forlaten landingsstripe
 GAMEPLAY_LeaveAshCanyon,Leave Ash Canyon,,Forlat Oskedalen
 GAMEPLAY_LeaveBank,Leave Bank,,Forlat bank
 GAMEPLAY_LeaveBarnhouse,Leave Barnhouse,,Forlat låve
@@ -4562,7 +4562,7 @@ GAMEPLAY_LeaveMysteryLake,Leave Mystery Lake,,Forlat Løyndomsvatnet
 GAMEPLAY_LeavePleasantValley,Leave Kosedalen,,Forlat Kosedalen
 GAMEPLAY_LeavePostOffice,Leave Post Office,,Forlat postkontor
 GAMEPLAY_LeavePowerPlant,Leave Power Plant,,
-GAMEPLAY_LeavePrepperCache,Leave Prepper Cache,,Forlat førebuaren si oppbevaring
+GAMEPLAY_LeavePrepperCache,Leave Prepper Cache,,Forlat førebuaren sitt gøyme
 GAMEPLAY_LeavePrison,Leave Blackrock Prison,,
 GAMEPLAY_LeavePumpHouse,Leave Pump House,,
 GAMEPLAY_LeaveRavine,Leave Ravine,,Forlat Slukta
@@ -5090,9 +5090,9 @@ GAMEPLAY_Noflaresininventory,No flares or torches in inventory,,Verken bluss ell
 GAMEPLAY_NoFoodRadial,No food in your Pack,,Ikkje noko mat i ranselen
 GAMEPLAY_Nofuelinlantern,No fuel in lantern,,Lampen manglar olje
 GAMEPLAY_Noir,Noir,,
-GAMEPLAY_NoiseMaker,NoiseMaker,,
-GAMEPLAY_NoiseMakerDescription,An improvised explosive. Useful for scaring predators but can cause injury if they explode too close.,,
-GAMEPLAY_NoiseMakerLighting,Lighting...,,
+GAMEPLAY_NoiseMaker,NoiseMaker,,Brakdåse
+GAMEPLAY_NoiseMakerDescription,An improvised explosive. Useful for scaring predators but can cause injury if they explode too close.,,Ei provisorisk bombe som skremmer vekk dyr. Vondt gjer det òg om ein står for nær!
+GAMEPLAY_NoiseMakerLighting,Lighting...,,Kveikjer...
 GAMEPLAY_NoItemsContainer,No items in Container,,Behaldaren er tom
 GAMEPLAY_NoItemsInsulatedFlask,Flask is empty,,Termosen er tom
 GAMEPLAY_NoItemsInventory,No items in Inventory,,Ranselen er tom
@@ -5122,7 +5122,7 @@ GAMEPLAY_NomadChallengeSurvivalTimeHeader,Completion Time,,Fullføringstid
 GAMEPLAY_NomadListDaysInEachLocation,Days In Each Location,,Dagar på kvar plass
 GAMEPLAY_NomadLocationComplete,Location Complete,,PLass fullført
 GAMEPLAY_NoMapsUnlocked,You don’t have any maps,,Du har ingen kart
-GAMEPLAY_NoMillablesInInventory,No millable items in Inventory,,
+GAMEPLAY_NoMillablesInInventory,No millable items in Inventory,,Ingenting frå ranselen kan fresast
 GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,Du kan ikkje sanka flere trebetar
 GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,Du kan ikkje sanka meir knusk
 GAMEPLAY_None,None,,Ingen
@@ -5131,7 +5131,7 @@ GAMEPLAY_NonPotableWaterSource,Non Potable Water Source,,Kjelde med udrikkande v
 GAMEPLAY_NonPotableWaterSupply,Non Potable Water Supply,,Forsyning med udrikkande vatn
 GAMEPLAY_Noobjectselectedforharvest,No object selected for harvest,,Ingen ting valt for å øydleggjast
 GAMEPLAY_Noobjectselectedforrepair,No object selected for repair,,Ingen ting valt for å vølast
-GAMEPLAY_Noon,Noon,,
+GAMEPLAY_Noon,Noon,,Middag
 GAMEPLAY_NoOtherFirearmsInInventory,No other weapons in inventory,,Ingen andre våpen i ranselen
 GAMEPLAY_NoOtherLightSourceInInventory,No other light sources in inventory,,Ingen andre ljoskjelder i ranselen
 GAMEPLAY_NoPassTimeIndoorsCabinFever,Cannot pass time indoors due to Cabin Fever,,Du har brakkesjuka og kan ikkje vera inne
@@ -5715,8 +5715,8 @@ GAMEPLAY_RadialTools,Tools,,Reiskap
 GAMEPLAY_RadialTraps,Traps,,Fellar
 GAMEPLAY_RadialWeapons,Weapons,,Våpen
 GAMEPLAY_Radio,Radio,,Radio
-GAMEPLAY_RadioPressToCall,PRESS TO CALL,,
-GAMEPLAY_RailCar,Wagon,label for rail wagon,Vogn
+GAMEPLAY_RadioPressToCall,PRESS TO CALL,,TRYKK FOR Å RINGJA
+GAMEPLAY_RailCar,Wagon,label for rail wagon,Togvogn
 GAMEPLAY_RailTunnel,Rail Tunnel,,Togtunnel
 GAMEPLAY_RailwayUnlocked,"For intermediate players. Previous seismic activity means this section of the Trans-Island Railway Line is dramatically interrupted. Be careful you don't become lost in its many twisting routes.
 
@@ -5735,7 +5735,7 @@ GAMEPLAY_RawBurbot,Burbot (Raw),,Lake (Rå)
 GAMEPLAY_RawBurbot_Fresh,Fresh Burbot (Raw),,Fersk lake (Rå)
 GAMEPLAY_RawBurbot_Gamey,Gamey Burbot (Raw),,Seig lake (Rå)
 GAMEPLAY_RawBurbot_Mouldy,Mouldy Burbot (Raw),,Mygla lake (Rå)
-GAMEPLAY_RawBurbot_Rancid,Rancid Burbot (Raw),,Harsk  lake (Rå)
+GAMEPLAY_RawBurbot_Rancid,Rancid Burbot (Raw),,Harsk lake (Rå)
 GAMEPLAY_RawBurbot_Ruined,Ruined Burbot (Raw),,Ròten lake (Rå)
 GAMEPLAY_RawBurbotDescription,A bottom-dwelling freshwater fish. Can grow to impressive size.,,Ein ferskvassfisk som likar seg best på botn. Kan veksa seg temmeleg stor.
 GAMEPLAY_RawCohoSalmon,Coho Salmon (Raw),,Sylvlaks (Rå)
@@ -6399,7 +6399,7 @@ GAMEPLAY_Stat_DaysInCanneryRegion,Days in Bleak Inlet Region,,Dagar i Tunglyndt 
 GAMEPLAY_Stat_DaysInCoastalHighway,Days In Coastal Highway,,Dagar i Kystvegen
 GAMEPLAY_Stat_DaysInCrashMountainRegion,Days in Timberwolf Mountain,,Dagar på Vargafjellet
 GAMEPLAY_Stat_DaysInDesolationPoint,Days in Desolation Point,,Dagar på Einsemdneset
-GAMEPLAY_Stat_DaysInForsakenAirfield,Days in Forsaken Airfield,,
+GAMEPLAY_Stat_DaysInForsakenAirfield,Days in Forsaken Airfield,,Dagar på Forlaten landingsstripe
 GAMEPLAY_Stat_DaysInLangstonMine,Days in Zone of Contamination,,
 GAMEPLAY_Stat_DaysInMarshRegion,Days In Forlorn Muskeg,,Dagar i Aude myr
 GAMEPLAY_Stat_DaysInMountainTownRegion,Days In Mountain Town,,Dagar i Fjellbyen
@@ -6916,7 +6916,7 @@ I couldn't access the lowest levels without suffocating, but there seems to be a
 And there’s that downed helicopter in the hills above the old water extraction ponds I need to check out. Might be some tools to scavenge there, or in the concentrator and headframe building.
 
 For now, a moment to rest.",,
-GAMEPLAY_TaleCompleted,Tale Completed,,
+GAMEPLAY_TaleCompleted,Tale Completed,,Soge avslutta
 GAMEPLAY_TallTalesGlowingCave,Glowing Cave,,
 GAMEPLAY_TechnicalBackpack,Technical Backpack,,Teknisk ransel
 GAMEPLAY_TechnicalBackpack_kicker,Technical Backpack Equipped - Carrying Capacity Increased,,Tok på teknisk ransel - Auka bereevne
@@ -6946,7 +6946,7 @@ GAMEPLAY_TextureQuality,Texture Resolution,,Teksturoppløysning
 GAMEPLAY_TextureQualityDescription,Lower quality textures look worse but may perform better.,,"Teksturar av lågare kvalitet vil kanskje sjå verre ut, men ytinga kan verta betre."
 GAMEPLAY_TextureStreaming,Texture Streaming,,Teksturstrauming
 GAMEPLAY_TextureStreamingTooltip,Sets the amount of memory available for textures.,,Set mengda minne tileigna teksturar.
-GAMEPLAY_TFTFT,Expansion,,
+GAMEPLAY_TFTFT,Expansion,,Utviding
 GAMEPLAY_TheTooth,The Tooth,,Tanna
 GAMEPLAY_Things,Things,,Ting
 GAMEPLAY_ThinWoolSweater,Thin Wool Sweater,,Tynn ullgenser
@@ -7676,7 +7676,7 @@ Connects to Coastal Highway.","REMOVED: You've found your way to desolation Poin
 Er forbundet med Kystvegen."
 GAMEPLAY_WhalingStationTransmitterRegionDesc,Transmitter covers Desolation Point and Coastal Highway Regions,,
 GAMEPLAY_WhatIKnow,What I Know,,Det eg veit
-GAMEPLAY_WhiteoutAddedToStockpile,Added To Stockpile,,Lagt til i oppbevaring
+GAMEPLAY_WhiteoutAddedToStockpile,Added To Stockpile,,Lagt i gøyme
 GAMEPLAY_WhiteoutBadgeDescLocked,You have not completed Whiteout.,,Du har ikkje fullført Snøstorm.
 GAMEPLAY_WhiteoutBadgeDescUnlocked,You have completed Whiteout.,,Du har fullført Snøstorm.
 GAMEPLAY_WhiteoutBadgeName,Whiteout,,Snøstorm
@@ -7709,7 +7709,7 @@ GAMEPLAY_WhiteoutListSoftwoodHardwood,Softwood/Hardwood,,Bartreved/Lauvtreved
 GAMEPLAY_WhiteoutListStick,Sticks,,Pinnar
 GAMEPLAY_WhiteoutListTinder,Tinder,,Knusk
 GAMEPLAY_WhiteoutListWater,Potable Water,,Drikkande vatn
-GAMEPLAY_WhiteoutStockpileComplete,Stockpile Complete,,Oppbevaring fullført
+GAMEPLAY_WhiteoutStockpileComplete,Stockpile Complete,,Gøyme ferdig
 GAMEPLAY_Will,Will,Will ( firstname of our male character),
 GAMEPLAY_WillBoots,Will's Boots,,Støvlane til Will
 GAMEPLAY_WillBootsDescription,The boots you were wearing when you crashed in your plane.,,Støvlene du hadde på deg då flyet ditt styrta.
@@ -8916,7 +8916,7 @@ SANDBOX_BufferMemoryCollected,New Buffer Memory Added to Journal,UI Kicker text 
 SANDBOX_Collection_BackerDescription,The scrawled musings of a survivor who was here before you.,,Rabbel av ein overlevande som var her før deg.
 SANDBOX_Collection_BackerLetter,A Note Left Behind,,Ei etterlatt notat
 SCENENAME_AFHangar,Main Hangar,,
-SCENENAME_AirfieldRegion,Forsaken Airfield,,
+SCENENAME_AirfieldRegion,Forsaken Airfield,,Forlaten landingsstripe
 SCENENAME_AshCanyon,Ash Canyon,,Oskedalen
 SCENENAME_AshMine,Gold Mine,,Gullgruve
 SCENENAME_Barn,Barn,,Låve
