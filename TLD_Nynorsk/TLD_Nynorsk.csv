@@ -3553,8 +3553,8 @@ GAMEPLAY_FlareGunContainer,Emergency Kit,,Fyrstehjelpskrin
 GAMEPLAY_FlareGunContainerInteractClose,Close Emergency Kit,,Lat att fyrstehjelpskrin
 GAMEPLAY_FlareGunContainerInteractOpen,Open Emergency Kit,,Opn fyrstehjelpskrin
 GAMEPLAY_FlareGunDescription,A device used to launch an emergency beacon into the air. Fires Flare Shells.,,Nyttast til å skyte naudblussar opp i lufta.
-GAMEPLAY_FlareGunKit,Distress Pistol Kit,,
-GAMEPLAY_FlareGunKitDescription,Useful for getting someone's attention in an emergency. Fires Distress Pistol Shells.,,
+GAMEPLAY_FlareGunKit,Distress Pistol Kit,,Signalpistolskrin
+GAMEPLAY_FlareGunKitDescription,Useful for getting someone's attention in an emergency. Fires Distress Pistol Shells.,,"Inneheld ein signalpistol, samt blusskot."
 GAMEPLAY_FlareLighting,Lighting...,,Kveikjer...
 GAMEPLAY_Flashlight,Flashlight,,Lommelykt
 GAMEPLAY_Flashlight_LongLasting,Miner's Flashlight,,Industriell lommelykt
@@ -4295,8 +4295,8 @@ GAMEPLAY_Invalidlocationtoplaceobject,Invalid location to place object,,Kan ikkj
 GAMEPLAY_InvalidNoPaintCans,You have no Spray Paint cans,,Du har ingen sprayboksar
 GAMEPLAY_InvalidNotInBanishmentArea,Place Banish Glyph inside the Ritual Circle,,
 GAMEPLAY_InvalidOnlyAllowedOneDecalOfType,Already placed! You can only Paint one of these Glyphs at a time,Glyph = a spray painted symbol left by the player in the game world,
-GAMEPLAY_InvalidOnTopOfAnotherDecal,Invalid location on top of another Spray Paint marker,,
-GAMEPLAY_InvalidTooManyPlacedDecals,Too many Spray Paint Markers in this Region. Erase other Markers to continue Spray Painting.,,
+GAMEPLAY_InvalidOnTopOfAnotherDecal,Invalid location on top of another Spray Paint marker,,Kan ikkje spraya merke oppå kvarandre
+GAMEPLAY_InvalidTooManyPlacedDecals,Too many Spray Paint Markers in this Region. Erase other Markers to continue Spray Painting.,,For mange merke i regionen. Visk vekk andre merke for å fortsetja å spraymåla.
 GAMEPLAY_Inventory,Inventory,,I ranselen
 GAMEPLAY_InvertX,Invert X,,Omvend X
 GAMEPLAY_InvertY,Invert Y,,Omvend Y
@@ -4357,13 +4357,13 @@ GAMEPLAY_JeremiahTrustDecrease,Jeremiah now trusts you less.,,No stolar Jeremiah
 GAMEPLAY_JeremiahTrustIncrease,Jeremiah now trusts you more.,,No stolar Jeremiah meir på deg.
 GAMEPLAY_JerryCan,Jerry Can,,Jerrykanne
 GAMEPLAY_JerryCanDescription,An old metal jerry can containing fuel for oil lamps.,,Ei gamal jerrykanne med parafin til oljelampar.
-GAMEPLAY_JoinCommunity,Join the Community,,
+GAMEPLAY_JoinCommunity,Join the Community,,Vert med i samfunnet
 GAMEPLAY_Journal,Journal,,Dagbok
 GAMEPLAY_Journals,Journals,,Dagbøker
 GAMEPLAY_JournalUpdated,Journal Updated,,Dagbok oppdatert
 GAMEPLAY_Kerosene,Lamp Oil,,Parafin
-GAMEPLAY_KeroseneLamp_Spelunkers,Spelunker’s Lantern,,
-GAMEPLAY_KeroseneLamp_SpelunkersDescription,"Rigged for fuel efficiency. A light for deep, dark places, when other lights go out.",,
+GAMEPLAY_KeroseneLamp_Spelunkers,Spelunker’s Lantern,,Holelampe
+GAMEPLAY_KeroseneLamp_SpelunkersDescription,"Rigged for fuel efficiency. A light for deep, dark places, when other lights go out.",,"Sparar på olja, men ljosar mørkare. Eit ljos for djupe, mørke plassar, når andre ljos sløkkjer."
 GAMEPLAY_KetchupChips,Ketchup-Chips,,Ketsjup-potetlauv
 GAMEPLAY_KetchupChipsDescription,"Crunchy, tangy, and ketchup flavored, with a salty punch that will make you thirsty. A Canadian classic.",,"Knasande, pikant og med smak av ketsjup, samt ramsalta. Ein klassikar frå Canada."
 GAMEPLAY_KeybindClothing,Clothing,button to open clothing screen,Klede
@@ -5147,9 +5147,9 @@ GAMEPLAY_NorthWest,North West,,Nordvest
 GAMEPLAY_NoSandboxsFound,No Journals found,,Ingen dagbøker funne
 GAMEPLAY_Nosavetoload,No save to load,,Ingen spel å laste inn
 GAMEPLAY_NoSleepIndoorsCabinFever,You can't sleep indoors due to Cabin Fever.,,Du har brakkesjuka og kan ikkje sova inne.
-GAMEPLAY_NoSprayPaintInVehicles,Cannot spray paint inside vehicles,,Kan ikkje tagga inni køyretøy
-GAMEPLAY_NoSprayPaintRadial,No Spray Paint cans in inventory,,
-GAMEPLAY_NoSteamPipeHandleInventory,No valve handle in inventory,,
+GAMEPLAY_NoSprayPaintInVehicles,Cannot spray paint inside vehicles,,Kan ikkje spraya inni køyretøy
+GAMEPLAY_NoSprayPaintRadial,No Spray Paint cans in inventory,,Ingen sprayboksar i ranselen
+GAMEPLAY_NoSteamPipeHandleInventory,No valve handle in inventory,,Ingen ventilhandtak i ranselen
 GAMEPLAY_Notcarryinganywaterthatneedspurification,Not carrying any water that needs purification,,Du har ikkje med deg noko vatn som treng reinsking
 GAMEPLAY_NotDehydrated,Not dehydrated,,Ikkje dehydrert
 GAMEPLAY_NotEncumbered,Not Encumbered,,Ikkje nedtyngja
@@ -5709,7 +5709,7 @@ GAMEPLAY_RadialPlaceItem,Campcraft,,Leirkunnskap
 GAMEPLAY_RadialRockCache,Rock Cache,,Steinøyme
 GAMEPLAY_RadialShelter,Refuge,,Ly
 GAMEPLAY_RadialSnowShelter,Snow Shelter,,Snøhole
-GAMEPLAY_RadialSprayPaint,Spray Paint,,
+GAMEPLAY_RadialSprayPaint,Spray Paint,,Sprayboks
 GAMEPLAY_RadialStatus,Status,"leads to Status screen, showing the player status",Status
 GAMEPLAY_RadialTools,Tools,,Reiskap
 GAMEPLAY_RadialTraps,Traps,,Fellar
@@ -5839,9 +5839,9 @@ GAMEPLAY_ReloadCheckpoint,Reload Checkpoint,,Last inn kontrollpunkt på nytt
 GAMEPLAY_ReloadLastSave,Reload Last Save,,Last inn førre lagring
 GAMEPLAY_ReloadSave,Reload {0},"Menu item for reloading a specific save. {0} will be replaced with the name of the save to reload. Examples: 'Reload Last Checkpoint', 'Reload Quicksave', 'Reload ""User created savename""'",Last inn {0}
 GAMEPLAY_Remedy,Remedy,,Botemiddel
-GAMEPLAY_RemoveAllSprayPaint,Do you want to remove all Spray Paint Markers? This will remove them from both the environment and the Map.,,
+GAMEPLAY_RemoveAllSprayPaint,Do you want to remove all Spray Paint Markers? This will remove them from both the environment and the Map.,,Vil du viska vekk alle spraymåla merke? Dette vil fjerna dei frå både verda og kartet.
 GAMEPLAY_RemoveFromFavorites,Remove from Radial,,Fjern frå sirkel
-GAMEPLAY_RemoveSprayPaint,Do you want to remove this spray paint marker? This will remove it from both the environment and the Map.,,
+GAMEPLAY_RemoveSprayPaint,Do you want to remove this spray paint marker? This will remove it from both the environment and the Map.,,Vil du viska vekk dette merke? Dette vil fjerna det frå både verda og kartet.
 GAMEPLAY_Rename,Rename,,Gje nytt navn
 GAMEPLAY_RenameChallenge,Rename Challenge,,Gje utfordringa eit nytt namn
 GAMEPLAY_RenameSandbox,Rename Sandbox,,Gje runden eit nytt namn
@@ -6278,11 +6278,11 @@ GAMEPLAY_SkiJacket_Ragged,Ragged Ski Jacket,,Fillete skijakke
 GAMEPLAY_SkiJacket_Ruined,Ruined Ski Jacket,,Unyttande skijakke
 GAMEPLAY_SkiJacket_Worn,Worn Ski Jacket,,Velbrukt skijakke
 GAMEPLAY_SkiJacketDescription,"Synthetic, quilted ski jacket. Keeps the core warm but at the expense of windproofing.",,"Syntetisk, vattert skijakke. Held overkroppen varm, men vindtett er han ikkje."
-GAMEPLAY_SkillAimAssistTier4,Minor,"A level of adjustment to an ""aim assist"" skill when shooting a Revolver or Rifle.",
-GAMEPLAY_SkillAimAssistTier5,Moderate,"A level of adjustment to an ""aim assist"" skill when shooting a Revolver or Rifle.",
+GAMEPLAY_SkillAimAssistTier4,Minor,"A level of adjustment to an ""aim assist"" skill when shooting a Revolver or Rifle.",Mild
+GAMEPLAY_SkillAimAssistTier5,Moderate,"A level of adjustment to an ""aim assist"" skill when shooting a Revolver or Rifle.",Måteleg
 GAMEPLAY_SkillBeginner,Beginner,,Nybyrjar
-GAMEPLAY_Skillet,Cooking Skillet,,
-GAMEPLAY_SkilletDescription,A pan for cooking and frying.,,
+GAMEPLAY_Skillet,Cooking Skillet,,Steikjepanne
+GAMEPLAY_SkilletDescription,A pan for cooking and frying.,,Ei støypejernspanne til å steikja mat i.
 GAMEPLAY_SkillExpert,Expert,,Ekspert
 GAMEPLAY_SkillIncrease,Improves {name} skill by {value} points,Improves Fire Starting skill by 10 points,Forbetrar {name}dugleiken din med {value} poeng
 GAMEPLAY_SkillIncreased,{name} skill increased to {%-value},,{name}dugleiken din auka til {%-value}
@@ -6353,15 +6353,15 @@ GAMEPLAY_SprainPainDesc,"You are suffering from the pain of an injury, causing b
 GAMEPLAY_SprainRisk,Sprain Risk,,Vrengjevågnad
 GAMEPLAY_SprainRiskDesc,"You are Exhausted or Encumbered, and at higher risk for a Sprain when traversing sloped ground.",,Du er sleten eller nedtyngja og har derfor ein større sjanse for å vrengje okler og handledd når du går i bakkar.
 GAMEPLAY_SprainRiskTreatment,Rest or drop some of your gear in order to eliminate the Sprain Risk.,,Kvil eller gje slepp på noko for å kvitta deg med vrengjevågnaden.
-GAMEPLAY_SprayNotMapped,This shape is not shown on the map when sprayed,,
-GAMEPLAY_SprayPaint,Spray Paint,,
-GAMEPLAY_SprayPaintDescription,A can of Spray Paint. Can be used to leave signs and markers in the environment.,,
-GAMEPLAY_SprayPaintGlyphA,Spray Paint - Glyph,UI label,
-GAMEPLAY_SprayPaintGlyphADescription,A can of Spray Paint. Can be used to create Glyphs to protect against the Darkwalker.,"UI label, Do not translate «Darkwalker»",
-GAMEPLAY_SprayPaintIndoorNotOnMap,Spray Painting indoors will not show on the Map,,
-GAMEPLAY_SprayPaintMapQKHeader,Map Survey,,
+GAMEPLAY_SprayNotMapped,This shape is not shown on the map when sprayed,,Dette merket visast ikkje på kartet når det blir spraya
+GAMEPLAY_SprayPaint,Spray Paint,,Sprayboks
+GAMEPLAY_SprayPaintDescription,A can of Spray Paint. Can be used to leave signs and markers in the environment.,,Ein boks med spraymåling og ventil til å markera det ein måtte ynskja.
+GAMEPLAY_SprayPaintGlyphA,Spray Paint - Glyph,UI label,Runesprayboks
+GAMEPLAY_SprayPaintGlyphADescription,A can of Spray Paint. Can be used to create Glyphs to protect against the Darkwalker.,"UI label, Do not translate «Darkwalker»",Ein boks med spraymåling og ventil til å laga runer som vernar ein mot Darkwalker.
+GAMEPLAY_SprayPaintIndoorNotOnMap,Spray Painting indoors will not show on the Map,,Spraymåling innandørs visast ikkje på kartet
+GAMEPLAY_SprayPaintMapQKHeader,Map Survey,,Kartlegging
 GAMEPLAY_SprayPaintMapQKMessage,New area surveyed on Map,,Nytt område kartlagt
-GAMEPLAY_SprayPaintMultipleMarkers,Multiple Markers,,
+GAMEPLAY_SprayPaintMultipleMarkers,Multiple Markers,,Fleire merke
 GAMEPLAY_Sprint,Sprint,,Springing
 GAMEPLAY_SSAO,SSAO,Abbreviation for Screen Space Ambient Occlusion,SSAO
 GAMEPLAY_SSAODescription,Screen Space Ambient Occlusion simulates shadows around the edges of objects. Reduce quality level to improve performance.,Graphics setting.,Omgjevnadsavhengig ljos i skjermbiletet (SSAO) simulerar skuggar rundt kantane på objekt. Reduser kvalitetsnivået for å betre ytinga.
