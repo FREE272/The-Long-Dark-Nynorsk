@@ -1293,7 +1293,7 @@ GAMEPLAY_AstridToque,Astrid's Toque,,Astrid si hue
 GAMEPLAY_AstridToqueDescription,"Warm and durable, perfect for the wilderness.",,"Varm og slitesterk, perfekt for villmarka."
 GAMEPLAY_AteItem,Ate {item-name}.,,Åt {item-name}.
 GAMEPLAY_AtoZ,A-Z,,A-Å
-GAMEPLAY_AttachHandle,Attach Handle,,
+GAMEPLAY_AttachHandle,Attach Handle,,Fest handtak
 GAMEPLAY_Attack,Attack,,Gå til åtak
 GAMEPLAY_Audio,Audio,,Lyd
 GAMEPLAY_AuroraHatchCode,Aurora Hatch Door Entry Code,,
@@ -1375,78 +1375,78 @@ GAMEPLAY_AuroraScreenDesc_BUFFER_WhalingwarehouseA_2,"Echoes from Hibernia Proce
 GAMEPLAY_AuroraScreenDesc_BUFFER_WhalingwarehouseA_3,"Echoes from Hibernia Processing, stirred to life by the Aurora. 3/5",,
 GAMEPLAY_AuroraScreenDesc_BUFFER_WhalingwarehouseA_4,"Echoes from Hibernia Processing, stirred to life by the Aurora. 4/5",,
 GAMEPLAY_AuroraScreenDesc_BUFFER_WhalingwarehouseA_5,"Echoes from Hibernia Processing, stirred to life by the Aurora. 5/5",,
-GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_1,Buffer Memory,"Buffer Memory refers to a piece of data ""stuck"" in a computer's memory.",
-GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHutB_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_5,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_1,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_2,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_3,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_4,Buffer Memory,,
-GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_5,Buffer Memory,,
+GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_BankA_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CampOffice_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_ConvenienceStoreA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_CrashMountainRegion_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_Dam_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_DamTransitionZone_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_1,Buffer Memory,"Buffer Memory refers to a piece of data ""stuck"" in a computer's memory.",Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_FishingCabinD_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_LighthouseA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MaintenanceShedA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_MarshRegion_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_PostOfficeA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_QuonsetGasStation_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHut_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RadioControlHutB_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_RuralStoreA_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_TracksRegion_5,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_1,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_2,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_3,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_4,Buffer Memory,,Bufferminne
+GAMEPLAY_AuroraScreenTitle_BUFFER_WhalingwarehouseA_5,Buffer Memory,,Bufferminne
 GAMEPLAY_Autosave,Autosave,Autosave slot on the load game screen,
 GAMEPLAY_AutosaveMinutes,Autosave frequency (minutes),Label for Autosave minutes Slider in Options,
 GAMEPLAY_AutosaveSettings,AutoSave Settings,Auto Save Settings Label (Options),
@@ -1826,8 +1826,8 @@ GAMEPLAY_ButtonForageWood,Forage Wood,,Sank ved
 GAMEPLAY_ButtonGiveItems,Give Items,,Gje ting
 GAMEPLAY_ButtonMelt,Melt,,Smelt
 GAMEPLAY_ButtonNext,Next,Used to advance to next line of dialogue in Dialogue Mode,Neste
-GAMEPLAY_ButtonOptIn,Opt In,,Ver med
-GAMEPLAY_ButtonOptOut,Opt Out,,
+GAMEPLAY_ButtonOptIn,Opt In,,Meld deg inn
+GAMEPLAY_ButtonOptOut,Opt Out,,Meld deg ut
 GAMEPLAY_ButtonPrevious,Previous,,Førre
 GAMEPLAY_ButtonSort,Sort,,Sorter
 GAMEPLAY_ButtonTellMeMore,Tell Me More,,Fortel meg meir
@@ -2846,42 +2846,42 @@ GAMEPLAY_DeadmanNote5,Memento Mori 5,,
 GAMEPLAY_DeadmanObjectiveHeader,Graves visited before death,,
 GAMEPLAY_DeadManWalkingLoadText,"The world is changed. But there's a chance for one last journey before the final cold sets in. Walk the path, visit the graves, and make things right before the end.
 Visit all the grave sites marked on your map. There is no time limit. As your life ebbs, death is the only barrier.",,
-GAMEPLAY_DeathBearAttack,You died from loss of blood and shock from a bear attack,,Du døydde av blodtap og sjokk etter eit bjørneåtak
-GAMEPLAY_DeathBloodLoss,You died from blood loss,,Du døydde av blodtap
-GAMEPLAY_DeathBloodLossSleeping,You died from blood loss while sleeping,,Du døydde av blodtap medan du sov
-GAMEPLAY_DeathBurning,You burned to death,,Du brant til i hel
-GAMEPLAY_DeathDehydrate,You died from dehydration,,Du døydde av dehydrering
-GAMEPLAY_DeathDehydrateExhausted,You died from dehydration and exhaustion,,Du døydde av dehydrering og trøyttleik
-GAMEPLAY_DeathDehydrateExhaustedFreeze,"You died from dehydration, exhaustion, and exposure",,"Du døydde av dehydrering, trøyttleik og kulde"
-GAMEPLAY_DeathDehydrateFreeze,You died from dehydration and exposure,,Du døydde av dehydrering og kulde
+GAMEPLAY_DeathBearAttack,You died from loss of blood and shock from a bear attack,,Bjørnen drap deg
+GAMEPLAY_DeathBloodLoss,You died from blood loss,,Du blødde i hel
+GAMEPLAY_DeathBloodLossSleeping,You died from blood loss while sleeping,,Du blødde i hel i søvne
+GAMEPLAY_DeathBurning,You burned to death,,Du brann i hel
+GAMEPLAY_DeathDehydrate,You died from dehydration,,Du tyrsta i hel
+GAMEPLAY_DeathDehydrateExhausted,You died from dehydration and exhaustion,,Du døydde av tyrste og trøyttleik
+GAMEPLAY_DeathDehydrateExhaustedFreeze,"You died from dehydration, exhaustion, and exposure",,"Du døydde av tyrste, trøyttleik og kulde"
+GAMEPLAY_DeathDehydrateFreeze,You died from dehydration and exposure,,Du tyrsta og fraus i hel
 GAMEPLAY_DeathDrowning,You died from Drowning,,Du drukna
 GAMEPLAY_DeathDysentery,You died from dysentery,,Du døydde av dysenteri
-GAMEPLAY_DeathDysenterySleeping,You died from dysentery while sleeping,,Du døydde av dysenteri medan du sov
+GAMEPLAY_DeathDysenterySleeping,You died from dysentery while sleeping,,Du døydde av dysenteri i søvne
 GAMEPLAY_DeathExhausted,You died from exhaustion,,Du døydde av trøyttleik
 GAMEPLAY_DeathExhaustedFreeze,You died from exhaustion and exposure,,Du døydde av trøyttleik og kulde
-GAMEPLAY_DeathFaDedLongDark,You faded into The Long Dark...,,Du forsvann inn i det evige mørkeret...
-GAMEPLAY_DeathFalling,You died from massive internal injuries after falling,,Du døydde av store innvendige skadar etter eit hardt fall
+GAMEPLAY_DeathFaDedLongDark,You faded into The Long Dark...,,Du sovna inn for godt
+GAMEPLAY_DeathFalling,You died from massive internal injuries after falling,,Du datt og døydde av det
 GAMEPLAY_DeathFoodPoisoning,You died from food poisoning,,Du døydde av matforgiftning
-GAMEPLAY_DeathFoodPoisoningSleeping,You died from food poisoning while sleeping,,Du døydde av matforgiftning medan du sov
-GAMEPLAY_DeathFreeze,You died from exposure,,Du døydde av kulde
-GAMEPLAY_DeathFreeze_Name,{name} has died from exposure.,,{name} døydde av kulde
-GAMEPLAY_DeathIceCracking,You drowned after falling through cracked ice,,Du drukna då du datt gjennom isen
-GAMEPLAY_DeathInfection,You died from infection,,Du døydde av ein infeksjon
-GAMEPLAY_DeathInfectionSleeping,You died from infection while sleeping,,Du døydde av ein infeksjon medan du sov
-GAMEPLAY_DeathMooseAttack,You died from injuries sustained during a Moose Attack,,Du døydde av store innvendige skadar etter eit elgeåtak
-GAMEPLAY_DeathScurvy,You died from Scurvy,,
-GAMEPLAY_DeathStarve,You died from starvation,,Du døydde av sult
-GAMEPLAY_DeathStarveDehydrate,You died from starvation and dehydration,,Du døydde av sult og dehydrering
-GAMEPLAY_DeathStarveDehydrateExhausted,"You died from starvation, dehydration, and exhaustion",,"Du døydde av sult, dehydrering og trøyttleik"
-GAMEPLAY_DeathStarveDehydrateExhaustedFreeze,"You died from starvation, dehydration, exhaustion, and exposure",,"Du døydde av sult, dehydrering, trøyttleik og kulde"
-GAMEPLAY_DeathStarveDehydrateFreeze,"You died from starvation, dehydration, and exposure",,"Du døydde av sult, dehydrering og kulde"
-GAMEPLAY_DeathStarveExhausted,You died from starvation and exhaustion,,Du døydde av sult og trøyttleik
-GAMEPLAY_DeathStarveExhaustedFreeze,"You died from starvation, exhaustion, and exposure",,"Du døydde av sult, trøyttleik og kulde"
-GAMEPLAY_DeathStarveFreeze,You died from starvation and exposure,,Du døydde av sult og kulde
-GAMEPLAY_DeathSuffocation,You died from Suffocation,,
-GAMEPLAY_DeathWolfAttack,You died from loss of blood and shock from a wolf attack,,Du døydde av blodtap og sjokk etter eit ulveåtak
-GAMEPLAY_Debug,debug,,debug
-GAMEPLAY_DebugScreenshot,debug Screenshot,,debug-skjermbilete
+GAMEPLAY_DeathFoodPoisoningSleeping,You died from food poisoning while sleeping,,Du døydde av matforgiftning i søvne
+GAMEPLAY_DeathFreeze,You died from exposure,,Du fraus i hel
+GAMEPLAY_DeathFreeze_Name,{name} has died from exposure.,,{name} fraus i hel
+GAMEPLAY_DeathIceCracking,You drowned after falling through cracked ice,,Du for igjennom isen og drukna
+GAMEPLAY_DeathInfection,You died from infection,,Du døydde av infeksjon
+GAMEPLAY_DeathInfectionSleeping,You died from infection while sleeping,,Du døydde av infeksjon i søvne
+GAMEPLAY_DeathMooseAttack,You died from injuries sustained during a Moose Attack,,Elgen spende deg i hel
+GAMEPLAY_DeathScurvy,You died from Scurvy,,Du døydde av skjørbuk
+GAMEPLAY_DeathStarve,You died from starvation,,Du svelt i hel
+GAMEPLAY_DeathStarveDehydrate,You died from starvation and dehydration,,Du svelt og tyrsta i hel
+GAMEPLAY_DeathStarveDehydrateExhausted,"You died from starvation, dehydration, and exhaustion",,"Du døydde av svolt, tyrste og trøyttleik"
+GAMEPLAY_DeathStarveDehydrateExhaustedFreeze,"You died from starvation, dehydration, exhaustion, and exposure",,"Du døydde av svolt, tyrste, trøyttleik og kulde"
+GAMEPLAY_DeathStarveDehydrateFreeze,"You died from starvation, dehydration, and exposure",,"Du døydde av svolt, tyrste og kulde"
+GAMEPLAY_DeathStarveExhausted,You died from starvation and exhaustion,,Du døydde av svolt og trøyttleik
+GAMEPLAY_DeathStarveExhaustedFreeze,"You died from starvation, exhaustion, and exposure",,"Du døydde av svolt, trøyttleik og kulde"
+GAMEPLAY_DeathStarveFreeze,You died from starvation and exposure,,Du svelt og fraus i hel
+GAMEPLAY_DeathSuffocation,You died from Suffocation,,Du vart kvelt
+GAMEPLAY_DeathWolfAttack,You died from loss of blood and shock from a wolf attack,,Ulven drap deg
+GAMEPLAY_Debug,debug,,Feilsøk
+GAMEPLAY_DebugScreenshot,debug Screenshot,,Feilsøkingsskjermbilete
 GAMEPLAY_DecalAvoid,Avoid Direction,,Unngå
 GAMEPLAY_DecalClothing,Clothing,,Klede
 GAMEPLAY_DecalDanger,Danger,,Fare
@@ -10839,7 +10839,7 @@ SUBTITLE_FemaleConditionStarving1,Dammit...so hungry.,,Helvete... so svolten.
 SUBTITLE_FemaleConditionStarving10,Where can I find something to eat?,,Kvar kan eg finna noko å eta?
 SUBTITLE_FemaleConditionStarving2,I'll die if I don't get some food soon.,,Eg kjem til å døy viss eg ikkje får noko mat snart.
 SUBTITLE_FemaleConditionStarving3,Getting weak...,,Vert veik.
-SUBTITLE_FemaleConditionStarving4,I'm so hungry.,,Eg er so sulten.
+SUBTITLE_FemaleConditionStarving4,I'm so hungry.,,Eg er so svolten.
 SUBTITLE_FemaleConditionStarving5,Need something to eat.,,Treng noko å eta.
 SUBTITLE_FemaleConditionStarving6,My stomach feels like an empty pit...,,Magen min kjennest som tomt hòl.
 SUBTITLE_FemaleConditionStarving7,Gotta eat soon.,,Må eta snart.
