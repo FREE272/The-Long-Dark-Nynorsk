@@ -64,7 +64,7 @@ ACHIEVEMENT_ResoluteOutfitterDescription,Fill all clothing slots with 100% condi
 ACHIEVEMENT_SHTF,Ready for when the SHTF!,,Klar til at helvete brytar laust!
 ACHIEVEMENT_SHTFDescription,Survive 50 days in a single Survival Mode game.,,Overlev 50 dagar i eitt spel i overlevingsmodus.
 ACHIEVEMENT_SilentHunter,Silent Hunter,,Den stille jegeren
-ACHIEVEMENT_SilentHunterDescription,Survive the first 50 days without firing any firearms (single game).,,Overlev dei 50 fyrste dagene utan å nytta nokre skytevåpen (i eitt spel).
+ACHIEVEMENT_SilentHunterDescription,Survive the first 50 days without firing any firearms (single game).,,Overlev dei 50 fyrste dagene utan å nytta nokon skytevåpen (i eitt spel).
 ACHIEVEMENT_SkilledSurvivor,Skilled Survivor,,Ein som veit å overleva
 ACHIEVEMENT_SkilledSurvivorDescription,Get all skills to level 5 in a single Survival Mode game.,,Få alle dugleikane i level 5 i eit overlevingsmodusspel.
 ACHIEVEMENT_SM_FoundAllForestTalkerCaches,Sounds Like Some Kind of Indie Band,,Namnet høyrast ut som eit indieband
@@ -1078,10 +1078,10 @@ GAMEPLAY_AfflictionFearNoSleep,Cannot Rest when Afraid,UI label,
 GAMEPLAY_AfflictionFearTreatment,Move further away from the Darkwalker.,"UI label, Do not translate «Darkwalker»",Gå lenger vekk frå Darkwalker.
 GAMEPLAY_Afflictions,Afflictions,,Lidelser
 GAMEPLAY_AfflictionSuffocating,Suffocation,,Kveling
-GAMEPLAY_AfflictionSuffocationCause,Unbreathable air,,Upustande luft
-GAMEPLAY_AfflictionSuffocationDescription,You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. ,,Du går tom for luft å pusta. Finn ei lomme med frisk luft eller ta på deg ei vernemaske før du døyr.
+GAMEPLAY_AfflictionSuffocationCause,Unbreathable air,,Uandande luft
+GAMEPLAY_AfflictionSuffocationDescription,You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. ,,"Du går tom for andeluft. Finn ei lomme med frisk luft, eller ta på deg ei vernemaske før du døyr."
 GAMEPLAY_AfflictionToxicFog,Toxic Fog,UI label,Giftig tåke
-GAMEPLAY_AfflictionToxicFogCause,Poisonous Toxic Fog,UI label,Pusta inn giftig tåke.
+GAMEPLAY_AfflictionToxicFogCause,Poisonous Toxic Fog,UI label,Anda inn giftig tåke.
 GAMEPLAY_AfflictionToxicFogTreatment,Escape the Fog,,Kom deg ut av tåka.
 GAMEPLAY_AFShed,Shed,,Skur
 GAMEPLAY_Afternoon,Afternoon,,Ettermiddag
@@ -1158,7 +1158,7 @@ The build has the green light.
 GAMEPLAY_AirfieldTowerNote,Note,,
 GAMEPLAY_AirfieldTowerNote_Description,A handwritten message on greasy paper.,,
 GAMEPLAY_AirfieldTowerNote_Narrative,WE’RE LEAVING! Can’t stand the lights any longer. No sleep. Just no sleep. We’re walking out of here.,,
-GAMEPLAY_AirfieldTransmitterRegionDesc,Transmitter covers Far Territory Regions,,
+GAMEPLAY_AirfieldTransmitterRegionDesc,Transmitter covers Far Territory Regions,,Radiosendaren dekkjer Fjernstrøket
 GAMEPLAY_AirlineFoodChick,Airline Food - Chicken,,Flymat - Kylling
 GAMEPLAY_AirlineFoodChickDescription,"Still frozen solid, this food tray has all the tasty charm you could expect from reheated chicken, only without the heat.",,"Enno gjennomfrosen. Dette brettet med mat har all sjarmen ein kan forventa av attvarma kylling, berre utan varmen."
 GAMEPLAY_AirlineFoodVeg,Airline Food - Vegetarian,,Flymat - Vegetar
@@ -1265,7 +1265,7 @@ GAMEPLAY_ArchivistSubObjectiveList9,Milton - Post Office,,
 GAMEPLAY_ArmLeft,Left Arm,Affliction location for ArmLeft,Venstre arm
 GAMEPLAY_ArmRight,Right Arm,Affliction location for ArmRight,Høgre arm
 GAMEPLAY_Arrow,Simple Arrow,,Pil
-GAMEPLAY_ArrowDescription,"A home-made Arrow, created by combining an Arrow Shaft with Crow Feathers and an Arrowhead.",,"Ein heimalaga pil, laga ved å setja saman eit pilskaft med nokre kråkefjør og ein pilspiss."
+GAMEPLAY_ArrowDescription,"A home-made Arrow, created by combining an Arrow Shaft with Crow Feathers and an Arrowhead.",,"Ein heimalaga pil, laga ved å setja saman eit pilskaft med nokon kråkefjør og ein pilspiss."
 GAMEPLAY_ArrowHardened,Fire Hardened Arrow,,Flammeherda pil
 GAMEPLAY_ArrowHardenedDescription,"A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.",,"Ei enkel pil herda over flammar. Lett å laga, men skøyr. Eignar seg best til smøvilt."
 GAMEPLAY_ArrowHead,Arrowhead,,Pilspiss
@@ -1273,7 +1273,7 @@ GAMEPLAY_ArrowHeadDescription,"Sharp metal tip for an Arrow, improvised from scr
 GAMEPLAY_ArrowHeads,Arrowheads,,Pilspissar
 GAMEPLAY_Arrows,Simple Arrows,,Enkle piler
 GAMEPLAY_ArrowShaft,Arrow Shaft,,Pilskaft
-GAMEPLAY_ArrowShaftDescription,"A straight wooDen arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow.",,"Eit rett pilskaft, laga frå turka ungbjørk. Fest ein pilspiss i eine enden og nokre kråkefjør i andre enden so har du ei flott pil!"
+GAMEPLAY_ArrowShaftDescription,"A straight wooDen arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow.",,"Eit rett pilskaft, laga frå turka ungbjørk. Fest ein pilspiss i eine enden og nokon kråkefjør i andre enden so har du ei flott pil!"
 GAMEPLAY_ArrowShafts,Arrow Shafts,,Pilskaft
 GAMEPLAY_ArrowsHardened,Fire Hardened Arrows,,Flammeherda pilar
 GAMEPLAY_Astrid,Astrid,Astrid ( firstname of our male character),Astrid
@@ -1682,7 +1682,7 @@ GAMEPLAY_BlackrockTransitionBuildersBridge,The Builder's Bridge,,
 GAMEPLAY_BlackrockTransitionForestersHermitage,Forester's Hermitage,,
 GAMEPLAY_BlackrockTransitionMirthlessFork,Mirthless Fork,,
 GAMEPLAY_BlackrockTransitionTheToe,The Toe,,
-GAMEPLAY_BlackrockTransmitterRegionDesc,"Transmitter covers Blackrock, Ash Canyon, and Timberwolf Mountain Regions",,
+GAMEPLAY_BlackrockTransmitterRegionDesc,"Transmitter covers Blackrock, Ash Canyon, and Timberwolf Mountain Regions",,"Radiosendaren dekkjer Svartstein, Oskedalen og Vargafjellet"
 GAMEPLAY_BlackrockWedgeCave,Wedge Cave,,
 GAMEPLAY_BlackrockWhistlingPerch,Whistling Perch,,
 GAMEPLAY_Blizzard,Blizzard,,Snøstorm
@@ -2171,7 +2171,7 @@ Kom fram til foten av Vargafjellet. Ser ut til å vera nokon fine sprekkar her, 
 Eg lurer på om venane mine har gått seg vill, for dei har ikkje kome endå. Eg vakna midt på natta av eit enormt smell og brann på fjellet. Eg gjekk for å sjekke, men vêret vart dårleg, so eg fant ikkje fram.
 
 7. september
-Blå himmel. Eg far ut igjen. Fant nokon metallkassar. Det ser ut som om dei kan ha kome i frå eit fly. Det kjem fortsatt røyk frå fjelltoppen. Eg fer for å sjå om eg kan koma meg til topps for å finne ut kva som skjer."
+Blå himmel. Eg far ut igjen. Fann nokon metallkassar. Det ser ut som om dei kan ha kome i frå eit fly. Det kjem fortsatt røyk frå fjelltoppen. Eg fer for å sjå om eg kan koma meg til topps for å finne ut kva som skjer."
 GAMEPLAY_ClimbingSocks,Climbing Socks,,Klatrelabbar
 GAMEPLAY_ClimbingSocks_Decent,decent Climbing Socks,,Nyttande klatrelabbar
 GAMEPLAY_ClimbingSocks_Mint,New Climbing Socks,,Nye klatrelabbar
@@ -2269,10 +2269,10 @@ GAMEPLAY_CollectionRecipes,Unique Recipes,,
 GAMEPLAY_CollectionRecipesDescription,Recipe Cards with details on unique and potent Great Bear Island dishes. ,,
 GAMEPLAY_Collections,Collections,,Samleobjekt
 GAMEPLAY_CollectionSurveyScreenDescription,All named locations surveyed according to regions discovered,,
-GAMEPLAY_CollectionTransmitterRepair,Needs Repair,,
-GAMEPLAY_CollectionTransmitters,Transmitters,,
-GAMEPLAY_CollectionTransmittersDescription,Transmitters Repaired,,
-GAMEPLAY_CollectionTransmitterSites,Transmitter Sites,,
+GAMEPLAY_CollectionTransmitterRepair,Needs Repair,,Må vølast
+GAMEPLAY_CollectionTransmitters,Transmitters,,Radiosendarar
+GAMEPLAY_CollectionTransmittersDescription,Transmitters Repaired,,Vølte radiosendarar
+GAMEPLAY_CollectionTransmitterSites,Transmitter Sites,,Radiosendarinstallasjonar
 GAMEPLAY_CombatBoots,Combat Boots,,Feltstøvlar
 GAMEPLAY_CombatBoots_Decent,decent Combat Boots,,Nyttande feltstøvlar
 GAMEPLAY_CombatBoots_Mint,New Combat Boots,,Nye feltstøvlar
@@ -2938,7 +2938,7 @@ GAMEPLAY_DepositBoxKey3,Bank deposit Box Key (#20),,Bankboksnykel #20
 GAMEPLAY_DepositBoxKeyDescription1,Bank deposit box key. Will open one of the deposit boxes at the bank,,Bankboksnykel. Med denne kan du opna ein bankboks i bankkvelvet.
 GAMEPLAY_DepositBoxKeyDescription2,Bank deposit box key. Will open one of the deposit boxes at the bank,,Bankboksnykel. Med denne kan du opna ein bankboks i bankkvelvet.
 GAMEPLAY_DepositBoxKeyDescription3,Bank deposit box key. Will open one of the deposit boxes at the bank,,Bankboksnykel. Med denne kan du opna ein bankboks i bankkvelvet.
-GAMEPLAY_Derailment,derailment,,Avspora tog
+GAMEPLAY_Derailment,derailment,,Avsporing
 GAMEPLAY_Description,description,,Skildring
 GAMEPLAY_DescriptionAccessibility,Explore and modify accessibility settings.,,
 GAMEPLAY_DescriptionAllChallenges,Explore Unlocked Challenges,,Sjå opplåste utfordringar
@@ -3083,8 +3083,8 @@ GAMEPLAY_DistanceMedium,Medium,,Middels
 GAMEPLAY_Distancetravelledduringday,Distance travelled during day,,Avstand gått om dagen
 GAMEPLAY_Distancetravelledduringnight,Distance travelled during night,,Avstand gått om natta
 GAMEPLAY_DLLFailure,"Failed to load DLL (Error code {error-code}), game will not launch",,
-GAMEPLAY_DoeCarcass,Doe Carcass,,
-GAMEPLAY_DoeCarcassFrozen,Frozen Doe Carcass,,
+GAMEPLAY_DoeCarcass,Doe Carcass,,Kollekadaver
+GAMEPLAY_DoeCarcassFrozen,Frozen Doe Carcass,,Frose kollekadaver
 GAMEPLAY_DogFood,Dog Food,,Hundemat
 GAMEPLAY_DogFood_Banged Up,Banged Up Dog Food,,Bulka boks med hundemat
 GAMEPLAY_DogFood_Dusty,Dusty Dog Food,,Støvete boks med hundemat
@@ -3412,7 +3412,7 @@ GAMEPLAY_FeatExpertTrapper_benefit,Your Snares are now {bonus} more effective.,,
 GAMEPLAY_FeatExpertTrapperDescription,You've snared {number} Rabbits. Your Snares are now {bonus} more effective.,,
 GAMEPLAY_FeatExpertTrapperDescription_short,You've snared {number} Rabbits.,,
 GAMEPLAY_FeatheredArrowShaft,Arrow Shaft,,Pilskaft
-GAMEPLAY_FeatheredArrowShaftDescription,"A straight wooDen arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow.",,"Eit rett pilskaft, laga frå turka ungbjørk. Fest ein pilspiss i eine enden og nokre kråkefjør i andre enden so har du ei flott pil!"
+GAMEPLAY_FeatheredArrowShaftDescription,"A straight wooDen arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow.",,"Eit rett pilskaft, laga frå turka ungbjørk. Fest ein pilspiss i eine enden og nokon kråkefjør i andre enden so har du ei flott pil!"
 GAMEPLAY_FeatheredArrowShafts,Arrow Shafts,,Pilskaft
 GAMEPLAY_Feats,Feats,synonym for accomplishments,Bragder
 GAMEPLAY_FeatsActivated,Activated Feats,,Aktive bragder
@@ -3542,8 +3542,8 @@ GAMEPLAY_FixFuses,Repair Fuses,,Vøl sikringar
 GAMEPLAY_FixFusesProgress,Repairing Fuses...,,Vølar sikringar...
 GAMEPLAY_FixMetal,Repair Metal Parts,,Vøl metalldelar
 GAMEPLAY_FixMetalProgress,Repairing Metal Parts...,,Vølar metalldelar...
-GAMEPLAY_FixWires,Repair Wires,,Vøl leidningar
-GAMEPLAY_FixWiresProgress,Repairing Wires...,,Vølar leidningar...
+GAMEPLAY_FixWires,Repair Wires,,Vøl kablar
+GAMEPLAY_FixWiresProgress,Repairing Wires...,,Vølar kablar...
 GAMEPLAY_Flare,Flare,,Bluss
 GAMEPLAY_FlareDescription,A powerful flare. Loud enough to scare wildlife.,Was: A throwable flare. Loud enough to scare wildlife.,Ein kraftig bluss. Kraftig nok til å skremma dyr.
 GAMEPLAY_FlareGun,Distress Pistol,,Signalpistol
@@ -4570,7 +4570,7 @@ GAMEPLAY_LeaveRiverValley,Leave Hushed River Valley,"Refers to new game world Re
 GAMEPLAY_LeaveSteamTunnels,Leave Steam Tunnels,,
 GAMEPLAY_LeaveStore,Leave Store,,Forlat butikk
 GAMEPLAY_LeaveSubStation,Leave Sub-Station,,
-GAMEPLAY_LeaveTracks,Leave Broken Railroad Region,,Forlat øydelagt jernbane
+GAMEPLAY_LeaveTracks,Leave Broken Railroad Region,,Forlat Øydelagt jernbane
 GAMEPLAY_LeaveTrailer,Leave Trailer,,Forlat brakke
 GAMEPLAY_LeaveUpperDam,Leave Upper Dam,,Forlat øvre del av demningen
 GAMEPLAY_LeaveWarehouse,Leave Warehouse,,Forlat lager
@@ -4762,7 +4762,7 @@ GAMEPLAY_MarshRegionUnlocked,"For advanced players. A frigid open marshland bise
 
 Connects to Mystery Lake.",,For avanserte spelarar. Eit aude og open våtmark delt i to av ei jernbanelinje. Tynn is og konstant vind gjer området særs farleg. Er forbundet med Løyndomsvatnet.
 GAMEPLAY_MarshRidge,Marsh Ridge,"Marsh location, large ridge overlooking marsh (safe, secluded area)",Åskam
-GAMEPLAY_MarshTransmitterRegionDesc,"Transmitter covers Forlorn Muskeg, Broken Railroad, and Bleak Inlet Regions",,
+GAMEPLAY_MarshTransmitterRegionDesc,"Transmitter covers Forlorn Muskeg, Broken Railroad, and Bleak Inlet Regions",,"Radiosendaren dekkjer Aude myr, Øydelagt jernbane og Tunglyndt sund"
 GAMEPLAY_MarshWaterfall,Waterfall,"Marsh location, waterfall (water comes from Milton River)",Foss
 GAMEPLAY_MasterVolume,Master,,Hovudlydvolum
 GAMEPLAY_MasterVolumeDescription,Adjusts all game volume levels.,Options Menu volume sliders,Lydvolmet til heile spelet.
@@ -4995,7 +4995,7 @@ GAMEPLAY_MostRecentSaves,Most Recent Saves,,
 GAMEPLAY_MountainTownRegionDesc,"For new players. Although deep in decline, Milton still offers many sturdy shelters and plentiful wildlife. But if you leave town for the surrounding hills and fields, beware! 
 
 Connects to Mystery Lake, Forlorn Muskeg, and Hushed River Valley.",,
-GAMEPLAY_MountainTownTransmitterRegionDesc,Transmitter covers Mountain Town and Hushed River Valley Regions,,
+GAMEPLAY_MountainTownTransmitterRegionDesc,Transmitter covers Mountain Town and Hushed River Valley Regions,,Radiosendaren dekkjer Milton og Fåmælt elvedal
 GAMEPLAY_MouseSensitivity,Mouse Sensitivity,,Musefølsemd
 GAMEPLAY_MouseSmoothing,Mouse Smoothing,Control option to enable or disable mouse smoothing,Muserørsleutjamning
 GAMEPLAY_MouseSmoothingDescription,Filters mouse input to smooth out small movements,Description of mouse smoothing toggle,Jamnar ut og fjerner små muserørsler
@@ -5894,11 +5894,11 @@ GAMEPLAY_ResetAllTimeStatsConfirmation,Are you sure you would like to reset your
 GAMEPLAY_ResetBindingsNotification,We have updated the default controls and therefore your modified key-bindings have been reset to the new defaults.,,Me har oppdatert standardkontrollane og derfor er knappevala du har endra på vore tilbakestilt til nye standardar.
 GAMEPLAY_ResetToDefaults,Reset to defaults,,Attendestill
 GAMEPLAY_Resolution,Resolution,,Oppløysning
-GAMEPLAY_Respirator,Respirator,,
-GAMEPLAY_RespiratorBlocksEatingDrinking,Cannot eat or drink while wearing a Respirator,,
-GAMEPLAY_RespiratorDescription,Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.,,
+GAMEPLAY_Respirator,Respirator,,Vernemaske
+GAMEPLAY_RespiratorBlocksEatingDrinking,Cannot eat or drink while wearing a Respirator,,Kan ikkje eta eller drikka med vernemaska på
+GAMEPLAY_RespiratorDescription,Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.,,Nyttar filter til å reinsa lufta ein andar for skadeleg innhald.
 GAMEPLAY_Rest,Rest,,Kvil
-GAMEPLAY_RestartGameForDisplaySettings,Some of your changes will not take effect until you restart the game,,Nokre av vala din trør ikkje i kraft før ein tek ein omstart av spelet
+GAMEPLAY_RestartGameForDisplaySettings,Some of your changes will not take effect until you restart the game,,Nokon av vala din trør ikkje i kraft før ein tek ein omstart av spelet
 GAMEPLAY_RestDescription,"Advance time by sleeping, reducing Fatigue and regaining Condition if healthy.",,Tidstrøyt ved hjelp av soving. Du reduserar trøyttleik og forbetrar helsa din dersom du er frisk.
 GAMEPLAY_Rested,Rested,,Utkvilt
 GAMEPLAY_RestingProgress,Resting...,,Søv...
@@ -6111,7 +6111,7 @@ GAMEPLAY_RuralRiverRoadBend,Long Curve,a long curve in the road,Lang sving
 GAMEPLAY_RuralRoadBlock,End of the Road,the road ends in rock here,Vegs ende
 GAMEPLAY_RuralTown,Rural Crossroads,Small crossroads area with buildings.,Landleg vegkryss
 GAMEPLAY_RuralTownWaterfall,Upper Falls,Upper part of waterfalls.,Øvre stryk
-GAMEPLAY_RuralTransmitterRegionDesc,Transmitter covers Pleasant Valley and Mystery Lake Regions,,
+GAMEPLAY_RuralTransmitterRegionDesc,Transmitter covers Pleasant Valley and Mystery Lake Regions,,Radiosendaren dekkjer Kosedalen og Løyndomsvatnet
 GAMEPLAY_RuralWaterfall1Lower,Lower Falls,lower part of waterfalls,Nedre stryk
 GAMEPLAY_RuralWaterfall1Upper,Cascading Falls,falls refers to waterfalls,Fossestryk
 GAMEPLAY_Russian,Русский,Do not translate,Русский
@@ -6184,13 +6184,13 @@ GAMEPLAY_ScreenMode,Screen Mode,,Skjermmodus
 GAMEPLAY_Screenshot,Screenshot,,Skjermbilete
 GAMEPLAY_ScreenshotsSaved,*Screenshots saved to desktop,,*Skjermbilete lagra på skrivebordet
 GAMEPLAY_Scroll,Scroll,,Ble
-GAMEPLAY_Scurvy,Scurvy,,
-GAMEPLAY_ScurvyCause,Vitamin-C Deficiency,,
-GAMEPLAY_ScurvyDesc,You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose Condition until you succumb and die.,,
-GAMEPLAY_ScurvyRisk,Scurvy Risk,,
-GAMEPLAY_ScurvyRiskDesc,Your diet is too low in Vitamin-C. ,,
-GAMEPLAY_ScurvyRiskTreatment,Seek out eat foods high in Vitamin-C to reduce Scurvy Risk.,,
-GAMEPLAY_ScurvyTreatment,Consume foods high in Vitamin-C to cure Scurvy.,,
+GAMEPLAY_Scurvy,Scurvy,,Skjørbuk
+GAMEPLAY_ScurvyCause,Vitamin-C Deficiency,,C-vitaminmangel
+GAMEPLAY_ScurvyDesc,You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose Condition until you succumb and die.,,"Kosthaldet ditt har inneheldt for lite C-vitamin, og no har du skjørbuk. Viss du ikkje gjer noko med det vil det fortsetja å veikje deg, og gå ut over helsa di heilt til du døyr."
+GAMEPLAY_ScurvyRisk,Scurvy Risk,,Fare for skjørbuk
+GAMEPLAY_ScurvyRiskDesc,Your diet is too low in Vitamin-C. ,,Kosthalded ditt inneheld for lite C-vitamin.
+GAMEPLAY_ScurvyRiskTreatment,Seek out eat foods high in Vitamin-C to reduce Scurvy Risk.,,Et meir mat med eit høgt C-vitamininnhald.
+GAMEPLAY_ScurvyTreatment,Consume foods high in Vitamin-C to cure Scurvy.,,Et mat med mykje C-vitamin.
 GAMEPLAY_SearchedPostfix,(Searched),,(Granska)
 GAMEPLAY_Searching,Searching...,,Granskar...
 GAMEPLAY_Second,Second,,Sekund
@@ -6536,8 +6536,8 @@ GAMEPLAY_SubtitleSizeDescription,Scale the size of subtitle text for increased l
 GAMEPLAY_Success,Success,,Suksess
 GAMEPLAY_SufferedBurnsHUD,Suffered burns,,Fekk brannsår
 GAMEPLAY_SufferedBurnsLog,Suffered burns.,,Fekk brannsår.
-GAMEPLAY_SuffocationRisk,Suffocation Risk,,
-GAMEPLAY_SuffocationTreatment,Find breathable air or equip a Respirator.,,
+GAMEPLAY_SuffocationRisk,Suffocation Risk,,Fare for kveling
+GAMEPLAY_SuffocationTreatment,Find breathable air or equip a Respirator.,,Finn frisk luft eller ta på ei vernemaske
 GAMEPLAY_Suitcase,Suitcase,,Koffert
 GAMEPLAY_SuitcaseContainerOpen,Suitcase Open,,Opn koffert
 GAMEPLAY_SuitcaseContainerSearch,Search Suitcase,,Gransk koffert
@@ -7050,13 +7050,13 @@ GAMEPLAY_TrainLoadingArea,Train Loading Area,,Lasteområde
 GAMEPLAY_TrainUnloading,Train Unloading,,Losseområde
 GAMEPLAY_Transfer,Transfer,,Overfør
 GAMEPLAY_TransferAll,Transfer All,,Overfør alt
-GAMEPLAY_TransformerBInteractClose,Close Transmitter,,
-GAMEPLAY_TransformerBInteractOpen,Open Transmitter,,
-GAMEPLAY_TransformerSwitch,Switch,,
-GAMEPLAY_TransformerSwitchInactive,Transmitter repair is not complete,,
-GAMEPLAY_TransformerSwitchInteractClose,Switch Off,,
-GAMEPLAY_TransformerSwitchInteractOpen,Switch On,,
-GAMEPLAY_TransformerWires,Wires,,
+GAMEPLAY_TransformerBInteractClose,Close Transmitter,,Lat att radiosendar
+GAMEPLAY_TransformerBInteractOpen,Open Transmitter,,Opn radiosendar
+GAMEPLAY_TransformerSwitch,Switch,,Brytar
+GAMEPLAY_TransformerSwitchInactive,Transmitter repair is not complete,,Radiosendaren er ikkje vølt ferdig
+GAMEPLAY_TransformerSwitchInteractClose,Switch Off,,Skru av
+GAMEPLAY_TransformerSwitchInteractOpen,Switch On,,Skru på
+GAMEPLAY_TransformerWires,Wires,,Kablar
 GAMEPLAY_TrappersHomestead,Trapper's Homestead,,Pelsjegeren si hytte
 GAMEPLAY_TrashCan,Trash Can,a trash can (with opening lid),Bosdunk
 GAMEPLAY_TrashCanContainerOpen,Open Trash Can,,Opn bosdunk
@@ -7674,7 +7674,7 @@ GAMEPLAY_WhalingStationRegionDescriptionUnlocked,"For intermediate players. Seve
 Connects to Coastal Highway.","REMOVED: You've found your way to desolation Point, a stretch of highway featuring the remnants of a once-thriving whaling industry.","For spelarar med ein viss erfaring. I nærleiken av det som ein gong var eit livleg kvalmottak, finn du fleire praktiske ly, rikeleg med farleg dyreliv og vanskelege vêrforhold. 
 
 Er forbundet med Kystvegen."
-GAMEPLAY_WhalingStationTransmitterRegionDesc,Transmitter covers Desolation Point and Coastal Highway Regions,,
+GAMEPLAY_WhalingStationTransmitterRegionDesc,Transmitter covers Desolation Point and Coastal Highway Regions,,Radiosendaren dekkjer Einsemdneset og Kystvegen
 GAMEPLAY_WhatIKnow,What I Know,,Det eg veit
 GAMEPLAY_WhiteoutAddedToStockpile,Added To Stockpile,,Lagt i gøyme
 GAMEPLAY_WhiteoutBadgeDescLocked,You have not completed Whiteout.,,Du har ikkje fullført Snøstorm.
@@ -7754,8 +7754,8 @@ GAMEPLAY_WintersEmbraceLoadText,"A deep cold has descended on Great Bear Island.
 And even the best shelters won’t be the same refuge they once were. There is only one goal -- survive.  
 
 You’ve entered Winter’s Embrace.",,
-GAMEPLAY_Wires,Wire Bundle,,
-GAMEPLAY_WiresDescription,"A bundle of scavenged Wires. Old, but intact.",,
+GAMEPLAY_Wires,Wire Bundle,,Kablar
+GAMEPLAY_WiresDescription,"A bundle of scavenged Wires. Old, but intact.",,"Eit bunt med ymse koparkablar. Gamle, men ikkje morkne."
 GAMEPLAY_WithWindchill,With Windchill,,Med vindfaktor
 GAMEPLAY_Wokeupaftersleeping,Woke up after sleeping ,,Vakna etter å ha sove
 GAMEPLAY_Wolf,Wolf,,Ulv
@@ -8234,9 +8234,9 @@ HINT_Revolver_title,Revolver,,Revolver
 HINT_RevolverStruggle,Use the Revolver to fend off Wolves during a Struggle. You'll have a chance to take a shot and wound or kill the animal.,,"Nytt revolveren for å kvitta deg med ulvar som byksar på deg. Du kan ta eit skot som sårar, eller drep, udyret."
 HINT_RevolverStruggle_title,Revolver Struggle,,Ulveåtak med revolver
 HINT_Rifle,"The Rifle is a powerful Hunting tool, but ammunition is scarce! Use it wisely. Rifle shots can also scare wildlife away.",,"Børsa er eit kraftig jaktvåpen, men skot er ei mangelvare! Nytt med omhug. Skot kan òg skremma vekk villdyr."
-HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,"I denne dalen står hamrane tett, og hus er ikkje å finna, men han har framleis nokre løyndommar på lur."
+HINT_RiverValleyRegion,"Dense, with sheer cliffs, this valley lacks any human settlements but may still have a few secrets to reveal.",,"I denne dalen står hamrane tett, og hus er ikkje å finna, men han har framleis nokon løyndommar på lur."
 HINT_RoseHipTea,Harvest and Prepare Rose Hips to brew a natural painkilling tea. Useful against Sprains and Burns.,,Plukk og klargjer nyper for å bryggja ein naturleg smertestillande te. Kjem vel med om ein vrengjer okla eller handleddet. brenn seg eller bryt bein.
-HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,"Denne utbreidde regionen har berre nokre få kjernehusrom, samt noko av det mest omskiftelege vêret på Sværebjørn."
+HINT_RuralRegion,"With only a handful of key shelters, this vast region also plays host to some of Great Bear’s most unpredictable weather.",,"Denne utbreidde regionen har berre nokon få kjernehusrom, samt noko av det mest omskiftelege vêret på Sværebjørn."
 HINT_ScentIndicator,"Keep an eye on your Scent Indicator{ico_inv_Materials} when carrying Raw Meat or Fish, or when Bleeding. Predators can smell you, and may come looking.",,"Hald auge med fertmålaren{ico_inv_Materials} når ein ber på kjøt og fisk, eller blør. Rovdyr kan få ferten av ein og fylgjer gjerne på."
 HINT_ScentIndicator_title,Scent Indicator,,Fertmålar
 HINT_ShelterIndicator,"When you see the Sheltered Indicator {ico_sheltered}, this means you are currently protected from the wind.",,Når ein ser fylgjande merke har ein i livd for vinden: {ico_sheltered}
@@ -8263,7 +8263,7 @@ HINT_Temperature_title,Temperature,,Temperatur
 HINT_TinderFromSticks,"Harvest Sticks to make Tinder, a vital item for firestarting.",,Sank pinnar for å laga knusk som ein treng for å laga eld.
 HINT_TinderFromSticks_title,Make Tinder from Sticks,,Lag knusk av pinnar
 HINT_ToolsRepair,"Keep your Tools in good Condition. Maintain them using a range of gear items, including Whetstones and Tool Kits. It could make all the difference in the wilderness!",,"Hald ved like reiskap, til dømes ved å nytta bryne eller pusseutstyr. I villmarka treng ein reiskap ein kan lita på."
-HINT_TracksRegion,"Heavily damaged by earthquakes decades ago, this region's twisting paths can confuse distracted explorers.",,Jordskjelv råka hardt denne regionen for nokre tiår sidan. Dei kvorvne leiene her kan forfjamsa umerksame ferdafolk.
+HINT_TracksRegion,"Heavily damaged by earthquakes decades ago, this region's twisting paths can confuse distracted explorers.",,Jordskjelv råka hardt denne regionen for nokon tiår sidan. Dei kvorvne leiene her kan forfjamsa umerksame ferdafolk.
 HINT_Vehicles,Weather turning bad or predators nearby? Take shelter in a vehicle.,,"Kanskje vêret vert dårleg, eller rovdyr visar seg? Då kan ein søka ly i eit køyretøy."
 HINT_VehiclesLoot,Vehicles may hold valuable supplies. Don't forget to check the trunk and glove compartment!,,EIn kan finna verdfulle forsyningar i køyretøy. Ikkje gløym å sjå i hanske- og bagasjerommet!
 HINT_VehiclesLoot_2,Locked trunks can be opened using a Prybar.,,Låste bagasjerom kan opnast med eit kubein.
