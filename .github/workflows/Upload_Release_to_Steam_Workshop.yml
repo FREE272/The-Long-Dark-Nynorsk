@@ -41,7 +41,11 @@ jobs:
             else
               echo "Manuell køyring utan tag: finn latest release"
 
-              TAG=$(gh release list --limit 1 --json tagName -q '.[0].tagName')
+              TAG=$(gh api \
+                -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2026-03-10" \
+                /repos/${{ github.repository }}/releases/latest \
+                --jq '.tag_name')
 
               echo "Latest tag er: $TAG"
               gh release download "$TAG"
