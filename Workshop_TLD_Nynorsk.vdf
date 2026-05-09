@@ -7,7 +7,22 @@
 	"previewfile"		"/home/runner/work/The-Long-Dark-Nynorsk/The-Long-Dark-Nynorsk/TLD_Nynorsk_Bilete.png"
 	"contentfolder"		"/home/runner/work/The-Long-Dark-Nynorsk/The-Long-Dark-Nynorsk/TLD_Nynorsk"
 	"publishedfileid"		"1727010731"
-  "changenote"  "Fiksa noko småtteri.
+  "changenote"  "Omsette fylgjande:
 
-[url=https://github.com/FREE272/The-Long-Dark-Nynorsk/releases/tag/01.02.26.v2]Sjå oppdateringa 01.02.26.v2 på GitHub![/url]"
+Matrettane ein kan laga frå oppskriftene i utvidinga TFTFT.
+
+Stadnamna i regionen "Forlaten landingsstripe" (Forsaken Airfield).
+
+Det som har med spraymåling og merke å gjera.
+
+Skreiv om meldingane ein får når ein døyr.
+
+
+Konsekvent byta ut dei fylgjande orda frå:
+
+"sensitivitet" til "følsemd"
+
+"oppbevaring" (cache) til "gøyme"
+
+[url=https://github.com/FREE272/The-Long-Dark-Nynorsk/releases/tag/09.05.26.v5]Sjå oppdateringa 09.05.26.v5 på GitHub![/url]"
 }
