@@ -18,12 +18,12 @@ jobs:
       cancel-in-progress: false
 
     steps:
-    - name: Download release assets
-      uses: robinraju/release-downloader@v1
-      with:
-        latest: true
-        fileName: "*"
-        out-file-path: release_files
+      - name: Download release assets
+        uses: robinraju/release-downloader@v1
+        with:
+          latest: true
+          fileName: "*"
+          out-file-path: release_files
 
 
 
