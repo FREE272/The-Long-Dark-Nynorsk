@@ -1,4 +1,4 @@
-name: Upload to Steam Workshop
+name: Upload to Create Release
 
 # Allow the action to push changes back to main
 permissions:
@@ -147,27 +147,7 @@ jobs:
           git add Workshop_TLD_Nynorsk.vdf
           git commit -m "ci: update changenote [skip ci]" || echo "No changes to commit"
           git push origin main
-
-          
-
-      - name: Install SteamCMD
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          set -e
-          sudo dpkg --add-architecture i386
-          sudo apt-get update
-          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
-          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-          mkdir -p ~/steamcmd
-          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
-          echo "$HOME/steamcmd" >> $GITHUB_PATH
-
-      - name: Upload to Steam Workshop
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          set -e
-          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
-                      +workshop_build_item "$(pwd)/Workshop_TLD_Nynorsk.vdf" +quit
+  
 
       - name: Create GitHub Release
         if: steps.changes.outputs.changed == 'true'
