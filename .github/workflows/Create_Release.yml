@@ -148,16 +148,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Sync with remote
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
-          git rebase origin/main
-
-          echo "Committing updated changenote (if changed)..."
+          echo "Committing updated changenote..."
           git add Workshop_TLD_Nynorsk.vdf
-          git commit -m "ci: update changenote [skip ci]" || echo "No changes to commit"
-          git push origin main
+          
+          # Check for differances before committing
+          if ! git diff --cached --exit-code; then
+            git commit -m "ci: update changenote [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
   
 
       - name: Create GitHub Release
