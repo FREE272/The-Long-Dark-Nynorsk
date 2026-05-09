@@ -39,8 +39,12 @@ jobs:
               echo "Manuell køyring: brukar tag $TAG"
               gh release download "$TAG"
             else
-              echo "Manuell køyring utan tag: brukar latest release"
-              gh release download --latest
+              echo "Manuell køyring utan tag: finn latest release"
+
+              TAG=$(gh release list --limit 1 --json tagName -q '.[0].tagName')
+
+              echo "Latest tag er: $TAG"
+              gh release download "$TAG"
             fi
           else
             echo "Automatisk køyring frå release event"
