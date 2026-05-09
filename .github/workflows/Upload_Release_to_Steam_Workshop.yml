@@ -7,6 +7,13 @@ on:
   release:
     types: [published]
 
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag (valfri). Tom = nyaste release"
+        required: false
+        type: string
+
 jobs:
   upload_workshop:
     runs-on: ubuntu-latest
@@ -23,17 +30,56 @@ jobs:
           set -e
 
           mkdir -p release_files/TLD_Nynorsk
-
           cd release_files
 
-          gh release download "${{ github.event.release.tag_name }}"
+          # Vel tag basert på trigger
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ -n "${{ inputs.tag }}" ]; then
+              TAG="${{ inputs.tag }}"
+              echo "Manuell køyring: brukar tag $TAG"
+              gh release download "$TAG"
+            else
+              echo "Manuell køyring utan tag: brukar latest release"
+              gh release download --latest
+            fi
+          else
+            echo "Automatisk køyring frå release event"
+            gh release download "${{ github.event.release.tag_name }}"
+          fi
 
-          # Flytt CSV tilbake inn i korrekt mappe
-          mv TLD_Nynorsk.csv TLD_Nynorsk/TLD_Nynorsk.csv
+          echo "Innhald etter nedlasting:"
+          find . -type f
+
+      - name: Validate required files
+        run: |
+          set -e
+
+          REQUIRED_FILES=(
+            "TLD_Nynorsk.csv"
+            "TLD_Nynorsk_Bilete.png"
+            "Workshop_TLD_Nynorsk.vdf"
+          )
+
+          echo "Sjekkar at alle nødvendige filer finst..."
+
+          for file in "${REQUIRED_FILES[@]}"; do
+            if [ ! -f "release_files/$file" ] && [ ! -f "release_files/TLD_Nynorsk/$file" ]; then
+              echo "Manglar påkravd fil: $file"
+              exit 1
+            fi
+          done
+
+          echo "Alle nødvendige filer er til stades"
+
+      - name: Move files into correct structure
+        run: |
+          set -e
+          
+          mv release_files/TLD_Nynorsk.csv release_files/TLD_Nynorsk/TLD_Nynorsk.csv || true
 
           echo "Final structure:"
-          find . -type f
-          
+          find release_files -type f
+
       - name: Install SteamCMD
         run: |
           set -e
