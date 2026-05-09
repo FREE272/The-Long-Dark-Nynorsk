@@ -51,7 +51,8 @@ jobs:
       - name: Move files into correct structure
         run: |
           set -e
-          
+
+          mkdir release_files/TLD_Nynorsk
           mv release_files/TLD_Nynorsk.csv release_files/TLD_Nynorsk/TLD_Nynorsk.csv || true
 
           echo "Final structure:"
