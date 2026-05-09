@@ -9,6 +9,103 @@ function exportSheetToGitHub() {
   const filename = 'TLD_Nynorsk/TLD_Nynorsk.csv';
   const apiBaseUrl = `https://api.github.com/repos/${repo}/contents/${filename}`;
 
+  const authHeaders = {
+    Authorization: `Bearer ${token}`,
+    Accept: 'application/vnd.github.v3+json'
+  };
+
+  const branchCheckRes = UrlFetchApp.fetch(
+    `https://api.github.com/repos/${repo}/git/ref/heads/${branch}`,
+    {
+      method: 'get',
+      headers: authHeaders,
+      muteHttpExceptions: true
+    }
+  );
+
+  const branchCode = branchCheckRes.getResponseCode();
+
+  // safe parse
+  let branchBody = {};
+  try {
+    branchBody = JSON.parse(branchCheckRes.getContentText());
+  } catch (e) {
+    branchBody = { raw: branchCheckRes.getContentText() };
+  }
+
+  // only 404 means "safe to create"
+  if (branchCode === 404) {
+
+    Logger.log(`Branch '${branch}' not found. Creating from main...`);
+
+    const mainRes = UrlFetchApp.fetch(
+      `https://api.github.com/repos/${repo}/git/ref/heads/main`,
+      {
+        method: 'get',
+        headers: authHeaders,
+        muteHttpExceptions: true
+      }
+    );
+
+    if (mainRes.getResponseCode() !== 200) {
+      throw new Error(
+        `Failed to fetch main branch: ${mainRes.getResponseCode()} ${mainRes.getContentText()}`
+      );
+    }
+
+    let mainData;
+    try {
+      mainData = JSON.parse(mainRes.getContentText());
+    } catch (e) {
+      throw new Error(`Invalid JSON from main branch response: ${mainRes.getContentText()}`);
+    }
+
+    const mainSha = mainData.object.sha;
+
+    const createRes = UrlFetchApp.fetch(
+      `https://api.github.com/repos/${repo}/git/refs`,
+      {
+        method: 'post',
+        headers: authHeaders,
+        contentType: 'application/json',
+        payload: JSON.stringify({
+          ref: `refs/heads/${branch}`,
+          sha: mainSha
+        }),
+        muteHttpExceptions: true
+      }
+    );
+
+    const createCode = createRes.getResponseCode();
+
+    let createBody = {};
+    try {
+      createBody = JSON.parse(createRes.getContentText());
+    } catch (e) {
+      createBody = { raw: createRes.getContentText() };
+    }
+
+    if (createCode !== 201 && createCode !== 409) {
+      throw new Error(
+        `Failed to create branch: ${createCode} ${createRes.getContentText()}`
+      );
+    }
+
+    Logger.log(`Create branch response: ${createCode}`);
+
+  } else if (branchCode === 403) {
+
+    throw new Error(
+      `GitHub auth/permission denied (403). Check token scopes/repo access. Response: ${branchBody.raw || JSON.stringify(branchBody)}`
+    );
+
+  } else if (branchCode !== 200) {
+
+    throw new Error(
+      `GitHub branch check failed. Code: ${branchCode}. Response: ${branchCheckRes.getContentText()}`
+    );
+  }
+
   // Export sheet as CSV using native export (preserves UTF-8)
   const exportUrl = `https://docs.google.com/spreadsheets/d/${spreadsheetId}/export?format=csv&gid=${sheetId}`;
   const exportOptions = {
