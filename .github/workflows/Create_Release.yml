@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Checkout code (full history)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -48,13 +48,16 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
-          
-          BODY=$(cat <<'EOF'
-          ${{ github.event.pull_request.body }}
-          EOF
-          )
-          
-          echo "changenote=$(jq -Rn --arg str "$BODY" '$str')" >> $GITHUB_OUTPUT
+
+          BODY="${{ github.event.pull_request.body }}"
+
+          # Write SAFE multiline output (NO jq, NO quoting issues)
+          {
+            echo "changenote<<EOF"
+            echo "$BODY"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
           echo "Changenote:"
           echo "$BODY"
 
@@ -105,6 +108,9 @@ jobs:
           link = os.environ["LINK"]
           
           # Build final note safely
+          note = str(note)
+          link = str(link)
+
           final_note = f"{note}\n\n{link}"
           
           # Escape only what VDF requires
