@@ -46,20 +46,20 @@ jobs:
       - name: Extract changenote from pull request summary
         id: changenote
         if: steps.changes.outputs.changed == 'true'
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
         run: |
           set -e
-
-          BODY="${{ github.event.pull_request.body }}"
 
           # Write SAFE multiline output (NO jq, NO quoting issues)
           {
             echo "changenote<<EOF"
-            echo "$BODY"
+            echo "$PR_BODY"
             echo "EOF"
           } >> $GITHUB_OUTPUT
 
           echo "Changenote:"
-          echo "$BODY"
+          echo "$PR_BODY"
 
 
 
@@ -68,10 +68,10 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOTE: ${{ steps.changenote.outputs.changenote }}
         run: |
           set -e
           VDF="Workshop_TLD_Nynorsk.vdf"
-          NOTE="${{ steps.changenote.outputs.changenote }}"
           
           # Make release tag, date today + increment version number
           DATE=$(date +'%d.%m.%y')
@@ -164,10 +164,12 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: ${{ steps.update_changenote.outputs.tag }}
+          RELEASE_NOTES: ${{ steps.changenote.outputs.changenote }}
         run: |
-          gh release create "${{ steps.update_changenote.outputs.tag }}" \
+          gh release create "$RELEASE_TAG" \
             TLD_Nynorsk/TLD_Nynorsk.csv \
             TLD_Nynorsk_Bilete.png \
             Workshop_TLD_Nynorsk.vdf \
-            --title "${{ steps.update_changenote.outputs.tag }}" \
-            --notes "${{ steps.changenote.outputs.changenote }}"
+            --title "$RELEASE_TAG" \
+            --notes "$RELEASE_NOTES"
