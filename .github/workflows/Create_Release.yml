@@ -48,7 +48,12 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         run: |
           set -e
-          BODY="${{ github.event.pull_request.body }}"
+          
+          BODY=$(cat <<'EOF'
+          ${{ github.event.pull_request.body }}
+          EOF
+          )
+          
           echo "changenote=$(jq -Rn --arg str "$BODY" '$str')" >> $GITHUB_OUTPUT
           echo "Changenote:"
           echo "$BODY"
