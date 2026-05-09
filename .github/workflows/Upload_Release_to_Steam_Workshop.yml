@@ -1,0 +1,52 @@
+name: Upload Release to Steam Workshop
+
+permissions:
+  contents: read
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  upload_workshop:
+    runs-on: ubuntu-latest
+
+    concurrency:
+      group: steam-upload
+      cancel-in-progress: false
+
+    steps:
+      - name: Download release assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          mkdir -p release_files/TLD_Nynorsk
+
+          cd release_files
+
+          gh release download "${{ github.event.release.tag_name }}"
+
+          # Flytt CSV tilbake inn i korrekt mappe
+          mv TLD_Nynorsk.csv TLD_Nynorsk/TLD_Nynorsk.csv
+
+          echo "Final structure:"
+          find . -type f
+          
+      - name: Install SteamCMD
+        run: |
+          set -e
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y lib32gcc-s1 lib32stdc++6 wget unzip
+          wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+          mkdir -p ~/steamcmd
+          tar -xvzf steamcmd_linux.tar.gz -C ~/steamcmd
+          echo "$HOME/steamcmd" >> $GITHUB_PATH
+
+      - name: Upload to Steam Workshop
+        run: |
+          set -e
+          steamcmd.sh +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} \
+                      +workshop_build_item "$(pwd)/release_files/Workshop_TLD_Nynorsk.vdf" +quit
