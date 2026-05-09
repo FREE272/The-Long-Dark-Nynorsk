@@ -1,13 +1,13 @@
 "workshopitem"
 {
-"appid"		"305620"
+"appid"				"305620"
 "visibility"		"0"
-"title"		"Nynorsk (Under utvikling)"
+"title"				"Nynorsk (Under utvikling)"
 "description"		"Er du ein nordmann som ikkje kan fordra bokmål? Då har eg løysinga for deg! No introduserar eg The Long Dark omsett til nynorsk! Fylg omsetjinga på [url=https://github.com/FREE272/The-Long-Dark-Nynorsk/]GitHub![/url]"
-"previewfile"		"/home/runner/work/The-Long-Dark-Nynorsk/The-Long-Dark-Nynorsk/TLD_Nynorsk_Bilete.png"
-"contentfolder"		"/home/runner/work/The-Long-Dark-Nynorsk/The-Long-Dark-Nynorsk/TLD_Nynorsk"
-"publishedfileid"		"1727010731"
-"changenote"  "Omsette fylgjande:
+"previewfile"		"release_files/TLD_Nynorsk_Bilete.png"
+"contentfolder"		"release_files/TLD_Nynorsk"
+"publishedfileid"	"1727010731"
+"changenote"		"Omsette fylgjande:
 Matrettane ein kan laga frå oppskriftene i utvidinga TFTFT.
 Stadnamna i regionen "Forlaten landingsstripe" (Forsaken Airfield).
 Det som har med spraymåling og merke å gjera.
