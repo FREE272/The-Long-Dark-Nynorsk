@@ -1,4 +1,4 @@
-name: Upload to Create Release
+name: Create Release
 
 # Allow the action to push changes back to main
 permissions:
